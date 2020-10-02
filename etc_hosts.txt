@@ -836,8 +836,6 @@
 0.0.0.0 www.ronpaulinstitute.org
 0.0.0.0 ruptly.tv
 0.0.0.0 www.ruptly.tv
-0.0.0.0 thedailybeast.com
-0.0.0.0 www.thedailybeast.com
 0.0.0.0 thefifthcolumnnews.com
 0.0.0.0 www.thefifthcolumnnews.com
 0.0.0.0 yellowhammernews.com

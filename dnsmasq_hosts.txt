@@ -417,7 +417,6 @@
 0.0.0.0 rinf.com www.rinf.com
 0.0.0.0 ronpaulinstitute.org www.ronpaulinstitute.org
 0.0.0.0 ruptly.tv www.ruptly.tv
-0.0.0.0 thedailybeast.com www.thedailybeast.com
 0.0.0.0 thefifthcolumnnews.com www.thefifthcolumnnews.com
 0.0.0.0 yellowhammernews.com www.yellowhammernews.com
 0.0.0.0 breitbart.com www.breitbart.com
