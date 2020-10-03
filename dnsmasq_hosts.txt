@@ -898,4 +898,25 @@
 0.0.0.0 thenationalpulse.com www.thenationalpulse.com
 0.0.0.0 o9a.org www.o9a.org
 0.0.0.0 illuminatiofficialtemple.com www.illuminatiofficialtemple.com
+0.0.0.0 mariomurillo.org www.mariomurillo.org
+0.0.0.0 mariomurilloministries.wordpress.com www.mariomurilloministries.wordpress.com
+0.0.0.0 truthandliberty.net www.truthandliberty.net
+0.0.0.0 openheaven.com www.openheaven.com
+0.0.0.0 charismanews.com www.charismanews.com
+0.0.0.0 loveforhispeople.com www.loveforhispeople.com
+0.0.0.0 texemarrs.com www.texemarrs.com
+0.0.0.0 themillenniumreport.com www.themillenniumreport.com
+0.0.0.0 exposingpedovore.wordpress.com www.exposingpedovore.wordpress.com
+0.0.0.0 dcpizzagate.wordpress.com www.dcpizzagate.wordpress.com
+0.0.0.0 tigerdroppings.com www.tigerdroppings.com
+0.0.0.0 stateofthenation2012.com www.stateofthenation2012.com
+0.0.0.0 truthearth.org www.truthearth.org
+0.0.0.0 pedogate.world www.pedogate.world
+0.0.0.0 our.wikileaks.org www.our.wikileaks.org
+0.0.0.0 infinityexplorers.com www.infinityexplorers.com
+0.0.0.0 jurneywrites.wordpress.com www.jurneywrites.wordpress.com
+0.0.0.0 federalobserver.com www.federalobserver.com
+0.0.0.0 heavy.com www.heavy.com
+0.0.0.0 exploitedrescue.com www.exploitedrescue.com
+0.0.0.0 anncoulter.com www.anncoulter.com
 
