@@ -664,7 +664,7 @@
 0.0.0.0 mattforney.com www.mattforney.com
 0.0.0.0 8ch.net www.8ch.net
 0.0.0.0 voxday.blogspot.com www.voxday.blogspot.com
-0.0.0.0 davidduke.com www.davidduke.com
+0.0.0.0 shop.davidduke.com www.shop.davidduke.com
 0.0.0.0 theoccidentalobserver.net www.theoccidentalobserver.net
 0.0.0.0 tradyouth.org www.tradyouth.org
 0.0.0.0 amren.com www.amren.com
@@ -965,4 +965,13 @@
 0.0.0.0 national-socialist-worldview.blogspot.com www.national-socialist-worldview.blogspot.com
 0.0.0.0 fpp.co.uk www.fpp.co.uk
 0.0.0.0 irvingbooks.com www.irvingbooks.com
+0.0.0.0 savecalifornia.com www.savecalifornia.com
+0.0.0.0 therationalmale.com www.therationalmale.com
+0.0.0.0 toqonline.com www.toqonline.com
+0.0.0.0 pscp.tv www.pscp.tv
+0.0.0.0 stateoftoday.com www.stateoftoday.com
+0.0.0.0 nationandstate.com www.nationandstate.com
+0.0.0.0 patriotmouse.com www.patriotmouse.com
+0.0.0.0 radiopatriot.net www.radiopatriot.net
+0.0.0.0 uncoverdc.com www.uncoverdc.com
 
