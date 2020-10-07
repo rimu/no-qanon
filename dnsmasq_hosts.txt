@@ -593,8 +593,6 @@
 0.0.0.0 dustinnemos.com www.dustinnemos.com
 0.0.0.0 jordansather.com www.jordansather.com
 0.0.0.0 we-go-all.net www.we-go-all.net
-0.0.0.0 discord.com www.discord.com
-0.0.0.0 discordapp.com www.discordapp.com
 0.0.0.0 meitryx.com www.meitryx.com
 0.0.0.0 mcallistertvonline.com www.mcallistertvonline.com
 0.0.0.0 justinformednews.com www.justinformednews.com

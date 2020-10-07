@@ -1188,10 +1188,6 @@
 0.0.0.0 www.jordansather.com
 0.0.0.0 we-go-all.net
 0.0.0.0 www.we-go-all.net
-0.0.0.0 discord.com
-0.0.0.0 www.discord.com
-0.0.0.0 discordapp.com
-0.0.0.0 www.discordapp.com
 0.0.0.0 meitryx.com
 0.0.0.0 www.meitryx.com
 0.0.0.0 mcallistertvonline.com
