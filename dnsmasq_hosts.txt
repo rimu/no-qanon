@@ -1121,4 +1121,7 @@
 0.0.0.0 americaismyname.org www.americaismyname.org
 0.0.0.0 midwestpatriotcoalition.com www.midwestpatriotcoalition.com
 0.0.0.0 patriotvotingcoalition.weebly.com www.patriotvotingcoalition.weebly.com
+0.0.0.0 qposts.in www.qposts.in
+0.0.0.0 archive.4plebs.org www.archive.4plebs.org
+0.0.0.0 theburningplatform.com www.theburningplatform.com
 

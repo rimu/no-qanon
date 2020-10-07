@@ -2244,3 +2244,9 @@
 0.0.0.0 www.midwestpatriotcoalition.com
 0.0.0.0 patriotvotingcoalition.weebly.com
 0.0.0.0 www.patriotvotingcoalition.weebly.com
+0.0.0.0 qposts.in
+0.0.0.0 www.qposts.in
+0.0.0.0 archive.4plebs.org
+0.0.0.0 www.archive.4plebs.org
+0.0.0.0 theburningplatform.com
+0.0.0.0 www.theburningplatform.com
