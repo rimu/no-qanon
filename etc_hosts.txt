@@ -2250,3 +2250,11 @@
 0.0.0.0 www.archive.4plebs.org
 0.0.0.0 theburningplatform.com
 0.0.0.0 www.theburningplatform.com
+0.0.0.0 adalightfoot.org
+0.0.0.0 www.adalightfoot.org
+0.0.0.0 mewe.com
+0.0.0.0 www.mewe.com
+0.0.0.0 nationallibertyalliance.org
+0.0.0.0 www.nationallibertyalliance.org
+0.0.0.0 themilitia.blog
+0.0.0.0 www.themilitia.blog

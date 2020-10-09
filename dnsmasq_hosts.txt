@@ -1124,4 +1124,8 @@
 0.0.0.0 qposts.in www.qposts.in
 0.0.0.0 archive.4plebs.org www.archive.4plebs.org
 0.0.0.0 theburningplatform.com www.theburningplatform.com
+0.0.0.0 adalightfoot.org www.adalightfoot.org
+0.0.0.0 mewe.com www.mewe.com
+0.0.0.0 nationallibertyalliance.org www.nationallibertyalliance.org
+0.0.0.0 themilitia.blog www.themilitia.blog
 
