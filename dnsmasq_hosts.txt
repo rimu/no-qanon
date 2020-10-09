@@ -1128,4 +1128,20 @@
 0.0.0.0 mewe.com www.mewe.com
 0.0.0.0 nationallibertyalliance.org www.nationallibertyalliance.org
 0.0.0.0 themilitia.blog www.themilitia.blog
+0.0.0.0 usa.life www.usa.life
+0.0.0.0 financialnewsdisclosure.wordpress.com www.financialnewsdisclosure.wordpress.com
+0.0.0.0 chronicle.su www.chronicle.su
+0.0.0.0 hateradio.su www.hateradio.su
+0.0.0.0 healthnewsdisclosure.wordpress.com www.healthnewsdisclosure.wordpress.com
+0.0.0.0 quantumfinancialsystem.com www.quantumfinancialsystem.com
+0.0.0.0 com--www.com www.com--www.com
+0.0.0.0 projectcamelotportal.com www.projectcamelotportal.com
+0.0.0.0 wakeup-world.com www.wakeup-world.com
+0.0.0.0 qfs2020.com www.qfs2020.com
+0.0.0.0 askingangels.com www.askingangels.com
+0.0.0.0 saintandrewstwinflame.com www.saintandrewstwinflame.com
+0.0.0.0 boersenwolf.blogspot.com www.boersenwolf.blogspot.com
+0.0.0.0 inteldinarchronicles.blogspot.com www.inteldinarchronicles.blogspot.com
+0.0.0.0 childtraffickingorgans.blogspot.com www.childtraffickingorgans.blogspot.com
+0.0.0.0 dailyxrpnews.com www.dailyxrpnews.com
 
