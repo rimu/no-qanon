@@ -5,6 +5,8 @@ https://raw.githubusercontent.com/rimu/no-qanon/master/etc_hosts.txt is the bloc
 
 https://raw.githubusercontent.com/rimu/no-qanon/master/dnsmasq_hosts.txt is for using with the dnsmasq DNS server software.
 
+You will probably want to append the IPv6 version also.
+
 
 
 See also https://github.com/jmdugan/blocklists/tree/master/corporations and consider blocking twitter, youtube and facebook also as most people into this stuff get their fix on those platforms.
