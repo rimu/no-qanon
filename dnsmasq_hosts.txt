@@ -586,7 +586,6 @@
 0.0.0.0 theqanons.com www.theqanons.com
 0.0.0.0 qposts.online www.qposts.online
 0.0.0.0 gab.com www.gab.com
-0.0.0.0 prayingmedic.com www.prayingmedic.com
 0.0.0.0 bitchute.com www.bitchute.com
 0.0.0.0 redpillreports.com www.redpillreports.com
 0.0.0.0 andweknow.com www.andweknow.com
@@ -733,7 +732,6 @@
 0.0.0.0 wwg1wga2020.com www.wwg1wga2020.com
 0.0.0.0 prayingmedic.com www.prayingmedic.com
 0.0.0.0 jordansather.tv www.jordansather.tv
-0.0.0.0 jordansather.com www.jordansather.com
 0.0.0.0 wwg1wga.wordpress.com www.wwg1wga.wordpress.com
 0.0.0.0 greatawakening.win www.greatawakening.win
 0.0.0.0 kpblog.space www.kpblog.space
@@ -1144,4 +1142,14 @@
 0.0.0.0 inteldinarchronicles.blogspot.com www.inteldinarchronicles.blogspot.com
 0.0.0.0 childtraffickingorgans.blogspot.com www.childtraffickingorgans.blogspot.com
 0.0.0.0 dailyxrpnews.com www.dailyxrpnews.com
+0.0.0.0 drcharlieward.com www.drcharlieward.com
+0.0.0.0 mypatriotsnetwork.com www.mypatriotsnetwork.com
+0.0.0.0 lawenforcementtoday.com www.lawenforcementtoday.com
+0.0.0.0 vanillaskydreamingshop.com www.vanillaskydreamingshop.com
+0.0.0.0 dylanlouismonroe.com www.dylanlouismonroe.com
+0.0.0.0 prayingmedic.podbean.com www.prayingmedic.podbean.com
+0.0.0.0 prayingmedic.us www.prayingmedic.us
+0.0.0.0 qanonfaq.com www.qanonfaq.com
+0.0.0.0 beyondmystic.net www.beyondmystic.net
+0.0.0.0 jennymoonstone.com www.jennymoonstone.com
 
