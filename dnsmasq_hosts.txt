@@ -1282,4 +1282,20 @@
 0.0.0.0 operationq.pub www.operationq.pub
 0.0.0.0 resignation.info www.resignation.info
 0.0.0.0 welovetrump.com www.welovetrump.com
+0.0.0.0 boards.4chan.org www.boards.4chan.org
+0.0.0.0 sachastone.com www.sachastone.com
+0.0.0.0 humanitad.org www.humanitad.org
+0.0.0.0 newearthnations.org www.newearthnations.org
+0.0.0.0 itnj.org www.itnj.org
+0.0.0.0 totaldisclosure.net www.totaldisclosure.net
+0.0.0.0 forum.davidicke.com www.forum.davidicke.com
+0.0.0.0 mkultragirl.org www.mkultragirl.org
+0.0.0.0 republicbroadcasting.org www.republicbroadcasting.org
+0.0.0.0 redpillpodcast.com www.redpillpodcast.com
+0.0.0.0 globalfreedommovement.org www.globalfreedommovement.org
+0.0.0.0 trooth.globalfreedommovement.org www.trooth.globalfreedommovement.org
+0.0.0.0 newearthproject.org www.newearthproject.org
+0.0.0.0 camelottvnetwork.com www.camelottvnetwork.com
+0.0.0.0 ascensionwithearth.com www.ascensionwithearth.com
+0.0.0.0 ecstaticascension.com www.ecstaticascension.com
 
