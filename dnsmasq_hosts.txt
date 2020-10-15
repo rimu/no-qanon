@@ -1298,4 +1298,12 @@
 0.0.0.0 camelottvnetwork.com www.camelottvnetwork.com
 0.0.0.0 ascensionwithearth.com www.ascensionwithearth.com
 0.0.0.0 ecstaticascension.com www.ecstaticascension.com
+0.0.0.0 roserambles.org www.roserambles.org
+0.0.0.0 pointtalkers.com www.pointtalkers.com
+0.0.0.0 5g-emf.com www.5g-emf.com
+0.0.0.0 blog.nomorefakenews.com www.blog.nomorefakenews.com
+0.0.0.0 soulfullheartblog.com www.soulfullheartblog.com
+0.0.0.0 thetattyjournal.org www.thetattyjournal.org
+0.0.0.0 jimmarrs.com www.jimmarrs.com
+0.0.0.0 fallcabal.shop www.fallcabal.shop
 
