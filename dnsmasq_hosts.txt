@@ -1417,4 +1417,17 @@
 0.0.0.0 theconsciousresistance.com www.theconsciousresistance.com
 0.0.0.0 james-school-3c92.thinkific.com www.james-school-3c92.thinkific.com
 0.0.0.0 flote.app www.flote.app
+0.0.0.0 vanguardnewsnetwork.com www.vanguardnewsnetwork.com
+0.0.0.0 kirksvilletoday.com www.kirksvilletoday.com
+0.0.0.0 historyreviewed.best www.historyreviewed.best
+0.0.0.0 freespeechextremist.com www.freespeechextremist.com
+0.0.0.0 noagendasocial.com www.noagendasocial.com
+0.0.0.0 leofrank.org www.leofrank.org
+0.0.0.0 nido-del-cuco.blogspot.com www.nido-del-cuco.blogspot.com
+0.0.0.0 shitposter.club www.shitposter.club
+0.0.0.0 pieville.net www.pieville.net
+0.0.0.0 mstdn.foxfam.club www.mstdn.foxfam.club
+0.0.0.0 kiwifarms.cc www.kiwifarms.cc
+0.0.0.0 shpposter.club www.shpposter.club
+0.0.0.0 freesoftwareextremist.com www.freesoftwareextremist.com
 
