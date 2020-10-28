@@ -1497,4 +1497,12 @@
 0.0.0.0 holywar.org www.holywar.org
 0.0.0.0 newnation.org www.newnation.org
 0.0.0.0 nnnforum.com www.nnnforum.com
+0.0.0.0 louderwithcrowder.com www.louderwithcrowder.com
+0.0.0.0 pewdiepiemerch.net www.pewdiepiemerch.net
+0.0.0.0 blackpigeonspeaks.com www.blackpigeonspeaks.com
+0.0.0.0 blacklistednews.com www.blacklistednews.com
+0.0.0.0 blacklistedradio.com www.blacklistedradio.com
+0.0.0.0 ourplanet.org www.ourplanet.org
+0.0.0.0 spiked-online.com www.spiked-online.com
+0.0.0.0 oneworld.press www.oneworld.press
 
