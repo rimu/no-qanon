@@ -1588,4 +1588,14 @@
 0.0.0.0 news-for-friends.com www.news-for-friends.com
 0.0.0.0 cosmicnews.org www.cosmicnews.org
 0.0.0.0 ho1.us www.ho1.us
+0.0.0.0 jewworldorder.org www.jewworldorder.org
+0.0.0.0 nowhiteguilt.org www.nowhiteguilt.org
+0.0.0.0 nowhiteguiltcollectibles.com www.nowhiteguiltcollectibles.com
+0.0.0.0 amerika.org www.amerika.org
+0.0.0.0 dissentwatch.com www.dissentwatch.com
+0.0.0.0 censored.today www.censored.today
+0.0.0.0 radioalbion.com www.radioalbion.com
+0.0.0.0 patrioticalternative.org.uk www.patrioticalternative.org.uk
+0.0.0.0 thefallofwesternman.com www.thefallofwesternman.com
+0.0.0.0 boatsinker.online www.boatsinker.online
 
