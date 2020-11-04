@@ -1652,4 +1652,11 @@
 0.0.0.0 drop.space www.drop.space
 0.0.0.0 sott.net www.sott.net
 0.0.0.0 vaccineimpact.com www.vaccineimpact.com
+0.0.0.0 rightreport.com www.rightreport.com
+0.0.0.0 powderedwigsociety.com www.powderedwigsociety.com
+0.0.0.0 richardbspencer.com www.richardbspencer.com
+0.0.0.0 culturecatalog14.wordpress.com www.culturecatalog14.wordpress.com
+0.0.0.0 spencergate.wordpress.com www.spencergate.wordpress.com
+0.0.0.0 jasonkessler.us www.jasonkessler.us
+0.0.0.0 americanidentitymovement.com www.americanidentitymovement.com
 
