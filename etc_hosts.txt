@@ -3292,3 +3292,17 @@
 0.0.0.0 www.technocracy.news
 0.0.0.0 bad-boys.us
 0.0.0.0 www.bad-boys.us
+0.0.0.0 drbuttar.com
+0.0.0.0 www.drbuttar.com
+0.0.0.0 vashiva.com
+0.0.0.0 www.vashiva.com
+0.0.0.0 mercola.com
+0.0.0.0 www.mercola.com
+0.0.0.0 thehighwire.com
+0.0.0.0 www.thehighwire.com
+0.0.0.0 drop.space
+0.0.0.0 www.drop.space
+0.0.0.0 sott.net
+0.0.0.0 www.sott.net
+0.0.0.0 vaccineimpact.com
+0.0.0.0 www.vaccineimpact.com

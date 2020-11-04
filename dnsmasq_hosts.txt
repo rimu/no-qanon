@@ -1645,4 +1645,11 @@
 0.0.0.0 stopglobalism.org www.stopglobalism.org
 0.0.0.0 technocracy.news www.technocracy.news
 0.0.0.0 bad-boys.us www.bad-boys.us
+0.0.0.0 drbuttar.com www.drbuttar.com
+0.0.0.0 vashiva.com www.vashiva.com
+0.0.0.0 mercola.com www.mercola.com
+0.0.0.0 thehighwire.com www.thehighwire.com
+0.0.0.0 drop.space www.drop.space
+0.0.0.0 sott.net www.sott.net
+0.0.0.0 vaccineimpact.com www.vaccineimpact.com
 
