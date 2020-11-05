@@ -1659,4 +1659,18 @@
 0.0.0.0 spencergate.wordpress.com www.spencergate.wordpress.com
 0.0.0.0 jasonkessler.us www.jasonkessler.us
 0.0.0.0 americanidentitymovement.com www.americanidentitymovement.com
+0.0.0.0 wokesocieties.com www.wokesocieties.com
+0.0.0.0 pilled.net www.pilled.net
+0.0.0.0 wokesocieties.tv www.wokesocieties.tv
+0.0.0.0 preparewithredpill78.com www.preparewithredpill78.com
+0.0.0.0 rumble.com www.rumble.com
+0.0.0.0 treeofliberty.me www.treeofliberty.me
+0.0.0.0 boogcorps.org www.boogcorps.org
+0.0.0.0 hoplitearmor.com www.hoplitearmor.com
+0.0.0.0 patriotx.com www.patriotx.com
+0.0.0.0 livingintheprivate.blogspot.com www.livingintheprivate.blogspot.com
+0.0.0.0 patriotnode.com www.patriotnode.com
+0.0.0.0 patriotscorner.store www.patriotscorner.store
+0.0.0.0 grrrgraphics.com www.grrrgraphics.com
+0.0.0.0 breaking911.com www.breaking911.com
 
