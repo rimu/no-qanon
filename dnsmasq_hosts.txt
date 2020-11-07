@@ -1673,4 +1673,18 @@
 0.0.0.0 patriotscorner.store www.patriotscorner.store
 0.0.0.0 grrrgraphics.com www.grrrgraphics.com
 0.0.0.0 breaking911.com www.breaking911.com
+0.0.0.0 onq.martingeddes.com www.onq.martingeddes.com
+0.0.0.0 martingedd.es www.martingedd.es
+0.0.0.0 signup.martingeddes.com www.signup.martingeddes.com
+0.0.0.0 qanon.martingeddes.com www.qanon.martingeddes.com
+0.0.0.0 captainhindsight.space www.captainhindsight.space
+0.0.0.0 thestorm.martingeddes.com www.thestorm.martingeddes.com
+0.0.0.0 wwg1wga.martingeddes.com www.wwg1wga.martingeddes.com
+0.0.0.0 www2qanonbin.com www.www2qanonbin.com
+0.0.0.0 explainlife.com www.explainlife.com
+0.0.0.0 frontlinemds.com www.frontlinemds.com
+0.0.0.0 libertyhangout.org www.libertyhangout.org
+0.0.0.0 golden-dawn.com www.golden-dawn.com
+0.0.0.0 opnsesame.com www.opnsesame.com
+0.0.0.0 stopthesteal.us www.stopthesteal.us
 
