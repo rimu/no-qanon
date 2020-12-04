@@ -1,4 +1,4 @@
-# QAnon, conspiracy, fake news and nazi blocklist for using in a hosts file, pihole or with dnsmasq
+# QAnon, conspiracy, fake news and nazi blocklist for using in a hosts file, adblock extension, pihole or with dnsmasq
 
 
 https://raw.githubusercontent.com/rimu/no-qanon/master/etc_hosts.txt is the blocklist to use in a /etc/hosts file, adblocker browser extension or a pihole.
