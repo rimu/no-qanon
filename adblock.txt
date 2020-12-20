@@ -527,7 +527,6 @@
 ||midiasemmascara.org^
 ||nevo.news^
 ||newcenturytimes.com^
-||newsmax.com^
 ||olavodecarvalhofb.wordpress.com^
 ||politicsintheusa.com^
 ||reaconaria.org^
