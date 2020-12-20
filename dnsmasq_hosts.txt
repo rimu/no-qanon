@@ -527,7 +527,6 @@
 0.0.0.0 midiasemmascara.org www.midiasemmascara.org
 0.0.0.0 nevo.news www.nevo.news
 0.0.0.0 newcenturytimes.com www.newcenturytimes.com
-0.0.0.0 newsmax.com www.newsmax.com
 0.0.0.0 olavodecarvalhofb.wordpress.com www.olavodecarvalhofb.wordpress.com
 0.0.0.0 politicsintheusa.com www.politicsintheusa.com
 0.0.0.0 reaconaria.org www.reaconaria.org
