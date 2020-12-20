@@ -1056,8 +1056,6 @@
 0.0.0.0 www.nevo.news
 0.0.0.0 newcenturytimes.com
 0.0.0.0 www.newcenturytimes.com
-0.0.0.0 newsmax.com
-0.0.0.0 www.newsmax.com
 0.0.0.0 olavodecarvalhofb.wordpress.com
 0.0.0.0 www.olavodecarvalhofb.wordpress.com
 0.0.0.0 politicsintheusa.com
