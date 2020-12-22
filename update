@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+
+# use this script to update all the other files after dnsmasq_hosts.txt is updated
+# e.g.
+# ./update "commit message"
+
+python dnsmasq_to_etc_hosts.py > etc_hosts.txt
+python dnsmasq_to_adblock.py > adblock_temp.txt
+./dedupe adblock_temp.txt > adblock.txt
+rm adblock_temp.txt
+./generate-ipv6.sh
+git commit -a -m "$1" && git push
+

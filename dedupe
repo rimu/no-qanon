@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+# use this script to update all the other files after dnsmasq_hosts.txt is updated
+# e.g.
+# ./update "commit message"
+
+cat -n $1 | sort -uk2 | sort -nk1 | cut -f2-
