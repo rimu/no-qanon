@@ -1722,4 +1722,17 @@
 0.0.0.0 badblue.bitnamiapp.com www.badblue.bitnamiapp.com
 0.0.0.0 ocalorg.blogspot.com www.ocalorg.blogspot.com
 0.0.0.0 thenewatlas.org www.thenewatlas.org
+0.0.0.0 video.maga.host www.video.maga.host
+0.0.0.0 tora3.com www.tora3.com
+0.0.0.0 isitwetyet.net www.isitwetyet.net
+0.0.0.0 magaculture.com www.magaculture.com
+0.0.0.0 p2pprinting.com www.p2pprinting.com
+0.0.0.0 thegoldwater.com www.thegoldwater.com
+0.0.0.0 libertycgc.com www.libertycgc.com
+0.0.0.0 gibsonforfreedom.com www.gibsonforfreedom.com
+0.0.0.0 americancontingency.com www.americancontingency.com
+0.0.0.0 wethepeopleconvention.org www.wethepeopleconvention.org
+0.0.0.0 ancient-forums.com www.ancient-forums.com
+0.0.0.0 ruqqus.com www.ruqqus.com
+0.0.0.0 poal.co www.poal.co
 
