@@ -1689,3 +1689,16 @@
 ||badblue.bitnamiapp.com^
 ||ocalorg.blogspot.com^
 ||thenewatlas.org^
+||video.maga.host^
+||tora3.com^
+||isitwetyet.net^
+||magaculture.com^
+||p2pprinting.com^
+||thegoldwater.com^
+||libertycgc.com^
+||gibsonforfreedom.com^
+||americancontingency.com^
+||wethepeopleconvention.org^
+||ancient-forums.com^
+||ruqqus.com^
+||poal.co^
