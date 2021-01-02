@@ -9,7 +9,7 @@ text_file.close()
 for line in lines:
 	parts = line.split(' ')
 	if len(parts) == 2:
-		print '0.0.0.0 ' + parts[1].strip()
+		print('0.0.0.0 ' + parts[1].strip())
 	if len(parts) == 3:
-		print '0.0.0.0 ' + parts[1].strip()
-		print '0.0.0.0 ' + parts[2].strip()
+		print('0.0.0.0 ' + parts[1].strip())
+		print('0.0.0.0 ' + parts[2].strip())

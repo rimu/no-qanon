@@ -1895,7 +1895,3 @@
 0.0.0.0 whatsupic.com www.whatsupic.com
 0.0.0.0 wikistrike.com www.wikistrike.com
 0.0.0.0 zejournal.mobi www.zejournal.mobi
-0.0.0.0 eeeeerrr.com www.eeeeerrr.com
-0.0.0.0 wwweee.com www.wwweee.com
-0.0.0.0 werre.com www.werre.com
-0.0.0.0 treert.com www.treert.com

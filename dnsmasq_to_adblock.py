@@ -9,4 +9,4 @@ text_file.close()
 for line in lines:
 	parts = line.split(' ')
 	if len(parts) > 1:
-		print '||' + parts[1].strip() + '^'
+		print('||' + parts[1].strip() + '^')
