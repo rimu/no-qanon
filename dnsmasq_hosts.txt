@@ -1895,3 +1895,7 @@
 0.0.0.0 whatsupic.com www.whatsupic.com
 0.0.0.0 wikistrike.com www.wikistrike.com
 0.0.0.0 zejournal.mobi www.zejournal.mobi
+0.0.0.0 lifefacts.lifesitenews.com www.lifefacts.lifesitenews.com
+0.0.0.0 coronanews123.wordpress.com www.coronanews123.wordpress.com
+0.0.0.0 deeprootsathome.com www.deeprootsathome.com
+0.0.0.0 summit.news www.summit.news

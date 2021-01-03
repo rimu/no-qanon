@@ -1862,3 +1862,7 @@
 ||whatsupic.com^
 ||wikistrike.com^
 ||zejournal.mobi^
+||lifefacts.lifesitenews.com^
+||coronanews123.wordpress.com^
+||deeprootsathome.com^
+||summit.news^

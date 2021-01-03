@@ -3792,3 +3792,11 @@
 0.0.0.0 www.wikistrike.com
 0.0.0.0 zejournal.mobi
 0.0.0.0 www.zejournal.mobi
+0.0.0.0 lifefacts.lifesitenews.com
+0.0.0.0 www.lifefacts.lifesitenews.com
+0.0.0.0 coronanews123.wordpress.com
+0.0.0.0 www.coronanews123.wordpress.com
+0.0.0.0 deeprootsathome.com
+0.0.0.0 www.deeprootsathome.com
+0.0.0.0 summit.news
+0.0.0.0 www.summit.news
