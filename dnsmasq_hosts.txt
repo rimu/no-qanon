@@ -1899,3 +1899,5 @@
 0.0.0.0 coronanews123.wordpress.com www.coronanews123.wordpress.com
 0.0.0.0 deeprootsathome.com www.deeprootsathome.com
 0.0.0.0 summit.news www.summit.news
+0.0.0.0 freedomheadlines.com www.freedomheadlines.com
+0.0.0.0 sandrarose.com www.sandrarose.com

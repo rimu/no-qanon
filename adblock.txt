@@ -1866,3 +1866,5 @@
 ||coronanews123.wordpress.com^
 ||deeprootsathome.com^
 ||summit.news^
+||freedomheadlines.com^
+||sandrarose.com^

@@ -3800,3 +3800,7 @@
 0.0.0.0 www.deeprootsathome.com
 0.0.0.0 summit.news
 0.0.0.0 www.summit.news
+0.0.0.0 freedomheadlines.com
+0.0.0.0 www.freedomheadlines.com
+0.0.0.0 sandrarose.com
+0.0.0.0 www.sandrarose.com
