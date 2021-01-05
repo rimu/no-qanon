@@ -1873,3 +1873,6 @@
 ||merch.nicholasjfuentes.com^
 ||rr-bb.com^
 ||prophecyupdate.com^
+||larouchepac.com^
+||lpac.co^
+||action.larouchepac.com^
