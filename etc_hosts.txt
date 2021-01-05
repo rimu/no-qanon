@@ -3804,3 +3804,13 @@
 0.0.0.0 www.freedomheadlines.com
 0.0.0.0 sandrarose.com
 0.0.0.0 www.sandrarose.com
+0.0.0.0 apocalypsesoon.org
+0.0.0.0 www.apocalypsesoon.org
+0.0.0.0 raptureforums.com
+0.0.0.0 www.raptureforums.com
+0.0.0.0 merch.nicholasjfuentes.com
+0.0.0.0 www.merch.nicholasjfuentes.com
+0.0.0.0 rr-bb.com
+0.0.0.0 www.rr-bb.com
+0.0.0.0 prophecyupdate.com
+0.0.0.0 www.prophecyupdate.com
