@@ -1921,3 +1921,9 @@
 0.0.0.0 dennisprager.com www.dennisprager.com
 0.0.0.0 judicialwatch.org www.judicialwatch.org
 0.0.0.0 thegreggjarrett.com www.thegreggjarrett.com
+0.0.0.0 edgeofwonder.tv www.edgeofwonder.tv
+0.0.0.0 flatearth101.com www.flatearth101.com
+0.0.0.0 ntdtv.com.tw www.ntdtv.com.tw
+0.0.0.0 ca.ntdtv.com www.ca.ntdtv.com
+0.0.0.0 ntd.com www.ntd.com
+0.0.0.0 news.edgeofwonder.tv www.news.edgeofwonder.tv

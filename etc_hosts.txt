@@ -3844,3 +3844,15 @@
 0.0.0.0 www.judicialwatch.org
 0.0.0.0 thegreggjarrett.com
 0.0.0.0 www.thegreggjarrett.com
+0.0.0.0 edgeofwonder.tv
+0.0.0.0 www.edgeofwonder.tv
+0.0.0.0 flatearth101.com
+0.0.0.0 www.flatearth101.com
+0.0.0.0 ntdtv.com.tw
+0.0.0.0 www.ntdtv.com.tw
+0.0.0.0 ca.ntdtv.com
+0.0.0.0 www.ca.ntdtv.com
+0.0.0.0 ntd.com
+0.0.0.0 www.ntd.com
+0.0.0.0 news.edgeofwonder.tv
+0.0.0.0 www.news.edgeofwonder.tv
