@@ -1,15 +1,17 @@
-# QAnon, conspiracy, fake news and nazi blocklist for using in a hosts file, adblock extension, pihole or with dnsmasq
+# QAnon, Conspiracy, Fakenews and Rasist Blocklists
 
+## IPV4 Version
+[Blocklist in Hosts format](https://raw.githubusercontent.com/rimu/no-qanon/master/etc_hosts.txt) to use in a /etc/hosts file or pihole.\
+[Blocklist in Dnsmasq format](https://raw.githubusercontent.com/rimu/no-qanon/master/dnsmasq_hosts.txt) to use with the dnsmasq DNS server software.
 
-https://raw.githubusercontent.com/rimu/no-qanon/master/etc_hosts.txt is the blocklist to use in a /etc/hosts file, adblocker browser extension or a pihole.
+## IPV6 Version
+[Blocklist in Hosts format](https://raw.githubusercontent.com/rimu/no-qanon/master/etc_hosts.txt.ipv6) to use in a /etc/hosts file or pihole.\
+[Blocklist in Dnsmasq format](https://raw.githubusercontent.com/rimu/no-qanon/master/dnsmasq_hosts.txt.ipv6) to use with the dnsmasq DNS server software.
 
-https://raw.githubusercontent.com/rimu/no-qanon/master/dnsmasq_hosts.txt is for using with the dnsmasq DNS server software.
+## AdBlock Plus syntax
+[Blocklist in AdBlock format](https://raw.githubusercontent.com/rimu/no-qanon/master/adblock.txt) to use with Adblocker (uBlock Origin, Adguard) or Adguard Home.
 
-You will probably want to append the IPv6 version also.
+## Other useful lists
 
-
-
-See also https://github.com/jmdugan/blocklists/tree/master/corporations and consider blocking twitter, youtube and facebook also as most people into this stuff get their fix on those platforms.
-
-https://github.com/antifa-n/pihole/blob/master/blocklist.txt is a great blocklist also, focused more on fascist sites.
-
+[Jmdugan Blocklists](https://github.com/jmdugan/blocklists/tree/master/corporations) and consider blocking Twitter, YouTube and Facebook since they publish to many fakenews.\
+[Antifa-n Blocklist](https://github.com/antifa-n/pihole/blob/master/blocklist.txt) is a great blocklist also, focused more on fascist sites.
