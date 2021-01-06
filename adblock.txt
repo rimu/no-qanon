@@ -1876,3 +1876,15 @@
 ||larouchepac.com^
 ||lpac.co^
 ||action.larouchepac.com^
+||themix.net^
+||nrcc.org^
+||prayvotestand.org^
+||shopjw.org^
+||frcaction.org^
+||freerepublic.com^
+||rsbnetwork.com^
+||conservativeus.com^
+||genzconservative.com^
+||dennisprager.com^
+||judicialwatch.org^
+||thegreggjarrett.com^
