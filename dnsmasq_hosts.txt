@@ -1927,3 +1927,7 @@
 0.0.0.0 ca.ntdtv.com www.ca.ntdtv.com
 0.0.0.0 ntd.com www.ntd.com
 0.0.0.0 news.edgeofwonder.tv www.news.edgeofwonder.tv
+0.0.0.0 phoenixsocialnetwork.org www.phoenixsocialnetwork.org
+0.0.0.0 thedonald.one www.thedonald.one
+0.0.0.0 thedonald.xyz www.thedonald.xyz
+0.0.0.0 thedonald.space www.thedonald.space

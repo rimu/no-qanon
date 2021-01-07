@@ -1894,3 +1894,7 @@
 ||ca.ntdtv.com^
 ||ntd.com^
 ||news.edgeofwonder.tv^
+||phoenixsocialnetwork.org^
+||thedonald.one^
+||thedonald.xyz^
+||thedonald.space^

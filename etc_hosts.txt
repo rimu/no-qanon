@@ -3856,3 +3856,11 @@
 0.0.0.0 www.ntd.com
 0.0.0.0 news.edgeofwonder.tv
 0.0.0.0 www.news.edgeofwonder.tv
+0.0.0.0 phoenixsocialnetwork.org
+0.0.0.0 www.phoenixsocialnetwork.org
+0.0.0.0 thedonald.one
+0.0.0.0 www.thedonald.one
+0.0.0.0 thedonald.xyz
+0.0.0.0 www.thedonald.xyz
+0.0.0.0 thedonald.space
+0.0.0.0 www.thedonald.space
