@@ -1931,3 +1931,9 @@
 0.0.0.0 thedonald.one www.thedonald.one
 0.0.0.0 thedonald.xyz www.thedonald.xyz
 0.0.0.0 thedonald.space www.thedonald.space
+0.0.0.0 blackconservativepatriot.com www.blackconservativepatriot.com
+0.0.0.0 q-themoreyouknow.ml www.q-themoreyouknow.ml
+0.0.0.0 godlike.com www.godlike.com
+0.0.0.0 hitler.rocks www.hitler.rocks
+0.0.0.0 thepatriothour.com www.thepatriothour.com
+0.0.0.0 isitwetyet.com www.isitwetyet.com
