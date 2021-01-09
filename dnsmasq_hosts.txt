@@ -1937,3 +1937,11 @@
 0.0.0.0 hitler.rocks www.hitler.rocks
 0.0.0.0 thepatriothour.com www.thepatriothour.com
 0.0.0.0 isitwetyet.com www.isitwetyet.com
+0.0.0.0 patriotparty.gg www.patriotparty.gg
+0.0.0.0 billofrighteous.com www.billofrighteous.com
+0.0.0.0 lightbeings.space www.lightbeings.space
+0.0.0.0 navarroreport.com www.navarroreport.com
+0.0.0.0 goldenstatetimes.com www.goldenstatetimes.com
+0.0.0.0 broward.ghost.io www.broward.ghost.io
+0.0.0.0 simonparkes.org www.simonparkes.org
+0.0.0.0 1776.fun www.1776.fun
