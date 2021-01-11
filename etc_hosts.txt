@@ -4056,3 +4056,15 @@
 0.0.0.0 www.damocles.co
 0.0.0.0 agoravox.tv
 0.0.0.0 www.agoravox.tv
+0.0.0.0 mitocopper.com
+0.0.0.0 www.mitocopper.com
+0.0.0.0 braintuner.com
+0.0.0.0 www.braintuner.com
+0.0.0.0 polaraidhealth.com
+0.0.0.0 www.polaraidhealth.com
+0.0.0.0 fincabayano.net
+0.0.0.0 www.fincabayano.net
+0.0.0.0 thriveonnews.com
+0.0.0.0 www.thriveonnews.com
+0.0.0.0 legalinsurrection.com
+0.0.0.0 www.legalinsurrection.com

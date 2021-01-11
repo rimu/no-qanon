@@ -2027,3 +2027,9 @@
 0.0.0.0 agoravox.fr www.agoravox.fr
 0.0.0.0 damocles.co www.damocles.co
 0.0.0.0 agoravox.tv www.agoravox.tv
+0.0.0.0 mitocopper.com www.mitocopper.com
+0.0.0.0 braintuner.com www.braintuner.com
+0.0.0.0 polaraidhealth.com www.polaraidhealth.com
+0.0.0.0 fincabayano.net www.fincabayano.net
+0.0.0.0 thriveonnews.com www.thriveonnews.com
+0.0.0.0 legalinsurrection.com www.legalinsurrection.com
