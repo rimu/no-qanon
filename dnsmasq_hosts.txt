@@ -2024,3 +2024,6 @@
 0.0.0.0 redpillproject.online www.redpillproject.online
 0.0.0.0 revolution.radio www.revolution.radio
 0.0.0.0 quitefrankly.tv www.quitefrankly.tv
+0.0.0.0 agoravox.fr www.agoravox.fr
+0.0.0.0 damocles.co www.damocles.co
+0.0.0.0 agoravox.tv www.agoravox.tv

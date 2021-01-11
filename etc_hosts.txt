@@ -4050,3 +4050,9 @@
 0.0.0.0 www.revolution.radio
 0.0.0.0 quitefrankly.tv
 0.0.0.0 www.quitefrankly.tv
+0.0.0.0 agoravox.fr
+0.0.0.0 www.agoravox.fr
+0.0.0.0 damocles.co
+0.0.0.0 www.damocles.co
+0.0.0.0 agoravox.tv
+0.0.0.0 www.agoravox.tv
