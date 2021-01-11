@@ -2016,3 +2016,11 @@
 0.0.0.0 ratsholecustombikeshows.com www.ratsholecustombikeshows.com
 0.0.0.0 bikersfortrumppac2020.com www.bikersfortrumppac2020.com
 0.0.0.0 trumpstoreamerica.com www.trumpstoreamerica.com
+0.0.0.0 saltycrackermerch.com www.saltycrackermerch.com
+0.0.0.0 5x5.network www.5x5.network
+0.0.0.0 odysee.com www.odysee.com
+0.0.0.0 beautyandthebeta.podbean.com www.beautyandthebeta.podbean.com
+0.0.0.0 conservativebeaver.com www.conservativebeaver.com
+0.0.0.0 redpillproject.online www.redpillproject.online
+0.0.0.0 revolution.radio www.revolution.radio
+0.0.0.0 quitefrankly.tv www.quitefrankly.tv
