@@ -2033,3 +2033,14 @@
 0.0.0.0 fincabayano.net www.fincabayano.net
 0.0.0.0 thriveonnews.com www.thriveonnews.com
 0.0.0.0 legalinsurrection.com www.legalinsurrection.com
+0.0.0.0 canadafirst.nfshost.com www.canadafirst.nfshost.com
+0.0.0.0 hereistheevidence.com www.hereistheevidence.com
+0.0.0.0 saltbushclub.com www.saltbushclub.com
+0.0.0.0 sawmansays.com www.sawmansays.com
+0.0.0.0 patriotparty.info www.patriotparty.info
+0.0.0.0 epik.com www.epik.com
+0.0.0.0 theinconvenientskeptic.com www.theinconvenientskeptic.com
+0.0.0.0 co2coalition.org www.co2coalition.org
+0.0.0.0 timothycharlesholmseth.com www.timothycharlesholmseth.com
+0.0.0.0 canadafirst.net www.canadafirst.net
+0.0.0.0 netwrks.io www.netwrks.io
