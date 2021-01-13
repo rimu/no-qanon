@@ -4090,3 +4090,11 @@
 0.0.0.0 www.canadafirst.net
 0.0.0.0 netwrks.io
 0.0.0.0 www.netwrks.io
+0.0.0.0 1law4all.kiwi.nz
+0.0.0.0 www.1law4all.kiwi.nz
+0.0.0.0 breakingviewsnz.blogspot.com
+0.0.0.0 www.breakingviewsnz.blogspot.com
+0.0.0.0 menz.org.nz
+0.0.0.0 www.menz.org.nz
+0.0.0.0 nzcpr.com
+0.0.0.0 www.nzcpr.com

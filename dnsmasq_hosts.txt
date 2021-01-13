@@ -2044,3 +2044,7 @@
 0.0.0.0 timothycharlesholmseth.com www.timothycharlesholmseth.com
 0.0.0.0 canadafirst.net www.canadafirst.net
 0.0.0.0 netwrks.io www.netwrks.io
+0.0.0.0 1law4all.kiwi.nz www.1law4all.kiwi.nz
+0.0.0.0 breakingviewsnz.blogspot.com www.breakingviewsnz.blogspot.com
+0.0.0.0 menz.org.nz www.menz.org.nz
+0.0.0.0 nzcpr.com www.nzcpr.com
