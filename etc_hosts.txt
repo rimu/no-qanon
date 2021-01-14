@@ -4098,3 +4098,15 @@
 0.0.0.0 www.menz.org.nz
 0.0.0.0 nzcpr.com
 0.0.0.0 www.nzcpr.com
+0.0.0.0 defendingtherepublic.org
+0.0.0.0 www.defendingtherepublic.org
+0.0.0.0 bluntforcetruth.com
+0.0.0.0 www.bluntforcetruth.com
+0.0.0.0 fightback.law
+0.0.0.0 www.fightback.law
+0.0.0.0 spectator.com.au
+0.0.0.0 www.spectator.com.au
+0.0.0.0 americasfrontlinedoctors.com
+0.0.0.0 www.americasfrontlinedoctors.com
+0.0.0.0 tightroperecords.com
+0.0.0.0 www.tightroperecords.com
