@@ -4278,3 +4278,17 @@
 0.0.0.0 www.liiighthouse.com
 0.0.0.0 drdebrincat.com
 0.0.0.0 www.drdebrincat.com
+0.0.0.0 joecheated.com
+0.0.0.0 www.joecheated.com
+0.0.0.0 newsclapper.com
+0.0.0.0 www.newsclapper.com
+0.0.0.0 joebiden.info
+0.0.0.0 www.joebiden.info
+0.0.0.0 bidenfortheburbs.com
+0.0.0.0 www.bidenfortheburbs.com
+0.0.0.0 thedonaldbackup.com
+0.0.0.0 www.thedonaldbackup.com
+0.0.0.0 planetlockdownfilm.com
+0.0.0.0 www.planetlockdownfilm.com
+0.0.0.0 communities.win
+0.0.0.0 www.communities.win

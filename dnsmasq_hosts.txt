@@ -2138,3 +2138,10 @@
 0.0.0.0 fluoridealert.org www.fluoridealert.org
 0.0.0.0 liiighthouse.com www.liiighthouse.com
 0.0.0.0 drdebrincat.com www.drdebrincat.com
+0.0.0.0 joecheated.com www.joecheated.com
+0.0.0.0 newsclapper.com www.newsclapper.com
+0.0.0.0 joebiden.info www.joebiden.info
+0.0.0.0 bidenfortheburbs.com www.bidenfortheburbs.com
+0.0.0.0 thedonaldbackup.com www.thedonaldbackup.com
+0.0.0.0 planetlockdownfilm.com www.planetlockdownfilm.com
+0.0.0.0 communities.win www.communities.win
