@@ -2113,3 +2113,4 @@
 ||planetlockdownfilm.com^
 ||communities.win^
 ||patriots.win^
+||authentication.win^

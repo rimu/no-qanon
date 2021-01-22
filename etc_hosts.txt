@@ -4294,3 +4294,5 @@
 0.0.0.0 www.communities.win
 0.0.0.0 patriots.win
 0.0.0.0 www.patriots.win
+0.0.0.0 authentication.win
+0.0.0.0 www.authentication.win
