@@ -4292,3 +4292,5 @@
 0.0.0.0 www.planetlockdownfilm.com
 0.0.0.0 communities.win
 0.0.0.0 www.communities.win
+0.0.0.0 patriots.win
+0.0.0.0 www.patriots.win
