@@ -2147,3 +2147,6 @@
 0.0.0.0 communities.win www.communities.win
 0.0.0.0 patriots.win www.patriots.win
 0.0.0.0 authentication.win www.authentication.win
+0.0.0.0 flashback.org www.flashback.org
+0.0.0.0 trp.red www.trp.red
+0.0.0.0 forums.red www.forums.red

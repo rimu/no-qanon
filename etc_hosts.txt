@@ -4296,3 +4296,9 @@
 0.0.0.0 www.patriots.win
 0.0.0.0 authentication.win
 0.0.0.0 www.authentication.win
+0.0.0.0 flashback.org
+0.0.0.0 www.flashback.org
+0.0.0.0 trp.red
+0.0.0.0 www.trp.red
+0.0.0.0 forums.red
+0.0.0.0 www.forums.red
