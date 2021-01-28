@@ -2156,3 +2156,7 @@
 0.0.0.0 organicconsumers.org www.organicconsumers.org
 0.0.0.0 returntonow.net www.returntonow.net
 0.0.0.0 america.win www.america.win
+0.0.0.0 firearmownersunited.com www.firearmownersunited.com
+0.0.0.0 antipodean-resistance.com www.antipodean-resistance.com
+0.0.0.0 ladssociety.com www.ladssociety.com
+0.0.0.0 unitedpatriotsofamerica.com www.unitedpatriotsofamerica.com

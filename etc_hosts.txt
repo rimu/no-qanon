@@ -4314,3 +4314,11 @@
 0.0.0.0 www.returntonow.net
 0.0.0.0 america.win
 0.0.0.0 www.america.win
+0.0.0.0 firearmownersunited.com
+0.0.0.0 www.firearmownersunited.com
+0.0.0.0 antipodean-resistance.com
+0.0.0.0 www.antipodean-resistance.com
+0.0.0.0 ladssociety.com
+0.0.0.0 www.ladssociety.com
+0.0.0.0 unitedpatriotsofamerica.com
+0.0.0.0 www.unitedpatriotsofamerica.com
