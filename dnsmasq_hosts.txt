@@ -2151,3 +2151,8 @@
 0.0.0.0 auroraray.com www.auroraray.com
 0.0.0.0 cheeseslave.com www.cheeseslave.com
 0.0.0.0 thepracticebali.com www.thepracticebali.com
+0.0.0.0 carlbherman.blogspot.com www.carlbherman.blogspot.com
+0.0.0.0 newearth.media www.newearth.media
+0.0.0.0 realhistorychan.com www.realhistorychan.com
+0.0.0.0 newearth.university www.newearth.university
+0.0.0.0 brendenmdilley.com www.brendenmdilley.com

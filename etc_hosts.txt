@@ -4304,3 +4304,13 @@
 0.0.0.0 www.cheeseslave.com
 0.0.0.0 thepracticebali.com
 0.0.0.0 www.thepracticebali.com
+0.0.0.0 carlbherman.blogspot.com
+0.0.0.0 www.carlbherman.blogspot.com
+0.0.0.0 newearth.media
+0.0.0.0 www.newearth.media
+0.0.0.0 realhistorychan.com
+0.0.0.0 www.realhistorychan.com
+0.0.0.0 newearth.university
+0.0.0.0 www.newearth.university
+0.0.0.0 brendenmdilley.com
+0.0.0.0 www.brendenmdilley.com
