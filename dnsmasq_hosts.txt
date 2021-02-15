@@ -2156,3 +2156,4 @@
 0.0.0.0 realhistorychan.com www.realhistorychan.com
 0.0.0.0 newearth.university www.newearth.university
 0.0.0.0 brendenmdilley.com www.brendenmdilley.com
+0.0.0.0 qactus.fr www.qactus.fr
