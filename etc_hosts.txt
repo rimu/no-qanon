@@ -4314,3 +4314,5 @@
 0.0.0.0 www.newearth.university
 0.0.0.0 brendenmdilley.com
 0.0.0.0 www.brendenmdilley.com
+0.0.0.0 qactus.fr
+0.0.0.0 www.qactus.fr
