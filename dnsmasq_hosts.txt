@@ -2157,3 +2157,5 @@
 0.0.0.0 newearth.university www.newearth.university
 0.0.0.0 brendenmdilley.com www.brendenmdilley.com
 0.0.0.0 qactus.fr www.qactus.fr
+0.0.0.0 bernardgaynor.com.au www.bernardgaynor.com.au
+0.0.0.0 goodsauce.news www.goodsauce.news

@@ -4316,3 +4316,7 @@
 0.0.0.0 www.brendenmdilley.com
 0.0.0.0 qactus.fr
 0.0.0.0 www.qactus.fr
+0.0.0.0 bernardgaynor.com.au
+0.0.0.0 www.bernardgaynor.com.au
+0.0.0.0 goodsauce.news
+0.0.0.0 www.goodsauce.news
