@@ -2127,3 +2127,5 @@
 ||qactus.fr^
 ||bernardgaynor.com.au^
 ||goodsauce.news^
+||bvoltaire.fr^
+||boulevard-voltaire.fr^

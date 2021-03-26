@@ -2159,3 +2159,5 @@
 0.0.0.0 qactus.fr www.qactus.fr
 0.0.0.0 bernardgaynor.com.au www.bernardgaynor.com.au
 0.0.0.0 goodsauce.news www.goodsauce.news
+0.0.0.0 bvoltaire.fr www.bvoltaire.fr
+0.0.0.0 boulevard-voltaire.fr www.boulevard-voltaire.fr
