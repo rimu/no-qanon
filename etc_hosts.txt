@@ -4324,3 +4324,9 @@
 0.0.0.0 www.bvoltaire.fr
 0.0.0.0 boulevard-voltaire.fr
 0.0.0.0 www.boulevard-voltaire.fr
+0.0.0.0 wethepatriotic.com
+0.0.0.0 www.wethepatriotic.com
+0.0.0.0 patriotnewsalerts.com
+0.0.0.0 www.patriotnewsalerts.com
+0.0.0.0 patriotdailyalerts.com
+0.0.0.0 www.patriotdailyalerts.com
