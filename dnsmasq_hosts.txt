@@ -2174,3 +2174,7 @@
 0.0.0.0 thepoliticalcesspool.org www.thepoliticalcesspool.org
 0.0.0.0 thezman.com www.thezman.com
 0.0.0.0 theredelephants.com www.theredelephants.com
+0.0.0.0 en-volve.com www.en-volve.com
+0.0.0.0 greatreject.org www.greatreject.org
+0.0.0.0 foreignaffairsintelligencecouncil.wordpress.com www.foreignaffairsintelligencecouncil.wordpress.com
+0.0.0.0 larryhannigan.com.au www.larryhannigan.com.au
