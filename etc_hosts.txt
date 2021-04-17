@@ -4358,3 +4358,15 @@
 0.0.0.0 www.foreignaffairsintelligencecouncil.wordpress.com
 0.0.0.0 larryhannigan.com.au
 0.0.0.0 www.larryhannigan.com.au
+0.0.0.0 mk.ru
+0.0.0.0 www.mk.ru
+0.0.0.0 medicalkidnap.com
+0.0.0.0 www.medicalkidnap.com
+0.0.0.0 dougbillings.us
+0.0.0.0 www.dougbillings.us
+0.0.0.0 daviddaniels.com
+0.0.0.0 www.daviddaniels.com
+0.0.0.0 eviemagazine.com
+0.0.0.0 www.eviemagazine.com
+0.0.0.0 kolozeg.org
+0.0.0.0 www.kolozeg.org

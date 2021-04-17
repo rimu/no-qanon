@@ -2178,3 +2178,9 @@
 0.0.0.0 greatreject.org www.greatreject.org
 0.0.0.0 foreignaffairsintelligencecouncil.wordpress.com www.foreignaffairsintelligencecouncil.wordpress.com
 0.0.0.0 larryhannigan.com.au www.larryhannigan.com.au
+0.0.0.0 mk.ru www.mk.ru
+0.0.0.0 medicalkidnap.com www.medicalkidnap.com
+0.0.0.0 dougbillings.us www.dougbillings.us
+0.0.0.0 daviddaniels.com www.daviddaniels.com
+0.0.0.0 eviemagazine.com www.eviemagazine.com
+0.0.0.0 kolozeg.org www.kolozeg.org
