@@ -1065,7 +1065,6 @@
 0.0.0.0 dailytorch.com www.dailytorch.com
 0.0.0.0 powerlineblog.com www.powerlineblog.com
 0.0.0.0 stevequayle.com www.stevequayle.com
-0.0.0.0 healthnutnews.com www.healthnutnews.com
 0.0.0.0 aanirfan.blogspot.com www.aanirfan.blogspot.com
 0.0.0.0 stopworldcontrol.com www.stopworldcontrol.com
 0.0.0.0 brighteon.com www.brighteon.com
@@ -2184,3 +2183,11 @@
 0.0.0.0 daviddaniels.com www.daviddaniels.com
 0.0.0.0 eviemagazine.com www.eviemagazine.com
 0.0.0.0 kolozeg.org www.kolozeg.org
+0.0.0.0 discoverthenetworks.org www.discoverthenetworks.org
+0.0.0.0 drtenpenny.com www.drtenpenny.com
+0.0.0.0 rizzaislam.com www.rizzaislam.com
+0.0.0.0 brother.rizzaislam.com www.brother.rizzaislam.com
+0.0.0.0 askdrbuttar.com www.askdrbuttar.com
+0.0.0.0 advancedmedicine.com www.advancedmedicine.com
+0.0.0.0 drnorthrup.com www.drnorthrup.com
+0.0.0.0 weblyf.com www.weblyf.com
