@@ -2191,3 +2191,13 @@
 0.0.0.0 advancedmedicine.com www.advancedmedicine.com
 0.0.0.0 drnorthrup.com www.drnorthrup.com
 0.0.0.0 weblyf.com www.weblyf.com
+0.0.0.0 voicesforfreedom.co.nz www.voicesforfreedom.co.nz
+0.0.0.0 connectingconsciousness.org www.connectingconsciousness.org
+0.0.0.0 thepeoplesvoice.org www.thepeoplesvoice.org
+0.0.0.0 nofacemask.blogspot.com www.nofacemask.blogspot.com
+0.0.0.0 iruur1.com www.iruur1.com
+0.0.0.0 milvetsandpatriots.com www.milvetsandpatriots.com
+0.0.0.0 mypatriotsnetwork.com www.mypatriotsnetwork.com
+0.0.0.0 physiciansrights.org www.physiciansrights.org
+0.0.0.0 themarshallreport.wordpress.com www.themarshallreport.wordpress.com
+0.0.0.0 flaglerlibertycoalition.com www.flaglerlibertycoalition.com
