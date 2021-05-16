@@ -4434,3 +4434,15 @@
 0.0.0.0 www.qanon-news.com
 0.0.0.0 starnationsnews.com
 0.0.0.0 www.starnationsnews.com
+0.0.0.0 drsircus.com
+0.0.0.0 www.drsircus.com
+0.0.0.0 dailyexpose.co.uk
+0.0.0.0 www.dailyexpose.co.uk
+0.0.0.0 sarahwestall.com
+0.0.0.0 www.sarahwestall.com
+0.0.0.0 commonlawnews.com
+0.0.0.0 www.commonlawnews.com
+0.0.0.0 worldfreedomalliance.org
+0.0.0.0 www.worldfreedomalliance.org
+0.0.0.0 mamm.org
+0.0.0.0 www.mamm.org
