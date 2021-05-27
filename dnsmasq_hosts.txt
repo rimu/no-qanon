@@ -2222,3 +2222,13 @@
 0.0.0.0 commonlawnews.com www.commonlawnews.com
 0.0.0.0 worldfreedomalliance.org www.worldfreedomalliance.org
 0.0.0.0 mamm.org www.mamm.org
+0.0.0.0 conservativewoman.co.uk www.conservativewoman.co.uk
+0.0.0.0 vaccinehoax.com www.vaccinehoax.com
+0.0.0.0 eurofolkradio.com www.eurofolkradio.com
+0.0.0.0 ppjg.me www.ppjg.me
+0.0.0.0 planet-today.com www.planet-today.com
+0.0.0.0 donaldjtrump.com www.donaldjtrump.com
+0.0.0.0 freeworldnews.tv www.freeworldnews.tv
+0.0.0.0 cairnsnews.org www.cairnsnews.org
+0.0.0.0 nutritruth.org www.nutritruth.org
+
