@@ -2231,4 +2231,15 @@
 0.0.0.0 freeworldnews.tv www.freeworldnews.tv
 0.0.0.0 cairnsnews.org www.cairnsnews.org
 0.0.0.0 nutritruth.org www.nutritruth.org
-
+0.0.0.0 envirowatchrangitikei.wordpress.com www.envirowatchrangitikei.wordpress.com
+0.0.0.0 thecovidblog.com www.thecovidblog.com
+0.0.0.0 thecontrail.com www.thecontrail.com
+0.0.0.0 climatechangeagenda.com www.climatechangeagenda.com
+0.0.0.0 globalskywatch.com www.globalskywatch.com
+0.0.0.0 leurenmoret.info www.leurenmoret.info
+0.0.0.0 markcrispinmiller.com www.markcrispinmiller.com
+0.0.0.0 youreteachingourchildrenwhat.org www.youreteachingourchildrenwhat.org
+0.0.0.0 tv-wild.com www.tv-wild.com
+0.0.0.0 1080science.co.nz www.1080science.co.nz
+0.0.0.0 aminutetomidnite.com www.aminutetomidnite.com
+0.0.0.0 likethedaysofnoah.wordpress.com www.likethedaysofnoah.wordpress.com
