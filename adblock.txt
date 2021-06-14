@@ -2211,3 +2211,13 @@
 ||1080science.co.nz^
 ||aminutetomidnite.com^
 ||likethedaysofnoah.wordpress.com^
+||hartgroup.org^
+||worlddoctorsalliance.com^
+||canadianphysicians.org^
+||lockdownsceptics.org^
+||doctors4covidethics.org^
+||pandata.org^
+||covid19criticalcare.com^
+||drmalcolmkendrick.org^
+||vaccinechoicecanada.com^
+||nzdsos.com^

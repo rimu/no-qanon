@@ -2243,3 +2243,13 @@
 0.0.0.0 1080science.co.nz www.1080science.co.nz
 0.0.0.0 aminutetomidnite.com www.aminutetomidnite.com
 0.0.0.0 likethedaysofnoah.wordpress.com www.likethedaysofnoah.wordpress.com
+0.0.0.0 hartgroup.org www.hartgroup.org
+0.0.0.0 worlddoctorsalliance.com www.worlddoctorsalliance.com
+0.0.0.0 canadianphysicians.org www.canadianphysicians.org
+0.0.0.0 lockdownsceptics.org www.lockdownsceptics.org
+0.0.0.0 doctors4covidethics.org www.doctors4covidethics.org
+0.0.0.0 pandata.org www.pandata.org
+0.0.0.0 covid19criticalcare.com www.covid19criticalcare.com
+0.0.0.0 drmalcolmkendrick.org www.drmalcolmkendrick.org
+0.0.0.0 vaccinechoicecanada.com www.vaccinechoicecanada.com
+0.0.0.0 nzdsos.com www.nzdsos.com
