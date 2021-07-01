@@ -544,7 +544,6 @@
 ||thefreethoughtproject.com^
 ||usviewer.com^
 ||fatosdesconhecidos.com.br^
-||24.sapo.pt^
 ||aanirfan.blogspot.co.uk^
 ||anonews.co^
 ||anonhq.com^
@@ -564,7 +563,6 @@
 ||nieuwstool.nl^
 ||northcrane.com^
 ||powerpoliticians.com^
-||sapo.pt^
 ||sovereignman.com^
 ||theduran.com^
 ||thegoldandoilguy.com/articles^
@@ -2221,3 +2219,10 @@
 ||drmalcolmkendrick.org^
 ||vaccinechoicecanada.com^
 ||nzdsos.com^
+||victorhanson.com^
+||marklevinshow.com^
+||lauramatsue.com^
+||truthseekers.joburg^
+||letsbfree.com^
+||trialsitenews.com^
+||dailytruthreport.com^

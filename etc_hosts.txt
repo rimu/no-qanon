@@ -1090,8 +1090,6 @@
 0.0.0.0 www.usviewer.com
 0.0.0.0 fatosdesconhecidos.com.br
 0.0.0.0 www.fatosdesconhecidos.com.br
-0.0.0.0 24.sapo.pt
-0.0.0.0 www.24.sapo.pt
 0.0.0.0 aanirfan.blogspot.co.uk
 0.0.0.0 www.aanirfan.blogspot.co.uk
 0.0.0.0 anonews.co
@@ -1130,8 +1128,6 @@
 0.0.0.0 www.northcrane.com
 0.0.0.0 powerpoliticians.com
 0.0.0.0 www.powerpoliticians.com
-0.0.0.0 sapo.pt
-0.0.0.0 www.sapo.pt
 0.0.0.0 sovereignman.com
 0.0.0.0 www.sovereignman.com
 0.0.0.0 theduran.com
@@ -4508,3 +4504,17 @@
 0.0.0.0 www.vaccinechoicecanada.com
 0.0.0.0 nzdsos.com
 0.0.0.0 www.nzdsos.com
+0.0.0.0 victorhanson.com
+0.0.0.0 www.victorhanson.com
+0.0.0.0 marklevinshow.com
+0.0.0.0 www.marklevinshow.com
+0.0.0.0 lauramatsue.com
+0.0.0.0 www.lauramatsue.com
+0.0.0.0 truthseekers.joburg
+0.0.0.0 www.truthseekers.joburg
+0.0.0.0 letsbfree.com
+0.0.0.0 www.letsbfree.com
+0.0.0.0 trialsitenews.com
+0.0.0.0 www.trialsitenews.com
+0.0.0.0 dailytruthreport.com
+0.0.0.0 www.dailytruthreport.com

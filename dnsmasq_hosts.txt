@@ -544,7 +544,6 @@
 0.0.0.0 thefreethoughtproject.com www.thefreethoughtproject.com
 0.0.0.0 usviewer.com www.usviewer.com
 0.0.0.0 fatosdesconhecidos.com.br www.fatosdesconhecidos.com.br
-0.0.0.0 24.sapo.pt www.24.sapo.pt
 0.0.0.0 aanirfan.blogspot.co.uk www.aanirfan.blogspot.co.uk
 0.0.0.0 anonews.co www.anonews.co
 0.0.0.0 anonhq.com www.anonhq.com
@@ -564,7 +563,6 @@
 0.0.0.0 nieuwstool.nl www.nieuwstool.nl
 0.0.0.0 northcrane.com www.northcrane.com
 0.0.0.0 powerpoliticians.com www.powerpoliticians.com
-0.0.0.0 sapo.pt www.sapo.pt
 0.0.0.0 sovereignman.com www.sovereignman.com
 0.0.0.0 theduran.com www.theduran.com
 0.0.0.0 thegoldandoilguy.com/articles www.thegoldandoilguy.com/articles
@@ -2253,3 +2251,10 @@
 0.0.0.0 drmalcolmkendrick.org www.drmalcolmkendrick.org
 0.0.0.0 vaccinechoicecanada.com www.vaccinechoicecanada.com
 0.0.0.0 nzdsos.com www.nzdsos.com
+0.0.0.0 victorhanson.com www.victorhanson.com
+0.0.0.0 marklevinshow.com www.marklevinshow.com
+0.0.0.0 lauramatsue.com www.lauramatsue.com
+0.0.0.0 truthseekers.joburg www.truthseekers.joburg
+0.0.0.0 letsbfree.com www.letsbfree.com
+0.0.0.0 trialsitenews.com www.trialsitenews.com
+0.0.0.0 dailytruthreport.com www.dailytruthreport.com
