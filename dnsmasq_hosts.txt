@@ -2258,3 +2258,24 @@
 0.0.0.0 letsbfree.com www.letsbfree.com
 0.0.0.0 trialsitenews.com www.trialsitenews.com
 0.0.0.0 dailytruthreport.com www.dailytruthreport.com
+0.0.0.0 gettr.com www.gettr.com
+0.0.0.0 johnplatinumgoss.com www.johnplatinumgoss.com
+0.0.0.0 teamtuckercarlson.com www.teamtuckercarlson.com
+0.0.0.0 leftlockdownsceptics.com www.leftlockdownsceptics.com
+0.0.0.0 patriotfront.us www.patriotfront.us
+0.0.0.0 stateofthenation.co www.stateofthenation.co
+0.0.0.0 greataustralianparty.com.au www.greataustralianparty.com.au
+0.0.0.0 hugotalks.com www.hugotalks.com
+0.0.0.0 crrow777radio.com www.crrow777radio.com
+0.0.0.0 freewestmedia.com www.freewestmedia.com
+0.0.0.0 leohohmann.com www.leohohmann.com
+0.0.0.0 johndayblog.com www.johndayblog.com
+0.0.0.0 freedomfirstnetwork.com www.freedomfirstnetwork.com
+0.0.0.0 thetruthaboutcancer.com www.thetruthaboutcancer.com
+0.0.0.0 thetruthaboutvaccines.com www.thetruthaboutvaccines.com
+0.0.0.0 thrivetimeshow.com www.thrivetimeshow.com
+0.0.0.0 learntruehealth.com www.learntruehealth.com
+0.0.0.0 medicalfreedompac.com www.medicalfreedompac.com
+0.0.0.0 regenerateproject.com www.regenerateproject.com
+
+
