@@ -2277,5 +2277,32 @@
 0.0.0.0 learntruehealth.com www.learntruehealth.com
 0.0.0.0 medicalfreedompac.com www.medicalfreedompac.com
 0.0.0.0 regenerateproject.com www.regenerateproject.com
-
-
+0.0.0.0 reclaimdivinesovereignty.com www.reclaimdivinesovereignty.com
+0.0.0.0 nexusnewsfeed.com www.nexusnewsfeed.com
+0.0.0.0 grandmageri422.me www.grandmageri422.me
+0.0.0.0 thetruthreview.com www.thetruthreview.com
+0.0.0.0 steverotter.com www.steverotter.com
+0.0.0.0 stopbsnow.com www.stopbsnow.com
+0.0.0.0 agmiw.org www.agmiw.org
+0.0.0.0 massawakening.org www.massawakening.org
+0.0.0.0 winteroak.org.uk www.winteroak.org.uk
+0.0.0.0 marktaliano.net www.marktaliano.net
+0.0.0.0 thewatchtowers.org www.thewatchtowers.org
+0.0.0.0 stopthecrime.net www.stopthecrime.net
+0.0.0.0 realrawnews.com www.realrawnews.com
+0.0.0.0 afinalwarning.com www.afinalwarning.com
+0.0.0.0 ernestlmartin.com www.ernestlmartin.com
+0.0.0.0 darkoutpost.com www.darkoutpost.com
+0.0.0.0 bestnewshere.com www.bestnewshere.com
+0.0.0.0 cathyfox.wordpress.com www.cathyfox.wordpress.com
+0.0.0.0 thepatriotpartynews.com www.thepatriotpartynews.com
+0.0.0.0 redvoicemedia.com www.redvoicemedia.com
+0.0.0.0 civilwar.news www.civilwar.news
+0.0.0.0 falseflag.news www.falseflag.news
+0.0.0.0 infiniteunknown.net www.infiniteunknown.net
+0.0.0.0 marilynjwilliams.com www.marilynjwilliams.com
+0.0.0.0 themelkshow.com www.themelkshow.com
+0.0.0.0 annaperdue.com www.annaperdue.com
+0.0.0.0 winterwatch.net www.winterwatch.net
+0.0.0.0 free-your-mind.today www.free-your-mind.today
+0.0.0.0 knowmorenews.org www.knowmorenews.org
