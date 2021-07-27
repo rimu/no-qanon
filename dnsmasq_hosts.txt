@@ -2306,3 +2306,7 @@
 0.0.0.0 winterwatch.net www.winterwatch.net
 0.0.0.0 free-your-mind.today www.free-your-mind.today
 0.0.0.0 knowmorenews.org www.knowmorenews.org
+0.0.0.0 comicdavesmith.com www.comicdavesmith.com
+0.0.0.0 charliekirk.com www.charliekirk.com
+0.0.0.0 thecharliekirkshow.com www.thecharliekirkshow.com
+0.0.0.0 tpusa.com www.tpusa.com

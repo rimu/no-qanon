@@ -4614,3 +4614,11 @@
 0.0.0.0 www.free-your-mind.today
 0.0.0.0 knowmorenews.org
 0.0.0.0 www.knowmorenews.org
+0.0.0.0 comicdavesmith.com
+0.0.0.0 www.comicdavesmith.com
+0.0.0.0 charliekirk.com
+0.0.0.0 www.charliekirk.com
+0.0.0.0 thecharliekirkshow.com
+0.0.0.0 www.thecharliekirkshow.com
+0.0.0.0 tpusa.com
+0.0.0.0 www.tpusa.com
