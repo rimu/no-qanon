@@ -479,7 +479,6 @@
 0.0.0.0 GlobalEconomicAnalysis.com www.GlobalEconomicAnalysis.com
 0.0.0.0 GonzaloLira.Blogspot.com www.GonzaloLira.Blogspot.com
 0.0.0.0 katehon.org www.katehon.org
-0.0.0.0 legorafi.fr www.legorafi.fr
 0.0.0.0 lightlybraisedturnip.com www.lightlybraisedturnip.com
 0.0.0.0 livefreelivenatural.com www.livefreelivenatural.com
 0.0.0.0 mydailyrelaxation.com www.mydailyrelaxation.com
