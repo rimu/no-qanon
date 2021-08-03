@@ -960,8 +960,6 @@
 0.0.0.0 www.GonzaloLira.Blogspot.com
 0.0.0.0 katehon.org
 0.0.0.0 www.katehon.org
-0.0.0.0 legorafi.fr
-0.0.0.0 www.legorafi.fr
 0.0.0.0 lightlybraisedturnip.com
 0.0.0.0 www.lightlybraisedturnip.com
 0.0.0.0 livefreelivenatural.com
