@@ -2336,3 +2336,11 @@
 0.0.0.0 childrenshealthdefense.eu www.childrenshealthdefense.eu
 0.0.0.0 ausreps.org www.ausreps.org
 0.0.0.0 europereloaded.com www.europereloaded.com
+0.0.0.0 planetes360.fr www.planetes360.fr
+0.0.0.0 holdup-lefilm.fr www.holdup-lefilm.fr
+0.0.0.0 animap.fr www.animap.fr
+0.0.0.0 animap.info www.animap.info
+0.0.0.0 animap.at www.animap.at
+0.0.0.0 animap.ch www.animap.ch
+0.0.0.0 animap-benelux.com www.animap-benelux.com
+0.0.0.0 stopcovipass.com www.stopcovipass.com
