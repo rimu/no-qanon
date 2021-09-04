@@ -2389,3 +2389,5 @@
 0.0.0.0 world-brain.net www.world-brain.net
 0.0.0.0 bodyalign.com www.bodyalign.com
 0.0.0.0 nojabforme.info www.nojabforme.info
+0.0.0.0 directe-sante.com www.directe-sante.com
+0.0.0.0 reaction19.fr www.reaction19.fr
