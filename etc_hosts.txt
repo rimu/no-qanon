@@ -4780,3 +4780,7 @@
 0.0.0.0 www.bodyalign.com
 0.0.0.0 nojabforme.info
 0.0.0.0 www.nojabforme.info
+0.0.0.0 directe-sante.com
+0.0.0.0 www.directe-sante.com
+0.0.0.0 reaction19.fr
+0.0.0.0 www.reaction19.fr
