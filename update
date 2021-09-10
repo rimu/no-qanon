@@ -6,6 +6,7 @@
 
 python dnsmasq_to_etc_hosts.py > etc_hosts.txt
 python dnsmasq_to_adblock.py > adblock_temp.txt
+python dnsmasq_to_netsane.py > netsane.txt
 ./dedupe adblock_temp.txt > adblock.txt
 rm adblock_temp.txt
 ./generate-ipv6.sh
