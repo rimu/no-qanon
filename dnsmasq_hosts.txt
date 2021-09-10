@@ -2389,3 +2389,6 @@
 0.0.0.0 world-brain.net www.world-brain.net
 0.0.0.0 bodyalign.com www.bodyalign.com
 0.0.0.0 nojabforme.info www.nojabforme.info
+0.0.0.0 secure.jaromebellforcongress.com www.secure.jaromebellforcongress.com
+0.0.0.0 jaromebellforcongress.com www.jaromebellforcongress.com
+0.0.0.0 stewpeters.tv www.stewpeters.tv

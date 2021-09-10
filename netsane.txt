@@ -2389,3 +2389,6 @@
 *://*.world-brain.net/*
 *://*.bodyalign.com/*
 *://*.nojabforme.info/*
+*://*.secure.jaromebellforcongress.com/*
+*://*.jaromebellforcongress.com/*
+*://*.stewpeters.tv/*

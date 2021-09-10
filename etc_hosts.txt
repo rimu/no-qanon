@@ -4780,3 +4780,9 @@
 0.0.0.0 www.bodyalign.com
 0.0.0.0 nojabforme.info
 0.0.0.0 www.nojabforme.info
+0.0.0.0 secure.jaromebellforcongress.com
+0.0.0.0 www.secure.jaromebellforcongress.com
+0.0.0.0 jaromebellforcongress.com
+0.0.0.0 www.jaromebellforcongress.com
+0.0.0.0 stewpeters.tv
+0.0.0.0 www.stewpeters.tv
