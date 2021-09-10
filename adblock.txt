@@ -2356,3 +2356,5 @@
 ||secure.jaromebellforcongress.com^
 ||jaromebellforcongress.com^
 ||stewpeters.tv^
+||directe-sante.com^
+||reaction19.fr^

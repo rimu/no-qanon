@@ -2392,3 +2392,5 @@
 0.0.0.0 secure.jaromebellforcongress.com www.secure.jaromebellforcongress.com
 0.0.0.0 jaromebellforcongress.com www.jaromebellforcongress.com
 0.0.0.0 stewpeters.tv www.stewpeters.tv
+0.0.0.0 directe-sante.com www.directe-sante.com
+0.0.0.0 reaction19.fr www.reaction19.fr
