@@ -5026,3 +5026,7 @@
 0.0.0.0 www.wfaf.org
 0.0.0.0 wffa.win
 0.0.0.0 www.wffa.win
+0.0.0.0 freedomnews.tv
+0.0.0.0 www.freedomnews.tv
+0.0.0.0 truthsocial.com
+0.0.0.0 www.truthsocial.com

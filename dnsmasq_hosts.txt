@@ -2513,4 +2513,5 @@
 0.0.0.0 momsacrossamerica.com www.momsacrossamerica.com
 0.0.0.0 wfaf.org www.wfaf.org
 0.0.0.0 wffa.win www.wffa.win
-
+0.0.0.0 freedomnews.tv www.freedomnews.tv
+0.0.0.0 truthsocial.com www.truthsocial.com
