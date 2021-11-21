@@ -2515,3 +2515,10 @@
 0.0.0.0 wffa.win www.wffa.win
 0.0.0.0 freedomnews.tv www.freedomnews.tv
 0.0.0.0 truthsocial.com www.truthsocial.com
+0.0.0.0 tfrc.org.nz www.tfrc.org.nz
+0.0.0.0 tapintothetruth.com www.tapintothetruth.com
+0.0.0.0 vaccinesafety.info www.vaccinesafety.info
+0.0.0.0 minor.org.nz www.minor.org.nz
+0.0.0.0 thedailyexaminer.co.nz www.thedailyexaminer.co.nz
+0.0.0.0 greengoddess.co.nz www.greengoddess.co.nz
+0.0.0.0 namelyliberty.com www.namelyliberty.com

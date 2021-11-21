@@ -5030,3 +5030,17 @@
 0.0.0.0 www.freedomnews.tv
 0.0.0.0 truthsocial.com
 0.0.0.0 www.truthsocial.com
+0.0.0.0 tfrc.org.nz
+0.0.0.0 www.tfrc.org.nz
+0.0.0.0 tapintothetruth.com
+0.0.0.0 www.tapintothetruth.com
+0.0.0.0 vaccinesafety.info
+0.0.0.0 www.vaccinesafety.info
+0.0.0.0 minor.org.nz
+0.0.0.0 www.minor.org.nz
+0.0.0.0 thedailyexaminer.co.nz
+0.0.0.0 www.thedailyexaminer.co.nz
+0.0.0.0 greengoddess.co.nz
+0.0.0.0 www.greengoddess.co.nz
+0.0.0.0 namelyliberty.com
+0.0.0.0 www.namelyliberty.com

@@ -2474,3 +2474,10 @@
 ||wffa.win^
 ||freedomnews.tv^
 ||truthsocial.com^
+||tfrc.org.nz^
+||tapintothetruth.com^
+||vaccinesafety.info^
+||minor.org.nz^
+||thedailyexaminer.co.nz^
+||greengoddess.co.nz^
+||namelyliberty.com^
