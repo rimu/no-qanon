@@ -5044,3 +5044,15 @@
 0.0.0.0 www.greengoddess.co.nz
 0.0.0.0 namelyliberty.com
 0.0.0.0 www.namelyliberty.com
+0.0.0.0 garymoller.com
+0.0.0.0 www.garymoller.com
+0.0.0.0 wakeupkiwi.com
+0.0.0.0 www.wakeupkiwi.com
+0.0.0.0 reopen.nz
+0.0.0.0 www.reopen.nz
+0.0.0.0 waikanaewatch.org
+0.0.0.0 www.waikanaewatch.org
+0.0.0.0 nojabjobs.co.nz
+0.0.0.0 www.nojabjobs.co.nz
+0.0.0.0 infinitepossibilities.co.nz
+0.0.0.0 www.infinitepossibilities.co.nz

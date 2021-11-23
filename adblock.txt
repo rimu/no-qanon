@@ -2481,3 +2481,9 @@
 ||thedailyexaminer.co.nz^
 ||greengoddess.co.nz^
 ||namelyliberty.com^
+||garymoller.com^
+||wakeupkiwi.com^
+||reopen.nz^
+||waikanaewatch.org^
+||nojabjobs.co.nz^
+||infinitepossibilities.co.nz^

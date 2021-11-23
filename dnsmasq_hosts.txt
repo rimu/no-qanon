@@ -2522,3 +2522,9 @@
 0.0.0.0 thedailyexaminer.co.nz www.thedailyexaminer.co.nz
 0.0.0.0 greengoddess.co.nz www.greengoddess.co.nz
 0.0.0.0 namelyliberty.com www.namelyliberty.com
+0.0.0.0 garymoller.com www.garymoller.com
+0.0.0.0 wakeupkiwi.com www.wakeupkiwi.com
+0.0.0.0 reopen.nz www.reopen.nz
+0.0.0.0 waikanaewatch.org www.waikanaewatch.org
+0.0.0.0 nojabjobs.co.nz www.nojabjobs.co.nz
+0.0.0.0 infinitepossibilities.co.nz www.infinitepossibilities.co.nz
