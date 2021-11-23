@@ -2527,3 +2527,7 @@
 "*://*.waikanaewatch.org/*",
 "*://*.nojabjobs.co.nz/*",
 "*://*.infinitepossibilities.co.nz/*",
+"*://*.pgibertie.com/*",
+"*://*.francemediasnumerique.com/*",
+"*://*.algora.com/*",
+"*://*.openvaers.com/*",
