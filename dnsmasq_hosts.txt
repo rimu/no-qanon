@@ -2530,3 +2530,7 @@
 0.0.0.0 infinitepossibilities.co.nz www.infinitepossibilities.co.nz
 0.0.0.0 vax3dom.com www.vax3dom.com
 0.0.0.0 kiwisunited.nz www.kiwisunited.nz
+0.0.0.0 pgibertie.com www.pgibertie.com
+0.0.0.0 francemediasnumerique.com www.francemediasnumerique.com
+0.0.0.0 algora.com www.algora.com
+0.0.0.0 openvaers.com www.openvaers.com

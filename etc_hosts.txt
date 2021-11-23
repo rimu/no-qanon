@@ -5056,3 +5056,15 @@
 0.0.0.0 www.nojabjobs.co.nz
 0.0.0.0 infinitepossibilities.co.nz
 0.0.0.0 www.infinitepossibilities.co.nz
+0.0.0.0 vax3dom.com
+0.0.0.0 www.vax3dom.com
+0.0.0.0 kiwisunited.nz
+0.0.0.0 www.kiwisunited.nz
+0.0.0.0 pgibertie.com
+0.0.0.0 www.pgibertie.com
+0.0.0.0 francemediasnumerique.com
+0.0.0.0 www.francemediasnumerique.com
+0.0.0.0 algora.com
+0.0.0.0 www.algora.com
+0.0.0.0 openvaers.com
+0.0.0.0 www.openvaers.com
