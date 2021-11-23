@@ -2528,3 +2528,5 @@
 0.0.0.0 waikanaewatch.org www.waikanaewatch.org
 0.0.0.0 nojabjobs.co.nz www.nojabjobs.co.nz
 0.0.0.0 infinitepossibilities.co.nz www.infinitepossibilities.co.nz
+0.0.0.0 vax3dom.com www.vax3dom.com
+0.0.0.0 kiwisunited.nz www.kiwisunited.nz
