@@ -19,3 +19,12 @@
 
 ## How to install on a Windows computer
 [See these instructions](https://github.com/yui-konnu/qanon-block-guide)
+
+## How to contribute
+Clone this repository to your computer.
+
+Append new websites to dnsmasq_hosts.txt in this format:
+
+`0.0.0.0 website.com www.website.com`
+
+Then from the command line run `./update "some description"` to automatically copy the new websites to other formats stored in etc_hosts.txt, etc and create a git commit. At the end of the script it will attempt to push the commit up to the original repository, which might not work. Do whatever you normally do to create a Pull Request and we will approve it within a couple of days.
