@@ -2534,3 +2534,29 @@
 0.0.0.0 francemediasnumerique.com www.francemediasnumerique.com
 0.0.0.0 algora.com www.algora.com
 0.0.0.0 openvaers.com www.openvaers.com
+0.0.0.0 israelnationalnews.com www.israelnationalnews.com
+0.0.0.0 justice4poland.com www.justice4poland.com
+0.0.0.0 d3ds3c.net www.d3ds3c.net
+0.0.0.0 daragrennie.com www.daragrennie.com
+0.0.0.0 speakingaboutnews.com www.speakingaboutnews.com
+0.0.0.0 cleverjourneys.com www.cleverjourneys.com
+0.0.0.0 devolution.link www.devolution.link
+0.0.0.0 endoftheageheadlines.wordpress.com www.endoftheageheadlines.wordpress.com
+0.0.0.0 patelpatriot.substack.com www.patelpatriot.substack.com
+0.0.0.0 daverubin.com www.daverubin.com
+0.0.0.0 theamericanreport.org www.theamericanreport.org
+0.0.0.0 economicwarroom.com www.economicwarroom.com
+0.0.0.0 worldviewweekend.com www.worldviewweekend.com
+0.0.0.0 clo2.tv www.clo2.tv
+0.0.0.0 cherylchumley.com www.cherylchumley.com
+0.0.0.0 budesonideworks.com www.budesonideworks.com
+0.0.0.0 onedaymd.com www.onedaymd.com
+0.0.0.0 godreports.com www.godreports.com
+0.0.0.0 jacksonlahmeyer.com
+0.0.0.0 jeffreyprather.com
+0.0.0.0 pratherdirect.com
+0.0.0.0 wwiii.news
+0.0.0.0 thepatriotvoice.us
+0.0.0.0 thepatrioticvoice.com
+0.0.0.0 patriotvoices.com
+0.0.0.0 dinardetectives.com
