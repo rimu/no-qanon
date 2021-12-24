@@ -2552,11 +2552,11 @@
 0.0.0.0 budesonideworks.com www.budesonideworks.com
 0.0.0.0 onedaymd.com www.onedaymd.com
 0.0.0.0 godreports.com www.godreports.com
-0.0.0.0 jacksonlahmeyer.com
-0.0.0.0 jeffreyprather.com
-0.0.0.0 pratherdirect.com
-0.0.0.0 wwiii.news
-0.0.0.0 thepatriotvoice.us
-0.0.0.0 thepatrioticvoice.com
-0.0.0.0 patriotvoices.com
-0.0.0.0 dinardetectives.com
+0.0.0.0 jacksonlahmeyer.com www.jacksonlahmeyer.com
+0.0.0.0 jeffreyprather.com www.jeffreyprather.com
+0.0.0.0 pratherdirect.com www.pratherdirect.com
+0.0.0.0 wwiii.news www.wwiii.news
+0.0.0.0 thepatriotvoice.us www.thepatriotvoice.us
+0.0.0.0 thepatrioticvoice.com www.thepatrioticvoice.com
+0.0.0.0 patriotvoices.com www.patriotvoices.com
+0.0.0.0 dinardetectives.com www.dinardetectives.com
