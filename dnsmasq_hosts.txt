@@ -2560,3 +2560,11 @@
 0.0.0.0 thepatrioticvoice.com www.thepatrioticvoice.com
 0.0.0.0 patriotvoices.com www.patriotvoices.com
 0.0.0.0 dinardetectives.com www.dinardetectives.com
+0.0.0.0 jessekellyshow.com www.jessekellyshow.com
+0.0.0.0 quillette.com www.quillette.com
+0.0.0.0 projectmatilda.net www.projectmatilda.net
+0.0.0.0 thehoodnz.com www.thehoodnz.com
+0.0.0.0 murderbydecree.com www.murderbydecree.com
+0.0.0.0 dailytelegraph.co.nz www.dailytelegraph.co.nz
+0.0.0.0 howbadismybatch.com www.howbadismybatch.com
+0.0.0.0 nuremberg.nz www.nuremberg.nz
