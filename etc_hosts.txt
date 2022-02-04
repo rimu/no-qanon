@@ -5194,3 +5194,15 @@
 0.0.0.0 www.takebackaustralia.org
 0.0.0.0 bitcoin20.org
 0.0.0.0 www.bitcoin20.org
+0.0.0.0 tcmhijacked.blogspot.com
+0.0.0.0 www.tcmhijacked.blogspot.com
+0.0.0.0 creativityreligion.com
+0.0.0.0 www.creativityreligion.com
+0.0.0.0 churchofbenklassen4.blogspot.com
+0.0.0.0 www.churchofbenklassen4.blogspot.com
+0.0.0.0 hardylloyd.blogspot.com
+0.0.0.0 www.hardylloyd.blogspot.com
+0.0.0.0 creativitymovement.wordpress.com
+0.0.0.0 www.creativitymovement.wordpress.com
+0.0.0.0 benklassenschurch.blogspot.com
+0.0.0.0 www.benklassenschurch.blogspot.com

@@ -2597,4 +2597,9 @@
 0.0.0.0 truthbook.social www.truthbook.social
 0.0.0.0 takebackaustralia.org www.takebackaustralia.org
 0.0.0.0 bitcoin20.org www.bitcoin20.org
-
+0.0.0.0 tcmhijacked.blogspot.com www.tcmhijacked.blogspot.com
+0.0.0.0 creativityreligion.com www.creativityreligion.com
+0.0.0.0 churchofbenklassen4.blogspot.com www.churchofbenklassen4.blogspot.com
+0.0.0.0 hardylloyd.blogspot.com www.hardylloyd.blogspot.com
+0.0.0.0 creativitymovement.wordpress.com www.creativitymovement.wordpress.com
+0.0.0.0 benklassenschurch.blogspot.com www.benklassenschurch.blogspot.com
