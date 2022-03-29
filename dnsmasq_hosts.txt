@@ -2627,3 +2627,4 @@
 0.0.0.0 reignitedemocracyaustralia.com.au www.reignitedemocracyaustralia.com.au
 0.0.0.0 bravetruth.org www.bravetruth.org
 0.0.0.0 consortiumnews.com www.consortiumnews.com
+0.0.0.0 lesdeqodeurs.fr www.lesdeqodeurs.fr

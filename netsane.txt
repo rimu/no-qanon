@@ -2626,3 +2626,4 @@
 "*://*.reignitedemocracyaustralia.com.au/*",
 "*://*.bravetruth.org/*",
 "*://*.consortiumnews.com/*",
+"*://*.lesdeqodeurs.fr/*",
