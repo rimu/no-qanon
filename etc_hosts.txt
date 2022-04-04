@@ -5254,3 +5254,5 @@
 0.0.0.0 www.bravetruth.org
 0.0.0.0 consortiumnews.com
 0.0.0.0 www.consortiumnews.com
+0.0.0.0 lesdeqodeurs.fr
+0.0.0.0 www.lesdeqodeurs.fr
