@@ -5292,3 +5292,5 @@
 0.0.0.0 www.conservativehq.org
 0.0.0.0 waronfakes.com
 0.0.0.0 www.waronfakes.com
+0.0.0.0 lesdeqodeurs.fr
+0.0.0.0 www.lesdeqodeurs.fr

@@ -2645,3 +2645,4 @@
 "*://*.nzunite.com/*",
 "*://*.conservativehq.org/*",
 "*://*.waronfakes.com/*",
+"*://*.lesdeqodeurs.fr/*",
