@@ -5294,3 +5294,5 @@
 0.0.0.0 www.waronfakes.com
 0.0.0.0 lesdeqodeurs.fr
 0.0.0.0 www.lesdeqodeurs.fr
+0.0.0.0 pigeonpigetout.fr
+0.0.0.0 www.pigeonpigetout.fr
