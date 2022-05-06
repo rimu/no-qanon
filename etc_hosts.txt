@@ -782,8 +782,6 @@
 0.0.0.0 www.DeadLineLive.info
 0.0.0.0 advocate.com
 0.0.0.0 www.advocate.com
-0.0.0.0 alternet.org
-0.0.0.0 www.alternet.org
 0.0.0.0 baptistnews.com
 0.0.0.0 www.baptistnews.com
 0.0.0.0 chroniclesmagazine.org

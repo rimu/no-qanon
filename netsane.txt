@@ -390,7 +390,6 @@
 "*://*.theblaze.com/*",
 "*://*.DeadLineLive.info/*",
 "*://*.advocate.com/*",
-"*://*.alternet.org/*",
 "*://*.baptistnews.com/*",
 "*://*.chroniclesmagazine.org/*",
 "*://*.city-journal.org/*",

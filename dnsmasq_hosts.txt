@@ -390,7 +390,6 @@
 0.0.0.0 theblaze.com www.theblaze.com
 0.0.0.0 DeadLineLive.info www.DeadLineLive.info
 0.0.0.0 advocate.com www.advocate.com
-0.0.0.0 alternet.org www.alternet.org
 0.0.0.0 baptistnews.com www.baptistnews.com
 0.0.0.0 chroniclesmagazine.org www.chroniclesmagazine.org
 0.0.0.0 city-journal.org www.city-journal.org
