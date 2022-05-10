@@ -1,3 +1,9 @@
+[uBlock Origin]
+! Title: A blocklist of QAnon, conspiracy, fascist and fake news web sites.
+! Homepage: https://github.com/rimu/no-qanon
+! Author: rimu
+! Expires: 4 days
+
 ||regated.com^
 ||americanlookout.com^
 ||americannewsx.com^
