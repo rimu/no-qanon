@@ -2609,3 +2609,4 @@
 ||waronfakes.com^
 ||lesdeqodeurs.fr^
 ||pigeonpigetout.fr^
+||dailystormer.cn^
