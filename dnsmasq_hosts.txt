@@ -2671,3 +2671,7 @@
 0.0.0.0 neopresse.com www.neopresse.com
 0.0.0.0 corona-ausschuss.de www.corona-ausschuss.de
 0.0.0.0 uncutnews.ch www.uncutnews.ch
+0.0.0.0 pravda-tv.com www.pravda-tv.com
+0.0.0.0 compact-online.de www.compact-online.de
+0.0.0.0 journalistenwatch.com www.journalistenwatch.com
+0.0.0.0 deutschland-kurier.org www.deutschland-kurier.org

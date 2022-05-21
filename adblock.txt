@@ -2632,3 +2632,6 @@
 ||wahrheiten.org^
 ||neopresse.com^
 ||uncutnews.ch^
+||pravda-tv.com^
+||compact-online.de^
+||deutschland-kurier.org^

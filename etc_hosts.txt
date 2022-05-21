@@ -5342,3 +5342,11 @@
 0.0.0.0 www.corona-ausschuss.de
 0.0.0.0 uncutnews.ch
 0.0.0.0 www.uncutnews.ch
+0.0.0.0 pravda-tv.com
+0.0.0.0 www.pravda-tv.com
+0.0.0.0 compact-online.de
+0.0.0.0 www.compact-online.de
+0.0.0.0 journalistenwatch.com
+0.0.0.0 www.journalistenwatch.com
+0.0.0.0 deutschland-kurier.org
+0.0.0.0 www.deutschland-kurier.org

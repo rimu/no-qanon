@@ -2670,3 +2670,7 @@
 "*://*.neopresse.com/*",
 "*://*.corona-ausschuss.de/*",
 "*://*.uncutnews.ch/*",
+"*://*.pravda-tv.com/*",
+"*://*.compact-online.de/*",
+"*://*.journalistenwatch.com/*",
+"*://*.deutschland-kurier.org/*",
