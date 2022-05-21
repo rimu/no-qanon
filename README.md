@@ -1,4 +1,4 @@
-# QAnon, Conspiracy, Fakenews and Rasist Blocklists
+# QAnon, Conspiracy, Fakenews and Racist Blocklists
 
 ## IPV4 Version
 [Blocklist in Hosts format](https://raw.githubusercontent.com/rimu/no-qanon/master/etc_hosts.txt) to use in a /etc/hosts file or pihole.\
