@@ -2706,3 +2706,4 @@
 "*://*.mypillow.com/*",
 "*://*.mystore.com/*",
 "*://*.xephtoken.com/*",
+"*://*.qsat.ai/*",

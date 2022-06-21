@@ -5414,3 +5414,5 @@
 0.0.0.0 www.mystore.com
 0.0.0.0 xephtoken.com
 0.0.0.0 www.xephtoken.com
+0.0.0.0 qsat.ai
+0.0.0.0 www.qsat.ai
