@@ -21,7 +21,7 @@
 [See these instructions](https://github.com/yui-konnu/qanon-block-guide)
 
 ## How to install on a PiHole
-[See these instructions](https://www.reddit.com/r/QAnonCasualties/comments/wekhem/how_to_use_pihole_to_block_q_related_websites/)
+[See these instructions](https://www.reddit.com/r/QAnonCasualties/comments/wekhem/how_to_use_pihole_to_block_q_related_websites/). Use the [etc_hosts.txt](https://raw.githubusercontent.com/rimu/no-qanon/master/etc_hosts.txt) version of no-qanon with a PiHole.
 
 ## How to contribute
 Clone this repository to your computer.
