@@ -2769,3 +2769,6 @@
 0.0.0.0 kolyma.net www.kolyma.net
 0.0.0.0 g3.kolyma.org www.g3.kolyma.org
 0.0.0.0 kncdn.org www.kncdn.org
+0.0.0.0 tealswan.com www.tealswan.com
+0.0.0.0 shop.tealswan.com www.shop.tealswan.com
+0.0.0.0 tealswan.net www.tealswan.net

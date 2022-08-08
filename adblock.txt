@@ -2773,3 +2773,6 @@
 ||kolyma.net^
 ||g3.kolyma.org^
 ||kncdn.org^
+||tealswan.com^
+||shop.tealswan.com^
+||tealswan.net^
