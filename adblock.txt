@@ -2776,3 +2776,6 @@
 ||tealswan.com^
 ||shop.tealswan.com^
 ||tealswan.net^
+||promic.info^
+||anhinternational.org^
+||worldcouncilforhealth.org^

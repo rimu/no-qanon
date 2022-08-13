@@ -2772,3 +2772,6 @@
 0.0.0.0 tealswan.com www.tealswan.com
 0.0.0.0 shop.tealswan.com www.shop.tealswan.com
 0.0.0.0 tealswan.net www.tealswan.net
+0.0.0.0 promic.info www.promic.info
+0.0.0.0 anhinternational.org www.anhinternational.org
+0.0.0.0 worldcouncilforhealth.org www.worldcouncilforhealth.org
