@@ -2775,3 +2775,14 @@
 0.0.0.0 promic.info www.promic.info
 0.0.0.0 anhinternational.org www.anhinternational.org
 0.0.0.0 worldcouncilforhealth.org www.worldcouncilforhealth.org
+0.0.0.0 stovouno.org www.stovouno.org
+0.0.0.0 theredbaiter.com www.theredbaiter.com
+0.0.0.0 smashleft.com www.smashleft.com
+0.0.0.0 xyz.net.au www.xyz.net.au
+0.0.0.0 theautomaticearth.com www.theautomaticearth.com
+0.0.0.0 thepulse.one www.thepulse.one
+0.0.0.0 thriveon.com www.thriveon.com
+0.0.0.0 fp-prod.thriveon.com www.fp-prod.thriveon.com
+0.0.0.0 williamengdahl.com www.williamengdahl.com
+0.0.0.0 garydbarnett.com www.garydbarnett.com
+0.0.0.0 sovren.media www.sovren.media
