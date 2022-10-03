@@ -2786,3 +2786,8 @@
 0.0.0.0 williamengdahl.com www.williamengdahl.com
 0.0.0.0 garydbarnett.com www.garydbarnett.com
 0.0.0.0 sovren.media www.sovren.media
+0.0.0.0 memetrunk.com www.memetrunk.com
+0.0.0.0 alpenparlament.tv www.alpenparlament.tv
+0.0.0.0 alpenparlament.com www.alpenparlament.com
+0.0.0.0 martinfrischknecht.com www.martinfrischknecht.com
+0.0.0.0 kopp-verlag.de www.kopp-verlag.de

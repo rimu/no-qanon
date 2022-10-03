@@ -5562,3 +5562,13 @@
 0.0.0.0 www.garydbarnett.com
 0.0.0.0 sovren.media
 0.0.0.0 www.sovren.media
+0.0.0.0 memetrunk.com
+0.0.0.0 www.memetrunk.com
+0.0.0.0 alpenparlament.tv
+0.0.0.0 www.alpenparlament.tv
+0.0.0.0 alpenparlament.com
+0.0.0.0 www.alpenparlament.com
+0.0.0.0 martinfrischknecht.com
+0.0.0.0 www.martinfrischknecht.com
+0.0.0.0 kopp-verlag.de
+0.0.0.0 www.kopp-verlag.de
