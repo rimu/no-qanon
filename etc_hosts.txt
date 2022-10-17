@@ -5634,3 +5634,7 @@
 0.0.0.0 www.disclosurechronicles.com
 0.0.0.0 financialnewsdisclosure.com
 0.0.0.0 www.financialnewsdisclosure.com
+0.0.0.0 jimstone.is
+0.0.0.0 www.jimstone.is
+0.0.0.0 gibraltar-messenger.net
+0.0.0.0 www.gibraltar-messenger.net

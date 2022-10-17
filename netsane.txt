@@ -2816,3 +2816,5 @@
 "*://*.healthnewsdisclosure.com/*",
 "*://*.disclosurechronicles.com/*",
 "*://*.financialnewsdisclosure.com/*",
+"*://*.jimstone.is/*",
+"*://*.gibraltar-messenger.net/*",
