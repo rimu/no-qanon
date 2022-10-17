@@ -359,7 +359,6 @@
 0.0.0.0 naturalblaze.com www.naturalblaze.com
 0.0.0.0 naturalnews.com www.naturalnews.com
 0.0.0.0 realfarmacy.com www.realfarmacy.com
-0.0.0.0 AmericanKabuki.blogspot.com www.AmericanKabuki.blogspot.com
 0.0.0.0 collective-evolution.com www.collective-evolution.com
 0.0.0.0 consciouslifenews.com www.consciouslifenews.com
 0.0.0.0 dineal.com www.dineal.com
@@ -649,7 +648,6 @@
 0.0.0.0 staresattheworld.com www.staresattheworld.com
 0.0.0.0 mattforney.com www.mattforney.com
 0.0.0.0 8ch.net www.8ch.net
-0.0.0.0 voxday.blogspot.com www.voxday.blogspot.com
 0.0.0.0 shop.davidduke.com www.shop.davidduke.com
 0.0.0.0 theoccidentalobserver.net www.theoccidentalobserver.net
 0.0.0.0 tradyouth.org www.tradyouth.org
@@ -725,7 +723,6 @@
 0.0.0.0 wwg1wgaparty.org www.wwg1wgaparty.org
 0.0.0.0 chimpplanet.blogspot.com www.chimpplanet.blogspot.com
 0.0.0.0 orwellianchronicle.wordpress.com www.orwellianchronicle.wordpress.com
-0.0.0.0 wwg1wga-news.blogspot.com www.wwg1wga-news.blogspot.com
 0.0.0.0 legitgov.org www.legitgov.org
 0.0.0.0 nevadadesertpatriot.weebly.com www.nevadadesertpatriot.weebly.com
 0.0.0.0 patriotq.com www.patriotq.com
@@ -912,11 +909,7 @@
 0.0.0.0 frontnational.com www.frontnational.com
 0.0.0.0 fpoe.at www.fpoe.at
 0.0.0.0 afd.de www.afd.de
-0.0.0.0 whitereference.blogspot.com www.whitereference.blogspot.com
 0.0.0.0 whitehonor.com www.whitehonor.com
-0.0.0.0 nsacumenoftheoldguard.blogspot.com www.nsacumenoftheoldguard.blogspot.com
-0.0.0.0 nationalsocialistarchives.blogspot.com www.nationalsocialistarchives.blogspot.com
-0.0.0.0 nationalsocialismforamerica.blogspot.com www.nationalsocialismforamerica.blogspot.com
 0.0.0.0 limegenocide.blogspot.com www.limegenocide.blogspot.com
 0.0.0.0 europe.infowars.com www.europe.infowars.com
 0.0.0.0 jihadwatch.org www.jihadwatch.org
@@ -928,17 +921,11 @@
 0.0.0.0 heretical.com www.heretical.com
 0.0.0.0 anp14officialsupporter.wordpress.com www.anp14officialsupporter.wordpress.com
 0.0.0.0 nationalsocialism.info www.nationalsocialism.info
-0.0.0.0 whiteworker.blogspot.com www.whiteworker.blogspot.com
-0.0.0.0 anpohio.blogspot.com www.anpohio.blogspot.com
 0.0.0.0 loyaltyhonor.wordpress.com www.loyaltyhonor.wordpress.com
-0.0.0.0 anp14midwest.blogspot.com www.anp14midwest.blogspot.com
-0.0.0.0 anp14louisiana.blogspot.com www.anp14louisiana.blogspot.com
 0.0.0.0 nslobbyist.com www.nslobbyist.com
 0.0.0.0 anpalabama.blogspot.com www.anpalabama.blogspot.com
-0.0.0.0 anpcalifornia.blogspot.com www.anpcalifornia.blogspot.com
 0.0.0.0 ansharchives.blogspot.com www.ansharchives.blogspot.com
 0.0.0.0 amerikaerwache.blogspot.com www.amerikaerwache.blogspot.com
-0.0.0.0 national-socialist-worldview.blogspot.com www.national-socialist-worldview.blogspot.com
 0.0.0.0 fpp.co.uk www.fpp.co.uk
 0.0.0.0 irvingbooks.com www.irvingbooks.com
 0.0.0.0 savecalifornia.com www.savecalifornia.com
@@ -1034,7 +1021,6 @@
 0.0.0.0 maketexasgreat.com www.maketexasgreat.com
 0.0.0.0 texasnationalistparty.com www.texasnationalistparty.com
 0.0.0.0 blackmetalcultrecords.com www.blackmetalcultrecords.com
-0.0.0.0 aryangraphicsdesigns.blogspot.com www.aryangraphicsdesigns.blogspot.com
 0.0.0.0 saraacarter.com www.saraacarter.com
 0.0.0.0 clouthub.com www.clouthub.com
 0.0.0.0 theepochtimes.com www.theepochtimes.com
@@ -1096,7 +1082,6 @@
 0.0.0.0 askingangels.com www.askingangels.com
 0.0.0.0 saintandrewstwinflame.com www.saintandrewstwinflame.com
 0.0.0.0 boersenwolf.blogspot.com www.boersenwolf.blogspot.com
-0.0.0.0 inteldinarchronicles.blogspot.com www.inteldinarchronicles.blogspot.com
 0.0.0.0 childtraffickingorgans.blogspot.com www.childtraffickingorgans.blogspot.com
 0.0.0.0 dailyxrpnews.com www.dailyxrpnews.com
 0.0.0.0 drcharlieward.com www.drcharlieward.com
@@ -1299,7 +1284,6 @@
 0.0.0.0 hive.blog www.hive.blog
 0.0.0.0 theamericanvoice.com www.theamericanvoice.com
 0.0.0.0 whale.to www.whale.to
-0.0.0.0 golden-dawn-international-newsroom.blogspot.com www.golden-dawn-international-newsroom.blogspot.com
 0.0.0.0 sacred-texts.com www.sacred-texts.com
 0.0.0.0 ageofautism.com www.ageofautism.com
 0.0.0.0 childrenshealthdefense.org www.childrenshealthdefense.org
@@ -1406,7 +1390,6 @@
 0.0.0.0 nsm88records.com www.nsm88records.com
 0.0.0.0 national-justice.com www.national-justice.com
 0.0.0.0 nationalistwomensfront.org www.nationalistwomensfront.org
-0.0.0.0 wnf-canada.blogspot.com www.wnf-canada.blogspot.com
 0.0.0.0 nationalist.ca www.nationalist.ca
 0.0.0.0 nationalfront.org www.nationalfront.org
 0.0.0.0 spearhead.co.uk www.spearhead.co.uk
@@ -1426,7 +1409,6 @@
 0.0.0.0 foonacha.blogspot.com www.foonacha.blogspot.com
 0.0.0.0 allunreal.com www.allunreal.com
 0.0.0.0 cybersage.net www.cybersage.net
-0.0.0.0 winstonsmithministryoftruth.blogspot.com www.winstonsmithministryoftruth.blogspot.com
 0.0.0.0 big-lies.org www.big-lies.org
 0.0.0.0 nuke-lies.org www.nuke-lies.org
 0.0.0.0 ericdubay.wordpress.com www.ericdubay.wordpress.com
@@ -1438,7 +1420,6 @@
 0.0.0.0 rr-conspiracy-truth.blogspot.com www.rr-conspiracy-truth.blogspot.com
 0.0.0.0 thriverightnow.com www.thriverightnow.com
 0.0.0.0 wariscrime.com www.wariscrime.com
-0.0.0.0 ericdubay.blogspot.com www.ericdubay.blogspot.com
 0.0.0.0 subvertednation.net www.subvertednation.net
 0.0.0.0 warband.wordpress.com www.warband.wordpress.com
 0.0.0.0 thefallenlist.blogspot.com www.thefallenlist.blogspot.com
@@ -1524,7 +1505,6 @@
 0.0.0.0 antimedianews.com www.antimedianews.com
 0.0.0.0 sananda.website www.sananda.website
 0.0.0.0 st-germain.se www.st-germain.se
-0.0.0.0 seelenfreiheit.blogspot.com www.seelenfreiheit.blogspot.com
 0.0.0.0 worldpress957.wordpress.com www.worldpress957.wordpress.com
 0.0.0.0 fringeculture.home.blog www.fringeculture.home.blog
 0.0.0.0 illusion.news www.illusion.news
@@ -2014,7 +1994,6 @@
 0.0.0.0 coseva.com www.coseva.com
 0.0.0.0 kingof.uk www.kingof.uk
 0.0.0.0 jimhumble.org www.jimhumble.org
-0.0.0.0 flatearthbusted.blogspot.com www.flatearthbusted.blogspot.com
 0.0.0.0 metabunk.org www.metabunk.org
 0.0.0.0 flatearthfc.com www.flatearthfc.com
 0.0.0.0 trs-detox.com www.trs-detox.com
@@ -2025,7 +2004,6 @@
 0.0.0.0 fluorideexposed.org www.fluorideexposed.org
 0.0.0.0 mnlearningsolutions.com www.mnlearningsolutions.com
 0.0.0.0 mmstestimonials.co www.mmstestimonials.co
-0.0.0.0 roundearthsense.blogspot.com www.roundearthsense.blogspot.com
 0.0.0.0 avn.org.au www.avn.org.au
 0.0.0.0 physiciansforinformedconsent.org www.physiciansforinformedconsent.org
 0.0.0.0 icandecide.org www.icandecide.org
@@ -2556,7 +2534,6 @@
 0.0.0.0 tcmhijacked.blogspot.com www.tcmhijacked.blogspot.com
 0.0.0.0 creativityreligion.com www.creativityreligion.com
 0.0.0.0 churchofbenklassen4.blogspot.com www.churchofbenklassen4.blogspot.com
-0.0.0.0 hardylloyd.blogspot.com www.hardylloyd.blogspot.com
 0.0.0.0 creativitymovement.wordpress.com www.creativitymovement.wordpress.com
 0.0.0.0 benklassenschurch.blogspot.com www.benklassenschurch.blogspot.com
 0.0.0.0 newnewzealand.org www.newnewzealand.org
@@ -2824,3 +2801,9 @@
 0.0.0.0 financialnewsdisclosure.com www.financialnewsdisclosure.com
 0.0.0.0 jimstone.is www.jimstone.is
 0.0.0.0 gibraltar-messenger.net www.gibraltar-messenger.net
+0.0.0.0 redemption3301.blogspot.com www.redemption3301.blogspot.com
+0.0.0.0 tyuuta1.com www.tyuuta1.com
+0.0.0.0 rspradio1.com www.rspradio1.com
+0.0.0.0 thetruthisthelight.home.blog www.thetruthisthelight.home.blog
+0.0.0.0 spiritualmecahnicsandteachings.blogspot.com www.spiritualmecahnicsandteachings.blogspot.com
+0.0.0.0 sacredsexualenergies.blogspot.com www.sacredsexualenergies.blogspot.com
