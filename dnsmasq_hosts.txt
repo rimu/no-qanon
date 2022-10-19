@@ -2807,3 +2807,8 @@
 0.0.0.0 thetruthisthelight.home.blog www.thetruthisthelight.home.blog
 0.0.0.0 spiritualmecahnicsandteachings.blogspot.com www.spiritualmecahnicsandteachings.blogspot.com
 0.0.0.0 sacredsexualenergies.blogspot.com www.sacredsexualenergies.blogspot.com
+0.0.0.0 stewpeters.com www.stewpeters.com
+0.0.0.0 antoinettejames.com www.antoinettejames.com
+0.0.0.0 philgodlewski.live www.philgodlewski.live
+0.0.0.0 beesbuzz.com www.beesbuzz.com
+0.0.0.0 media.107daily.com www.media.107daily.com
