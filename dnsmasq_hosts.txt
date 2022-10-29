@@ -399,7 +399,6 @@
 0.0.0.0 counterpunch.org www.counterpunch.org
 0.0.0.0 davidstockmanscontracorner.com www.davidstockmanscontracorner.com
 0.0.0.0 dennismichaellynch.com www.dennismichaellynch.com
-0.0.0.0 dissentmagazine.org www.dissentmagazine.org
 0.0.0.0 ecowatch.com www.ecowatch.com
 0.0.0.0 emptywheel.net www.emptywheel.net
 0.0.0.0 filmsforaction.org www.filmsforaction.org

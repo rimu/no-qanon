@@ -399,7 +399,6 @@
 "*://*.counterpunch.org/*",
 "*://*.davidstockmanscontracorner.com/*",
 "*://*.dennismichaellynch.com/*",
-"*://*.dissentmagazine.org/*",
 "*://*.ecowatch.com/*",
 "*://*.emptywheel.net/*",
 "*://*.filmsforaction.org/*",
