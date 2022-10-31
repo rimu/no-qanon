@@ -387,7 +387,7 @@
 0.0.0.0 rawstory.com www.rawstory.com
 0.0.0.0 redstate.com www.redstate.com
 0.0.0.0 theblaze.com www.theblaze.com
-0.0.0.0 DeadLineLive.info www.DeadLineLive.info
+0.0.0.0 deadlinelive.info www.deadlinelive.info
 0.0.0.0 advocate.com www.advocate.com
 0.0.0.0 baptistnews.com www.baptistnews.com
 0.0.0.0 chroniclesmagazine.org www.chroniclesmagazine.org
@@ -395,23 +395,13 @@
 0.0.0.0 commentarymagazine.com www.commentarymagazine.com
 0.0.0.0 conservativereview.com www.conservativereview.com
 0.0.0.0 counterinformation.wordpress.com www.counterinformation.wordpress.com
-0.0.0.0 counterpunch.com www.counterpunch.com
-0.0.0.0 counterpunch.org www.counterpunch.org
 0.0.0.0 davidstockmanscontracorner.com www.davidstockmanscontracorner.com
-0.0.0.0 dennismichaellynch.com www.dennismichaellynch.com
-0.0.0.0 ecowatch.com www.ecowatch.com
-0.0.0.0 emptywheel.net www.emptywheel.net
-0.0.0.0 filmsforaction.org www.filmsforaction.org
 0.0.0.0 foreignpolicyjournal.com www.foreignpolicyjournal.com
 0.0.0.0 freedomworks.org www.freedomworks.org
 0.0.0.0 geopolmonitor.com www.geopolmonitor.com
 0.0.0.0 guardianlv.com www.guardianlv.com
-0.0.0.0 jackpineradicals.com www.jackpineradicals.com
-0.0.0.0 jacobinmag.com www.jacobinmag.com
 0.0.0.0 mintpressnews.com www.mintpressnews.com
-0.0.0.0 nakedcapitalism.com www.nakedcapitalism.com
 0.0.0.0 newcoldwar.org www.newcoldwar.org
-0.0.0.0 proudemocrat.com www.proudemocrat.com
 0.0.0.0 rinf.com www.rinf.com
 0.0.0.0 ronpaulinstitute.org www.ronpaulinstitute.org
 0.0.0.0 ruptly.tv www.ruptly.tv
@@ -2811,3 +2801,4 @@
 0.0.0.0 philgodlewski.live www.philgodlewski.live
 0.0.0.0 beesbuzz.com www.beesbuzz.com
 0.0.0.0 media.107daily.com www.media.107daily.com
+0.0.0.0 frenlyfrens.com www.frenlyfrens.com
