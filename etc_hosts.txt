@@ -800,8 +800,6 @@
 0.0.0.0 www.davidstockmanscontracorner.com
 0.0.0.0 dennismichaellynch.com
 0.0.0.0 www.dennismichaellynch.com
-0.0.0.0 dissentmagazine.org
-0.0.0.0 www.dissentmagazine.org
 0.0.0.0 ecowatch.com
 0.0.0.0 www.ecowatch.com
 0.0.0.0 emptywheel.net
