@@ -2811,3 +2811,6 @@
 0.0.0.0 freetrumpbox.com www.freetrumpbox.com
 0.0.0.0 restoredrepublic.co www.restoredrepublic.co
 0.0.0.0 worldtruthvideos.website www.worldtruthvideos.website
+0.0.0.0 dancingdolphinlove.blogspot.com www.dancingdolphinlove.blogspot.com
+0.0.0.0 deepstatemappingproject.weebly.com www.deepstatemappingproject.weebly.com
+0.0.0.0 revolver.news www.revolver.news

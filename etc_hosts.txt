@@ -5612,3 +5612,9 @@
 0.0.0.0 www.restoredrepublic.co
 0.0.0.0 worldtruthvideos.website
 0.0.0.0 www.worldtruthvideos.website
+0.0.0.0 dancingdolphinlove.blogspot.com
+0.0.0.0 www.dancingdolphinlove.blogspot.com
+0.0.0.0 deepstatemappingproject.weebly.com
+0.0.0.0 www.deepstatemappingproject.weebly.com
+0.0.0.0 revolver.news
+0.0.0.0 www.revolver.news
