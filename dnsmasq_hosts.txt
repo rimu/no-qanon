@@ -2819,3 +2819,6 @@
 0.0.0.0 fortheclaimofthelife.com www.fortheclaimofthelife.com
 0.0.0.0 consciousnessminded.com www.consciousnessminded.com
 0.0.0.0 davidwynnmillerbook.com www.davidwynnmillerbook.com
+0.0.0.0 andweknow.tv www.andweknow.tv
+0.0.0.0 thepatriotpin.com www.thepatriotpin.com
+0.0.0.0 thepatriotlight.com www.thepatriotlight.com
