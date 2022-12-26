@@ -5620,3 +5620,11 @@
 0.0.0.0 www.revolver.news
 0.0.0.0 toronto99.com
 0.0.0.0 www.toronto99.com
+0.0.0.0 lastflagstanding.com
+0.0.0.0 www.lastflagstanding.com
+0.0.0.0 fortheclaimofthelife.com
+0.0.0.0 www.fortheclaimofthelife.com
+0.0.0.0 consciousnessminded.com
+0.0.0.0 www.consciousnessminded.com
+0.0.0.0 davidwynnmillerbook.com
+0.0.0.0 www.davidwynnmillerbook.com
