@@ -572,7 +572,6 @@
 ||qanon.pub^
 ||neonrevolt.com^
 ||justthenews.com^
-||nypost.com^
 ||theqanons.com^
 ||qposts.online^
 ||gab.com^
@@ -2822,3 +2821,8 @@
 ||fortheclaimofthelife.com^
 ||consciousnessminded.com^
 ||davidwynnmillerbook.com^
+||andweknow.tv^
+||thepatriotpin.com^
+||thepatriotlight.com^
+||4ashli.com^
+||a4justice.org^

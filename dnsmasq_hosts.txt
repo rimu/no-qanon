@@ -566,7 +566,6 @@
 0.0.0.0 qanon.pub www.qanon.pub
 0.0.0.0 neonrevolt.com www.neonrevolt.com
 0.0.0.0 justthenews.com www.justthenews.com
-0.0.0.0 nypost.com www.nypost.com
 0.0.0.0 theqanons.com www.theqanons.com
 0.0.0.0 qposts.online www.qposts.online
 0.0.0.0 gab.com www.gab.com
@@ -2822,3 +2821,5 @@
 0.0.0.0 andweknow.tv www.andweknow.tv
 0.0.0.0 thepatriotpin.com www.thepatriotpin.com
 0.0.0.0 thepatriotlight.com www.thepatriotlight.com
+0.0.0.0 4ashli.com www.4ashli.com
+0.0.0.0 a4justice.org www.a4justice.org
