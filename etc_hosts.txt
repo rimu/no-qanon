@@ -5636,3 +5636,9 @@
 0.0.0.0 www.4ashli.com
 0.0.0.0 a4justice.org
 0.0.0.0 www.a4justice.org
+0.0.0.0 dailystormer.in
+0.0.0.0 www.dailystormer.in
+0.0.0.0 freethought.online
+0.0.0.0 www.freethought.online
+0.0.0.0 freespeech.group
+0.0.0.0 www.freespeech.group
