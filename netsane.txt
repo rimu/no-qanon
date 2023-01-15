@@ -2817,3 +2817,8 @@
 "*://*.thepatriotlight.com/*",
 "*://*.4ashli.com/*",
 "*://*.a4justice.org/*",
+"*://*.dinardaily.net/*",
+"*://*.vernoncoleman.org/*",
+"*://*.vernoncoleman.com/*",
+"*://*.dailystormer.in/*",
+"*://*.freespeech.group/*",

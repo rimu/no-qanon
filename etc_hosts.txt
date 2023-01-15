@@ -5636,3 +5636,13 @@
 0.0.0.0 www.4ashli.com
 0.0.0.0 a4justice.org
 0.0.0.0 www.a4justice.org
+0.0.0.0 dinardaily.net
+0.0.0.0 www.dinardaily.net
+0.0.0.0 vernoncoleman.org
+0.0.0.0 www.vernoncoleman.org
+0.0.0.0 vernoncoleman.com
+0.0.0.0 www.vernoncoleman.com
+0.0.0.0 dailystormer.in
+0.0.0.0 www.dailystormer.in
+0.0.0.0 freespeech.group
+0.0.0.0 www.freespeech.group
