@@ -2828,3 +2828,14 @@
 0.0.0.0 vernoncoleman.com www.vernoncoleman.com
 0.0.0.0 dailystormer.in www.dailystormer.in
 0.0.0.0 freespeech.group www.freespeech.group
+0.0.0.0 weekendgunnit.win www.weekendgunnit.win
+0.0.0.0 omegacanada.win www.omegacanada.win
+0.0.0.0 gavinmcinnes.win www.gavinmcinnes.win
+0.0.0.0 kotakuinaction.win www.kotakuinaction.win
+0.0.0.0 kotakuinaction2.win www.kotakuinaction2.win
+0.0.0.0 ip2always.win www.ip2always.win
+0.0.0.0 tuckercarlson.win www.tuckercarlson.win
+0.0.0.0 wsbets.win www.wsbets.win
+0.0.0.0 ancaps.win www.ancaps.win
+0.0.0.0 arete.network www.arete.network
+0.0.0.0 ar15.com www.ar15.com
