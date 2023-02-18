@@ -5668,3 +5668,17 @@
 0.0.0.0 www.arete.network
 0.0.0.0 ar15.com
 0.0.0.0 www.ar15.com
+0.0.0.0 chuckbaldwinlive.com
+0.0.0.0 www.chuckbaldwinlive.com
+0.0.0.0 libertyfellowshipmt.com
+0.0.0.0 www.libertyfellowshipmt.com
+0.0.0.0 jgminternational.org
+0.0.0.0 www.jgminternational.org
+0.0.0.0 prophecyclub.sermon.net
+0.0.0.0 www.prophecyclub.sermon.net
+0.0.0.0 prophecyclub.com
+0.0.0.0 www.prophecyclub.com
+0.0.0.0 watchprophecyclub.com
+0.0.0.0 www.watchprophecyclub.com
+0.0.0.0 qintel.pro
+0.0.0.0 www.qintel.pro

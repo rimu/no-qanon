@@ -2839,3 +2839,10 @@
 0.0.0.0 ancaps.win www.ancaps.win
 0.0.0.0 arete.network www.arete.network
 0.0.0.0 ar15.com www.ar15.com
+0.0.0.0 chuckbaldwinlive.com www.chuckbaldwinlive.com
+0.0.0.0 libertyfellowshipmt.com www.libertyfellowshipmt.com
+0.0.0.0 jgminternational.org www.jgminternational.org
+0.0.0.0 prophecyclub.sermon.net www.prophecyclub.sermon.net
+0.0.0.0 prophecyclub.com www.prophecyclub.com
+0.0.0.0 watchprophecyclub.com www.watchprophecyclub.com
+0.0.0.0 qintel.pro www.qintel.pro

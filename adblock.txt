@@ -2842,3 +2842,10 @@
 ||ancaps.win^
 ||arete.network^
 ||ar15.com^
+||chuckbaldwinlive.com^
+||libertyfellowshipmt.com^
+||jgminternational.org^
+||prophecyclub.sermon.net^
+||prophecyclub.com^
+||watchprophecyclub.com^
+||qintel.pro^
