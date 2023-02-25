@@ -2846,3 +2846,9 @@
 0.0.0.0 prophecyclub.com www.prophecyclub.com
 0.0.0.0 watchprophecyclub.com www.watchprophecyclub.com
 0.0.0.0 qintel.pro www.qintel.pro
+0.0.0.0 petersantilli.com www.petersantilli.com
+0.0.0.0 citizensforresponsiblesolar.org www.citizensforresponsiblesolar.org
+0.0.0.0 burningbright.substack.com www.burningbright.substack.com
+0.0.0.0 toresays.com www.toresays.com
+0.0.0.0 toresaid.com www.toresaid.com
+0.0.0.0 l00kinglass.com www.l00kinglass.com

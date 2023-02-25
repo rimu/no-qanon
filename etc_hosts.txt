@@ -5682,3 +5682,15 @@
 0.0.0.0 www.watchprophecyclub.com
 0.0.0.0 qintel.pro
 0.0.0.0 www.qintel.pro
+0.0.0.0 petersantilli.com
+0.0.0.0 www.petersantilli.com
+0.0.0.0 citizensforresponsiblesolar.org
+0.0.0.0 www.citizensforresponsiblesolar.org
+0.0.0.0 burningbright.substack.com
+0.0.0.0 www.burningbright.substack.com
+0.0.0.0 toresays.com
+0.0.0.0 www.toresays.com
+0.0.0.0 toresaid.com
+0.0.0.0 www.toresaid.com
+0.0.0.0 l00kinglass.com
+0.0.0.0 www.l00kinglass.com
