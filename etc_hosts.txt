@@ -1752,8 +1752,6 @@
 0.0.0.0 www.our.wikileaks.org
 0.0.0.0 infinityexplorers.com
 0.0.0.0 www.infinityexplorers.com
-0.0.0.0 jurneywrites.wordpress.com
-0.0.0.0 www.jurneywrites.wordpress.com
 0.0.0.0 federalobserver.com
 0.0.0.0 www.federalobserver.com
 0.0.0.0 heavy.com
@@ -6052,3 +6050,7 @@
 0.0.0.0 www.mgshow.locals.com
 0.0.0.0 mg.show
 0.0.0.0 www.mg.show
+0.0.0.0 profundityyours.com
+0.0.0.0 www.profundityyours.com
+0.0.0.0 twc.health
+0.0.0.0 www.twc.health

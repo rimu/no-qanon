@@ -875,7 +875,6 @@
 "*://*.pedogate.world/*",
 "*://*.our.wikileaks.org/*",
 "*://*.infinityexplorers.com/*",
-"*://*.jurneywrites.wordpress.com/*",
 "*://*.federalobserver.com/*",
 "*://*.heavy.com/*",
 "*://*.exploitedrescue.com/*",
@@ -3025,3 +3024,5 @@
 "*://*.eyedropmedia.com/*",
 "*://*.mgshow.locals.com/*",
 "*://*.mg.show/*",
+"*://*.profundityyours.com/*",
+"*://*.twc.health/*",

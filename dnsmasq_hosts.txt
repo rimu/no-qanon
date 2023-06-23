@@ -875,7 +875,6 @@
 0.0.0.0 pedogate.world www.pedogate.world
 0.0.0.0 our.wikileaks.org www.our.wikileaks.org
 0.0.0.0 infinityexplorers.com www.infinityexplorers.com
-0.0.0.0 jurneywrites.wordpress.com www.jurneywrites.wordpress.com
 0.0.0.0 federalobserver.com www.federalobserver.com
 0.0.0.0 heavy.com www.heavy.com
 0.0.0.0 exploitedrescue.com www.exploitedrescue.com
@@ -3031,3 +3030,5 @@
 0.0.0.0 eyedropmedia.com www.eyedropmedia.com
 0.0.0.0 mgshow.locals.com www.mgshow.locals.com
 0.0.0.0 mg.show www.mg.show
+0.0.0.0 profundityyours.com www.profundityyours.com
+0.0.0.0 twc.health www.twc.health
