@@ -3032,3 +3032,8 @@
 0.0.0.0 mg.show www.mg.show
 0.0.0.0 profundityyours.com www.profundityyours.com
 0.0.0.0 twc.health www.twc.health
+0.0.0.0 cassiopaea.org www.cassiopaea.org
+0.0.0.0 cassiopaea.com www.cassiopaea.com
+0.0.0.0 paleochristianity.org www.paleochristianity.org
+0.0.0.0 quantumfuturegroup.org www.quantumfuturegroup.org
+0.0.0.0 montalk.net www.montalk.net
