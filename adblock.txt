@@ -3034,3 +3034,8 @@
 ||mg.show^
 ||profundityyours.com^
 ||twc.health^
+||cassiopaea.org^
+||cassiopaea.com^
+||paleochristianity.org^
+||quantumfuturegroup.org^
+||montalk.net^

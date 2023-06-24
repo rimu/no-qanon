@@ -6054,3 +6054,13 @@
 0.0.0.0 www.profundityyours.com
 0.0.0.0 twc.health
 0.0.0.0 www.twc.health
+0.0.0.0 cassiopaea.org
+0.0.0.0 www.cassiopaea.org
+0.0.0.0 cassiopaea.com
+0.0.0.0 www.cassiopaea.com
+0.0.0.0 paleochristianity.org
+0.0.0.0 www.paleochristianity.org
+0.0.0.0 quantumfuturegroup.org
+0.0.0.0 www.quantumfuturegroup.org
+0.0.0.0 montalk.net
+0.0.0.0 www.montalk.net
