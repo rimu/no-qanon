@@ -3031,3 +3031,4 @@
 "*://*.paleochristianity.org/*",
 "*://*.quantumfuturegroup.org/*",
 "*://*.montalk.net/*",
+"*://*.5dandbeyond.nz/*",

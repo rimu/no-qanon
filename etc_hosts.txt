@@ -6064,3 +6064,5 @@
 0.0.0.0 www.quantumfuturegroup.org
 0.0.0.0 montalk.net
 0.0.0.0 www.montalk.net
+0.0.0.0 5dandbeyond.nz
+0.0.0.0 www.5dandbeyond.nz
