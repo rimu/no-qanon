@@ -3051,3 +3051,8 @@
 0.0.0.0 aulis.com www.aulis.com
 0.0.0.0 tarpley.net www.tarpley.net
 0.0.0.0 cancelthiscompany.com www.cancelthiscompany.com
+0.0.0.0 realitycheck.radio www.realitycheck.radio
+0.0.0.0 madmaxworld.tv www.madmaxworld.tv
+0.0.0.0 realchrissky.com www.realchrissky.com
+0.0.0.0 chrisskyforchange.com www.chrisskyforchange.com
+0.0.0.0 puresocialnetwork.com www.puresocialnetwork.com
