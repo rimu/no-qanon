@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
-# use this script to update all the other files after dnsmasq_hosts.txt is updated
+# script used in the update process
 # e.g.
-# ./update "commit message"
+# ./dedupe adblock_temp.txt >> adblock.txt
 
 cat -n $1 | sort -uk2 | sort -nk1 | cut -f2-
