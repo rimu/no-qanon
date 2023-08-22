@@ -4,11 +4,11 @@ Distributed under the [anti-fascist licence](https://github.com/rimu/no-qanon/bl
 
 ## Hosts format
 
-[Blocklist in Hosts format]https://raw.githubusercontent.com/rimu/no-qanon/master/etc_hosts.txt) to use in a `/etc/hosts` file or pihole.\
+[Blocklist in Hosts format](https://raw.githubusercontent.com/rimu/no-qanon/master/etc_hosts.txt) to use in a `/etc/hosts` file or pihole.\
 [IPV6 version](https://raw.githubusercontent.com/rimu/no-qanon/master/etc_hosts.txt.ipv6).
 
 ### How to install on a Windows computer
-[See these instructions](https://github.com/yui-konnu/qanon-block-guide)
+[See these instructions](https://github.com/yui-konnu/qanon-block-guide).
 
 ### How to install on a PiHole
 [See these instructions](https://www.reddit.com/r/QAnonCasualties/comments/wekhem/how_to_use_pihole_to_block_q_related_websites/). Use the [etc_hosts.txt](https://raw.githubusercontent.com/rimu/no-qanon/master/etc_hosts.txt) version of the No QAnon list with a PiHole.
