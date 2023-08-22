@@ -2397,7 +2397,7 @@
 0.0.0.0 fightchinesevirus.com www.fightchinesevirus.com
 0.0.0.0 saychinesevirus.com www.saychinesevirus.com
 0.0.0.0 warroomisraw.com www.warroomisraw.com
-0.0.0.0 coffeeparty.tv  www.coffeeparty.tv 
+0.0.0.0 coffeeparty.tv www.coffeeparty.tv
 0.0.0.0 freealexjones.com www.freealexjones.com
 0.0.0.0 masksoffusa.com www.masksoffusa.com
 0.0.0.0 pjwmerch.com www.pjwmerch.com
@@ -2595,7 +2595,7 @@
 0.0.0.0 deutschland-kurier.org www.deutschland-kurier.org
 0.0.0.0 xephula.com www.xephula.com
 0.0.0.0 talksos.com www.talksos.com
-0.0.0.0 bastyon.com  www.bastyon.com
+0.0.0.0 bastyon.com www.bastyon.com
 0.0.0.0 safechat.com www.safechat.com
 0.0.0.0 silority.com www.silority.com
 0.0.0.0 solikick.com www.solikick.com
@@ -2654,14 +2654,14 @@
 0.0.0.0 billwhittle.com www.billwhittle.com
 0.0.0.0 slantedright2.blogspot.com www.slantedright2.blogspot.com
 0.0.0.0 academyofideas.com www.academyofideas.com
-0.0.0.0 stoppingsocialism .com www.stoppingsocialism .com
+0.0.0.0 stoppingsocialism www.stoppingsocialism
 0.0.0.0 prageru.com www.prageru.com
 0.0.0.0 cbn.com www.cbn.com
 0.0.0.0 douglasssociety.com www.douglasssociety.com
 0.0.0.0 defiantamerica.com www.defiantamerica.com
-0.0.0.0 thenationalpulse.com  www.thenationalpulse.com
-0.0.0.0 newsbusters.org  www.newsbusters.org
-0.0.0.0 mrc.org  www.mrc.org
+0.0.0.0 thenationalpulse.com www.thenationalpulse.com
+0.0.0.0 newsbusters.org www.newsbusters.org
+0.0.0.0 mrc.org www.mrc.org
 0.0.0.0 world-signals.com www.world-signals.com
 0.0.0.0 laralogan.com www.laralogan.com
 0.0.0.0 nra.org www.nra.org

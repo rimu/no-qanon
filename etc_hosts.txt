@@ -4796,6 +4796,8 @@
 0.0.0.0 www.saychinesevirus.com
 0.0.0.0 warroomisraw.com
 0.0.0.0 www.warroomisraw.com
+0.0.0.0 coffeeparty.tv
+0.0.0.0 www.coffeeparty.tv
 0.0.0.0 freealexjones.com
 0.0.0.0 www.freealexjones.com
 0.0.0.0 masksoffusa.com
@@ -5190,6 +5192,8 @@
 0.0.0.0 www.xephula.com
 0.0.0.0 talksos.com
 0.0.0.0 www.talksos.com
+0.0.0.0 bastyon.com
+0.0.0.0 www.bastyon.com
 0.0.0.0 safechat.com
 0.0.0.0 www.safechat.com
 0.0.0.0 silority.com
@@ -5306,6 +5310,8 @@
 0.0.0.0 www.slantedright2.blogspot.com
 0.0.0.0 academyofideas.com
 0.0.0.0 www.academyofideas.com
+0.0.0.0 stoppingsocialism
+0.0.0.0 www.stoppingsocialism
 0.0.0.0 prageru.com
 0.0.0.0 www.prageru.com
 0.0.0.0 cbn.com
@@ -5314,6 +5320,12 @@
 0.0.0.0 www.douglasssociety.com
 0.0.0.0 defiantamerica.com
 0.0.0.0 www.defiantamerica.com
+0.0.0.0 thenationalpulse.com
+0.0.0.0 www.thenationalpulse.com
+0.0.0.0 newsbusters.org
+0.0.0.0 www.newsbusters.org
+0.0.0.0 mrc.org
+0.0.0.0 www.mrc.org
 0.0.0.0 world-signals.com
 0.0.0.0 www.world-signals.com
 0.0.0.0 laralogan.com
