@@ -12,7 +12,7 @@ cp adblock_header.txt adblock.txt
 /dedupe adblock_temp.txt >> adblock.txt
 rm adblock_temp.txt
 cp adblock_header.txt ublacklist.txt
-/dedupe ublacklist_temp.txt >> ublacklist.txt
+./dedupe ublacklist_temp.txt >> ublacklist.txt
 rm ublacklist_temp.txt
 ./generate-ipv6.sh
 git commit -a -m "$1" && git push
