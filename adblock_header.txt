@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Title: No QAnon
+! Title: No-QAnon
 ! Homepage: https://github.com/rimu/no-qanon
 ! Author: rimu
 ! Expires: 4 days
