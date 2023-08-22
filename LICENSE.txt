@@ -7,11 +7,11 @@ ANTI-FASCIST LICENSE:
 The following conditions must be met by any person obtaining a copy of this
 software:
 
-- You MAY NOT be a fascist or qanon supporter.
+- You MAY NOT be a fascist or QAnon supporter.
 - You MUST not financially support fascists or qanon grifters.
-- You MUST not publicly voice support for fascists or qanon.
+- You MUST not publicly voice support for fascists or QAnon.
 
-"Fascist" or "Qanon supporter" can be understood as any entity which supports radical authoritarian
+"Fascist" or "QAnon supporter" can be understood as any entity which supports radical authoritarian
 nationalism. For example: Donald Trump is a fascist; if you donated to his
 campaign then all rights provided by this license are not granted to you.
 
