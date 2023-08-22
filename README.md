@@ -32,9 +32,8 @@ Distributed under the [anti-fascist licence](https://github.com/rimu/no-qanon/bl
 [Domains list format](https://raw.githubusercontent.com/rimu/no-qanon/master/domains.txt) to use with [Search Engine Spam Blocker](https://github.com/no-cmyk/Search-Engine-Spam-Blocker).
 
 ## How to contribute
-Clone this repository and append new websites at the end of the domains.txt file in this format:
-
-`example.com`
+Clone this repository and append new domains at the end of the `domains.txt` file.\
+For the `https://www.example.com` website, add `example.com`.
 
 Then from the command line run `./update_from_domain "some description"` to automatically generate new versions of all the blocklists and create a git commit. At the end of the script it will attempt to push the commit up to the original repository, which might not work. Do whatever you normally do to create a Pull Request and we will approve it within a couple of days.
 
