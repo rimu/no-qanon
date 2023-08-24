@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+
 #running this script will regenerate the ipv6 versions of the blocklist based on the contents of the IPv4 blocklist in the .txt files
 
 SED=sed
