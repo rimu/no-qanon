@@ -5,21 +5,23 @@ Distributed under the [anti-fascist licence](https://github.com/rimu/no-qanon/bl
 
 ## Hosts format
 
-[Blocklist in Hosts format](https://raw.githubusercontent.com/rimu/no-qanon/master/etc_hosts.txt) to use in a `/etc/hosts` file or pihole.
+[Blocklist in Hosts format](https://raw.githubusercontent.com/rimu/no-qanon/master/hosts.txt) to use in a [hosts](https://en.wikipedia.org/wiki/Hosts_(file)) file or PiHole.
 
-[IPV6 version](https://raw.githubusercontent.com/rimu/no-qanon/master/etc_hosts.txt.ipv6).
+[IPV6 version](https://raw.githubusercontent.com/rimu/no-qanon/master/hosts.txt.ipv6).
 
-### How to install on a Windows computer
-[See these instructions](https://github.com/yui-konnu/qanon-block-guide).
+- [Instructions to install on a Windows computer.](https://github.com/yui-konnu/qanon-block-guide)
 
-### How to install on a PiHole
-[See these instructions](https://www.reddit.com/r/QAnonCasualties/comments/wekhem/how_to_use_pihole_to_block_q_related_websites/). Use the [etc_hosts.txt](https://raw.githubusercontent.com/rimu/no-qanon/master/etc_hosts.txt) version of the No QAnon list with a PiHole.
+- [Instructions to install on a PiHole.](https://www.reddit.com/r/QAnonCasualties/comments/wekhem/how_to_use_pihole_to_block_q_related_websites/)
 
 ## Dnsmasq format
 
-[Blocklist in Dnsmasq format](https://raw.githubusercontent.com/rimu/no-qanon/master/dnsmasq_hosts.txt) to use with the dnsmasq DNS server software.
+[Blocklist in Dnsmasq format](https://raw.githubusercontent.com/rimu/no-qanon/master/dnsmasq_hosts.txt) to use with the [Dnsmasq](https://thekelleys.org.uk/dnsmasq/doc.html) DNS server software.
 
 [IPV6 version](https://raw.githubusercontent.com/rimu/no-qanon/master/dnsmasq_hosts.txt.ipv6).
+
+## Netsane format
+
+[Blocklist in Netsane format](https://raw.githubusercontent.com/rimu/no-qanon/master/netsane.txt) to use with the [Netsane](https://github.com/rgregory/netsane) software.
 
 ## Browser extensions
 
@@ -40,7 +42,7 @@ Clone this repository and append new domains at the end of the `domains.txt` fil
 
 For the `https://www.example.com` website, add `example.com`.
 
-Then from the command line run `./update_from_domain "some description"` to automatically generate new versions of all the blocklists and create a git commit. At the end of the script it will attempt to push the commit up to the original repository, which might not work. Do whatever you normally do to create a Pull Request and we will approve it within a couple of days.
+Then from the command line run `./update "some description"` to automatically generate new versions of all the blocklists and create a git commit. At the end of the script it will attempt to push the commit up to the original repository, which might not work. Do whatever you normally do to create a Pull Request and we will approve it within a couple of days. (Prerequisites : bash, python, git.)
 
 ## Other useful lists
 

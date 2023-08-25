@@ -551,7 +551,7 @@
 0.0.0.0 powerpoliticians.com www.powerpoliticians.com
 0.0.0.0 sovereignman.com www.sovereignman.com
 0.0.0.0 theduran.com www.theduran.com
-0.0.0.0 thegoldandoilguy.com/articles www.thegoldandoilguy.com/articles
+0.0.0.0 thegoldandoilguy.com www.thegoldandoilguy.com
 0.0.0.0 theinformedamerican.net www.theinformedamerican.net
 0.0.0.0 usdefensewatch.com www.usdefensewatch.com
 0.0.0.0 WallStreetOnParade.com www.WallStreetOnParade.com
@@ -1062,7 +1062,6 @@
 0.0.0.0 hateradio.su www.hateradio.su
 0.0.0.0 healthnewsdisclosure.wordpress.com www.healthnewsdisclosure.wordpress.com
 0.0.0.0 quantumfinancialsystem.com www.quantumfinancialsystem.com
-0.0.0.0 com--www.com www.com--www.com
 0.0.0.0 projectcamelotportal.com www.projectcamelotportal.com
 0.0.0.0 wakeup-world.com www.wakeup-world.com
 0.0.0.0 qfs2020.com www.qfs2020.com
@@ -1189,7 +1188,6 @@
 0.0.0.0 reclaimthenet.org www.reclaimthenet.org
 0.0.0.0 heartland.org www.heartland.org
 0.0.0.0 climaterealism.com www.climaterealism.com
-0.0.0.0 blog.heartland.org www.blog.heartland.org
 0.0.0.0 climateataglance.com www.climateataglance.com
 0.0.0.0 stoppingsocialism.com www.stoppingsocialism.com
 0.0.0.0 freedomproject.com www.freedomproject.com
@@ -1208,7 +1206,6 @@
 0.0.0.0 operationq.pub www.operationq.pub
 0.0.0.0 resignation.info www.resignation.info
 0.0.0.0 welovetrump.com www.welovetrump.com
-0.0.0.0 boards.4chan.org www.boards.4chan.org
 0.0.0.0 sachastone.com www.sachastone.com
 0.0.0.0 humanitad.org www.humanitad.org
 0.0.0.0 newearthnations.org www.newearthnations.org
@@ -1593,7 +1590,6 @@
 0.0.0.0 martingedd.es www.martingedd.es
 0.0.0.0 signup.martingeddes.com www.signup.martingeddes.com
 0.0.0.0 captainhindsight.space www.captainhindsight.space
-0.0.0.0 www2qanonbin.com www.www2qanonbin.com
 0.0.0.0 explainlife.com www.explainlife.com
 0.0.0.0 frontlinemds.com www.frontlinemds.com
 0.0.0.0 libertyhangout.org www.libertyhangout.org
@@ -2654,12 +2650,10 @@
 0.0.0.0 billwhittle.com www.billwhittle.com
 0.0.0.0 slantedright2.blogspot.com www.slantedright2.blogspot.com
 0.0.0.0 academyofideas.com www.academyofideas.com
-0.0.0.0 stoppingsocialism www.stoppingsocialism
 0.0.0.0 prageru.com www.prageru.com
 0.0.0.0 cbn.com www.cbn.com
 0.0.0.0 douglasssociety.com www.douglasssociety.com
 0.0.0.0 defiantamerica.com www.defiantamerica.com
-0.0.0.0 thenationalpulse.com www.thenationalpulse.com
 0.0.0.0 newsbusters.org www.newsbusters.org
 0.0.0.0 mrc.org www.mrc.org
 0.0.0.0 world-signals.com www.world-signals.com
@@ -2700,7 +2694,6 @@
 0.0.0.0 nita.one www.nita.one
 0.0.0.0 danielshanemaddox.com www.danielshanemaddox.com
 0.0.0.0 freedomvibe.art www.freedomvibe.art
-0.0.0.0 theconsciousresistance.com www.theconsciousresistance.com
 0.0.0.0 freedomcells.org www.freedomcells.org
 0.0.0.0 thegreaterreset.org www.thegreaterreset.org
 0.0.0.0 veriteouconsequence.com www.veriteouconsequence.com
@@ -2754,7 +2747,6 @@
 0.0.0.0 alpenparlament.tv www.alpenparlament.tv
 0.0.0.0 alpenparlament.com www.alpenparlament.com
 0.0.0.0 martinfrischknecht.com www.martinfrischknecht.com
-0.0.0.0 kopp-verlag.de www.kopp-verlag.de
 0.0.0.0 connectingconsciousnessusa.org www.connectingconsciousnessusa.org
 0.0.0.0 connecting-consciousness.org www.connecting-consciousness.org
 0.0.0.0 connectingconsciousnessafrica.socialwiiv.com www.connectingconsciousnessafrica.socialwiiv.com
@@ -3023,7 +3015,6 @@
 0.0.0.0 beartariatimes.com www.beartariatimes.com
 0.0.0.0 unbearablesmedia.com www.unbearablesmedia.com
 0.0.0.0 tupoc.ca www.tupoc.ca
-0.0.0.0 benjaminfulford.net www.benjaminfulford.net
 0.0.0.0 selfhealbydesign.com www.selfhealbydesign.com
 0.0.0.0 charliefreak.org www.charliefreak.org
 0.0.0.0 soulfreedom.org www.soulfreedom.org
@@ -3082,7 +3073,6 @@
 0.0.0.0 bonsens.info www.bonsens.info
 0.0.0.0 mamanslouves.org www.mamanslouves.org
 0.0.0.0 papasloups.com www.papasloups.com
-0.0.0.0 enfance-libertes.fr www.enfance-libertes.fr
 0.0.0.0 kairospresse.be www.kairospresse.be
 0.0.0.0 covidhub.ch www.covidhub.ch
 0.0.0.0 verity-france.org www.verity-france.org

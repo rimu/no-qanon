@@ -4,13 +4,12 @@
 # e.g.
 # ./update "commit message"
 
-python scripts/domains_to_dnsmasq.py > dnsmasq_hosts.txt
-python scripts/domains_to_etc_hosts.py > etc_hosts.txt
-python scripts/domains_to_adblock.py > adblock_temp.txt
-python scripts/domains_to_ublacklist.py > ublacklist_temp.txt
-python scripts/domains_to_netsane.py > netsane.txt
+python dnsmasq_to_etc_hosts.py > etc_hosts.txt
+python dnsmasq_to_adblock.py > adblock_temp.txt
+python dnsmasq_to_ublacklist.py > ublacklist_temp.txt
+python dnsmasq_to_netsane.py > netsane.txt
 cp adblock_header.txt adblock.txt
-./dedupe adblock_temp.txt >> adblock.txt
+/dedupe adblock_temp.txt >> adblock.txt
 rm adblock_temp.txt
 cp adblock_header.txt ublacklist.txt
 ./dedupe ublacklist_temp.txt >> ublacklist.txt

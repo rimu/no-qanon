@@ -1,6 +1,6 @@
-# this script converts dnsmasq_hosts.txt into a match pattern format used by the uBlacklist extension
-# usage:
-#	python dnsmasq_to_ublacklist.py > ublacklist.txt
+# This script converts domains.txt into a match pattern format used by the uBlacklist browser extension.
+# Usage:
+#	python domains_to_ublacklist.py > ublacklist.txt
 
 text_file = open("domains.txt", "r")
 lines = text_file.readlines()

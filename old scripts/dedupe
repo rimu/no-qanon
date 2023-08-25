@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# script used in the update process
+# Script used in the update process.
 # e.g.
 # ./dedupe adblock_temp.txt >> adblock.txt
 
