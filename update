@@ -5,7 +5,9 @@
 # ./update "commit message"
 
 # Cleanup domains.txt
-sed -i 's/^www.//g' domains.txt
+sed -i 's/^www\.//g' domains.txt
+cat -n domains.txt | sort -uk2 | sort -nk1 | cut -f2- > domains_temp.txt
+mv domains_temp.txt domains.txt
 
 # Generate blocklists from `domains.txt`.
 python scripts/domains_to_hosts.py > hosts.txt
@@ -17,11 +19,11 @@ python scripts/domains_to_netsane.py > netsane.txt
 # Generate browser extension blocklists.
 python scripts/domains_to_adblock.py > adblock_temp.txt
 cp adblock_header.txt adblock.txt
-./scripts/dedupe adblock_temp.txt >> adblock.txt
+cat adblock_temp.txt >> adblock.txt
 rm adblock_temp.txt
 python scripts/domains_to_ublacklist.py > ublacklist_temp.txt
 cp adblock_header.txt ublacklist.txt # Currently using the same adblock header until uBlacklist implements its own header. https://github.com/iorate/ublacklist/issues/351
-./scripts/dedupe ublacklist_temp.txt >> ublacklist.txt
+cat ublacklist_temp.txt >> ublacklist.txt
 rm ublacklist_temp.txt
 
 # Git commit and push.

@@ -1062,7 +1062,6 @@ chronicle.su
 hateradio.su
 healthnewsdisclosure.wordpress.com
 quantumfinancialsystem.com
-com--www.com
 projectcamelotportal.com
 wakeup-world.com
 qfs2020.com
@@ -1591,7 +1590,7 @@ onq.martingeddes.com
 martingedd.es
 signup.martingeddes.com
 captainhindsight.space
-www2qanonbin.com
+qanonbin.com
 explainlife.com
 frontlinemds.com
 libertyhangout.org
