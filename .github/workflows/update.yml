@@ -3,7 +3,7 @@ name: Generate blocklists
 on:
   push:
     branches:
-      - main
+      - master
     paths:
       - 'domains.txt'
   workflow_dispatch:
