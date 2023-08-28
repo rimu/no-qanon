@@ -3122,3 +3122,5 @@
 0.0.0.0 bibliotecapleyades.net www.bibliotecapleyades.net
 0.0.0.0 resistancerepublicaine.com www.resistancerepublicaine.com
 0.0.0.0 rassemblementnational.fr www.rassemblementnational.fr
+0.0.0.0 christiancombaz.com www.christiancombaz.com
+0.0.0.0 les-patriotes.fr www.les-patriotes.fr
