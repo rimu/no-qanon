@@ -42,7 +42,9 @@ Clone this repository and append new domains at the end of the `domains.txt` fil
 
 For the `https://www.example.com` website, add `example.com`.
 
-Then from the command line run `./update "some description"` to automatically generate new versions of all the blocklists and create a git commit. At the end of the script it will attempt to push the commit up to the original repository, which might not work. Do whatever you normally do to create a Pull Request and we will approve it within a couple of days. (Prerequisites : bash, python, git.)
+Then, when you push your changes to the `master` branch, GitHub actions should kick in and automatically generate new versions of the blocklists.
+
+Should you want to generate them yourself, you can run the `./update` script (prerequisites : bash, python, git).
 
 ## Other useful lists
 
