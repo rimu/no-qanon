@@ -1,0 +1,30 @@
+name: Generate blocklists
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'domains.txt'
+  workflow_dispatch:
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python 3.10
+      uses: actions/setup-python@v2
+      with:
+        python-version: "3.10"
+    - name: Run update
+      run: ./update
+    - name: Commit and push
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add -A
+        if git commit -m "data: Generate blocklists"; then
+          git push
+        fi
