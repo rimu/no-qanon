@@ -2,6 +2,8 @@ name: Generate blocklists
 
 on:
   push:
+    branches:
+      - main
     paths:
       - 'domains.txt'
   workflow_dispatch:
@@ -24,6 +26,6 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add -A
-        if git commit -m "data: Generate blocklists"; then
+        if git commit -m "Generate blocklists"; then
           git push
         fi
