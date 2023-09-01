@@ -21,7 +21,7 @@ Distributed under the [anti-fascist licence](https://github.com/rimu/no-qanon/bl
 
 ## Netsane format
 
-[Blocklist in Netsane format](https://raw.githubusercontent.com/rimu/no-qanon/master/netsane.txt) to use with the [Netsane](https://github.com/rgregory/netsane) software.
+[Blocklist in Netsane format](https://raw.githubusercontent.com/rimu/no-qanon/master/netsane.txt) to use with the [Netsane](https://github.com/rimu/netsane) software.
 
 ## Browser extensions
 
