@@ -6242,3 +6242,11 @@
 0.0.0.0 www.energyhealingroom.com
 0.0.0.0 bibliotecapleyades.net
 0.0.0.0 www.bibliotecapleyades.net
+0.0.0.0 resistancerepublicaine.com
+0.0.0.0 www.resistancerepublicaine.com
+0.0.0.0 rassemblementnational.fr
+0.0.0.0 www.rassemblementnational.fr
+0.0.0.0 christiancombaz.com
+0.0.0.0 www.christiancombaz.com
+0.0.0.0 les-patriotes.fr
+0.0.0.0 www.les-patriotes.fr

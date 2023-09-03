@@ -1,7 +1,0 @@
-#!/usr/bin/env bash
-
-# Script used in the update process.
-# e.g.
-# ./dedupe adblock_temp.txt >> adblock.txt
-
-cat -n $1 | sort -uk2 | sort -nk1 | cut -f2-
