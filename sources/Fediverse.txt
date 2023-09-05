@@ -1,0 +1,6 @@
+# Mastodon instances and other fediverse software.
+brighteon.social
+freespeechextremist.com
+gab.ai
+gab.com
+noagendasocial.com

@@ -345,9 +345,6 @@ libertyfederation.com
 returnofkings.com
 semprefamilia.com.br
 therightstuff.biz
-4chan.org
-8chan.org
-8kun.top
 healthimpactnews.com
 checkoutthehealthyworld.com
 healthy-holistic-living.com
@@ -414,8 +411,6 @@ americantoday.news
 bigbluedimension.com
 christiantimesnewspaper.com
 magafeed.com
-gawker.com
-defamer.gawker.com
 megafreshnews.com
 amtvmedia.com
 mediazone.news
@@ -508,7 +503,6 @@ cnsnews.com
 diariodocentrodomundo.com.br
 express.co.uk
 FinancialSurvivalNetwork.com
-jewsnews.co.il
 libertynews.com
 midiasemmascara.org
 nevo.news
@@ -563,12 +557,9 @@ boatos.org
 ultimosegundo.ig.com.br
 asia-pacificresearch.com
 ifyouonlynews.com
-qanon.pub
 neonrevolt.com
 justthenews.com
-theqanons.com
 qposts.online
-gab.com
 bitchute.com
 redpillreports.com
 andweknow.com
@@ -588,18 +579,14 @@ wakeup.icu
 starshipearththebigpicture.com
 dark-to-light.org
 parler.com
-qanonsingles.com
-thinkqanon.com
 jamesredpillsamerica.com
 qmap.pub
 qproofs.com
-qanon.news
 visionlaunch.com
 throughthelookingglassnews.wordpress.com
 deepstatemappingproject.com
 theconservativetreehouse.com
 illuminatimembers.com
-theqanonhub.weebly.com
 joyinliberty.com
 yournewswire.com
 exopolitics.org
@@ -635,7 +622,6 @@ rooshvforum.com
 rooshv.com
 staresattheworld.com
 mattforney.com
-8ch.net
 shop.davidduke.com
 theoccidentalobserver.net
 tradyouth.org
@@ -656,7 +642,6 @@ thelibertydaily.com
 citizenfreepress.com
 trends.gab.com
 freeredpill.com
-whatisqanon.wordpress.com
 greatawakeningmap.co
 stopnewnormal.net
 veilofreality.com
@@ -666,14 +651,12 @@ vidyafrazier.com
 aarondoughty.com
 jakeducey.com
 dianecanfield.com
-qanonnederland.wordpress.com
 gobeyondo.com
 americanthinker.com
 fulcrumnews.com
 lizcrokin.com
 corsination.com
 michaelsalla.com
-qanon41020.wordpress.com
 great-awakening.org
 ourgreatawakening.org
 news.thetrumptimes.com
@@ -692,14 +675,12 @@ wego.social
 thegreatawakeningwwg1wga.com
 wwg1wga.space
 justiceforuswgo.wordpress.com
-qanon.video
 wwg1wga.design.blog
 internationalman.com
 amgreatness.com
 martingeddes.com
 thestorm.martingeddes.com
 wwg1wga.martingeddes.com
-qanon.martingeddes.com
 wwg1wga2020.com
 prayingmedic.com
 jordansather.tv
@@ -768,7 +749,6 @@ theywantyoudead.com
 crystalcityfraud.com
 thewatcherfiles.com
 almightywind.com
-islamlies.com
 blissfulvisions.com
 pcfpc.org
 wetheonepeople.com
@@ -784,7 +764,6 @@ ronaldwederfoort.wordpress.com
 ournewearthnews.com
 galacticfederation-naplesfl.org
 ascension.news
-qanon.fun
 qgear.us
 raptureready.com
 birdclanmessenger.com
@@ -794,8 +773,6 @@ killstream.live
 fdrpodcasts.com
 gameruprising.to
 news.gab.com
-2ch.sc
-5ch.net
 centipedenation.com
 shadowban.eu
 newswars.com
@@ -818,7 +795,6 @@ censored.tv
 proudboysusa.com
 minds.com
 t.me
-gab.ai
 1776.shop
 populistwire.com
 populist.media
@@ -873,7 +849,6 @@ tigerdroppings.com
 stateofthenation2012.com
 truthearth.org
 pedogate.world
-our.wikileaks.org
 infinityexplorers.com
 federalobserver.com
 heavy.com
@@ -901,10 +876,8 @@ limegenocide.blogspot.com
 europe.infowars.com
 jihadwatch.org
 illegalaliencrimereport.com
-exposingislam.blogspot.com
 freebeacon.com
 voiceofeurope.com
-jewwatch.com
 heretical.com
 anp14officialsupporter.wordpress.com
 nationalsocialism.info
@@ -1050,7 +1023,6 @@ americaismyname.org
 midwestpatriotcoalition.com
 patriotvotingcoalition.weebly.com
 qposts.in
-archive.4plebs.org
 theburningplatform.com
 adalightfoot.org
 mewe.com
@@ -1077,7 +1049,6 @@ vanillaskydreamingshop.com
 dylanlouismonroe.com
 prayingmedic.podbean.com
 prayingmedic.us
-qanonfaq.com
 beyondmystic.net
 jennymoonstone.com
 thedailyfodder.com
@@ -1147,7 +1118,7 @@ patriots4truth.org
 aim4truth.org
 amazingpolly.net
 pwa.aim4truth.org
-wikileaks.org
+
 rall.com
 1stamendmenthosting.com
 1stamendment-hosting.com
@@ -1200,7 +1171,6 @@ inteldrops.com
 8stealth.com
 qalerts.net
 qalerts.top
-qanonbin.com
 maga.host
 operationq.top
 operationq.pub
@@ -1223,7 +1193,6 @@ ascensionwithearth.com
 ecstaticascension.com
 roserambles.org
 pointtalkers.com
-5g-emf.com
 blog.nomorefakenews.com
 soulfullheartblog.com
 thetattyjournal.org
@@ -1242,14 +1211,10 @@ renegadebroadcasting.com
 natowarcrimes.wordpress.com
 biblicisminstitute.wordpress.com
 scannedretina.com
-islamicstatewatch.com
-goyimtv.tv
 12160.info
 ussanews.com
 americanfreedomradio.com
 kindlywakethehellup.wordpress.com
-chemtrailsnorthnz.wordpress.com
-chemtrailsplanet.net
 carnicominstitute.org
 californiaskywatch.com
 aboutthesky.com
@@ -1259,7 +1224,6 @@ freedom.social
 lissahumanelife.wordpress.com
 gnosticwarrior.com
 crazzfiles.com
-chemtrails911.com
 drleonardcoldwell.com
 thecrowhouse.com
 brandnewtube.com
@@ -1278,7 +1242,6 @@ thinkchoice.com
 air-photo.com
 furtherglory.wordpress.com
 phdn.org
-qanonanonymous.com
 omegakingdomministry.org
 homecongregations.org
 coreysdigs.com
@@ -1295,7 +1258,6 @@ oann.com
 trendingpolitics.com
 newspunch.com
 redpill78.tv
-media.8kun.top
 riseattireusa.com
 weliveinamadworld.com
 shtfplan.com
@@ -1338,14 +1300,11 @@ flote.app
 vanguardnewsnetwork.com
 kirksvilletoday.com
 historyreviewed.best
-freespeechextremist.com
-noagendasocial.com
 leofrank.org
 nido-del-cuco.blogspot.com
 shitposter.club
 pieville.net
 mstdn.foxfam.club
-kiwifarms.cc
 shpposter.club
 freesoftwareextremist.com
 historyreviewed.com
@@ -1421,14 +1380,12 @@ ourplanet.org
 spiked-online.com
 oneworld.press
 anon.cafe
-9chan.tw
 anoncafe.org
 uncensored.co.nz
 vintologi.com
 vintologi.se
 vintologi.eu
 lolihunter.su
-8kun.net
 etarena.org
 projectcamelot.org
 spherebeingalliance.com
@@ -1501,7 +1458,6 @@ loveangels.be
 news-for-friends.com
 cosmicnews.org
 ho1.us
-jewworldorder.org
 nowhiteguilt.org
 nowhiteguiltcollectibles.com
 amerika.org
@@ -1537,8 +1493,6 @@ pointofagun.blogspot.com
 christopherfountain.com
 enjoymentandcontemplation.wordpress.com
 eternity-matters.com
-kiwifarms.net
-kiwifar.ms
 qupdates.com
 virtualshield.com
 australianpatriotradio.com
@@ -1739,7 +1693,6 @@ initiativecitoyenne.be
 in-storyletter.com
 interetpourtous.com
 investigaction.net
-islamisme.fr
 lagauchematuer.fr
 laminedinfos.fr
 lapressegalactique.com
@@ -1912,12 +1865,8 @@ wearenotsam.com
 emfacts.com
 cellphonetaskforce.org
 saferemr.com
-5gcrisis.com
-whatis5g.info
 bikersfortrump2016.com
-5g.org.nz
 phonegatealert.org
-5gspaceappeal.org
 laurenforcolorado.com
 bikerspac.com
 emf-experts.news
@@ -2139,7 +2088,6 @@ ncswic.blog
 woolstangray.eu
 palbulletin.com
 michaeljpenney.com
-qanon-news.com
 starnationsnews.com
 drsircus.com
 dailyexpose.co.uk
@@ -2152,7 +2100,6 @@ vaccinehoax.com
 eurofolkradio.com
 ppjg.me
 planet-today.com
-donaldjtrump.com
 freeworldnews.tv
 cairnsnews.org
 nutritruth.org
@@ -2382,7 +2329,6 @@ thereconreview.com
 immunitywars.com
 immunitywar.com
 fivegkills.com
-5gdeath.com
 carmdelacreme.com
 stopfauci.com
 timetoopen.com
@@ -2433,7 +2379,6 @@ momsacrossamerica.com
 wfaf.org
 wffa.win
 freedomnews.tv
-truthsocial.com
 tfrc.org.nz
 tapintothetruth.com
 vaccinesafety.info
@@ -2596,7 +2541,6 @@ safechat.com
 silority.com
 solikick.com
 yorespot.com
-brighteon.social
 libertyrush.com
 trumpbookusa.com
 codias.com
@@ -2722,7 +2666,6 @@ soyjak.wiki
 basedjak.party
 soyjak.download
 desuarchive.org
-2ch.sh
 kolyma.net
 g3.kolyma.org
 kncdn.org
@@ -3053,7 +2996,6 @@ cultureetracines.com
 resistance-mondiale.com
 latableronde.over-blog.com
 thepeoplesvoice.tv
-lactionfrancaise.fr
 r7media.fr
 resistance71.wordpress.com
 conseil-scientifique-independant.org
@@ -3121,6 +3063,4 @@ journeysdream.org
 energyhealingroom.com
 bibliotecapleyades.net
 resistancerepublicaine.com
-rassemblementnational.fr
 christiancombaz.com
-les-patriotes.fr
