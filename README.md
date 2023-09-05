@@ -1,4 +1,5 @@
 # No-QAnon
+
 A blocklist of QAnon, conspiracy, fake news, fascist and racist websites.
 
 Distributed under the [anti-fascist licence](https://github.com/rimu/no-qanon/blob/master/LICENSE.txt).
@@ -26,25 +27,38 @@ Distributed under the [anti-fascist licence](https://github.com/rimu/no-qanon/bl
 ## Browser extensions
 
 ### AdBlock Plus syntax
-[Blocklist in AdBlock format](https://raw.githubusercontent.com/rimu/no-qanon/master/adblock.txt) to use with an adblocker ([uBlock Origin](https://ublockorigin.com), [Adguard](https://adguard.com)…) or Adguard Home.
+
+[Blocklist in AdBlock format](https://raw.githubusercontent.com/rimu/no-qanon/master/adblock.txt) to use with an adblocker ([uBlock Origin](https://ublockorigin.com), [Adguard](https://adguard.com)…) or Adguard Home. It uses a [strict blocking rule](https://github.com/gorhill/uBlock/wiki/Strict-blocking) to block access to those sites on your browser.
 
 [Click here to subscribe.](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/rimu/no-qanon/master/adblock.txt&title=No-QAnon)
 
 ### uBlacklist syntax
-[Blocklist in uBlacklist format](https://raw.githubusercontent.com/rimu/no-qanon/master/ublacklist.txt) to use with [uBlacklist](https://github.com/iorate/ublacklist).\
+
+[Blocklist in uBlacklist format](https://raw.githubusercontent.com/rimu/no-qanon/master/ublacklist.txt) to use with [uBlacklist](https://github.com/iorate/ublacklist). It removes blocked sites from search engine results.
+
 [Click here to subscribe.](https://iorate.github.io/ublacklist/subscribe?name=No-QAnon&url=https://raw.githubusercontent.com/rimu/no-qanon/master/ublacklist.txt)
 
 ### Domains list
-[Domains list format](https://raw.githubusercontent.com/rimu/no-qanon/master/domains.txt) to use with [Search Engine Spam Blocker](https://github.com/no-cmyk/Search-Engine-Spam-Blocker).
+
+[Domains list format](https://raw.githubusercontent.com/rimu/no-qanon/master/domains.txt) to use with [Search Engine Spam Blocker](https://github.com/no-cmyk/Search-Engine-Spam-Blocker). It removes blocked sites from search engine results.
 
 ## How to contribute
-Clone this repository and append new domains at the end of the `domains.txt` file.
 
-For the `https://www.example.com` website, add `example.com`.
+Clone this repository and add new domains in the appropriate `.txt` files in the `sources` folder. If you do not want to categorize, just put it in the `sources/default.txt` file and it will be blocked.
 
-Then, when you push your changes to the `master` branch, GitHub actions should kick in and automatically generate new versions of the blocklists.
+> For the `https://www.example.com` website, add `example.com` to the `sources/default.txt` file.
 
-Should you want to generate them yourself, you can run the `./update` script (prerequisites : bash, python, git).
+Then, when you push your changes to the `sources` folder, GitHub actions should kick in and automatically generate new versions of the blocklists. Should you want to generate them yourself, you can run the `scripts/update.sh` script (prerequisites : bash, python, git).
+
+Finally, make a pull request: we'll review and approve it within a few days.
+
+### Categorization
+
+Blocked sites are organized using subfolders and `.txt` files in the `sources` folder. Use markdown (`.md`) files and comments (`#`) to add more information and references.
+
+### How to contribute (easy mode)
+
+If you have no idea how Git works, you can still contribute! Just open an issue with the URLs you would like to add to the list, grouping them by language and categories if possible. We'll check and add them shortly.
 
 ## Other useful lists
 
