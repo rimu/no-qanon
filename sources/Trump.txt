@@ -12,7 +12,6 @@ trumpstore.com
 # Political campaigns
 donaldjtrump.com
 45office.com
-
 # Unsorted
 donaldtrumpnews.co
 trumpvision365.com

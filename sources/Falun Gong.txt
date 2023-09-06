@@ -17,13 +17,11 @@ learnfalungong.in
 learnfalungong.org.au
 es-learnfalungong.com
 faluninfo.net
-
 # The Epoch Times
 theepochtimes.com
 epochtimes.com
 epochtimes.de
 epochtimes.cz
-epochtimes.com
 epochtimes.com.ua
 epochtimes.it
 epochtimes.jp
@@ -41,18 +39,15 @@ epochtimes.kr
 epochtimestr.com
 epochtimes.co.il
 theepochtimes.gr
-theepochtimes.com
 epochtimes.co.kr
 epochtimesbusiness.it
 theepochtimes.es
 epochtimes.es
-
 # Shen Yun
 shenyun.com
 shenyunperformingarts.org
 shenyuncollections.com
 shenyundancer.com
-
 # Minghui
 minghui.org
 mhpublishing.org
