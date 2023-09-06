@@ -249,7 +249,6 @@ dcgazette.com
 denverguardian.com
 departed.co
 diariodobrasil.org
-donaldtrumpnews.co
 drudgereport.com.co
 embols.com
 enabon.com
@@ -288,7 +287,6 @@ stormcloudsgathering.com
 teleguiado.com
 thebostontribune.com
 thereporterz.com
-trumpvision365.com
 unitedmediapublishing.com
 universepolitics.com
 usa2016elections.com
@@ -326,9 +324,6 @@ darkmoon.me
 npiamerica.org
 rothbardbrasil.com
 truthfeed.com
-dailystormer.com
-dailystormer.su
-dailystormer.name
 weev.net
 mpcdot.com
 EUTimes.net
@@ -617,7 +612,6 @@ veteranstoday.com
 talkimag.com
 buchanan.org
 conservative-headlines.com
-stormfront.org
 rooshvforum.com
 rooshv.com
 staresattheworld.com
@@ -633,7 +627,6 @@ alternativeright.com
 altright.com
 unz.com
 rushlimbaugh.com
-trumpsminutemen.org
 nworeport.me
 trendingviews.co
 thepatriotfactor.blogspot.com
@@ -659,7 +652,6 @@ corsination.com
 michaelsalla.com
 great-awakening.org
 ourgreatawakening.org
-news.thetrumptimes.com
 jonsnewplace.wordpress.com
 forbiddenknowledgetv.net
 scarenormal.com
@@ -784,7 +776,6 @@ warriorswaycombatives.com
 beliefnet.com
 reckonin.com
 heritage.org
-trumpknows.com
 cairco.org
 dumpharper.wordpress.com
 attackthesystem.com
@@ -856,10 +847,7 @@ exploitedrescue.com
 anncoulter.com
 anpsympdiv.wixsite.com
 anp14.com
-americannaziparty.com
 atomwaffendivision.org
-dailystormer.red
-thedonald.win
 anp14california.blogspot.com
 pnr.pt
 pegidaoffiziell.wordpress.com
@@ -983,7 +971,6 @@ texasnationalistparty.com
 blackmetalcultrecords.com
 saraacarter.com
 clouthub.com
-theepochtimes.com
 thehornnews.com
 bearingarms.com
 bigleaguepolitics.com
@@ -1109,7 +1096,6 @@ libertyblitzkrieg.com
 twitchy.com
 grassrootsliberty.com
 tenthamendmentcenter.com
-trump.news
 goodgopher.com
 honestfoodguide.org
 programs.naturalnews.com
@@ -1118,7 +1104,6 @@ patriots4truth.org
 aim4truth.org
 amazingpolly.net
 pwa.aim4truth.org
-
 rall.com
 1stamendmenthosting.com
 1stamendment-hosting.com
@@ -1175,7 +1160,6 @@ maga.host
 operationq.top
 operationq.pub
 resignation.info
-welovetrump.com
 sachastone.com
 humanitad.org
 newearthnations.org
@@ -1631,7 +1615,6 @@ thehumanityproject.club
 swiftfire.org
 prymeminister.com
 nickv.uk
-trumpq.uk
 welovecharlie.co.uk
 jordanrachel.com
 geniusbiofeedback.com
@@ -1865,14 +1848,11 @@ wearenotsam.com
 emfacts.com
 cellphonetaskforce.org
 saferemr.com
-bikersfortrump2016.com
 phonegatealert.org
 laurenforcolorado.com
 bikerspac.com
 emf-experts.news
 ratsholecustombikeshows.com
-bikersfortrumppac2020.com
-trumpstoreamerica.com
 saltycrackermerch.com
 5x5.network
 odysee.com
@@ -2508,8 +2488,6 @@ conservativehq.org
 waronfakes.com
 lesdeqodeurs.fr
 pigeonpigetout.fr
-dailystormer.cn
-epochtimes.de
 kopp-verlag.de
 noch.info
 halle-leaks.de
@@ -2542,7 +2520,6 @@ silority.com
 solikick.com
 yorespot.com
 libertyrush.com
-trumpbookusa.com
 codias.com
 1776hq.com
 74millionred.com
@@ -2584,7 +2561,6 @@ gorf.tube
 truetube.media
 patriottv.americafirstpatriot.org
 finaltelegraph.com
-45office.com
 conventionofstates.com
 saveinfowars.com
 resetwars.com
@@ -2740,8 +2716,6 @@ sunnysjournal.com
 nickv.tv
 newearth.blog
 flyoverconservatives.com
-freetrumpcommemorative.com
-freetrumpbox.com
 restoredrepublic.co
 worldtruthvideos.website
 dancingdolphinlove.blogspot.com
@@ -2760,7 +2734,6 @@ a4justice.org
 dinardaily.net
 vernoncoleman.org
 vernoncoleman.com
-dailystormer.in
 freespeech.group
 weekendgunnit.win
 omegacanada.win
@@ -2794,29 +2767,6 @@ medalerts.org
 alternativenews.com
 dailysignal.com
 dailywire.com
-epochtimes.cz
-epochtimes.com
-epochtimes.com.ua
-epochtimes.it
-epochtimes.jp
-epochtimes.fr
-epochtimes.com.br
-epochtimes.ru
-epochtimes-romania.com
-epochtimes.se
-epochtimes.nl
-epochtimes.pl
-epochtimes.bg
-persianepochtimes.com
-kr.theepochtimes.com
-epochtimestr.com
-epochtimes.co.il
-theepochtimes.gr
-epochtimesviet.com
-subscribe.theepochtimes.com
-epochtimes.co.kr
-epochtimesbusiness.it
-es.theepochtimes.com
 naturalnewsblogs.com
 thevaccinereaction.org
 support.naturalnews.com

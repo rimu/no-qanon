@@ -1,7 +1,31 @@
-# Trump-owned businesses https://en.wikipedia.org/wiki/The_Trump_Organization#Related_ventures_and_investments
+# Trump-owned businesses
 trump.com
 tmtgcorp.com
 truthsocial.com
+trumphotels.com
+maralagoclub.com
+trumpgolf.com
+trumpinternationalrealty.com
+trumpwinery.com
+trumpstore.com
 
 # Political campaigns
 donaldjtrump.com
+45office.com
+
+# Unsorted
+donaldtrumpnews.co
+trumpvision365.com
+trumpsminutemen.org
+thetrumptimes.com
+trumpknows.com
+trump.news
+welovetrump.com
+trumpq.uk
+bikersfortrump2016.com
+bikersfortrumppac2020.com
+trumpstoreamerica.com
+trumpbookusa.com
+freetrumpcommemorative.com
+freetrumpbox.com
+thedonald.win
