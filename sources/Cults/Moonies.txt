@@ -25,10 +25,8 @@ federacerodin.cz
 ffwp.hr
 ffwpu.dk
 familyfed.fi
-familyfed.de
 bekehaz.hu
 unification.ie
-federazionefamiglie.org
 italia.upf.org
 fupaix.org
 verenigingsbeweging.nl
@@ -46,32 +44,18 @@ messagesfromspiritworld.info
 unificacionista.com
 familyfedaustralia.org
 unificationcanada.org
-federataefamiljes.org
-bojia-princip.blogspot.com
 um-uk.org
-familyfedcommunity.org.uk
 um-fin.org
 fwu.nl
 tongilgyo-ir.org
-unification.ie
 ffwpu.jp
 ffwp.org
-ffwp.hr
-enhet.no
 swissbbw.ning.com
-familjefederationen.se
-unificacion.org
 unification.org.tw
 samakki.com
-federacerodin.cz
-familyfed.de
-bekehaz.hu
-famfed.org
 familyfednz.org
-federaciarodin.sk
 ffwpu.asn.au
 ipeacetv.com
-history.familyfed.org
 familyfed.eu
 tparents.org
 hphc.org.au
@@ -89,30 +73,25 @@ lily.sunmoon.ac.kr
 # CARP (for students)
 w-carp.cz
 carplife.org
-
 # UPF (for peace)
 upf.org
 upf-spain.org
 upf.sk
 eurasia.upf.org
-italia.upf.org
 france.upf.org
 uk.upf.org
 upf-deutschland.de
 upf.cz
-
 # WFWP (for women)
 wfwp.org
 wfwp-france.org
 wfwp.org.uk
 wfwpaustralia.org
-
 # IAYSP (for young people)
 iaysp.org
 iaysp-france.fr
 yspeace.org
 yspoceania.org
-
 # Won Hwa Do ("official" martial art)
 wonhwado.eu
 wonhwado.ie
