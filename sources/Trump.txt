@@ -8,6 +8,15 @@ trumpgolf.com
 trumpinternationalrealty.com
 trumpwinery.com
 trumpstore.com
+usamemorabilia.com
+
+#Family
+ivankatrump.com
+erictrumpfoundation.com
+melaniatrump.com
+shopdonjr.com
+donjr.com
+trumplive.com.au
 
 # Political campaigns
 donaldjtrump.com

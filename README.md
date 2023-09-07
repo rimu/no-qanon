@@ -1,6 +1,6 @@
 # No-QAnon
 
-A blocklist of QAnon, conspiracy, fake news, fascist and racist websites.
+A domains blocklist of QAnon, conspiracy, fake news, fascist and racist websites.
 
 Distributed under the [anti-fascist licence](https://github.com/rimu/no-qanon/blob/master/LICENSE.txt).
 
@@ -13,6 +13,8 @@ Distributed under the [anti-fascist licence](https://github.com/rimu/no-qanon/bl
 - [Instructions to install on a Windows computer.](https://github.com/yui-konnu/qanon-block-guide)
 
 - [Instructions to install on a PiHole.](https://www.reddit.com/r/QAnonCasualties/comments/wekhem/how_to_use_pihole_to_block_q_related_websites/)
+
+Known issue: Firefox's DNS over HTTPS option bypasses the computer's hosts file ruleset. https://bugzilla.mozilla.org/show_bug.cgi?id=1453207
 
 ## Dnsmasq format
 
