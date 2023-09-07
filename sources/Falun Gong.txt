@@ -16,7 +16,9 @@ learnfalungong.kr
 learnfalungong.in
 learnfalungong.org.au
 es-learnfalungong.com
+learnfalungong.org.au
 faluninfo.net
+
 # The Epoch Times
 theepochtimes.com
 epochtimes.com
@@ -43,6 +45,9 @@ epochtimes.co.kr
 epochtimesbusiness.it
 theepochtimes.es
 epochtimes.es
+es.theepochtimes.com
+kr.theepochtimes.com
+subscribe.theepochtimes.com
 # Shen Yun
 shenyun.com
 shenyunperformingarts.org

@@ -8,3 +8,6 @@
 2ch.sh
 9chan.tw
 4plebs.org
+archive.4plebs.org
+boards.4chan.org
+media.8kun.top
