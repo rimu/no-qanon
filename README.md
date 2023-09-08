@@ -1,8 +1,10 @@
 # No-QAnon
 
-A domains blocklist of QAnon, conspiracy, fake news, fascist and racist websites.
+An anti-fascist domains blocklist of QAnon, conspiracy, fake news, far-right and discriminatory websites.
 
 Distributed under the [anti-fascist licence](https://github.com/rimu/no-qanon/blob/master/LICENSE.txt).
+
+A domains blocklist only blocks entire websites: it's unfortunately unable to block anything on social media where radicalization often happens. It will still definitely reduce exposition to harmful information. Fascists prey on the vulnerable so stay vigilant and consider also using a social media blocklist if needed.
 
 ## Hosts format
 
@@ -64,8 +66,8 @@ If you have no idea how Git works, you can still contribute! Just open an issue 
 
 ## Other useful lists
 
-[Jmdugan Blocklists](https://github.com/jmdugan/blocklists/tree/master/corporations) and consider blocking Twitter, YouTube and Facebook since they publish to many fakenews.
+[Jmdugan Blocklists](https://github.com/jmdugan/blocklists/tree/master/corporations): consider blocking Twitter, YouTube and Facebook since they publish so many fake news.
 
-[Antifa-n Blocklist](https://github.com/antifa-n/pihole/blob/master/blocklist.txt) is a great blocklist also, focused more on fascist sites.
+[Antifa-n Blocklist](https://github.com/antifa-n/pihole/blob/master/blocklist.txt) is also a great blocklist focused on fascist sites.
 
-[Bypass Methods Blocklist](https://github.com/nextdns/metadata/blob/master/parentalcontrol/bypass-methods) can be used to block bypass methods - VPNs, proxies, DNS, etc.
+[Bypass Methods Blocklist](https://github.com/nextdns/metadata/blob/master/parentalcontrol/bypass-methods) can be used to block bypass methods (VPNs, proxies, DNS, etc.).

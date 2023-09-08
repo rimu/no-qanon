@@ -1637,7 +1637,6 @@ astucesnaturelles.net
 astuce-story.com
 bestsante.co
 bestsante.com
-breizatao.com
 breizh-info.com
 brujitafr.fr
 businessbourse.com
@@ -2878,11 +2877,9 @@ joebiden.news
 harvest.news
 jellyfish.news
 battleplan.news
-vaccinedamage.news
 vigilant.news
 americasvoice.news
 westernstandard.news
-vaccines.news
 environ.news
 pesticides.news
 naturalmedicine.news
@@ -2949,14 +2946,12 @@ thepeoplesvoice.tv
 r7media.fr
 resistance71.wordpress.com
 conseil-scientifique-independant.org
-reinfocovid.fr
 reinfosante.fr
 reinfoliberte.fr
 syndicat-liberte-sante.com
 contrepropagande.fr
 collectifdesantepediatrique.fr
 csl.ovh
-stopcovid19.today
 enfance-libertes.fr
 educationpourlebiendesenfants.fr
 covisoins.fr
@@ -2966,7 +2961,6 @@ bonsens.info
 mamanslouves.org
 papasloups.com
 kairospresse.be
-covidhub.ch
 verity-france.org
 soignants-suspendus.fr
 les-collectifs-unis.info
@@ -3017,3 +3011,5 @@ christiancombaz.com
 blog.heartland.org
 tpaust.com.au
 theaussiewire.com.au
+lecourrierdesstrateges.fr
+bam.news
