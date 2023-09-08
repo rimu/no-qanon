@@ -27,8 +27,10 @@ mv domains_temp.txt domains.txt
 ## From the domain list.
 python scripts/domains_to_hosts.py > hosts.txt
 python scripts/domains_to_hosts_ipv6.py > hosts.txt.ipv6
-python scripts/domains_to_netsane.py > netsane.txt
+python domains_to_regex.py > regex.txt
+
 ## For browser extensions.
+python scripts/domains_to_netsane.py > netsane.txt
 python scripts/domains_to_adblock.py > adblock_temp.txt
 cp adblock_header.txt adblock.txt
 cat adblock_temp.txt >> adblock.txt

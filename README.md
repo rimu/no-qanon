@@ -24,11 +24,11 @@ Known issue: Firefox's DNS over HTTPS option bypasses the computer's hosts file 
 
 [IPV6 version](https://raw.githubusercontent.com/rimu/no-qanon/master/dnsmasq_hosts.txt.ipv6).
 
-## Netsane format
+## Browser extensions
+
+### Netsane format
 
 [Blocklist in Netsane format](https://raw.githubusercontent.com/rimu/no-qanon/master/netsane.txt) to use with the [Netsane](https://github.com/rimu/netsane) software.
-
-## Browser extensions
 
 ### AdBlock Plus syntax
 
