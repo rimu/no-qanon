@@ -550,7 +550,6 @@
 0.0.0.0 libertyfederation.com www.libertyfederation.com
 0.0.0.0 returnofkings.com www.returnofkings.com
 0.0.0.0 semprefamilia.com.br www.semprefamilia.com.br
-0.0.0.0 therightstuff.biz www.therightstuff.biz
 0.0.0.0 healthimpactnews.com www.healthimpactnews.com
 0.0.0.0 checkoutthehealthyworld.com www.checkoutthehealthyworld.com
 0.0.0.0 healthy-holistic-living.com www.healthy-holistic-living.com
@@ -2326,7 +2325,6 @@
 0.0.0.0 johnplatinumgoss.com www.johnplatinumgoss.com
 0.0.0.0 teamtuckercarlson.com www.teamtuckercarlson.com
 0.0.0.0 leftlockdownsceptics.com www.leftlockdownsceptics.com
-0.0.0.0 patriotfront.us www.patriotfront.us
 0.0.0.0 stateofthenation.co www.stateofthenation.co
 0.0.0.0 greataustralianparty.com.au www.greataustralianparty.com.au
 0.0.0.0 hugotalks.com www.hugotalks.com
@@ -3283,7 +3281,10 @@
 0.0.0.0 rassemblementnational.fr www.rassemblementnational.fr
 0.0.0.0 lactionfrancaise.fr www.lactionfrancaise.fr
 0.0.0.0 actionfrancaise.net www.actionfrancaise.net
+0.0.0.0 therightstuff.biz www.therightstuff.biz
 0.0.0.0 americannaziparty.com www.americannaziparty.com
+0.0.0.0 nationaljusticeparty.com www.nationaljusticeparty.com
+0.0.0.0 patriotfront.us www.patriotfront.us
 0.0.0.0 dailystormer.red www.dailystormer.red
 0.0.0.0 dailystormer.cn www.dailystormer.cn
 0.0.0.0 dailystormer.in www.dailystormer.in
