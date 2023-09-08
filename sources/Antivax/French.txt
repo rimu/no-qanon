@@ -6,6 +6,5 @@ stopcovid19.today
 estcequejemevaccine.eu
 covisoins.be
 covidrationnel.be
-
 # Switzerland
 covidhub.ch
