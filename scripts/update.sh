@@ -27,7 +27,7 @@ mv domains_temp.txt domains.txt
 ## From the domain list.
 python scripts/domains_to_hosts.py > hosts.txt
 python scripts/domains_to_hosts_ipv6.py > hosts.txt.ipv6
-python scripts/domains_to_regex.py > regex.txt
+python scripts/domains_to_dnsmasq.py > dnsmasq.txt
 
 ## For browser extensions.
 python scripts/domains_to_netsane.py > netsane.txt
