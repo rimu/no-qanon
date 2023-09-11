@@ -3,6 +3,5 @@ aum-internet.org
 
 # Aleph
 aleph.to
-
 # Hikari no wa
 joyu.jp

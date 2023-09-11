@@ -4,7 +4,6 @@
 francoisasselineau.fr
 upr.fr
 boutique.upr.fr
-
 # Jacques Cheminade, Solidarité et Progrès
 # Promoteur français de Lyndon LaRouche
 solidariteetprogres.org
