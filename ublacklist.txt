@@ -3230,6 +3230,7 @@
 *://*.theaussiewire.com.au/*
 *://*.lecourrierdesstrateges.fr/*
 *://*.bam.news/*
+*://*.exorcist.org.nz/*
 *://*.briefingsforbritain.co.uk/*
 *://*.policier.ch/*
 *://*.miljobs.ch/*

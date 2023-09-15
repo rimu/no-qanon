@@ -3223,6 +3223,7 @@ address=/tpaust.com.au/
 address=/theaussiewire.com.au/
 address=/lecourrierdesstrateges.fr/
 address=/bam.news/
+address=/exorcist.org.nz/
 address=/briefingsforbritain.co.uk/
 address=/policier.ch/
 address=/miljobs.ch/

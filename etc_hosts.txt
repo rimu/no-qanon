@@ -6448,6 +6448,8 @@
 0.0.0.0 www.lecourrierdesstrateges.fr
 0.0.0.0 bam.news
 0.0.0.0 www.bam.news
+0.0.0.0 exorcist.org.nz
+0.0.0.0 www.exorcist.org.nz
 0.0.0.0 briefingsforbritain.co.uk
 0.0.0.0 www.briefingsforbritain.co.uk
 0.0.0.0 policier.ch
