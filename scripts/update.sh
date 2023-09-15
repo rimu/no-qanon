@@ -26,8 +26,9 @@ mv domains_temp.txt domains.txt
 # Generate blocklists:
 ## From the domain list.
 python scripts/domains_to_hosts.py > hosts.txt
+cp hosts.txt etc_hosts.txt # Previous filename for PiHole installations still subscribed to the old url.
 python scripts/domains_to_hosts_ipv6.py > hosts.txt.ipv6
-python scripts/domains_to_regex.py > regex.txt
+python scripts/domains_to_dnsmasq.py > dnsmasq.txt
 
 ## For browser extensions.
 python scripts/domains_to_netsane.py > netsane.txt

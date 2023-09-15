@@ -20,6 +20,8 @@ trumplive.com.au
 # Political campaigns
 donaldjtrump.com
 45office.com
+# PAC
+magapac.com
 # Unsorted
 donaldtrumpnews.co
 trumpvision365.com
@@ -37,3 +39,5 @@ freetrumpcommemorative.com
 freetrumpbox.com
 thedonald.win
 news.thetrumptimes.com
+# Probably fake stores
+officialtrump2024store.com

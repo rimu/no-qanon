@@ -1,0 +1,5 @@
+# Provide services to bad actors.
+# Epik: hosting far-right websites that have been denied service by other Internet service providers https://en.wikipedia.org/wiki/Epik
+epik.com
+# The Campaign Company: director Jordan Williams, co-founder of the Taxpayers' Union, manages digital campaigns for Hobson's Pledge https://www.rnz.co.nz/news/in-depth/496933/astroturf-accusations-over-we-belong-website-run-by-anti-co-governance-group
+campaign.company

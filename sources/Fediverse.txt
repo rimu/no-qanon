@@ -1,6 +1,9 @@
 # Mastodon instances and other fediverse software.
 brighteon.social
-freespeechextremist.com
+noagendasocial.com
+# "Free speech"
 gab.ai
 gab.com
-noagendasocial.com
+freespeechextremist.com
+# TERF
+spinster.xyz

@@ -1,0 +1,6 @@
+# Groupe Bolloré
+bollore.com
+# Médias
+cnews.fr
+# Canal +, in the list but commented because it might be disruptive for users. Currently not a major propaganda channel.
+# canalplus.com
