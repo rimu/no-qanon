@@ -46,10 +46,17 @@
 ||democratieparticipative.eu^
 ||democratieparticipative.be^
 ||participatieve-democratie.be^
-||therightstuff.biz^
+||der-dritte-weg.info^
+||asatru.de^
+||die-heimat.de^
+||die-rechte.net^
+||apfeurope.eu^
 ||americannaziparty.com^
 ||nationaljusticeparty.com^
 ||patriotfront.us^
+||nsm88.org^
+||nsm88records.com^
+||nsjap.com^
 ||dailystormer.red^
 ||dailystormer.cn^
 ||dailystormer.in^
@@ -62,6 +69,8 @@
 ||dailystormer.ws^
 ||dailystormer.top^
 ||stormfront.org^
+||autonom.pl^
+||therightstuff.biz^
 ||qanon.pub^
 ||theqanons.com^
 ||qanonsingles.com^
@@ -185,6 +194,8 @@
 ||warmongrels.com^
 ||les-patriotes.fr^
 ||rassemblementnational.fr^
+||comitejeanne54.wordpress.com^
+||jeanmarielepen.com^
 ||parti-reconquete.fr^
 ||ericzemmour.fr^
 ||marionmarechal.info^
@@ -1537,8 +1548,6 @@
 ||leagueofthesouth.com^
 ||mjolnirmagazine.blogspot.com^
 ||britishdemocrats.uk^
-||nsm88.org^
-||nsm88records.com^
 ||national-justice.com^
 ||nationalistwomensfront.org^
 ||nationalist.ca^
@@ -3257,6 +3266,7 @@
 ||raf.mod.uk^
 ||recruiting.army.mil^
 ||goarmy.com^
+||aao25.com^
 ||joinlapd.com^
 ||bat.com^
 ||batme.com^
