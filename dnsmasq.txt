@@ -163,6 +163,7 @@ address=/voiceforscienceandsolidarity.org/
 address=/voiceforscienceandsolidarity.substack.com/
 address=/vaccinedamage.news/
 address=/vaccines.news/
+address=/thehealthforumnz.co.nz/
 address=/artsencollectief.nl/
 address=/5g-emf.com/
 address=/5gcrisis.com/

@@ -328,6 +328,8 @@
 0.0.0.0 www.vaccinedamage.news
 0.0.0.0 vaccines.news
 0.0.0.0 www.vaccines.news
+0.0.0.0 thehealthforumnz.co.nz
+0.0.0.0 www.thehealthforumnz.co.nz
 0.0.0.0 artsencollectief.nl
 0.0.0.0 www.artsencollectief.nl
 0.0.0.0 5g-emf.com
