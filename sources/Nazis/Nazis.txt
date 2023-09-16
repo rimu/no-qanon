@@ -1,9 +1,22 @@
-therightstuff.biz
+# Germany
+der-dritte-weg.info
+asatru.de
+die-heimat.de
+die-rechte.net
 
-# "I Hate Illinois Nazis."
+# Europe
+apfeurope.eu
+
+# USA "I Hate Illinois Nazis."
 americannaziparty.com
 nationaljusticeparty.com
 patriotfront.us
+nsm88.org
+nsm88records.com
+
+# Japan
+nsjap.com
+
 # The Daily Stormer
 dailystormer.red
 dailystormer.cn
@@ -16,5 +29,13 @@ punishedstormer.com
 dailystormer.ai
 dailystormer.ws
 dailystormer.top
+
 # Stormfront
 stormfront.org
+
+# Autonomous Nationalists (Nazis who have adopted some of the far-left and Antifa's organizational concepts (autonomous activism), demonstration tactics (black bloc), symbolism, and elements of clothing, including Che Guevara T-shirts and keffiyehs.)
+## Poland
+autonom.pl
+
+# Unsorted
+therightstuff.biz

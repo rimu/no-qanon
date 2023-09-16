@@ -4,6 +4,8 @@ An anti-fascist domains blocklist of QAnon, conspiracy, fake news, far-right and
 
 Distributed under the [anti-fascist licence](https://github.com/rimu/no-qanon/blob/master/LICENSE.txt).
 
+By blocking the websites linked to hate groups and bad actors, it aims to defuse propaganda and slow the spread of false informations (psyops, astroturfing).
+
 A domains blocklist only blocks entire websites: it's unfortunately unable to block anything on social media where radicalization often happens. It will still definitely reduce exposition to harmful information. Fascists prey on the vulnerable so stay vigilant and consider also using a social media blocklist if needed.
 
 ## Hosts format

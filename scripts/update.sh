@@ -7,9 +7,9 @@
 # Cleanup sources:
 ## Remove `www.` subdomains.
 find ./sources -type f -name "*.txt" -exec sed -i 's/^www\.//i' {} \;
-## Remove duplicates from each source file. (TO DO: keep "duplicate" line jumps and comments)
+## Remove duplicate domains from each source file (keeps repeated comments and empty lines for organization).
 find ./sources -type f -name "*.txt" -exec bash -c '
-    cat -n "$0" | sort -uk2 | sort -nk1 | cut -f2- > "$0_temp.txt";
+    awk "(\$0 ~ /^#/ || NF == 0 || !seen[\$0]++)" "$0" > "$0_temp.txt";
     mv "$0_temp.txt" "$0";
 ' {} \;
 
