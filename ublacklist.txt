@@ -609,10 +609,7 @@
 *://*.presidentialvoting2016.com/*
 *://*.weeklystandard.com/*
 *://*.attn.com/*
-*://*.commondreams.org/*
 *://*.dailycaller.com/*
-*://*.dailykos.com/*
-*://*.rawstory.com/*
 *://*.redstate.com/*
 *://*.theblaze.com/*
 *://*.deadlinelive.info/*
@@ -669,8 +666,8 @@
 *://*.readynutrition.com/*
 *://*.thepoliticalcesspool.com/*
 *://*.americanblog.com/*
-*://*.BadSquad.com/*
-*://*.ComingDepression.com/*
+*://*.badsquad.com/*
+*://*.comingdepression.com/*
 *://*.conservativefrontline.com/*
 *://*.conservativeheadlines.com/*
 *://*.dailynewspolitic.com/*
