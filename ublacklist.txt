@@ -186,6 +186,11 @@
 *://*.vaccines.news/*
 *://*.thehealthforumnz.co.nz/*
 *://*.artsencollectief.nl/*
+*://*.discovery.org/*
+*://*.iscid.org/*
+*://*.ideacenter.org/*
+*://*.c4id.org.uk/*
+*://*.truthinscience.org.uk/*
 *://*.5g-emf.com/*
 *://*.5gcrisis.com/*
 *://*.whatis5g.info/*
@@ -197,6 +202,7 @@
 *://*.nichegamer.com/*
 *://*.destructivecreations.com/*
 *://*.warmongrels.com/*
+*://*.renaud-camus.net/*
 *://*.les-patriotes.fr/*
 *://*.rassemblementnational.fr/*
 *://*.comitejeanne54.wordpress.com/*
@@ -235,6 +241,10 @@
 *://*.kiwifarms.cc/*
 *://*.kiwifarms.net/*
 *://*.kiwifar.ms/*
+*://*.civitas-institut.com/*
+*://*.civitas-belgique.be/*
+*://*.movcivitas.pt/*
+*://*.chick.com/*
 *://*.chemtrailsnorthnz.wordpress.com/*
 *://*.chemtrailsplanet.net/*
 *://*.chemtrails911.com/*
