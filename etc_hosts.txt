@@ -168,6 +168,8 @@
 0.0.0.0 www.millionmarch4children.squarespace.com
 0.0.0.0 1millionmarch4children.com
 0.0.0.0 www.1millionmarch4children.com
+0.0.0.0 gaysagainstgroomers.ca
+0.0.0.0 www.gaysagainstgroomers.ca
 0.0.0.0 gaysagainstgroomers.com
 0.0.0.0 www.gaysagainstgroomers.com
 0.0.0.0 jkrowling.com

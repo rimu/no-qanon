@@ -83,6 +83,7 @@ address=/qanon-news.com/
 address=/handsoffourkids.ca/
 address=/millionmarch4children.squarespace.com/
 address=/1millionmarch4children.com/
+address=/gaysagainstgroomers.ca/
 address=/gaysagainstgroomers.com/
 address=/jkrowling.com/
 address=/stories.jkrowling.com/
