@@ -162,6 +162,12 @@
 0.0.0.0 www.qanonanonymous.com
 0.0.0.0 qanon-news.com
 0.0.0.0 www.qanon-news.com
+0.0.0.0 handsoffourkids.ca
+0.0.0.0 www.handsoffourkids.ca
+0.0.0.0 millionmarch4children.squarespace.com
+0.0.0.0 www.millionmarch4children.squarespace.com
+0.0.0.0 1millionmarch4children.com
+0.0.0.0 www.1millionmarch4children.com
 0.0.0.0 jkrowling.com
 0.0.0.0 www.jkrowling.com
 0.0.0.0 stories.jkrowling.com
