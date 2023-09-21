@@ -22,9 +22,7 @@ Known issue: Firefox's DNS over HTTPS option bypasses the computer's hosts file 
 
 ## Dnsmasq format
 
-[Blocklist in Dnsmasq format](https://raw.githubusercontent.com/rimu/no-qanon/master/dnsmasq_hosts.txt) to use with the [Dnsmasq](https://thekelleys.org.uk/dnsmasq/doc.html) DNS server software.
-
-[IPV6 version](https://raw.githubusercontent.com/rimu/no-qanon/master/dnsmasq_hosts.txt.ipv6).
+[Blocklist in Dnsmasq format](https://raw.githubusercontent.com/rimu/no-qanon/master/dnsmasq.txt) to use with the [Dnsmasq](https://thekelleys.org.uk/dnsmasq/doc.html) DNS server software.
 
 ## Browser extensions
 
@@ -64,7 +62,7 @@ Blocked sites are organized using subfolders and `.txt` files in the `sources` f
 
 ### How to contribute (easy mode)
 
-If you have no idea how Git works, you can still contribute! Just open an issue with the URLs you would like to add to the list, grouping them by language and categories if possible. We'll check and add them shortly.
+If you have no idea how Git works, you can still contribute! Just [open an issue](https://github.com/rimu/no-qanon/issues) with the URLs you would like to add to the list, grouping them by language and categories if possible. We'll check and add them shortly.
 
 ## Other useful lists
 
