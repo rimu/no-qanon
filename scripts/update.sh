@@ -5,11 +5,11 @@
 # ./scripts/update.sh
 
 # Cleanup sources:
-## Remove `www.` subdomains.
-find ./sources -type f -name "*.txt" -exec sed -i 's/^www\.//i' {} \;
+## Normalizes URLs into domains: lowercases, remove leading spaces, protocol (`x://`) `www.` subdomains, everything after `/`. Keeps comments intact.
+find ./sources -type f -name "*.txt" -exec sed -ri 'h; s/[^#]*//1; x; s/#.*//; s/.*/\L&/; s/^[[:space:]]*//i; s/^.*:\/\///i; s/^www\.//i; s/\/[^[:space:]]*//i; G; s/(.*)\n/\1/' {} \;
 ## Remove duplicate domains from each source file (keeps repeated comments and empty lines for organization).
 find ./sources -type f -name "*.txt" -exec bash -c '
-    awk "(\$0 ~ /^#/ || NF == 0 || !seen[\$0]++)" "$0" > "$0_temp.txt";
+    awk "(\$0 ~ /^[[:space:]]*#/ || NF == 0 || !seen[\$0]++)" "$0" > "$0_temp.txt";
     mv "$0_temp.txt" "$0";
 ' {} \;
 
@@ -19,8 +19,8 @@ find ./sources -type f -name "*.txt" -exec cat {} \; > domains.txt
 # Cleanup the domain list:
 ## Remove comments, inline comments, spaces and empty lines.
 sed -i '/^#/d; s/#.*//; s/ //g; /^ *$/d' domains.txt
-## Remove duplicates.
-cat -n domains.txt | sort -uk2 | sort -nk1 | cut -f2- > domains_temp.txt
+## Sort and remove duplicates.
+sort -u domains.txt > domains_temp.txt
 mv domains_temp.txt domains.txt
 
 # Generate blocklists:
