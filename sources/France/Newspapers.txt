@@ -4,7 +4,7 @@ franc-tireur.fr
 valeursactuelles.com
 lincorrect.org
 minute-hebdo.fr
-https://www.causeur.fr/
+causeur.fr
 
 # Web only
 bvoltaire.fr

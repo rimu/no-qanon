@@ -830,6 +830,8 @@
 0.0.0.0 www.blog.libertasbella.com
 0.0.0.0 blog.nomorefakenews.com
 0.0.0.0 www.blog.nomorefakenews.com
+0.0.0.0 blogrioufol.com
+0.0.0.0 www.blogrioufol.com
 0.0.0.0 blogs.ne10.uol.com.br
 0.0.0.0 www.blogs.ne10.uol.com.br
 0.0.0.0 bloodandhonour.com
@@ -1040,6 +1042,10 @@
 0.0.0.0 www.carmdelacreme.com
 0.0.0.0 carnicominstitute.org
 0.0.0.0 www.carnicominstitute.org
+0.0.0.0 carolinefourest.com
+0.0.0.0 www.carolinefourest.com
+0.0.0.0 carolinefourest.wordpress.com
+0.0.0.0 www.carolinefourest.wordpress.com
 0.0.0.0 carolynyeager.com
 0.0.0.0 www.carolynyeager.com
 0.0.0.0 carolynyeager.net
@@ -1052,6 +1058,8 @@
 0.0.0.0 www.cassiopaea.org
 0.0.0.0 cathyfox.wordpress.com
 0.0.0.0 www.cathyfox.wordpress.com
+0.0.0.0 causeur.fr
+0.0.0.0 www.causeur.fr
 0.0.0.0 cbn.com
 0.0.0.0 www.cbn.com
 0.0.0.0 cbsnews.com.co
@@ -1918,6 +1926,8 @@
 0.0.0.0 www.empireherald.com
 0.0.0.0 empirenews.net
 0.0.0.0 www.empirenews.net
+0.0.0.0 en-marche.fr
+0.0.0.0 www.en-marche.fr
 0.0.0.0 en-volve.com
 0.0.0.0 www.en-volve.com
 0.0.0.0 en.kremlin.ru
@@ -2064,6 +2074,8 @@
 0.0.0.0 www.europe-israel.org
 0.0.0.0 europe.infowars.com
 0.0.0.0 www.europe.infowars.com
+0.0.0.0 europe1.fr
+0.0.0.0 www.europe1.fr
 0.0.0.0 europereloaded.com
 0.0.0.0 www.europereloaded.com
 0.0.0.0 euthanasia.news
@@ -2290,6 +2302,8 @@
 0.0.0.0 www.folhadopovo.com
 0.0.0.0 folhapolitica.org
 0.0.0.0 www.folhapolitica.org
+0.0.0.0 fondationlejeune.org
+0.0.0.0 www.fondationlejeune.org
 0.0.0.0 food.news
 0.0.0.0 www.food.news
 0.0.0.0 foodbabe.com
@@ -2346,6 +2360,8 @@
 0.0.0.0 www.fracking.news
 0.0.0.0 framix.fr
 0.0.0.0 www.framix.fr
+0.0.0.0 franc-tireur.fr
+0.0.0.0 www.franc-tireur.fr
 0.0.0.0 francaisdefrance.wordpress.com
 0.0.0.0 www.francaisdefrance.wordpress.com
 0.0.0.0 france.upf.org
@@ -2470,6 +2486,8 @@
 0.0.0.0 www.frenlyfrens.com
 0.0.0.0 freresdissidents.com
 0.0.0.0 www.freresdissidents.com
+0.0.0.0 frigidebarjot.com
+0.0.0.0 www.frigidebarjot.com
 0.0.0.0 fringeculture.home.blog
 0.0.0.0 www.fringeculture.home.blog
 0.0.0.0 fromthetrenchesworldreport.com
@@ -3404,6 +3422,8 @@
 0.0.0.0 www.ladssociety.com
 0.0.0.0 lagauchematuer.fr
 0.0.0.0 www.lagauchematuer.fr
+0.0.0.0 lamanifpourtous.fr
+0.0.0.0 www.lamanifpourtous.fr
 0.0.0.0 lamarinerecrute.fr
 0.0.0.0 www.lamarinerecrute.fr
 0.0.0.0 laminedinfos.fr
@@ -3476,6 +3496,8 @@
 0.0.0.0 www.legion-recrute.com
 0.0.0.0 legitgov.org
 0.0.0.0 www.legitgov.org
+0.0.0.0 lejdd.fr
+0.0.0.0 www.lejdd.fr
 0.0.0.0 lejeune-academie.com
 0.0.0.0 www.lejeune-academie.com
 0.0.0.0 lelibrepenseur.org
@@ -3488,6 +3510,8 @@
 0.0.0.0 www.leofrank.org
 0.0.0.0 leohohmann.com
 0.0.0.0 www.leohohmann.com
+0.0.0.0 lepcd.fr
+0.0.0.0 www.lepcd.fr
 0.0.0.0 leral.net
 0.0.0.0 www.leral.net
 0.0.0.0 les-collectifs-unis.info
@@ -3520,6 +3544,8 @@
 0.0.0.0 www.lessurvivants.com
 0.0.0.0 lessurvivantsroadshow.com
 0.0.0.0 www.lessurvivantsroadshow.com
+0.0.0.0 lesyndicatdelafamille.fr
+0.0.0.0 www.lesyndicatdelafamille.fr
 0.0.0.0 letopdelhumour.fr
 0.0.0.0 www.letopdelhumour.fr
 0.0.0.0 letsbfree.com
@@ -3588,6 +3614,8 @@
 0.0.0.0 www.limegenocide.blogspot.com
 0.0.0.0 limitlesstruth.com
 0.0.0.0 www.limitlesstruth.com
+0.0.0.0 lincorrect.org
+0.0.0.0 www.lincorrect.org
 0.0.0.0 linyoathkeepers.org
 0.0.0.0 www.linyoathkeepers.org
 0.0.0.0 lipstick-and-war-crimes.org
@@ -3844,6 +3872,8 @@
 0.0.0.0 www.minor.org.nz
 0.0.0.0 mintpressnews.com
 0.0.0.0 www.mintpressnews.com
+0.0.0.0 minute-hebdo.fr
+0.0.0.0 www.minute-hebdo.fr
 0.0.0.0 miraclemineral.co.nz
 0.0.0.0 www.miraclemineral.co.nz
 0.0.0.0 mitocopper.com
@@ -4192,6 +4222,8 @@
 0.0.0.0 www.noticias.gospelmais.com.br
 0.0.0.0 notonthebeeb.co.uk
 0.0.0.0 www.notonthebeeb.co.uk
+0.0.0.0 nouvelle-action-royaliste.fr
+0.0.0.0 www.nouvelle-action-royaliste.fr
 0.0.0.0 nouvelordremondial.cc
 0.0.0.0 www.nouvelordremondial.cc
 0.0.0.0 nouvelordremondial.org
@@ -4446,12 +4478,16 @@
 0.0.0.0 www.papasloups.com
 0.0.0.0 parentsstrike.com
 0.0.0.0 www.parentsstrike.com
+0.0.0.0 parismatch.com
+0.0.0.0 www.parismatch.com
 0.0.0.0 parisvox.info
 0.0.0.0 www.parisvox.info
 0.0.0.0 parler.com
 0.0.0.0 www.parler.com
 0.0.0.0 parti-reconquete.fr
 0.0.0.0 www.parti-reconquete.fr
+0.0.0.0 parti-renaissance.fr
+0.0.0.0 www.parti-renaissance.fr
 0.0.0.0 participatieve-democratie.be
 0.0.0.0 www.participatieve-democratie.be
 0.0.0.0 pastorlocke.com
@@ -4794,6 +4830,8 @@
 0.0.0.0 www.purepropheticprinciples.com
 0.0.0.0 puresocialnetwork.com
 0.0.0.0 www.puresocialnetwork.com
+0.0.0.0 puydufou.com
+0.0.0.0 www.puydufou.com
 0.0.0.0 pwa.aim4truth.org
 0.0.0.0 www.pwa.aim4truth.org
 0.0.0.0 pwpa.international
@@ -5536,6 +5574,8 @@
 0.0.0.0 www.stefancuvelier.com
 0.0.0.0 stefanmolyneux.com
 0.0.0.0 www.stefanmolyneux.com
+0.0.0.0 stephanebern.com
+0.0.0.0 www.stephanebern.com
 0.0.0.0 stephenlendman.org
 0.0.0.0 www.stephenlendman.org
 0.0.0.0 stevengoddard.wordpress.com
@@ -6540,6 +6580,8 @@
 0.0.0.0 www.vactruth.com
 0.0.0.0 valcabal.nl
 0.0.0.0 www.valcabal.nl
+0.0.0.0 valeursactuelles.com
+0.0.0.0 www.valeursactuelles.com
 0.0.0.0 vallumholdings.com
 0.0.0.0 www.vallumholdings.com
 0.0.0.0 vanguardnewsnetwork.com
@@ -6580,6 +6622,8 @@
 0.0.0.0 www.veteransnewsnow.com
 0.0.0.0 veteranstoday.com
 0.0.0.0 www.veteranstoday.com
+0.0.0.0 via-lavoiedupeuple.fr
+0.0.0.0 www.via-lavoiedupeuple.fr
 0.0.0.0 victorhanson.com
 0.0.0.0 www.victorhanson.com
 0.0.0.0 video.maga.host

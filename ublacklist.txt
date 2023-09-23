@@ -421,6 +421,7 @@
 *://*.blog.heartland.org/*
 *://*.blog.libertasbella.com/*
 *://*.blog.nomorefakenews.com/*
+*://*.blogrioufol.com/*
 *://*.blogs.ne10.uol.com.br/*
 *://*.bloodandhonour.com/*
 *://*.bloodandhonourworldwide.co.uk/*
@@ -526,12 +527,15 @@
 *://*.carlbherman.blogspot.com/*
 *://*.carmdelacreme.com/*
 *://*.carnicominstitute.org/*
+*://*.carolinefourest.com/*
+*://*.carolinefourest.wordpress.com/*
 *://*.carolynyeager.com/*
 *://*.carolynyeager.net/*
 *://*.carplife.org/*
 *://*.cassiopaea.com/*
 *://*.cassiopaea.org/*
 *://*.cathyfox.wordpress.com/*
+*://*.causeur.fr/*
 *://*.cbn.com/*
 *://*.cbsnews.com.co/*
 *://*.cc-caribbean.com/*
@@ -965,6 +969,7 @@
 *://*.emfacts.com/*
 *://*.empireherald.com/*
 *://*.empirenews.net/*
+*://*.en-marche.fr/*
 *://*.en-volve.com/*
 *://*.en.kremlin.ru/*
 *://*.en.news-front.info/*
@@ -1038,6 +1043,7 @@
 *://*.eurofolkradio.com/*
 *://*.europe-israel.org/*
 *://*.europe.infowars.com/*
+*://*.europe1.fr/*
 *://*.europereloaded.com/*
 *://*.euthanasia.news/*
 *://*.eutimes.net/*
@@ -1151,6 +1157,7 @@
 *://*.fognews.ru/*
 *://*.folhadopovo.com/*
 *://*.folhapolitica.org/*
+*://*.fondationlejeune.org/*
 *://*.food.news/*
 *://*.foodbabe.com/*
 *://*.foodforensics.com/*
@@ -1179,6 +1186,7 @@
 *://*.fr.news-front.info/*
 *://*.fracking.news/*
 *://*.framix.fr/*
+*://*.franc-tireur.fr/*
 *://*.francaisdefrance.wordpress.com/*
 *://*.france.upf.org/*
 *://*.francemediasnumerique.com/*
@@ -1241,6 +1249,7 @@
 *://*.freiewelt.net/*
 *://*.frenlyfrens.com/*
 *://*.freresdissidents.com/*
+*://*.frigidebarjot.com/*
 *://*.fringeculture.home.blog/*
 *://*.fromthetrenchesworldreport.com/*
 *://*.frontlinemds.com/*
@@ -1708,6 +1717,7 @@
 *://*.lactionfrancaise.fr/*
 *://*.ladssociety.com/*
 *://*.lagauchematuer.fr/*
+*://*.lamanifpourtous.fr/*
 *://*.lamarinerecrute.fr/*
 *://*.laminedinfos.fr/*
 *://*.landdestroyer.blogspot.com/*
@@ -1744,12 +1754,14 @@
 *://*.legalinsurrection.com/*
 *://*.legion-recrute.com/*
 *://*.legitgov.org/*
+*://*.lejdd.fr/*
 *://*.lejeune-academie.com/*
 *://*.lelibrepenseur.org/*
 *://*.lemediaen442.fr/*
 *://*.lemonde.co.il/*
 *://*.leofrank.org/*
 *://*.leohohmann.com/*
+*://*.lepcd.fr/*
 *://*.leral.net/*
 *://*.les-collectifs-unis.info/*
 *://*.les-identitaires.com/*
@@ -1766,6 +1778,7 @@
 *://*.lesoir.info/*
 *://*.lessurvivants.com/*
 *://*.lessurvivantsroadshow.com/*
+*://*.lesyndicatdelafamille.fr/*
 *://*.letopdelhumour.fr/*
 *://*.letsbfree.com/*
 *://*.letsrollforums.com/*
@@ -1800,6 +1813,7 @@
 *://*.lily.sunmoon.ac.kr/*
 *://*.limegenocide.blogspot.com/*
 *://*.limitlesstruth.com/*
+*://*.lincorrect.org/*
 *://*.linyoathkeepers.org/*
 *://*.lipstick-and-war-crimes.org/*
 *://*.lissahumanelife.wordpress.com/*
@@ -1928,6 +1942,7 @@
 *://*.minnaandmillie.com/*
 *://*.minor.org.nz/*
 *://*.mintpressnews.com/*
+*://*.minute-hebdo.fr/*
 *://*.miraclemineral.co.nz/*
 *://*.mitocopper.com/*
 *://*.mjolnirmagazine.blogspot.com/*
@@ -2102,6 +2117,7 @@
 *://*.nothingnewunderthesun.us/*
 *://*.noticias.gospelmais.com.br/*
 *://*.notonthebeeb.co.uk/*
+*://*.nouvelle-action-royaliste.fr/*
 *://*.nouvelordremondial.cc/*
 *://*.nouvelordremondial.org/*
 *://*.now8news.com/*
@@ -2229,9 +2245,11 @@
 *://*.paoathkeepers.com/*
 *://*.papasloups.com/*
 *://*.parentsstrike.com/*
+*://*.parismatch.com/*
 *://*.parisvox.info/*
 *://*.parler.com/*
 *://*.parti-reconquete.fr/*
+*://*.parti-renaissance.fr/*
 *://*.participatieve-democratie.be/*
 *://*.pastorlocke.com/*
 *://*.patdollar.com/*
@@ -2403,6 +2421,7 @@
 *://*.punishedstormer.com/*
 *://*.purepropheticprinciples.com/*
 *://*.puresocialnetwork.com/*
+*://*.puydufou.com/*
 *://*.pwa.aim4truth.org/*
 *://*.pwpa.international/*
 *://*.pwpa.org/*
@@ -2774,6 +2793,7 @@
 *://*.steeltruth.com/*
 *://*.stefancuvelier.com/*
 *://*.stefanmolyneux.com/*
+*://*.stephanebern.com/*
 *://*.stephenlendman.org/*
 *://*.stevengoddard.wordpress.com/*
 *://*.stevepieczenik.com/*
@@ -3276,6 +3296,7 @@
 *://*.vaccinewars.com/*
 *://*.vactruth.com/*
 *://*.valcabal.nl/*
+*://*.valeursactuelles.com/*
 *://*.vallumholdings.com/*
 *://*.vanguardnewsnetwork.com/*
 *://*.vanillaskydreamingshop.com/*
@@ -3296,6 +3317,7 @@
 *://*.veteranbrigades.com/*
 *://*.veteransnewsnow.com/*
 *://*.veteranstoday.com/*
+*://*.via-lavoiedupeuple.fr/*
 *://*.victorhanson.com/*
 *://*.video.maga.host/*
 *://*.videos.utahgunexchange.com/*

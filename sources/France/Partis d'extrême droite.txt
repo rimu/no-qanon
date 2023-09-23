@@ -18,5 +18,5 @@ issep.fr
 debout-la-france.fr
 
 # Via (ex-PCD), Christine Boutin, Jean-Frédéric Poisson
-https://via-lavoiedupeuple.fr/
-https://lepcd.fr/
+via-lavoiedupeuple.fr
+lepcd.fr
