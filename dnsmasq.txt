@@ -860,6 +860,7 @@ address=/diariodocentrodomundo.com.br/
 address=/dicamba.news/
 address=/die-heimat.de/
 address=/die-rechte.net/
+address=/dieudosphere.com/
 address=/digitalwarriorproductions.com/
 address=/dinarchronicles.com/
 address=/dinardaily.net/

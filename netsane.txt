@@ -860,6 +860,7 @@
 "*://*.dicamba.news/*",
 "*://*.die-heimat.de/*",
 "*://*.die-rechte.net/*",
+"*://*.dieudosphere.com/*",
 "*://*.digitalwarriorproductions.com/*",
 "*://*.dinarchronicles.com/*",
 "*://*.dinardaily.net/*",
