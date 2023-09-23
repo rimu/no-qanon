@@ -854,6 +854,8 @@
 0.0.0.0 www.boatos.org
 0.0.0.0 boatsinker.online
 0.0.0.0 www.boatsinker.online
+0.0.0.0 bock-cote.info
+0.0.0.0 www.bock-cote.info
 0.0.0.0 bodyalign.com
 0.0.0.0 www.bodyalign.com
 0.0.0.0 boersenwolf.blogspot.com
@@ -1020,6 +1022,8 @@
 0.0.0.0 www.cancercontrolsociety.org
 0.0.0.0 cancertutor.com
 0.0.0.0 www.cancertutor.com
+0.0.0.0 cantaloupekids.com
+0.0.0.0 www.cantaloupekids.com
 0.0.0.0 cantcloseamerica.com
 0.0.0.0 www.cantcloseamerica.com
 0.0.0.0 cap-news.com
@@ -2500,6 +2504,8 @@
 0.0.0.0 www.frontnational.com
 0.0.0.0 frontpagemag.com
 0.0.0.0 www.frontpagemag.com
+0.0.0.0 frontpopulaire.fr
+0.0.0.0 www.frontpopulaire.fr
 0.0.0.0 fukushimawatch.com
 0.0.0.0 www.fukushimawatch.com
 0.0.0.0 fulcrumnews.com
@@ -2530,6 +2536,8 @@
 0.0.0.0 www.galacticfederation-naplesfl.org
 0.0.0.0 galeriadometeorito.com
 0.0.0.0 www.galeriadometeorito.com
+0.0.0.0 gamergate-news.tumblr.com
+0.0.0.0 www.gamergate-news.tumblr.com
 0.0.0.0 gameruprising.to
 0.0.0.0 www.gameruprising.to
 0.0.0.0 gangstergovernment.com
@@ -2922,6 +2930,10 @@
 0.0.0.0 www.humansarefree.com
 0.0.0.0 humansbefree.com
 0.0.0.0 www.humansbefree.com
+0.0.0.0 huniepot.com
+0.0.0.0 www.huniepot.com
+0.0.0.0 huniepot.tumblr.com
+0.0.0.0 www.huniepot.tumblr.com
 0.0.0.0 hypnosetherapie-asmr.com
 0.0.0.0 www.hypnosetherapie-asmr.com
 0.0.0.0 iaysp-france.fr
@@ -4642,6 +4654,8 @@
 0.0.0.0 www.planetlockdownfilm.com
 0.0.0.0 platosguns.com
 0.0.0.0 www.platosguns.com
+0.0.0.0 play-asia.com
+0.0.0.0 www.play-asia.com
 0.0.0.0 pmi.com
 0.0.0.0 www.pmi.com
 0.0.0.0 pnr.pt
@@ -5904,6 +5918,8 @@
 0.0.0.0 www.thegatewaypundit.com
 0.0.0.0 thegesaraclub.com
 0.0.0.0 www.thegesaraclub.com
+0.0.0.0 thegg.net
+0.0.0.0 www.thegg.net
 0.0.0.0 theglobalwarmingskeptics.com
 0.0.0.0 www.theglobalwarmingskeptics.com
 0.0.0.0 thegoldandoilguy.com

@@ -21,4 +21,4 @@ carolinefourest.com
 # Ivan Rioufol
 blogrioufol.com
 # Mathieu Bock-Côté
-https://bock-cote.info/
+bock-cote.info

@@ -433,6 +433,7 @@
 *://*.boards.4chan.org/*
 *://*.boatos.org/*
 *://*.boatsinker.online/*
+*://*.bock-cote.info/*
 *://*.bodyalign.com/*
 *://*.boersenwolf.blogspot.com/*
 *://*.boilingfrogspost.com/*
@@ -516,6 +517,7 @@
 *://*.cancer.news/*
 *://*.cancercontrolsociety.org/*
 *://*.cancertutor.com/*
+*://*.cantaloupekids.com/*
 *://*.cantcloseamerica.com/*
 *://*.cap-news.com/*
 *://*.capitalcityproudboys.com/*
@@ -1256,6 +1258,7 @@
 *://*.frontmediatique.fr/*
 *://*.frontnational.com/*
 *://*.frontpagemag.com/*
+*://*.frontpopulaire.fr/*
 *://*.fukushimawatch.com/*
 *://*.fulcrumnews.com/*
 *://*.fupaix.org/*
@@ -1271,6 +1274,7 @@
 *://*.galacticconnection.com/*
 *://*.galacticfederation-naplesfl.org/*
 *://*.galeriadometeorito.com/*
+*://*.gamergate-news.tumblr.com/*
 *://*.gameruprising.to/*
 *://*.gangstergovernment.com/*
 *://*.gardenofgreatwork.org/*
@@ -1467,6 +1471,8 @@
 *://*.humanitad.org/*
 *://*.humansarefree.com/*
 *://*.humansbefree.com/*
+*://*.huniepot.com/*
+*://*.huniepot.tumblr.com/*
 *://*.hypnosetherapie-asmr.com/*
 *://*.iaysp-france.fr/*
 *://*.iaysp.org/*
@@ -2327,6 +2333,7 @@
 *://*.planetes360.fr/*
 *://*.planetlockdownfilm.com/*
 *://*.platosguns.com/*
+*://*.play-asia.com/*
 *://*.pmi.com/*
 *://*.pnr.pt/*
 *://*.poal.co/*
@@ -2958,6 +2965,7 @@
 *://*.thefrognewsnetwork.com/*
 *://*.thegatewaypundit.com/*
 *://*.thegesaraclub.com/*
+*://*.thegg.net/*
 *://*.theglobalwarmingskeptics.com/*
 *://*.thegoldandoilguy.com/*
 *://*.thegoldwater.com/*
