@@ -4,3 +4,8 @@ bollore.com
 cnews.fr
 # Canal +, in the list but commented because it might be disruptive for users. Currently not a major propaganda channel.
 # canalplus.com
+# Newspapers
+lejdd.fr # Now fully far-right: all the striking journalists left and were replaced.
+parismatch.com
+# Radio
+europe1.fr
