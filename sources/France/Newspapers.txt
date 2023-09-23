@@ -1,3 +1,5 @@
+# lefigaro.fr # Le Figaro hosts far right opinions in its Vox column. Commented (for now) as it is a newspaper of record but very close to being added https://www.lalettrea.fr/medias_presse-ecrite/2023/04/19/les-deals-secrets-passes-par-zemmour-avec-valeurs-actuelles-et-le-figaro-pendant-sa-campagne,109946974-evl
+
 # Conservative / proto-fascist / pro-Macron
 franc-tireur.fr
 # Far right
@@ -5,10 +7,12 @@ valeursactuelles.com
 lincorrect.org
 minute-hebdo.fr
 causeur.fr
+frontpopulaire.fr
 
 # Web only
 bvoltaire.fr
 boulevard-voltaire.fr
+francesoir.fr
 
 # Editorialists
 ## Caroline Fourest (islamophobia)
@@ -16,3 +20,5 @@ carolinefourest.wordpress.com
 carolinefourest.com
 # Ivan Rioufol
 blogrioufol.com
+# Mathieu Bock-Côté
+https://bock-cote.info/
