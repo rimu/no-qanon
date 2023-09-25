@@ -120,6 +120,10 @@
 0.0.0.0 www.abidjantv.net
 0.0.0.0 abortions.news
 0.0.0.0 www.abortions.news
+0.0.0.0 about.twitter.com
+0.0.0.0 www.about.twitter.com
+0.0.0.0 about.x.com
+0.0.0.0 www.about.x.com
 0.0.0.0 aboutthesky.com
 0.0.0.0 www.aboutthesky.com
 0.0.0.0 abovetopsecret.com
@@ -204,6 +208,10 @@
 0.0.0.0 www.ahijackedlife.com
 0.0.0.0 ahtribune.com
 0.0.0.0 www.ahtribune.com
+0.0.0.0 ai.facebook.com
+0.0.0.0 www.ai.facebook.com
+0.0.0.0 ai.meta.com
+0.0.0.0 www.ai.meta.com
 0.0.0.0 aim4truth.org
 0.0.0.0 www.aim4truth.org
 0.0.0.0 aimintegrativemedicine.com
@@ -214,6 +222,8 @@
 0.0.0.0 www.air-photo.com
 0.0.0.0 ajamubaraka.com
 0.0.0.0 www.ajamubaraka.com
+0.0.0.0 alaindebenoist.com
+0.0.0.0 www.alaindebenoist.com
 0.0.0.0 alalumieredunouveaumonde.blogspot.fr
 0.0.0.0 www.alalumieredunouveaumonde.blogspot.fr
 0.0.0.0 aleph.to
@@ -856,6 +866,8 @@
 0.0.0.0 www.boatos.org
 0.0.0.0 boatsinker.online
 0.0.0.0 www.boatsinker.online
+0.0.0.0 bobards-dor.fr
+0.0.0.0 www.bobards-dor.fr
 0.0.0.0 bock-cote.info
 0.0.0.0 www.bock-cote.info
 0.0.0.0 bodyalign.com
@@ -880,12 +892,16 @@
 0.0.0.0 www.boogcorps.org
 0.0.0.0 bookofqproofs.wordpress.com
 0.0.0.0 www.bookofqproofs.wordpress.com
+0.0.0.0 boone-crockett.org
+0.0.0.0 www.boone-crockett.org
 0.0.0.0 bored-ape-yacht-club.myshopify.com
 0.0.0.0 www.bored-ape-yacht-club.myshopify.com
 0.0.0.0 boredapeyachtclub.com
 0.0.0.0 www.boredapeyachtclub.com
 0.0.0.0 boredapeyachtclub.store
 0.0.0.0 www.boredapeyachtclub.store
+0.0.0.0 boringcompany.com
+0.0.0.0 www.boringcompany.com
 0.0.0.0 borislelay.com
 0.0.0.0 www.borislelay.com
 0.0.0.0 bostonleader.com
@@ -896,6 +912,8 @@
 0.0.0.0 www.boulevard-voltaire.fr
 0.0.0.0 boundarypeakoutfitters.com
 0.0.0.0 www.boundarypeakoutfitters.com
+0.0.0.0 boutique.institut-iliade.com
+0.0.0.0 www.boutique.institut-iliade.com
 0.0.0.0 boutique.upr.fr
 0.0.0.0 www.boutique.upr.fr
 0.0.0.0 bradbartonusa.com
@@ -946,6 +964,8 @@
 0.0.0.0 www.broward.ghost.io
 0.0.0.0 brujitafr.fr
 0.0.0.0 www.brujitafr.fr
+0.0.0.0 bruno-megret.com
+0.0.0.0 www.bruno-megret.com
 0.0.0.0 brutalattack.org
 0.0.0.0 www.brutalattack.org
 0.0.0.0 brutalproof.net
@@ -1058,6 +1078,8 @@
 0.0.0.0 www.carolynyeager.net
 0.0.0.0 carplife.org
 0.0.0.0 www.carplife.org
+0.0.0.0 carrefourdelhorloge.fr
+0.0.0.0 www.carrefourdelhorloge.fr
 0.0.0.0 cassiopaea.com
 0.0.0.0 www.cassiopaea.com
 0.0.0.0 cassiopaea.org
@@ -1120,6 +1142,10 @@
 0.0.0.0 www.charliefreak.org
 0.0.0.0 charliekirk.com
 0.0.0.0 www.charliekirk.com
+0.0.0.0 chasse-nature-occitanie.fr
+0.0.0.0 www.chasse-nature-occitanie.fr
+0.0.0.0 chasseurdefrance.com
+0.0.0.0 www.chasseurdefrance.com
 0.0.0.0 chechar.wordpress.com
 0.0.0.0 www.chechar.wordpress.com
 0.0.0.0 checkoutthehealthyworld.com
@@ -1222,6 +1248,8 @@
 0.0.0.0 www.clashdaily.com
 0.0.0.0 classicalcapital.com
 0.0.0.0 www.classicalcapital.com
+0.0.0.0 claudereichman.com
+0.0.0.0 www.claudereichman.com
 0.0.0.0 cleanwater.news
 0.0.0.0 www.cleanwater.news
 0.0.0.0 clearnewswire.com
@@ -2352,8 +2380,12 @@
 0.0.0.0 www.fos-sa.org
 0.0.0.0 fourwinds10.net
 0.0.0.0 www.fourwinds10.net
+0.0.0.0 foxnews.com
+0.0.0.0 www.foxnews.com
 0.0.0.0 foxnewsbrasil.com
 0.0.0.0 www.foxnewsbrasil.com
+0.0.0.0 foxweather.com
+0.0.0.0 www.foxweather.com
 0.0.0.0 fp-prod.thriveon.com
 0.0.0.0 www.fp-prod.thriveon.com
 0.0.0.0 fpip-police.fr
@@ -2768,6 +2800,8 @@
 0.0.0.0 www.guidesblog.org
 0.0.0.0 gumshoenews.com
 0.0.0.0 www.gumshoenews.com
+0.0.0.0 gunowners.org
+0.0.0.0 www.gunowners.org
 0.0.0.0 haleighsheart.com
 0.0.0.0 www.haleighsheart.com
 0.0.0.0 halle-leaks.de
@@ -3082,6 +3116,8 @@
 0.0.0.0 www.infowarsvideo.com
 0.0.0.0 initiativecitoyenne.be
 0.0.0.0 www.initiativecitoyenne.be
+0.0.0.0 institut-iliade.com
+0.0.0.0 www.institut-iliade.com
 0.0.0.0 inteldrops.com
 0.0.0.0 www.inteldrops.com
 0.0.0.0 intelhistory.net
@@ -3352,6 +3388,8 @@
 0.0.0.0 www.justjoeradio.com
 0.0.0.0 justthenews.com
 0.0.0.0 www.justthenews.com
+0.0.0.0 jylg.com
+0.0.0.0 www.jylg.com
 0.0.0.0 kahudes.net
 0.0.0.0 www.kahudes.net
 0.0.0.0 kairospresse.be
@@ -3568,6 +3606,8 @@
 0.0.0.0 www.lesobservateurs.ch
 0.0.0.0 lesoir.info
 0.0.0.0 www.lesoir.info
+0.0.0.0 lesquen.fr
+0.0.0.0 www.lesquen.fr
 0.0.0.0 lessurvivants.com
 0.0.0.0 www.lessurvivants.com
 0.0.0.0 lessurvivantsroadshow.com
@@ -3862,6 +3902,8 @@
 0.0.0.0 www.michaeltellinger.com
 0.0.0.0 michaeltsarion.com
 0.0.0.0 www.michaeltsarion.com
+0.0.0.0 michelmaffesoli.org
+0.0.0.0 www.michelmaffesoli.org
 0.0.0.0 michiganfreedejurestate.us
 0.0.0.0 www.michiganfreedejurestate.us
 0.0.0.0 mideastdiscourse.com
@@ -3978,6 +4020,8 @@
 0.0.0.0 www.murderbydecree.com
 0.0.0.0 musicians4freedom.com
 0.0.0.0 www.musicians4freedom.com
+0.0.0.0 muskfoundation.org
+0.0.0.0 www.muskfoundation.org
 0.0.0.0 mydailyrelaxation.com
 0.0.0.0 www.mydailyrelaxation.com
 0.0.0.0 myfreshnews.com
@@ -4004,6 +4048,8 @@
 0.0.0.0 www.namelyliberty.com
 0.0.0.0 natall.com
 0.0.0.0 www.natall.com
+0.0.0.0 nation.foxnews.com
+0.0.0.0 www.nation.foxnews.com
 0.0.0.0 national-justice.com
 0.0.0.0 www.national-justice.com
 0.0.0.0 nationaldebt.news
@@ -4082,6 +4128,8 @@
 0.0.0.0 www.netwrks.io
 0.0.0.0 netzfrauen.org
 0.0.0.0 www.netzfrauen.org
+0.0.0.0 neuralink.com
+0.0.0.0 www.neuralink.com
 0.0.0.0 nevadadesertpatriot.weebly.com
 0.0.0.0 www.nevadadesertpatriot.weebly.com
 0.0.0.0 nevo.news
@@ -4280,6 +4328,8 @@
 0.0.0.0 www.nsm88.org
 0.0.0.0 nsm88records.com
 0.0.0.0 www.nsm88records.com
+0.0.0.0 nssf.org
+0.0.0.0 www.nssf.org
 0.0.0.0 ntd.com
 0.0.0.0 www.ntd.com
 0.0.0.0 ntdtv.com.tw
@@ -4360,6 +4410,8 @@
 0.0.0.0 www.oh.childrenshealthdefense.org
 0.0.0.0 oilgeopolitics.net
 0.0.0.0 www.oilgeopolitics.net
+0.0.0.0 ojim.fr
+0.0.0.0 www.ojim.fr
 0.0.0.0 ojobuzz.fr
 0.0.0.0 www.ojobuzz.fr
 0.0.0.0 olavodecarvalhofb.wordpress.com
@@ -4372,6 +4424,8 @@
 0.0.0.0 www.omegakingdomministry.org
 0.0.0.0 omegansareliars.com
 0.0.0.0 www.omegansareliars.com
+0.0.0.0 omertamedia.fr
+0.0.0.0 www.omertamedia.fr
 0.0.0.0 omniclimate.wordpress.com
 0.0.0.0 www.omniclimate.wordpress.com
 0.0.0.0 onedaymd.com
@@ -4466,6 +4520,8 @@
 0.0.0.0 www.ourworldcoin.org
 0.0.0.0 outbreak.news
 0.0.0.0 www.outbreak.news
+0.0.0.0 outkick.com
+0.0.0.0 www.outkick.com
 0.0.0.0 outofshadows.org
 0.0.0.0 www.outofshadows.org
 0.0.0.0 outpost-of-freedom.com
@@ -4684,6 +4740,8 @@
 0.0.0.0 www.pointtalkers.com
 0.0.0.0 polaraidhealth.com
 0.0.0.0 www.polaraidhealth.com
+0.0.0.0 polemia.com
+0.0.0.0 www.polemia.com
 0.0.0.0 police-pour-la-verite.org
 0.0.0.0 www.police-pour-la-verite.org
 0.0.0.0 police-recruitment.co.uk
@@ -4970,10 +5028,14 @@
 0.0.0.0 www.r7media.fr
 0.0.0.0 racewar.news
 0.0.0.0 www.racewar.news
+0.0.0.0 radio.foxnews.com
+0.0.0.0 www.radio.foxnews.com
 0.0.0.0 radio.mpaq.org
 0.0.0.0 www.radio.mpaq.org
 0.0.0.0 radioalbion.com
 0.0.0.0 www.radioalbion.com
+0.0.0.0 radiocourtoisie.fr
+0.0.0.0 www.radiocourtoisie.fr
 0.0.0.0 radiopatriot.net
 0.0.0.0 www.radiopatriot.net
 0.0.0.0 radioquebec.tv
@@ -5190,6 +5252,8 @@
 0.0.0.0 www.revolutions2040.com
 0.0.0.0 revolver.news
 0.0.0.0 www.revolver.news
+0.0.0.0 revue-elements.com
+0.0.0.0 www.revue-elements.com
 0.0.0.0 reynoldsamerican.com
 0.0.0.0 www.reynoldsamerican.com
 0.0.0.0 rhotv.com
@@ -5300,6 +5364,8 @@
 0.0.0.0 www.sacred-texts.com
 0.0.0.0 sacredsexualenergies.blogspot.com
 0.0.0.0 www.sacredsexualenergies.blogspot.com
+0.0.0.0 saf.org
+0.0.0.0 www.saf.org
 0.0.0.0 safechat.com
 0.0.0.0 www.safechat.com
 0.0.0.0 saferemr.com
@@ -5340,6 +5406,8 @@
 0.0.0.0 www.saveinfowars.com
 0.0.0.0 saveourstores.nz
 0.0.0.0 www.saveourstores.nz
+0.0.0.0 saverealnews.co.uk
+0.0.0.0 www.saverealnews.co.uk
 0.0.0.0 savethemales.ca
 0.0.0.0 www.savethemales.ca
 0.0.0.0 saveusnow.org.uk
@@ -5364,6 +5432,8 @@
 0.0.0.0 www.scienceandpublicpolicy.org
 0.0.0.0 scsi-pn.fr
 0.0.0.0 www.scsi-pn.fr
+0.0.0.0 sdebeketch.com
+0.0.0.0 www.sdebeketch.com
 0.0.0.0 sea-cadets.org
 0.0.0.0 www.sea-cadets.org
 0.0.0.0 seanstone.info
@@ -5544,6 +5614,8 @@
 0.0.0.0 www.soyjak.party
 0.0.0.0 soyjak.wiki
 0.0.0.0 www.soyjak.wiki
+0.0.0.0 spacex.com
+0.0.0.0 www.spacex.com
 0.0.0.0 speakingaboutnews.com
 0.0.0.0 www.speakingaboutnews.com
 0.0.0.0 speakyourmindhere.com
@@ -5588,6 +5660,8 @@
 0.0.0.0 www.standforhealthfreedom.com
 0.0.0.0 staresattheworld.com
 0.0.0.0 www.staresattheworld.com
+0.0.0.0 starlink.com
+0.0.0.0 www.starlink.com
 0.0.0.0 starnationsnews.com
 0.0.0.0 www.starnationsnews.com
 0.0.0.0 starshipearththebigpicture.com
@@ -5682,6 +5756,8 @@
 0.0.0.0 www.strikebackforfreedom.com
 0.0.0.0 strikeforceofprayer.com
 0.0.0.0 www.strikeforceofprayer.com
+0.0.0.0 studentsagainsttyranny.com
+0.0.0.0 www.studentsagainsttyranny.com
 0.0.0.0 studiotour.warnerbros.fr
 0.0.0.0 www.studiotour.warnerbros.fr
 0.0.0.0 suavelos.eu
@@ -5694,6 +5770,8 @@
 0.0.0.0 www.subvertednation.net
 0.0.0.0 success-street.com
 0.0.0.0 www.success-street.com
+0.0.0.0 sudradio.fr
+0.0.0.0 www.sudradio.fr
 0.0.0.0 suegrey.nz
 0.0.0.0 www.suegrey.nz
 0.0.0.0 summit.news
@@ -5796,6 +5874,8 @@
 0.0.0.0 www.terrorhousemag.com
 0.0.0.0 terrorhousepress.com
 0.0.0.0 www.terrorhousepress.com
+0.0.0.0 tesla.com
+0.0.0.0 www.tesla.com
 0.0.0.0 testpositif.com
 0.0.0.0 www.testpositif.com
 0.0.0.0 texasnationalistparty.com
@@ -6212,6 +6292,8 @@
 0.0.0.0 www.thisis1776.com
 0.0.0.0 thomasjoly.fr
 0.0.0.0 www.thomasjoly.fr
+0.0.0.0 thorn.org
+0.0.0.0 www.thorn.org
 0.0.0.0 threepercenternation.com
 0.0.0.0 www.threepercenternation.com
 0.0.0.0 threepercenters.org
@@ -6226,6 +6308,8 @@
 0.0.0.0 www.thrivetimeshow.com
 0.0.0.0 throughthelookingglassnews.wordpress.com
 0.0.0.0 www.throughthelookingglassnews.wordpress.com
+0.0.0.0 thud.com
+0.0.0.0 www.thud.com
 0.0.0.0 tiantibooks.org
 0.0.0.0 www.tiantibooks.org
 0.0.0.0 tigerdroppings.com
@@ -6506,6 +6590,8 @@
 0.0.0.0 www.unitedpatriotsofamerica.com
 0.0.0.0 unitesgppolice.com
 0.0.0.0 www.unitesgppolice.com
+0.0.0.0 unitynewsnetwork.co.uk
+0.0.0.0 www.unitynewsnetwork.co.uk
 0.0.0.0 universepolitics.com
 0.0.0.0 www.universepolitics.com
 0.0.0.0 unrig.net
@@ -7042,6 +7128,8 @@
 0.0.0.0 www.wwg1wgaparty.org
 0.0.0.0 wwiii.news
 0.0.0.0 www.wwiii.news
+0.0.0.0 x.ai
+0.0.0.0 www.x.ai
 0.0.0.0 x22report.com
 0.0.0.0 www.x22report.com
 0.0.0.0 x22report.tv

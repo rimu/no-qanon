@@ -1,6 +1,6 @@
 # FOX News
-https://www.foxnews.com/
-https://nation.foxnews.com/
-https://radio.foxnews.com
-www.foxweather.com
-www.outkick.com
+foxnews.com
+nation.foxnews.com
+radio.foxnews.com
+foxweather.com
+outkick.com

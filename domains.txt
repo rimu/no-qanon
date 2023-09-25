@@ -59,6 +59,8 @@ abcnewsgo.co
 abeldanger.net
 abidjantv.net
 abortions.news
+about.twitter.com
+about.x.com
 aboutthesky.com
 abovetopsecret.com
 abriluno.com
@@ -101,11 +103,14 @@ agoravox.tv
 aheadoftheherd.com
 ahijackedlife.com
 ahtribune.com
+ai.facebook.com
+ai.meta.com
 aim4truth.org
 aimintegrativemedicine.com
 aimsib.org
 air-photo.com
 ajamubaraka.com
+alaindebenoist.com
 alalumieredunouveaumonde.blogspot.fr
 aleph.to
 alertatotal.net
@@ -427,6 +432,7 @@ bnp.org.uk
 boards.4chan.org
 boatos.org
 boatsinker.online
+bobards-dor.fr
 bock-cote.info
 bodyalign.com
 boersenwolf.blogspot.com
@@ -439,14 +445,17 @@ bonginoreport.com
 bonsens.info
 boogcorps.org
 bookofqproofs.wordpress.com
+boone-crockett.org
 bored-ape-yacht-club.myshopify.com
 boredapeyachtclub.com
 boredapeyachtclub.store
+boringcompany.com
 borislelay.com
 bostonleader.com
 bottomline.nz
 boulevard-voltaire.fr
 boundarypeakoutfitters.com
+boutique.institut-iliade.com
 boutique.upr.fr
 bradbartonusa.com
 brain.foodrevolution.org
@@ -472,6 +481,7 @@ brotherjohnf.com
 broughttosight.com
 broward.ghost.io
 brujitafr.fr
+bruno-megret.com
 brutalattack.org
 brutalproof.net
 bubble.news
@@ -528,6 +538,7 @@ carolinefourest.wordpress.com
 carolynyeager.com
 carolynyeager.net
 carplife.org
+carrefourdelhorloge.fr
 cassiopaea.com
 cassiopaea.org
 cathyfox.wordpress.com
@@ -559,6 +570,8 @@ charismanews.com
 charlesortel.com
 charliefreak.org
 charliekirk.com
+chasse-nature-occitanie.fr
+chasseurdefrance.com
 chechar.wordpress.com
 checkoutthehealthyworld.com
 cheeseslave.com
@@ -610,6 +623,7 @@ civitas-institut.com
 cjcc-aryan-nations.com
 clashdaily.com
 classicalcapital.com
+claudereichman.com
 cleanwater.news
 clearnewswire.com
 cleverjourneys.com
@@ -1175,7 +1189,9 @@ forums.red
 forvictims.co.uk
 fos-sa.org
 fourwinds10.net
+foxnews.com
 foxnewsbrasil.com
+foxweather.com
 fp-prod.thriveon.com
 fpip-police.fr
 fpoe.at
@@ -1383,6 +1399,7 @@ guardianlv.com
 guccifer2.wordpress.com
 guidesblog.org
 gumshoenews.com
+gunowners.org
 haleighsheart.com
 halle-leaks.de
 hallofrecord.blogspot.com
@@ -1540,6 +1557,7 @@ infowarsstore.com
 infowarsstream.com
 infowarsvideo.com
 initiativecitoyenne.be
+institut-iliade.com
 inteldrops.com
 intelhistory.net
 intellihub.com
@@ -1675,6 +1693,7 @@ justiceforuswgo.wordpress.com
 justinformednews.com
 justjoeradio.com
 justthenews.com
+jylg.com
 kahudes.net
 kairospresse.be
 kandisstaylor.com
@@ -1783,6 +1802,7 @@ lesmoutonsenrages.fr
 lesmoutonsrebelles.com
 lesobservateurs.ch
 lesoir.info
+lesquen.fr
 lessurvivants.com
 lessurvivantsroadshow.com
 lesyndicatdelafamille.fr
@@ -1930,6 +1950,7 @@ michaeljpenney.com
 michaelsalla.com
 michaeltellinger.com
 michaeltsarion.com
+michelmaffesoli.org
 michiganfreedejurestate.us
 mideastdiscourse.com
 midiasemmascara.org
@@ -1988,6 +2009,7 @@ msnbc.website
 mstdn.foxfam.club
 murderbydecree.com
 musicians4freedom.com
+muskfoundation.org
 mydailyrelaxation.com
 myfreshnews.com
 myjournal.fr
@@ -2001,6 +2023,7 @@ myzonetoday.com
 naebc.com
 namelyliberty.com
 natall.com
+nation.foxnews.com
 national-justice.com
 nationaldebt.news
 nationalfile.com
@@ -2040,6 +2063,7 @@ nesara.shop
 nesarasucks.com
 netwrks.io
 netzfrauen.org
+neuralink.com
 nevadadesertpatriot.weebly.com
 nevo.news
 new-york.harrypotterexhibition.com
@@ -2139,6 +2163,7 @@ nsjap.com
 nslobbyist.com
 nsm88.org
 nsm88records.com
+nssf.org
 ntd.com
 ntdtv.com.tw
 nuke-lies.org
@@ -2179,12 +2204,14 @@ officialtrump2024store.com
 oftwominds.com
 oh.childrenshealthdefense.org
 oilgeopolitics.net
+ojim.fr
 ojobuzz.fr
 olavodecarvalhofb.wordpress.com
 old.autismone.org
 omegacanada.win
 omegakingdomministry.org
 omegansareliars.com
+omertamedia.fr
 omniclimate.wordpress.com
 onedaymd.com
 onegreatworknetwork.com
@@ -2232,6 +2259,7 @@ ourtube.co.uk
 ourtubesocial.com
 ourworldcoin.org
 outbreak.news
+outkick.com
 outofshadows.org
 outpost-of-freedom.com
 outsideradio.blogspot.com
@@ -2341,6 +2369,7 @@ poal.co
 pointofagun.blogspot.com
 pointtalkers.com
 polaraidhealth.com
+polemia.com
 police-pour-la-verite.org
 police-recruitment.co.uk
 police.unsa.org
@@ -2484,8 +2513,10 @@ qupdates.com
 qwitter.com
 r7media.fr
 racewar.news
+radio.foxnews.com
 radio.mpaq.org
 radioalbion.com
+radiocourtoisie.fr
 radiopatriot.net
 radioquebec.tv
 radiovox.org
@@ -2594,6 +2625,7 @@ revisionists.com
 revolution.radio
 revolutions2040.com
 revolver.news
+revue-elements.com
 reynoldsamerican.com
 rhotv.com
 ria.ru
@@ -2649,6 +2681,7 @@ sacaboulons.fr
 sachastone.com
 sacred-texts.com
 sacredsexualenergies.blogspot.com
+saf.org
 safechat.com
 saferemr.com
 saintandrewstwinflame.com
@@ -2669,6 +2702,7 @@ sarahwestall.com
 savecalifornia.com
 saveinfowars.com
 saveourstores.nz
+saverealnews.co.uk
 savethemales.ca
 saveusnow.org.uk
 sawmansays.com
@@ -2681,6 +2715,7 @@ science.naturalnews.com
 science.news
 scienceandpublicpolicy.org
 scsi-pn.fr
+sdebeketch.com
 sea-cadets.org
 seanstone.info
 secretsofthefed.com
@@ -2771,6 +2806,7 @@ sovren.media
 soyjak.download
 soyjak.party
 soyjak.wiki
+spacex.com
 speakingaboutnews.com
 speakyourmindhere.com
 spearhead.co.uk
@@ -2793,6 +2829,7 @@ srb.news-front.info
 st-germain.se
 standforhealthfreedom.com
 staresattheworld.com
+starlink.com
 starnationsnews.com
 starshipearththebigpicture.com
 startingharrypotter.com
@@ -2840,12 +2877,14 @@ straightlinelogic.com
 strategic-culture.org
 strikebackforfreedom.com
 strikeforceofprayer.com
+studentsagainsttyranny.com
 studiotour.warnerbros.fr
 suavelos.eu
 subjectpolitics.com
 subscribe.theepochtimes.com
 subvertednation.net
 success-street.com
+sudradio.fr
 suegrey.nz
 summit.news
 sunhakup.ac.kr
@@ -2897,6 +2936,7 @@ teleguiado.com
 tenthamendmentcenter.com
 terrorhousemag.com
 terrorhousepress.com
+tesla.com
 testpositif.com
 texasnationalistparty.com
 texasthreepercenters.org
@@ -3105,6 +3145,7 @@ thinkspot.com
 thirdeyeforesight.com
 thisis1776.com
 thomasjoly.fr
+thorn.org
 threepercenternation.com
 threepercenters.org
 thriveon.com
@@ -3112,6 +3153,7 @@ thriveonnews.com
 thriverightnow.com
 thrivetimeshow.com
 throughthelookingglassnews.wordpress.com
+thud.com
 tiantibooks.org
 tigerdroppings.com
 tightroperecords.com
@@ -3252,6 +3294,7 @@ unificationnisme.org
 unitedmediapublishing.com
 unitedpatriotsofamerica.com
 unitesgppolice.com
+unitynewsnetwork.co.uk
 universepolitics.com
 unrig.net
 unshackledminds.com
@@ -3520,6 +3563,7 @@ wwg1wga.wordpress.com
 wwg1wga2020.com
 wwg1wgaparty.org
 wwiii.news
+x.ai
 x22report.com
 x22report.tv
 xephtoken.com
