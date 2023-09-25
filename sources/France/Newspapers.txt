@@ -2,17 +2,6 @@
 
 # Conservative / proto-fascist / pro-Macron
 franc-tireur.fr
-# Far right
-valeursactuelles.com
-lincorrect.org
-minute-hebdo.fr
-causeur.fr
-frontpopulaire.fr
-
-# Web only
-bvoltaire.fr
-boulevard-voltaire.fr
-francesoir.fr
 
 # Editorialists
 ## Caroline Fourest (islamophobia)

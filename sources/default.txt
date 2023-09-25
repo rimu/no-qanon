@@ -228,7 +228,6 @@ webdaily.com
 infostormer.com
 24newsflash.com
 70news.wordpress.com
-abcnews.com.co
 abcnewsgo.co
 alternativemediasyndicate.com
 americannews.com
@@ -2559,7 +2558,6 @@ newsbusters.org
 mrc.org
 world-signals.com
 laralogan.com
-nra.org
 plandemicseries.com
 vaccine-police.com
 goodsciencing.com
