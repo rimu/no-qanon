@@ -1,6 +1,3 @@
-# StoneToss / RedPanels
-stonetoss.com
-redpanels.com
 # Tatsuya Ishida / Sinfest
 sinfest.xyz
 sinfest.net

@@ -33,10 +33,10 @@ python scripts/domains_to_dnsmasq.py > dnsmasq.txt
 ## For browser extensions.
 python scripts/domains_to_netsane.py > netsane.txt
 python scripts/domains_to_adblock.py > adblock_temp.txt
-cp adblock_header.txt adblock.txt
+cp ./headers/adblock.txt adblock.txt
 cat adblock_temp.txt >> adblock.txt
 rm adblock_temp.txt
 python scripts/domains_to_ublacklist.py > ublacklist_temp.txt
-cp adblock_header.txt ublacklist.txt # Currently using the same adblock header until uBlacklist implements its own header. https://github.com/iorate/ublacklist/issues/351
+cp ./headers/adblock.txt ublacklist.txt # Currently using the same adblock header until uBlacklist implements its own header. https://github.com/iorate/ublacklist/issues/351
 cat ublacklist_temp.txt >> ublacklist.txt
 rm ublacklist_temp.txt

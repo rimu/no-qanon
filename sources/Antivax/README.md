@@ -1,1 +1,0 @@
-Antivax, COVID denial, etc.
