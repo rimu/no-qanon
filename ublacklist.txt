@@ -2718,6 +2718,7 @@
 *://*.shop.tealswan.com/*
 *://*.shopdonjr.com/*
 *://*.shopjw.org/*
+*://*.shopw2r.com/*
 *://*.shpposter.club/*
 *://*.shtf.news/*
 *://*.shtfplan.com/*
@@ -3463,6 +3464,7 @@
 *://*.wikileaks.org/*
 *://*.wikispooks.com/*
 *://*.wikistrike.com/*
+*://*.will2rise.com/*
 *://*.williamengdahl.com/*
 *://*.williamlutherpierce.blogspot.com/*
 *://*.willyloman.wordpress.com/*

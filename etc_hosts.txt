@@ -5424,6 +5424,8 @@
 0.0.0.0 www.shopdonjr.com
 0.0.0.0 shopjw.org
 0.0.0.0 www.shopjw.org
+0.0.0.0 shopw2r.com
+0.0.0.0 www.shopw2r.com
 0.0.0.0 shpposter.club
 0.0.0.0 www.shpposter.club
 0.0.0.0 shtf.news
@@ -6914,6 +6916,8 @@
 0.0.0.0 www.wikispooks.com
 0.0.0.0 wikistrike.com
 0.0.0.0 www.wikistrike.com
+0.0.0.0 will2rise.com
+0.0.0.0 www.will2rise.com
 0.0.0.0 williamengdahl.com
 0.0.0.0 www.williamengdahl.com
 0.0.0.0 williamlutherpierce.blogspot.com
