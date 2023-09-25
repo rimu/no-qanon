@@ -234,6 +234,8 @@
 0.0.0.0 www.alivethrive.life
 0.0.0.0 alleinklang.tv
 0.0.0.0 www.alleinklang.tv
+0.0.0.0 alliancepn.fr
+0.0.0.0 www.alliancepn.fr
 0.0.0.0 alliancevita.org
 0.0.0.0 www.alliancevita.org
 0.0.0.0 allnewspipeline.com
@@ -1308,6 +1310,8 @@
 0.0.0.0 www.comitejeanne54.wordpress.com
 0.0.0.0 commentarymagazine.com
 0.0.0.0 www.commentarymagazine.com
+0.0.0.0 commissaires.fr
+0.0.0.0 www.commissaires.fr
 0.0.0.0 committee.org
 0.0.0.0 www.committee.org
 0.0.0.0 commoncorediva.com
@@ -2352,6 +2356,8 @@
 0.0.0.0 www.foxnewsbrasil.com
 0.0.0.0 fp-prod.thriveon.com
 0.0.0.0 www.fp-prod.thriveon.com
+0.0.0.0 fpip-police.fr
+0.0.0.0 www.fpip-police.fr
 0.0.0.0 fpoe.at
 0.0.0.0 www.fpoe.at
 0.0.0.0 fpp.co.uk
@@ -2368,6 +2374,8 @@
 0.0.0.0 www.franc-tireur.fr
 0.0.0.0 francaisdefrance.wordpress.com
 0.0.0.0 www.francaisdefrance.wordpress.com
+0.0.0.0 france-police.org
+0.0.0.0 www.france-police.org
 0.0.0.0 france.upf.org
 0.0.0.0 www.france.upf.org
 0.0.0.0 francemediasnumerique.com
@@ -2454,6 +2462,8 @@
 0.0.0.0 www.freesoftwareextremist.com
 0.0.0.0 freespacesocial.com
 0.0.0.0 www.freespacesocial.com
+0.0.0.0 freespeech.fans
+0.0.0.0 www.freespeech.fans
 0.0.0.0 freespeech.group
 0.0.0.0 www.freespeech.group
 0.0.0.0 freespeechextremist.com
@@ -3420,6 +3430,10 @@
 0.0.0.0 www.krystaltini.com
 0.0.0.0 kuklosknights.com
 0.0.0.0 www.kuklosknights.com
+0.0.0.0 kukuruyo.com
+0.0.0.0 www.kukuruyo.com
+0.0.0.0 kukuruyoart.deviantart.com
+0.0.0.0 www.kukuruyoart.deviantart.com
 0.0.0.0 kunstler.com
 0.0.0.0 www.kunstler.com
 0.0.0.0 kyle-chapman.blogspot.com
@@ -3482,6 +3496,8 @@
 0.0.0.0 www.lawenforcementtoday.com
 0.0.0.0 lbry.tv
 0.0.0.0 www.lbry.tv
+0.0.0.0 le-scpn.fr
+0.0.0.0 www.le-scpn.fr
 0.0.0.0 leagueofthesouth.com
 0.0.0.0 www.leagueofthesouth.com
 0.0.0.0 learnfalungong.com
@@ -4672,6 +4688,8 @@
 0.0.0.0 www.police-pour-la-verite.org
 0.0.0.0 police-recruitment.co.uk
 0.0.0.0 www.police-recruitment.co.uk
+0.0.0.0 police.unsa.org
+0.0.0.0 www.police.unsa.org
 0.0.0.0 policenow.org.uk
 0.0.0.0 www.policenow.org.uk
 0.0.0.0 policestate.news
@@ -5344,6 +5362,8 @@
 0.0.0.0 www.science.news
 0.0.0.0 scienceandpublicpolicy.org
 0.0.0.0 www.scienceandpublicpolicy.org
+0.0.0.0 scsi-pn.fr
+0.0.0.0 www.scsi-pn.fr
 0.0.0.0 sea-cadets.org
 0.0.0.0 www.sea-cadets.org
 0.0.0.0 seanstone.info
@@ -5718,6 +5738,8 @@
 0.0.0.0 www.swprs.org
 0.0.0.0 syndicat-liberte-sante.com
 0.0.0.0 www.syndicat-liberte-sante.com
+0.0.0.0 synergie-officiers.com
+0.0.0.0 www.synergie-officiers.com
 0.0.0.0 syriana-analysis.com
 0.0.0.0 www.syriana-analysis.com
 0.0.0.0 t.me
@@ -6482,6 +6504,8 @@
 0.0.0.0 www.unitedmediapublishing.com
 0.0.0.0 unitedpatriotsofamerica.com
 0.0.0.0 www.unitedpatriotsofamerica.com
+0.0.0.0 unitesgppolice.com
+0.0.0.0 www.unitesgppolice.com
 0.0.0.0 universepolitics.com
 0.0.0.0 www.universepolitics.com
 0.0.0.0 unrig.net

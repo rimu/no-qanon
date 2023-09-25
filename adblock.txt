@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/rimu/no-qanon
 ! Author: rimu
 ! Expires: 4 days
-! Description: A blocklist of QAnon, conspiracy, fake news, fascist and racist websites.
+! Description: An anti-fascist domains blocklist of QAnon, conspiracy, fake news, far-right and discriminatory websites.
 
 ||100jahre-fuer-den-frieden.com^
 ||100percentfedup.com^
@@ -123,6 +123,7 @@
 ||alivenhealthy.com^
 ||alivethrive.life^
 ||alleinklang.tv^
+||alliancepn.fr^
 ||alliancevita.org^
 ||allnewspipeline.com^
 ||allosante.eu^
@@ -660,6 +661,7 @@
 ||comingdepression.com^
 ||comitejeanne54.wordpress.com^
 ||commentarymagazine.com^
+||commissaires.fr^
 ||committee.org^
 ||commoncorediva.com^
 ||commonlawcourtaus.org^
@@ -1182,6 +1184,7 @@
 ||fourwinds10.net^
 ||foxnewsbrasil.com^
 ||fp-prod.thriveon.com^
+||fpip-police.fr^
 ||fpoe.at^
 ||fpp.co.uk^
 ||fprnradio.com^
@@ -1190,6 +1193,7 @@
 ||framix.fr^
 ||franc-tireur.fr^
 ||francaisdefrance.wordpress.com^
+||france-police.org^
 ||france.upf.org^
 ||francemediasnumerique.com^
 ||francesoir.fr^
@@ -1233,6 +1237,7 @@
 ||freerepublic.com^
 ||freesoftwareextremist.com^
 ||freespacesocial.com^
+||freespeech.fans^
 ||freespeech.group^
 ||freespeechextremist.com^
 ||freespeechhosting.com^
@@ -1716,6 +1721,8 @@
 ||kreuz.net^
 ||krystaltini.com^
 ||kuklosknights.com^
+||kukuruyo.com^
+||kukuruyoart.deviantart.com^
 ||kunstler.com^
 ||kyle-chapman.blogspot.com^
 ||l00kinglass.com^
@@ -1747,6 +1754,7 @@
 ||lavraiedemocratie.org^
 ||lawenforcementtoday.com^
 ||lbry.tv^
+||le-scpn.fr^
 ||leagueofthesouth.com^
 ||learnfalungong.com^
 ||learnfalungong.in^
@@ -2342,6 +2350,7 @@
 ||polaraidhealth.com^
 ||police-pour-la-verite.org^
 ||police-recruitment.co.uk^
+||police.unsa.org^
 ||policenow.org.uk^
 ||policestate.news^
 ||policier.ch^
@@ -2678,6 +2687,7 @@
 ||science.naturalnews.com^
 ||science.news^
 ||scienceandpublicpolicy.org^
+||scsi-pn.fr^
 ||sea-cadets.org^
 ||seanstone.info^
 ||secretsofthefed.com^
@@ -2865,6 +2875,7 @@
 ||swissbbw.ning.com^
 ||swprs.org^
 ||syndicat-liberte-sante.com^
+||synergie-officiers.com^
 ||syriana-analysis.com^
 ||t.me^
 ||takebackaustralia.org^
@@ -3247,6 +3258,7 @@
 ||unificationnisme.org^
 ||unitedmediapublishing.com^
 ||unitedpatriotsofamerica.com^
+||unitesgppolice.com^
 ||universepolitics.com^
 ||unrig.net^
 ||unshackledminds.com^
