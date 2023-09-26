@@ -5,17 +5,22 @@ carrefourdelhorloge.fr
 sdebeketch.com
 renaud-camus.net
 claudereichman.com
-# Publishers
+marsault.net
+
+# Medias
+## Publishers
+ring.fr
 boutique.institut-iliade.com
 institut-iliade.com
-# Medias
-
+editionsmagnus.fr
 ## Newspapers
 valeursactuelles.com
 lincorrect.org
 minute-hebdo.fr
 causeur.fr
 frontpopulaire.fr
+https://lafuria.fr/
+https://rivarol.com/
 ## Radio
 sudradio.fr
 radiocourtoisie.fr
