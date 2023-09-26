@@ -28,5 +28,5 @@ radiocourtoisie.fr
 omertamedia.fr
 bvoltaire.fr
 boulevard-voltaire.fr
-https://www.lecrayongroupe.fr/
+lecrayongroupe.fr
 lecrayonmedia.fr

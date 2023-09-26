@@ -470,6 +470,8 @@
 0.0.0.0 www.arizonaoathkeepers.blogspot.com
 0.0.0.0 arktos.com
 0.0.0.0 www.arktos.com
+0.0.0.0 armee-de-terre.career-inspiration.com
+0.0.0.0 www.armee-de-terre.career-inspiration.com
 0.0.0.0 armstrongeconomics.com
 0.0.0.0 www.armstrongeconomics.com
 0.0.0.0 armswatch.com
@@ -1616,6 +1618,8 @@
 0.0.0.0 www.dailywire.com
 0.0.0.0 dailyxrpnews.com
 0.0.0.0 www.dailyxrpnews.com
+0.0.0.0 damienrieu.fr
+0.0.0.0 www.damienrieu.fr
 0.0.0.0 damocles.co
 0.0.0.0 www.damocles.co
 0.0.0.0 dancingdolphinlove.blogspot.com
@@ -3238,6 +3242,8 @@
 0.0.0.0 www.jasonshurka.com
 0.0.0.0 jbs.org
 0.0.0.0 www.jbs.org
+0.0.0.0 je-mengage.fr
+0.0.0.0 www.je-mengage.fr
 0.0.0.0 jeanmarielepen.com
 0.0.0.0 www.jeanmarielepen.com
 0.0.0.0 jeanrobinmedia.wordpress.com
@@ -3558,6 +3564,10 @@
 0.0.0.0 www.learntruehealth.com
 0.0.0.0 lecourrierdesstrateges.fr
 0.0.0.0 www.lecourrierdesstrateges.fr
+0.0.0.0 lecrayongroupe.fr
+0.0.0.0 www.lecrayongroupe.fr
+0.0.0.0 lecrayonmedia.fr
+0.0.0.0 www.lecrayonmedia.fr
 0.0.0.0 leftlockdownsceptics.com
 0.0.0.0 www.leftlockdownsceptics.com
 0.0.0.0 legalinsurrection.com
@@ -5600,6 +5610,8 @@
 0.0.0.0 www.sordrescue.com
 0.0.0.0 sosbebe.org
 0.0.0.0 www.sosbebe.org
+0.0.0.0 soschretiensdorient.fr
+0.0.0.0 www.soschretiensdorient.fr
 0.0.0.0 sosfemmesenceintes.fr
 0.0.0.0 www.sosfemmesenceintes.fr
 0.0.0.0 sospostivg.org
@@ -5900,6 +5912,8 @@
 0.0.0.0 www.tgpfactcheck.com
 0.0.0.0 th3inn3rlight.net
 0.0.0.0 www.th3inn3rlight.net
+0.0.0.0 thaisdescufon.com
+0.0.0.0 www.thaisdescufon.com
 0.0.0.0 the-american-catholic.com
 0.0.0.0 www.the-american-catholic.com
 0.0.0.0 theadvocates.org

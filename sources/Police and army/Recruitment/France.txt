@@ -3,7 +3,7 @@ sengager.fr
 devenir-aviateur.fr
 lamarinerecrute.fr
 legion-recrute.com
-https://armee-de-terre.career-inspiration.com/
+armee-de-terre.career-inspiration.com
 # Police
 devenirpolicier.fr
 # SNU (military service lite)
