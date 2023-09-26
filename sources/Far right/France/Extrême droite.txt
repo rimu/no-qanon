@@ -10,8 +10,6 @@ marsault.net
 # Medias
 ## Publishers
 ring.fr
-boutique.institut-iliade.com
-institut-iliade.com
 editionsmagnus.fr
 ## Newspapers
 valeursactuelles.com
