@@ -3,34 +3,34 @@ thaisdescufon.com
 damienrieu.fr
 boutique.institut-iliade.com
 institut-iliade.com
-https://lesbrigandes.com/
+lesbrigandes.com
 
-https://les-identitaires.fr/
+les-identitaires.fr
 
 
-https://terreetpeuple.com/
+terreetpeuple.com
 
 
 # Media
 novopress.info
-https://www.fdesouche.com/
+fdesouche.com
 ripostelaique.com
 
 # Organizations
-https://liguedumidi.com/
+liguedumidi.com
 les-identitaires.com
 generationidentitaire.org
-https://serviam-alvarium.fr/
+serviam-alvarium.fr
 
 # Humanitarian
 soschretiensdorient.fr
-http://www.solidarite-kosovo.org/
+solidarite-kosovo.org
 
 # Political parties
 ## National
-https://www.siel-souverainete.fr/
-https://www.natdem.fr/
+siel-souverainete.fr
+natdem.fr
 ## Local
-https://www.alsacedabord.org/
+alsacedabord.org
 adsav.org
-https://www.nissarebela.com/
+nissarebela.com

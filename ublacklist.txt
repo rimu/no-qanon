@@ -137,6 +137,7 @@
 *://*.alpenparlament.com/*
 *://*.alpenparlament.tv/*
 *://*.alphavuk.net/*
+*://*.alsacedabord.org/*
 *://*.alt-market.com/*
 *://*.alt-market.us/*
 *://*.alt-right.com/*
@@ -1062,6 +1063,7 @@
 *://*.eurasia.upf.org/*
 *://*.eurocalifat.wordpress.com/*
 *://*.eurofolkradio.com/*
+*://*.europaeische-aktion.org/*
 *://*.europe-israel.org/*
 *://*.europe.infowars.com/*
 *://*.europe1.fr/*
@@ -1127,6 +1129,7 @@
 *://*.fastfood.news/*
 *://*.fatosdesconhecidos.com.br/*
 *://*.fawkes-news.com/*
+*://*.fdesouche.com/*
 *://*.fdrliberated.org/*
 *://*.fdrpodcasts.com/*
 *://*.fecore.org/*
@@ -1805,9 +1808,11 @@
 *://*.leral.net/*
 *://*.les-collectifs-unis.info/*
 *://*.les-identitaires.com/*
+*://*.les-identitaires.fr/*
 *://*.les-patriotes.fr/*
 *://*.lesalonbeige.blogs.com/*
 *://*.lesalonbeige.fr/*
+*://*.lesbrigandes.com/*
 *://*.lesbrindherbes.org/*
 *://*.lescrutateur.com/*
 *://*.lesdeqodeurs.fr/*
@@ -1848,6 +1853,7 @@
 *://*.lifesitenews.com/*
 *://*.lightbeings.space/*
 *://*.lightlybraisedturnip.com/*
+*://*.liguedumidi.com/*
 *://*.liiighthouse.com/*
 *://*.likethedaysofnoah.wordpress.com/*
 *://*.liltalkshow.net/*
@@ -2038,6 +2044,7 @@
 *://*.naebc.com/*
 *://*.namelyliberty.com/*
 *://*.natall.com/*
+*://*.natdem.fr/*
 *://*.nation.foxnews.com/*
 *://*.national-justice.com/*
 *://*.nationaldebt.news/*
@@ -2139,6 +2146,7 @@
 *://*.nido-del-cuco.blogspot.com/*
 *://*.nieuwstool.nl/*
 *://*.niooz.fr/*
+*://*.nissarebela.com/*
 *://*.nita.one/*
 *://*.njoathkeepers.org/*
 *://*.nl.connectingconsciousness.org/*
@@ -2166,6 +2174,7 @@
 *://*.nouvelle-action-royaliste.fr/*
 *://*.nouvelordremondial.cc/*
 *://*.nouvelordremondial.org/*
+*://*.novopress.info/*
 *://*.now8news.com/*
 *://*.nowhiteguilt.org/*
 *://*.nowhiteguiltcollectibles.com/*
@@ -2746,6 +2755,7 @@
 *://*.sentinelblog.com/*
 *://*.sepp.org/*
 *://*.serenashimaward.org/*
+*://*.serviam-alvarium.fr/*
 *://*.sgtreport.com/*
 *://*.shadolsonshow.com/*
 *://*.shadowban.eu/*
@@ -2778,6 +2788,7 @@
 *://*.shtf.news/*
 *://*.shtfplan.com/*
 *://*.siegeculture.biz/*
+*://*.siel-souverainete.fr/*
 *://*.sigmaframe.wordpress.com/*
 *://*.signup.martingeddes.com/*
 *://*.silentnationalistmajority.com/*
@@ -2806,6 +2817,7 @@
 *://*.snu.gouv.fr/*
 *://*.social1776.com/*
 *://*.soignants-suspendus.fr/*
+*://*.solidarite-kosovo.org/*
 *://*.solidariteetprogres.org/*
 *://*.solikick.com/*
 *://*.sonsoflibertyradio.com/*
@@ -2952,6 +2964,7 @@
 *://*.technocracy.news/*
 *://*.teleguiado.com/*
 *://*.tenthamendmentcenter.com/*
+*://*.terreetpeuple.com/*
 *://*.terrorhousemag.com/*
 *://*.terrorhousepress.com/*
 *://*.tesla.com/*
