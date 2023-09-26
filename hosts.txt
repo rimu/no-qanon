@@ -1936,6 +1936,8 @@
 0.0.0.0 www.eddenya.com
 0.0.0.0 edgeofwonder.tv
 0.0.0.0 www.edgeofwonder.tv
+0.0.0.0 editionsmagnus.fr
+0.0.0.0 www.editionsmagnus.fr
 0.0.0.0 educate-yourself.org
 0.0.0.0 www.educate-yourself.org
 0.0.0.0 educationpourlebiendesenfants.fr
@@ -3484,6 +3486,8 @@
 0.0.0.0 www.lactionfrancaise.fr
 0.0.0.0 ladssociety.com
 0.0.0.0 www.ladssociety.com
+0.0.0.0 lafuria.fr
+0.0.0.0 www.lafuria.fr
 0.0.0.0 lagauchematuer.fr
 0.0.0.0 www.lagauchematuer.fr
 0.0.0.0 lamanifpourtous.fr
@@ -3792,6 +3796,8 @@
 0.0.0.0 www.marklevinshow.com
 0.0.0.0 marktaliano.net
 0.0.0.0 www.marktaliano.net
+0.0.0.0 marsault.net
+0.0.0.0 www.marsault.net
 0.0.0.0 martiallaw.news
 0.0.0.0 www.martiallaw.news
 0.0.0.0 martinezreport.com
@@ -5284,6 +5290,8 @@
 0.0.0.0 www.rilenews.com
 0.0.0.0 rinf.com
 0.0.0.0 www.rinf.com
+0.0.0.0 ring.fr
+0.0.0.0 www.ring.fr
 0.0.0.0 ripostelaique.com
 0.0.0.0 www.ripostelaique.com
 0.0.0.0 riseattireusa.com
@@ -5292,6 +5300,8 @@
 0.0.0.0 www.riseupdeplorables.com
 0.0.0.0 risk.news
 0.0.0.0 www.risk.news
+0.0.0.0 rivarol.com
+0.0.0.0 www.rivarol.com
 0.0.0.0 rizzaislam.com
 0.0.0.0 www.rizzaislam.com
 0.0.0.0 rnrenewal.org

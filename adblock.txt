@@ -974,6 +974,7 @@
 ||edcgoods.com^
 ||eddenya.com^
 ||edgeofwonder.tv^
+||editionsmagnus.fr^
 ||educate-yourself.org^
 ||educationpourlebiendesenfants.fr^
 ||eesystem.com^
@@ -1748,6 +1749,7 @@
 ||labour25.com^
 ||lactionfrancaise.fr^
 ||ladssociety.com^
+||lafuria.fr^
 ||lagauchematuer.fr^
 ||lamanifpourtous.fr^
 ||lamarinerecrute.fr^
@@ -1902,6 +1904,7 @@
 ||marketcrash.news^
 ||marklevinshow.com^
 ||marktaliano.net^
+||marsault.net^
 ||martiallaw.news^
 ||martinezreport.com^
 ||martinfrischknecht.com^
@@ -2648,10 +2651,12 @@
 ||rightsidenews.com^
 ||rilenews.com^
 ||rinf.com^
+||ring.fr^
 ||ripostelaique.com^
 ||riseattireusa.com^
 ||riseupdeplorables.com^
 ||risk.news^
+||rivarol.com^
 ||rizzaislam.com^
 ||rnrenewal.org^
 ||robertfaurisson.blogspot.com^

@@ -19,8 +19,8 @@ lincorrect.org
 minute-hebdo.fr
 causeur.fr
 frontpopulaire.fr
-https://lafuria.fr/
-https://rivarol.com/
+lafuria.fr
+rivarol.com
 ## Radio
 sudradio.fr
 radiocourtoisie.fr
