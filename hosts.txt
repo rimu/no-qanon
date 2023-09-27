@@ -6832,6 +6832,8 @@
 0.0.0.0 www.vigilant.news
 0.0.0.0 vigilantcitizen.com
 0.0.0.0 www.vigilantcitizen.com
+0.0.0.0 vigile.quebec
+0.0.0.0 www.vigile.quebec
 0.0.0.0 vinlandianlore.wordpress.com
 0.0.0.0 www.vinlandianlore.wordpress.com
 0.0.0.0 vintologi.com

@@ -3415,6 +3415,7 @@ address=/vidyafrazier.com/
 address=/viewspot.co.nz/
 address=/vigilant.news/
 address=/vigilantcitizen.com/
+address=/vigile.quebec/
 address=/vinlandianlore.wordpress.com/
 address=/vintologi.com/
 address=/vintologi.eu/
