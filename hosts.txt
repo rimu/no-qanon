@@ -1878,6 +1878,8 @@
 0.0.0.0 www.drmalcolmkendrick.org
 0.0.0.0 drnorthrup.com
 0.0.0.0 www.drnorthrup.com
+0.0.0.0 droitededemain.fr
+0.0.0.0 www.droitededemain.fr
 0.0.0.0 drop.space
 0.0.0.0 www.drop.space
 0.0.0.0 drrobertyoung.com
@@ -3130,6 +3132,8 @@
 0.0.0.0 www.initiativecitoyenne.be
 0.0.0.0 institut-iliade.com
 0.0.0.0 www.institut-iliade.com
+0.0.0.0 institutdelasecuriteinterieure.fr
+0.0.0.0 www.institutdelasecuriteinterieure.fr
 0.0.0.0 inteldrops.com
 0.0.0.0 www.inteldrops.com
 0.0.0.0 intelhistory.net
