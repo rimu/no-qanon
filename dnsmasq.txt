@@ -2525,6 +2525,7 @@ address=/qtown.media/
 address=/quantumfinancialsystem.com/
 address=/quantumfuturegroup.org/
 address=/quartierlibre.tv/
+address=/quebecnouvelles.info/
 address=/quebuzz.com/
 address=/quer-denken.tv/
 address=/quidditchchampions.com/

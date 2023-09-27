@@ -2532,6 +2532,7 @@
 *://*.quantumfinancialsystem.com/*
 *://*.quantumfuturegroup.org/*
 *://*.quartierlibre.tv/*
+*://*.quebecnouvelles.info/*
 *://*.quebuzz.com/*
 *://*.quer-denken.tv/*
 *://*.quidditchchampions.com/*

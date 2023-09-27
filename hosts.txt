@@ -5052,6 +5052,8 @@
 0.0.0.0 www.quantumfuturegroup.org
 0.0.0.0 quartierlibre.tv
 0.0.0.0 www.quartierlibre.tv
+0.0.0.0 quebecnouvelles.info
+0.0.0.0 www.quebecnouvelles.info
 0.0.0.0 quebuzz.com
 0.0.0.0 www.quebuzz.com
 0.0.0.0 quer-denken.tv
