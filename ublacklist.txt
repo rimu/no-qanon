@@ -1639,6 +1639,7 @@
 *://*.jennymoonstone.com/*
 *://*.jeremie-mercier.com/*
 *://*.jessekellyshow.com/*
+*://*.jesuisduf.wixsite.com/*
 *://*.jesuisterreau.com/*
 *://*.jesus-is-savior.com/*
 *://*.jewsnews.co.il/*
