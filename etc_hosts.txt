@@ -2958,6 +2958,8 @@
 0.0.0.0 www.hopkinsworld.com
 0.0.0.0 hoplitearmor.com
 0.0.0.0 www.hoplitearmor.com
+0.0.0.0 horizonquebecactuel.com
+0.0.0.0 www.horizonquebecactuel.com
 0.0.0.0 horsdevospenses0833.blogspot.fr
 0.0.0.0 www.horsdevospenses0833.blogspot.fr
 0.0.0.0 hotair.com
@@ -4316,6 +4318,8 @@
 0.0.0.0 www.nomasks.godaddysites.com
 0.0.0.0 nomorefakenews.com
 0.0.0.0 www.nomorefakenews.com
+0.0.0.0 nomos-tv.com
+0.0.0.0 www.nomos-tv.com
 0.0.0.0 non-intervention2.com
 0.0.0.0 www.non-intervention2.com
 0.0.0.0 noncounterproductive.blogspot.com

@@ -1485,6 +1485,7 @@
 *://*.honestfoodguide.org/*
 *://*.hopkinsworld.com/*
 *://*.hoplitearmor.com/*
+*://*.horizonquebecactuel.com/*
 *://*.horsdevospenses0833.blogspot.fr/*
 *://*.hotair.com/*
 *://*.housesutphin.com/*
@@ -2164,6 +2165,7 @@
 *://*.nojabjobs.co.nz/*
 *://*.nomasks.godaddysites.com/*
 *://*.nomorefakenews.com/*
+*://*.nomos-tv.com/*
 *://*.non-intervention2.com/*
 *://*.noncounterproductive.blogspot.com/*
 *://*.nordfront.dk/*
