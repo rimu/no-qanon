@@ -1088,6 +1088,8 @@
 0.0.0.0 www.cassiopaea.com
 0.0.0.0 cassiopaea.org
 0.0.0.0 www.cassiopaea.org
+0.0.0.0 catholiquedefrance.fr
+0.0.0.0 www.catholiquedefrance.fr
 0.0.0.0 cathyfox.wordpress.com
 0.0.0.0 www.cathyfox.wordpress.com
 0.0.0.0 causeur.fr

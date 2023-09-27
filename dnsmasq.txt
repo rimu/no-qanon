@@ -543,6 +543,7 @@ address=/carplife.org/
 address=/carrefourdelhorloge.fr/
 address=/cassiopaea.com/
 address=/cassiopaea.org/
+address=/catholiquedefrance.fr/
 address=/cathyfox.wordpress.com/
 address=/causeur.fr/
 address=/cbn.com/
