@@ -242,6 +242,8 @@
 0.0.0.0 www.alivenhealthy.com
 0.0.0.0 alivethrive.life
 0.0.0.0 www.alivethrive.life
+0.0.0.0 alleanzacattolica.org
+0.0.0.0 www.alleanzacattolica.org
 0.0.0.0 alleinklang.tv
 0.0.0.0 www.alleinklang.tv
 0.0.0.0 alliancepn.fr
@@ -818,6 +820,8 @@
 0.0.0.0 www.bitcoincollapse.news
 0.0.0.0 bitcoincrash.news
 0.0.0.0 www.bitcoincrash.news
+0.0.0.0 bitterwinter.org
+0.0.0.0 www.bitterwinter.org
 0.0.0.0 bittube.tv
 0.0.0.0 www.bittube.tv
 0.0.0.0 blackagendareport.com
@@ -1128,6 +1132,10 @@
 0.0.0.0 www.certifiedconspiracy.com
 0.0.0.0 cesiumeliminator.com
 0.0.0.0 www.cesiumeliminator.com
+0.0.0.0 cesnur.net
+0.0.0.0 www.cesnur.net
+0.0.0.0 cesnur.org
+0.0.0.0 www.cesnur.org
 0.0.0.0 ceticismopolitico.com
 0.0.0.0 www.ceticismopolitico.com
 0.0.0.0 ceylontobaccocompany.com
@@ -1314,6 +1322,8 @@
 0.0.0.0 www.co2web.info
 0.0.0.0 coasttocoastam.com
 0.0.0.0 www.coasttocoastam.com
+0.0.0.0 cobratate.com
+0.0.0.0 www.cobratate.com
 0.0.0.0 codias.com
 0.0.0.0 www.codias.com
 0.0.0.0 codoh.com
@@ -1982,6 +1992,8 @@
 0.0.0.0 www.en.kremlin.ru
 0.0.0.0 en.news-front.info
 0.0.0.0 www.en.news-front.info
+0.0.0.0 en.shincheonji.kr
+0.0.0.0 www.en.shincheonji.kr
 0.0.0.0 enabon.com
 0.0.0.0 www.enabon.com
 0.0.0.0 endchan.org
@@ -2082,6 +2094,8 @@
 0.0.0.0 www.erasingtheliberty.com
 0.0.0.0 ericdubay.wordpress.com
 0.0.0.0 www.ericdubay.wordpress.com
+0.0.0.0 ericroux.com
+0.0.0.0 www.ericroux.com
 0.0.0.0 erictrumpfoundation.com
 0.0.0.0 www.erictrumpfoundation.com
 0.0.0.0 ericzemmour.fr
@@ -2412,6 +2426,8 @@
 0.0.0.0 www.fpp.co.uk
 0.0.0.0 fprnradio.com
 0.0.0.0 www.fprnradio.com
+0.0.0.0 fr.bitterwinter.org
+0.0.0.0 www.fr.bitterwinter.org
 0.0.0.0 fr.news-front.info
 0.0.0.0 www.fr.news-front.info
 0.0.0.0 fracking.news
@@ -2480,6 +2496,8 @@
 0.0.0.0 www.freedomminds.com
 0.0.0.0 freedomnews.tv
 0.0.0.0 www.freedomnews.tv
+0.0.0.0 freedomofbelief.net
+0.0.0.0 www.freedomofbelief.net
 0.0.0.0 freedomoutpost.com
 0.0.0.0 www.freedomoutpost.com
 0.0.0.0 freedomplatform.tv
@@ -3412,6 +3430,8 @@
 0.0.0.0 www.justjoeradio.com
 0.0.0.0 justthenews.com
 0.0.0.0 www.justthenews.com
+0.0.0.0 jw.org
+0.0.0.0 www.jw.org
 0.0.0.0 jylg.com
 0.0.0.0 www.jylg.com
 0.0.0.0 kahudes.net
@@ -3760,6 +3780,10 @@
 0.0.0.0 www.loyaltyhonor.wordpress.com
 0.0.0.0 lpac.co
 0.0.0.0 www.lpac.co
+0.0.0.0 lronhubbard.fr
+0.0.0.0 www.lronhubbard.fr
+0.0.0.0 lronhubbard.org
+0.0.0.0 www.lronhubbard.org
 0.0.0.0 luluscope.co.uk
 0.0.0.0 www.luluscope.co.uk
 0.0.0.0 m.vk.com
@@ -3810,6 +3834,8 @@
 0.0.0.0 www.mammothnation.com
 0.0.0.0 maralagoclub.com
 0.0.0.0 www.maralagoclub.com
+0.0.0.0 marcorespinti.org
+0.0.0.0 www.marcorespinti.org
 0.0.0.0 marcusviniciusmotta.com
 0.0.0.0 www.marcusviniciusmotta.com
 0.0.0.0 marilynjwilliams.com
@@ -3848,6 +3874,8 @@
 0.0.0.0 www.masksoffusa.com
 0.0.0.0 massawakening.org
 0.0.0.0 www.massawakening.org
+0.0.0.0 massimointrovigne.com
+0.0.0.0 www.massimointrovigne.com
 0.0.0.0 mattforney.com
 0.0.0.0 www.mattforney.com
 0.0.0.0 matthias331.wordpress.com
@@ -3908,6 +3936,8 @@
 0.0.0.0 www.menz.org.nz
 0.0.0.0 merch.nicholasjfuentes.com
 0.0.0.0 www.merch.nicholasjfuentes.com
+0.0.0.0 merch.topg.com
+0.0.0.0 www.merch.topg.com
 0.0.0.0 mercola.com
 0.0.0.0 www.mercola.com
 0.0.0.0 messagesfromspiritworld.info
@@ -5482,6 +5512,10 @@
 0.0.0.0 www.science.news
 0.0.0.0 scienceandpublicpolicy.org
 0.0.0.0 www.scienceandpublicpolicy.org
+0.0.0.0 scientologie.fr
+0.0.0.0 www.scientologie.fr
+0.0.0.0 scientology.org
+0.0.0.0 www.scientology.org
 0.0.0.0 scsi-pn.fr
 0.0.0.0 www.scsi-pn.fr
 0.0.0.0 sdebeketch.com
@@ -5550,6 +5584,12 @@
 0.0.0.0 www.sherryshriner.com
 0.0.0.0 shiftfrequency.com
 0.0.0.0 www.shiftfrequency.com
+0.0.0.0 shincheonji.fr
+0.0.0.0 www.shincheonji.fr
+0.0.0.0 shincheonji.kr
+0.0.0.0 www.shincheonji.kr
+0.0.0.0 shincheonji.org
+0.0.0.0 www.shincheonji.org
 0.0.0.0 shing.tv
 0.0.0.0 www.shing.tv
 0.0.0.0 shitposter.club
@@ -5946,6 +5986,10 @@
 0.0.0.0 www.texasthreepercenters.org
 0.0.0.0 texemarrs.com
 0.0.0.0 www.texemarrs.com
+0.0.0.0 tfp-france.org
+0.0.0.0 www.tfp-france.org
+0.0.0.0 tfp.org.br
+0.0.0.0 www.tfp.org.br
 0.0.0.0 tfrc.org.nz
 0.0.0.0 www.tfrc.org.nz
 0.0.0.0 tgpfactcheck.com
@@ -6318,6 +6362,8 @@
 0.0.0.0 www.thevaccinereaction.org
 0.0.0.0 thevinnyeastwoodshow.com
 0.0.0.0 www.thevinnyeastwoodshow.com
+0.0.0.0 thewarroom.ag
+0.0.0.0 www.thewarroom.ag
 0.0.0.0 thewashingtonsentinel.com
 0.0.0.0 www.thewashingtonsentinel.com
 0.0.0.0 thewatcherfiles.com
@@ -6412,6 +6458,8 @@
 0.0.0.0 www.topdunet.org
 0.0.0.0 topekasnews.com
 0.0.0.0 www.topekasnews.com
+0.0.0.0 topg.com
+0.0.0.0 www.topg.com
 0.0.0.0 topibuzz.com
 0.0.0.0 www.topibuzz.com
 0.0.0.0 topsante.org
@@ -6962,6 +7010,8 @@
 0.0.0.0 www.wealthwire.com
 0.0.0.0 wearechange.org
 0.0.0.0 www.wearechange.org
+0.0.0.0 wearelumos.org
+0.0.0.0 www.wearelumos.org
 0.0.0.0 wearenotsam.com
 0.0.0.0 www.wearenotsam.com
 0.0.0.0 weareready.world

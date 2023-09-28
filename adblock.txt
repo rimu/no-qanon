@@ -127,6 +127,7 @@
 ||algorelied.com^
 ||alivenhealthy.com^
 ||alivethrive.life^
+||alleanzacattolica.org^
 ||alleinklang.tv^
 ||alliancepn.fr^
 ||alliancevita.org^
@@ -415,6 +416,7 @@
 ||bitcoin20.org^
 ||bitcoincollapse.news^
 ||bitcoincrash.news^
+||bitterwinter.org^
 ||bittube.tv^
 ||blackagendareport.com^
 ||blackboxvoting.org^
@@ -570,6 +572,8 @@
 ||centrostudilaruna.it^
 ||certifiedconspiracy.com^
 ||cesiumeliminator.com^
+||cesnur.net^
+||cesnur.org^
 ||ceticismopolitico.com^
 ||ceylontobaccocompany.com^
 ||cfact.org^
@@ -663,6 +667,7 @@
 ||co2science.org^
 ||co2web.info^
 ||coasttocoastam.com^
+||cobratate.com^
 ||codias.com^
 ||codoh.com^
 ||coercioncode.com^
@@ -997,6 +1002,7 @@
 ||en-volve.com^
 ||en.kremlin.ru^
 ||en.news-front.info^
+||en.shincheonji.kr^
 ||enabon.com^
 ||endchan.org^
 ||endevil.life^
@@ -1047,6 +1053,7 @@
 ||eraoflight.com^
 ||erasingtheliberty.com^
 ||ericdubay.wordpress.com^
+||ericroux.com^
 ||erictrumpfoundation.com^
 ||ericzemmour.fr^
 ||ernestlmartin.com^
@@ -1212,6 +1219,7 @@
 ||fpoe.at^
 ||fpp.co.uk^
 ||fprnradio.com^
+||fr.bitterwinter.org^
 ||fr.news-front.info^
 ||fracking.news^
 ||framix.fr^
@@ -1246,6 +1254,7 @@
 ||freedomheadlines.com^
 ||freedomminds.com^
 ||freedomnews.tv^
+||freedomofbelief.net^
 ||freedomoutpost.com^
 ||freedomplatform.tv^
 ||freedomproject.com^
@@ -1712,6 +1721,7 @@
 ||justinformednews.com^
 ||justjoeradio.com^
 ||justthenews.com^
+||jw.org^
 ||jylg.com^
 ||kahudes.net^
 ||kairospresse.be^
@@ -1886,6 +1896,8 @@
 ||loveinactionnow.com^
 ||loyaltyhonor.wordpress.com^
 ||lpac.co^
+||lronhubbard.fr^
+||lronhubbard.org^
 ||luluscope.co.uk^
 ||m.vk.com^
 ||macao.harrypotterexhibition.com^
@@ -1911,6 +1923,7 @@
 ||mamm.org^
 ||mammothnation.com^
 ||maralagoclub.com^
+||marcorespinti.org^
 ||marcusviniciusmotta.com^
 ||marilynjwilliams.com^
 ||mariomurillo.org^
@@ -1930,6 +1943,7 @@
 ||maskoffmn.org^
 ||masksoffusa.com^
 ||massawakening.org^
+||massimointrovigne.com^
 ||mattforney.com^
 ||matthias331.wordpress.com^
 ||maxkeiser.com^
@@ -1960,6 +1974,7 @@
 ||memeworld.com^
 ||menz.org.nz^
 ||merch.nicholasjfuentes.com^
+||merch.topg.com^
 ||mercola.com^
 ||messagesfromspiritworld.info^
 ||metabunk.org^
@@ -2747,6 +2762,8 @@
 ||science.naturalnews.com^
 ||science.news^
 ||scienceandpublicpolicy.org^
+||scientologie.fr^
+||scientology.org^
 ||scsi-pn.fr^
 ||sdebeketch.com^
 ||sea-cadets.org^
@@ -2781,6 +2798,9 @@
 ||shepherd.to^
 ||sherryshriner.com^
 ||shiftfrequency.com^
+||shincheonji.fr^
+||shincheonji.kr^
+||shincheonji.org^
 ||shing.tv^
 ||shitposter.club^
 ||shiva4senate.com^
@@ -2979,6 +2999,8 @@
 ||texasnationalistparty.com^
 ||texasthreepercenters.org^
 ||texemarrs.com^
+||tfp-france.org^
+||tfp.org.br^
 ||tfrc.org.nz^
 ||tgpfactcheck.com^
 ||th3inn3rlight.net^
@@ -3165,6 +3187,7 @@
 ||thevaccinefreechild.com^
 ||thevaccinereaction.org^
 ||thevinnyeastwoodshow.com^
+||thewarroom.ag^
 ||thewashingtonsentinel.com^
 ||thewatcherfiles.com^
 ||thewatchtowers.com^
@@ -3212,6 +3235,7 @@
 ||topastuces.net^
 ||topdunet.org^
 ||topekasnews.com^
+||topg.com^
 ||topibuzz.com^
 ||topsante.org^
 ||toqonline.com^
@@ -3487,6 +3511,7 @@
 ||wealthcycles.com^
 ||wealthwire.com^
 ||wearechange.org^
+||wearelumos.org^
 ||wearenotsam.com^
 ||weareready.world^
 ||wearethene.ws^
