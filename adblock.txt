@@ -1391,6 +1391,8 @@
 ||goodgopher.com^
 ||goodsauce.news^
 ||goodsciencing.com^
+||gop.com^
+||gop.gov^
 ||gopthedailydose.com^
 ||gorf.tube^
 ||gorsuch.news^
@@ -2997,6 +2999,7 @@
 ||terrorhousepress.com^
 ||tesla.com^
 ||testpositif.com^
+||texasgop.org^
 ||texasnationalistparty.com^
 ||texasthreepercenters.org^
 ||texemarrs.com^

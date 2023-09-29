@@ -2770,6 +2770,10 @@
 0.0.0.0 www.goodsauce.news
 0.0.0.0 goodsciencing.com
 0.0.0.0 www.goodsciencing.com
+0.0.0.0 gop.com
+0.0.0.0 www.gop.com
+0.0.0.0 gop.gov
+0.0.0.0 www.gop.gov
 0.0.0.0 gopthedailydose.com
 0.0.0.0 www.gopthedailydose.com
 0.0.0.0 gorf.tube
@@ -5982,6 +5986,8 @@
 0.0.0.0 www.tesla.com
 0.0.0.0 testpositif.com
 0.0.0.0 www.testpositif.com
+0.0.0.0 texasgop.org
+0.0.0.0 www.texasgop.org
 0.0.0.0 texasnationalistparty.com
 0.0.0.0 www.texasnationalistparty.com
 0.0.0.0 texasthreepercenters.org
