@@ -340,6 +340,10 @@
 0.0.0.0 www.americanreviewer.com
 0.0.0.0 americans4innovation.blogspot.com
 0.0.0.0 www.americans4innovation.blogspot.com
+0.0.0.0 americansforprosperity.org
+0.0.0.0 www.americansforprosperity.org
+0.0.0.0 americansforprosperityfoundation.org
+0.0.0.0 www.americansforprosperityfoundation.org
 0.0.0.0 americanthinker.com
 0.0.0.0 www.americanthinker.com
 0.0.0.0 americantoday.news
@@ -1108,6 +1112,8 @@
 0.0.0.0 www.catholiquedefrance.fr
 0.0.0.0 cathyfox.wordpress.com
 0.0.0.0 www.cathyfox.wordpress.com
+0.0.0.0 cato.org
+0.0.0.0 www.cato.org
 0.0.0.0 causeur.fr
 0.0.0.0 www.causeur.fr
 0.0.0.0 cbn.com
@@ -1154,6 +1160,8 @@
 0.0.0.0 www.ceylontobaccocompany.com
 0.0.0.0 cfact.org
 0.0.0.0 www.cfact.org
+0.0.0.0 cgkfoundation.org
+0.0.0.0 www.cgkfoundation.org
 0.0.0.0 channel-7-news.com
 0.0.0.0 www.channel-7-news.com
 0.0.0.0 chaos.news
@@ -3508,6 +3516,8 @@
 0.0.0.0 www.kncdn.org
 0.0.0.0 knowmorenews.org
 0.0.0.0 www.knowmorenews.org
+0.0.0.0 kochind.com
+0.0.0.0 www.kochind.com
 0.0.0.0 kolozeg.org
 0.0.0.0 www.kolozeg.org
 0.0.0.0 kolyma.net
@@ -3704,6 +3714,10 @@
 0.0.0.0 www.liberaldarkness.com
 0.0.0.0 liberaux.org
 0.0.0.0 www.liberaux.org
+0.0.0.0 libertarianism.fandom.com
+0.0.0.0 www.libertarianism.fandom.com
+0.0.0.0 libertarianism.org
+0.0.0.0 www.libertarianism.org
 0.0.0.0 liberty.me
 0.0.0.0 www.liberty.me
 0.0.0.0 libertyblitzkrieg.com
@@ -3802,6 +3816,8 @@
 0.0.0.0 www.loveinactionnow.com
 0.0.0.0 loyaltyhonor.wordpress.com
 0.0.0.0 www.loyaltyhonor.wordpress.com
+0.0.0.0 lp.org
+0.0.0.0 www.lp.org
 0.0.0.0 lpac.co
 0.0.0.0 www.lpac.co
 0.0.0.0 lronhubbard.fr
@@ -3958,6 +3974,8 @@
 0.0.0.0 www.memeworld.com
 0.0.0.0 menz.org.nz
 0.0.0.0 www.menz.org.nz
+0.0.0.0 mercatus.org
+0.0.0.0 www.mercatus.org
 0.0.0.0 merch.nicholasjfuentes.com
 0.0.0.0 www.merch.nicholasjfuentes.com
 0.0.0.0 merch.topg.com
@@ -6206,6 +6224,8 @@
 0.0.0.0 www.thehoustonfreethinkers.com
 0.0.0.0 thehumanityproject.club
 0.0.0.0 www.thehumanityproject.club
+0.0.0.0 theihs.org
+0.0.0.0 www.theihs.org
 0.0.0.0 theinconvenientskeptic.com
 0.0.0.0 www.theinconvenientskeptic.com
 0.0.0.0 theinfectiousmyth.com
