@@ -1,8 +1,8 @@
 # The Ayn Rand fanclub
-https://aynrand.org/
-https://ari.aynrand.org/
-https://programs.aynrand.org/
-atlassociety.org/
-https://www.capitalism.org/
-https://www.noblesoul.com/
-https://www.aynrandlexicon.com/
+aynrand.org
+ari.aynrand.org
+programs.aynrand.org
+atlassociety.org
+capitalism.org
+noblesoul.com
+aynrandlexicon.com

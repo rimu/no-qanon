@@ -241,6 +241,7 @@
 ||archives.prepwithmike.com^
 ||arcturius.org^
 ||arete.network^
+||ari.aynrand.org^
 ||arizonabiteme.com^
 ||arizonaoathkeepers.blogspot.com^
 ||arktos.com^
@@ -299,6 +300,8 @@
 ||awdnews.com^
 ||awm.com^
 ||ayema-official.com^
+||aynrand.org^
+||aynrandlexicon.com^
 ||babylonbee.com^
 ||bad-boys.us^
 ||badblue.bitnamiapp.com^
@@ -537,6 +540,7 @@
 ||cantcloseamerica.com^
 ||cap-news.com^
 ||capitalcityproudboys.com^
+||capitalism.org^
 ||capitalistexploits.at^
 ||captaincapitalism.blogspot.com^
 ||captainhindsight.space^
@@ -2181,6 +2185,7 @@
 ||nnnforum.com^
 ||noagendanewsnetwork.com^
 ||noagendasocial.com^
+||noblesoul.com^
 ||nobstherapy.com^
 ||noch.info^
 ||nodisinfo.com^
@@ -2487,6 +2492,7 @@
 ||professeur-joyeux.com^
 ||profidecatholica.com^
 ||profundityyours.com^
+||programs.aynrand.org^
 ||programs.naturalnews.com^
 ||projectavalon.net^
 ||projectcamelot.org^
