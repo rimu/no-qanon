@@ -30,6 +30,7 @@
 ||365usanews.com^
 ||3percenterreport.com^
 ||3speak.co^
+||440.co.il^
 ||45office.com^
 ||4ashli.com^
 ||4chan.org^
@@ -312,6 +313,7 @@
 ||bad-boys.us^
 ||badblue.bitnamiapp.com^
 ||badsquad.com^
+||baityehudi.org.il^
 ||balder.org^
 ||bam.news^
 ||banderavecinal.org^
@@ -1012,6 +1014,7 @@
 ||electionnightgatekeepers.com^
 ||electrosensei.com^
 ||elenafridmd.com^
+||elieyshay.com^
 ||elishean-aufeminin.com^
 ||embols.com^
 ||emf-experts.news^
@@ -1477,6 +1480,7 @@
 ||hartgroup.org^
 ||harvest.news^
 ||hateradio.su^
+||hayemin.org^
 ||healing.news^
 ||healingcancernaturally.com^
 ||healingfoodreference.com^
@@ -1915,6 +1919,7 @@
 ||liguedumidi.com^
 ||liiighthouse.com^
 ||likethedaysofnoah.wordpress.com^
+||likud.org.il^
 ||liltalkshow.net^
 ||lily.sunmoon.ac.kr^
 ||limegenocide.blogspot.com^
@@ -2151,6 +2156,7 @@
 ||neopresse.com^
 ||nesara.shop^
 ||nesarasucks.com^
+||netanyahu.org.il^
 ||netwrks.io^
 ||netzfrauen.org^
 ||neuralink.com^
@@ -2223,6 +2229,7 @@
 ||nnnforum.com^
 ||noagendanewsnetwork.com^
 ||noagendasocial.com^
+||noam.org.il^
 ||noblesoul.com^
 ||nobstherapy.com^
 ||noch.info^
@@ -2363,6 +2370,8 @@
 ||overlords.news^
 ||ovniparanormal.over-blog.com^
 ||owenbenjamin.com^
+||ozma-yeudit.co.il^
+||ozma-yeudit.com^
 ||p2pprinting.com^
 ||pakalertpress.com^
 ||palbulletin.com^
@@ -2844,6 +2853,7 @@
 ||shareblue.com^
 ||sharpgary.org^
 ||sharylattkisson.com^
+||shas.org.il^
 ||sheepkillers.com^
 ||sheilazilinsky.com^
 ||shemanenugent.rocks^
@@ -3724,4 +3734,5 @@
 ||zentrum-der-gesundheit.de^
 ||zerohedge.com^
 ||zimm3rmann.com^
+||zionutdatit.org.il^
 ||zootfeed.com^

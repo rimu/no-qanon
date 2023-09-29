@@ -48,6 +48,8 @@
 0.0.0.0 www.3percenterreport.com
 0.0.0.0 3speak.co
 0.0.0.0 www.3speak.co
+0.0.0.0 440.co.il
+0.0.0.0 www.440.co.il
 0.0.0.0 45office.com
 0.0.0.0 www.45office.com
 0.0.0.0 4ashli.com
@@ -612,6 +614,8 @@
 0.0.0.0 www.badblue.bitnamiapp.com
 0.0.0.0 badsquad.com
 0.0.0.0 www.badsquad.com
+0.0.0.0 baityehudi.org.il
+0.0.0.0 www.baityehudi.org.il
 0.0.0.0 balder.org
 0.0.0.0 www.balder.org
 0.0.0.0 bam.news
@@ -2012,6 +2016,8 @@
 0.0.0.0 www.electrosensei.com
 0.0.0.0 elenafridmd.com
 0.0.0.0 www.elenafridmd.com
+0.0.0.0 elieyshay.com
+0.0.0.0 www.elieyshay.com
 0.0.0.0 elishean-aufeminin.com
 0.0.0.0 www.elishean-aufeminin.com
 0.0.0.0 embols.com
@@ -2942,6 +2948,8 @@
 0.0.0.0 www.harvest.news
 0.0.0.0 hateradio.su
 0.0.0.0 www.hateradio.su
+0.0.0.0 hayemin.org
+0.0.0.0 www.hayemin.org
 0.0.0.0 healing.news
 0.0.0.0 www.healing.news
 0.0.0.0 healingcancernaturally.com
@@ -3818,6 +3826,8 @@
 0.0.0.0 www.liiighthouse.com
 0.0.0.0 likethedaysofnoah.wordpress.com
 0.0.0.0 www.likethedaysofnoah.wordpress.com
+0.0.0.0 likud.org.il
+0.0.0.0 www.likud.org.il
 0.0.0.0 liltalkshow.net
 0.0.0.0 www.liltalkshow.net
 0.0.0.0 lily.sunmoon.ac.kr
@@ -4290,6 +4300,8 @@
 0.0.0.0 www.nesara.shop
 0.0.0.0 nesarasucks.com
 0.0.0.0 www.nesarasucks.com
+0.0.0.0 netanyahu.org.il
+0.0.0.0 www.netanyahu.org.il
 0.0.0.0 netwrks.io
 0.0.0.0 www.netwrks.io
 0.0.0.0 netzfrauen.org
@@ -4434,6 +4446,8 @@
 0.0.0.0 www.noagendanewsnetwork.com
 0.0.0.0 noagendasocial.com
 0.0.0.0 www.noagendasocial.com
+0.0.0.0 noam.org.il
+0.0.0.0 www.noam.org.il
 0.0.0.0 noblesoul.com
 0.0.0.0 www.noblesoul.com
 0.0.0.0 nobstherapy.com
@@ -4714,6 +4728,10 @@
 0.0.0.0 www.ovniparanormal.over-blog.com
 0.0.0.0 owenbenjamin.com
 0.0.0.0 www.owenbenjamin.com
+0.0.0.0 ozma-yeudit.co.il
+0.0.0.0 www.ozma-yeudit.co.il
+0.0.0.0 ozma-yeudit.com
+0.0.0.0 www.ozma-yeudit.com
 0.0.0.0 p2pprinting.com
 0.0.0.0 www.p2pprinting.com
 0.0.0.0 pakalertpress.com
@@ -5676,6 +5694,8 @@
 0.0.0.0 www.sharpgary.org
 0.0.0.0 sharylattkisson.com
 0.0.0.0 www.sharylattkisson.com
+0.0.0.0 shas.org.il
+0.0.0.0 www.shas.org.il
 0.0.0.0 sheepkillers.com
 0.0.0.0 www.sheepkillers.com
 0.0.0.0 sheilazilinsky.com
@@ -7436,5 +7456,7 @@
 0.0.0.0 www.zerohedge.com
 0.0.0.0 zimm3rmann.com
 0.0.0.0 www.zimm3rmann.com
+0.0.0.0 zionutdatit.org.il
+0.0.0.0 www.zionutdatit.org.il
 0.0.0.0 zootfeed.com
 0.0.0.0 www.zootfeed.com

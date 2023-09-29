@@ -1,12 +1,12 @@
 # Political parties
-https://www.netanyahu.org.il/
-https://www.likud.org.il/en/
-https://noam.org.il/
-https://zionutdatit.org.il/
-https://www.ozma-yeudit.co.il/
-http://440.co.il/
-https://ozma-yeudit.com/
-https://hayemin.org/
-https://www.baityehudi.org.il/
-https://elieyshay.com/
-http://shas.org.il/
+netanyahu.org.il
+likud.org.il
+noam.org.il
+zionutdatit.org.il
+ozma-yeudit.co.il
+440.co.il
+ozma-yeudit.com
+hayemin.org
+baityehudi.org.il
+elieyshay.com
+shas.org.il
