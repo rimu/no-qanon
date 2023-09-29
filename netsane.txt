@@ -1313,7 +1313,6 @@
 "*://*.fromthetrenchesworldreport.com/*",
 "*://*.frontlinemds.com/*",
 "*://*.frontmediatique.fr/*",
-"*://*.frontnational.com/*",
 "*://*.frontpagemag.com/*",
 "*://*.frontpopulaire.fr/*",
 "*://*.fukushimawatch.com/*",

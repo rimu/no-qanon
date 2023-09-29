@@ -2628,8 +2628,6 @@
 0.0.0.0 www.frontlinemds.com
 0.0.0.0 frontmediatique.fr
 0.0.0.0 www.frontmediatique.fr
-0.0.0.0 frontnational.com
-0.0.0.0 www.frontnational.com
 0.0.0.0 frontpagemag.com
 0.0.0.0 www.frontpagemag.com
 0.0.0.0 frontpopulaire.fr

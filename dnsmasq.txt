@@ -1313,7 +1313,6 @@ address=/fringeculture.home.blog/
 address=/fromthetrenchesworldreport.com/
 address=/frontlinemds.com/
 address=/frontmediatique.fr/
-address=/frontnational.com/
 address=/frontpagemag.com/
 address=/frontpopulaire.fr/
 address=/fukushimawatch.com/
