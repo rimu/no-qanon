@@ -1313,6 +1313,7 @@ fringeculture.home.blog
 fromthetrenchesworldreport.com
 frontlinemds.com
 frontmediatique.fr
+frontnational.com
 frontpagemag.com
 frontpopulaire.fr
 fukushimawatch.com
@@ -1348,6 +1349,7 @@ gbdeclaration.org
 ge.news-front.info
 gear.news
 gellerreport.com
+generation-nation.fr
 generationfrexit.fr
 generationidentitaire.org
 geniusbiofeedback.com
@@ -1718,6 +1720,7 @@ joinlapd.com
 joinpsni.co.uk
 jonesreport.com
 jonsnewplace.wordpress.com
+jordan-bardella.fr
 jordanrachel.com
 jordansather.com
 jordansather.tv

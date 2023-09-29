@@ -2628,6 +2628,8 @@
 0.0.0.0 www.frontlinemds.com
 0.0.0.0 frontmediatique.fr
 0.0.0.0 www.frontmediatique.fr
+0.0.0.0 frontnational.com
+0.0.0.0 www.frontnational.com
 0.0.0.0 frontpagemag.com
 0.0.0.0 www.frontpagemag.com
 0.0.0.0 frontpopulaire.fr
@@ -2698,6 +2700,8 @@
 0.0.0.0 www.gear.news
 0.0.0.0 gellerreport.com
 0.0.0.0 www.gellerreport.com
+0.0.0.0 generation-nation.fr
+0.0.0.0 www.generation-nation.fr
 0.0.0.0 generationfrexit.fr
 0.0.0.0 www.generationfrexit.fr
 0.0.0.0 generationidentitaire.org
@@ -3438,6 +3442,8 @@
 0.0.0.0 www.jonesreport.com
 0.0.0.0 jonsnewplace.wordpress.com
 0.0.0.0 www.jonsnewplace.wordpress.com
+0.0.0.0 jordan-bardella.fr
+0.0.0.0 www.jordan-bardella.fr
 0.0.0.0 jordanrachel.com
 0.0.0.0 www.jordanrachel.com
 0.0.0.0 jordansather.com
