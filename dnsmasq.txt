@@ -999,6 +999,7 @@ address=/ecstaticascension.com/
 address=/edcgoods.com/
 address=/eddenya.com/
 address=/edgeofwonder.tv/
+address=/editions-voxgallia.fr/
 address=/editionsmagnus.fr/
 address=/educate-yourself.org/
 address=/educationpourlebiendesenfants.fr/

@@ -2000,6 +2000,8 @@
 0.0.0.0 www.eddenya.com
 0.0.0.0 edgeofwonder.tv
 0.0.0.0 www.edgeofwonder.tv
+0.0.0.0 editions-voxgallia.fr
+0.0.0.0 www.editions-voxgallia.fr
 0.0.0.0 editionsmagnus.fr
 0.0.0.0 www.editionsmagnus.fr
 0.0.0.0 educate-yourself.org

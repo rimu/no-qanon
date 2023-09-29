@@ -999,6 +999,7 @@
 "*://*.edcgoods.com/*",
 "*://*.eddenya.com/*",
 "*://*.edgeofwonder.tv/*",
+"*://*.editions-voxgallia.fr/*",
 "*://*.editionsmagnus.fr/*",
 "*://*.educate-yourself.org/*",
 "*://*.educationpourlebiendesenfants.fr/*",

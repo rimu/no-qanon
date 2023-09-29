@@ -11,4 +11,4 @@ puydufou.com # In France and in Spain
 stephanebern.com
 
 # Unsorted
-https://editions-voxgallia.fr/
+editions-voxgallia.fr
