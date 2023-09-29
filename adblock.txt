@@ -560,6 +560,7 @@
 ||cassiopaea.com^
 ||cassiopaea.org^
 ||catallaxia.org^
+||catherineblaiklock.co.uk^
 ||catholiquedefrance.fr^
 ||cathyfox.wordpress.com^
 ||cato.org^
@@ -730,6 +731,7 @@
 ||conservativeoutfitters.com^
 ||conservativerefocus.com^
 ||conservativereview.com^
+||conservativesforbritain.org^
 ||conservativetribune.com^
 ||conservativeus.com^
 ||conservativewoman.co.uk^
@@ -1783,6 +1785,7 @@
 ||kyle-chapman.blogspot.com^
 ||l00kinglass.com^
 ||labour25.com^
+||labourleave.org.uk^
 ||lactionfrancaise.fr^
 ||ladssociety.com^
 ||lafuria.fr^
@@ -1820,6 +1823,8 @@
 ||learnfalungong.org.au^
 ||learnprogress.org^
 ||learntruehealth.com^
+||leaveeuofficial.com^
+||leavemeansleave.eu^
 ||lecourrierdesstrateges.fr^
 ||lecrayongroupe.fr^
 ||lecrayonmedia.fr^
@@ -2086,6 +2091,7 @@
 ||namelyliberty.com^
 ||natall.com^
 ||natdem.fr^
+||nathangill.wales^
 ||nation.foxnews.com^
 ||national-justice.com^
 ||nationaldebt.news^
@@ -2118,6 +2124,7 @@
 ||nbcpoll.com^
 ||ncswic.blog^
 ||needtoknow.news^
+||neilhamiltonukip.com^
 ||neohate.com^
 ||neonnettle.com^
 ||neonrevolt.com^
@@ -2179,6 +2186,7 @@
 ||nextjones.com^
 ||nextnewsmedia.com^
 ||nexusnewsfeed.com^
+||nfarage.com^
 ||nichegamer.com^
 ||nicholasjfuentes.com^
 ||nickv.live^
@@ -2186,6 +2194,7 @@
 ||nickv.uk^
 ||nido-del-cuco.blogspot.com^
 ||nieuwstool.nl^
+||nigelfaragemep.co.uk^
 ||niooz.fr^
 ||nissarebela.com^
 ||nita.one^
@@ -2654,6 +2663,7 @@
 ||redvoicemedia.com^
 ||reedcooper.net^
 ||reformation.org^
+||reformparty.uk^
 ||regated.com^
 ||regenerateproject.com^
 ||reignitedemocracyaustralia.com.au^
@@ -2700,6 +2710,7 @@
 ||rhotv.com^
 ||ria.ru^
 ||richardbspencer.com^
+||richardtice.com^
 ||rickwells.us^
 ||rickyvarandas.com^
 ||rigged.news^
@@ -3049,6 +3060,7 @@
 ||thebloodyaussiebattler.com^
 ||thebostontribune.com^
 ||thebreadreport.com^
+||thebrexitparty.org^
 ||theburningplatform.com^
 ||thecenterpath.weebly.com^
 ||thecharliekirkshow.com^
@@ -3360,6 +3372,7 @@
 ||uhuru.club^
 ||uk.upf.org^
 ||ukcolumn.org^
+||ukip.org^
 ||ukmedfreedom.org^
 ||ultimosegundo.ig.com.br^
 ||um-fin.org^
@@ -3499,6 +3512,7 @@
 ||voltairenet.org^
 ||volunteercadetcorps.org^
 ||votefraud.news^
+||voteleavetakecontrol.org^
 ||voxxlife.com^
 ||voyagesoflight.blogspot.com^
 ||vsecretscc.com^

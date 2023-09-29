@@ -1108,6 +1108,8 @@
 0.0.0.0 www.cassiopaea.org
 0.0.0.0 catallaxia.org
 0.0.0.0 www.catallaxia.org
+0.0.0.0 catherineblaiklock.co.uk
+0.0.0.0 www.catherineblaiklock.co.uk
 0.0.0.0 catholiquedefrance.fr
 0.0.0.0 www.catholiquedefrance.fr
 0.0.0.0 cathyfox.wordpress.com
@@ -1448,6 +1450,8 @@
 0.0.0.0 www.conservativerefocus.com
 0.0.0.0 conservativereview.com
 0.0.0.0 www.conservativereview.com
+0.0.0.0 conservativesforbritain.org
+0.0.0.0 www.conservativesforbritain.org
 0.0.0.0 conservativetribune.com
 0.0.0.0 www.conservativetribune.com
 0.0.0.0 conservativeus.com
@@ -3554,6 +3558,8 @@
 0.0.0.0 www.l00kinglass.com
 0.0.0.0 labour25.com
 0.0.0.0 www.labour25.com
+0.0.0.0 labourleave.org.uk
+0.0.0.0 www.labourleave.org.uk
 0.0.0.0 lactionfrancaise.fr
 0.0.0.0 www.lactionfrancaise.fr
 0.0.0.0 ladssociety.com
@@ -3628,6 +3634,10 @@
 0.0.0.0 www.learnprogress.org
 0.0.0.0 learntruehealth.com
 0.0.0.0 www.learntruehealth.com
+0.0.0.0 leaveeuofficial.com
+0.0.0.0 www.leaveeuofficial.com
+0.0.0.0 leavemeansleave.eu
+0.0.0.0 www.leavemeansleave.eu
 0.0.0.0 lecourrierdesstrateges.fr
 0.0.0.0 www.lecourrierdesstrateges.fr
 0.0.0.0 lecrayongroupe.fr
@@ -4160,6 +4170,8 @@
 0.0.0.0 www.natall.com
 0.0.0.0 natdem.fr
 0.0.0.0 www.natdem.fr
+0.0.0.0 nathangill.wales
+0.0.0.0 www.nathangill.wales
 0.0.0.0 nation.foxnews.com
 0.0.0.0 www.nation.foxnews.com
 0.0.0.0 national-justice.com
@@ -4224,6 +4236,8 @@
 0.0.0.0 www.ncswic.blog
 0.0.0.0 needtoknow.news
 0.0.0.0 www.needtoknow.news
+0.0.0.0 neilhamiltonukip.com
+0.0.0.0 www.neilhamiltonukip.com
 0.0.0.0 neohate.com
 0.0.0.0 www.neohate.com
 0.0.0.0 neonnettle.com
@@ -4346,6 +4360,8 @@
 0.0.0.0 www.nextnewsmedia.com
 0.0.0.0 nexusnewsfeed.com
 0.0.0.0 www.nexusnewsfeed.com
+0.0.0.0 nfarage.com
+0.0.0.0 www.nfarage.com
 0.0.0.0 nichegamer.com
 0.0.0.0 www.nichegamer.com
 0.0.0.0 nicholasjfuentes.com
@@ -4360,6 +4376,8 @@
 0.0.0.0 www.nido-del-cuco.blogspot.com
 0.0.0.0 nieuwstool.nl
 0.0.0.0 www.nieuwstool.nl
+0.0.0.0 nigelfaragemep.co.uk
+0.0.0.0 www.nigelfaragemep.co.uk
 0.0.0.0 niooz.fr
 0.0.0.0 www.niooz.fr
 0.0.0.0 nissarebela.com
@@ -5296,6 +5314,8 @@
 0.0.0.0 www.reedcooper.net
 0.0.0.0 reformation.org
 0.0.0.0 www.reformation.org
+0.0.0.0 reformparty.uk
+0.0.0.0 www.reformparty.uk
 0.0.0.0 regated.com
 0.0.0.0 www.regated.com
 0.0.0.0 regenerateproject.com
@@ -5388,6 +5408,8 @@
 0.0.0.0 www.ria.ru
 0.0.0.0 richardbspencer.com
 0.0.0.0 www.richardbspencer.com
+0.0.0.0 richardtice.com
+0.0.0.0 www.richardtice.com
 0.0.0.0 rickwells.us
 0.0.0.0 www.rickwells.us
 0.0.0.0 rickyvarandas.com
@@ -6086,6 +6108,8 @@
 0.0.0.0 www.thebostontribune.com
 0.0.0.0 thebreadreport.com
 0.0.0.0 www.thebreadreport.com
+0.0.0.0 thebrexitparty.org
+0.0.0.0 www.thebrexitparty.org
 0.0.0.0 theburningplatform.com
 0.0.0.0 www.theburningplatform.com
 0.0.0.0 thecenterpath.weebly.com
@@ -6708,6 +6732,8 @@
 0.0.0.0 www.uk.upf.org
 0.0.0.0 ukcolumn.org
 0.0.0.0 www.ukcolumn.org
+0.0.0.0 ukip.org
+0.0.0.0 www.ukip.org
 0.0.0.0 ukmedfreedom.org
 0.0.0.0 www.ukmedfreedom.org
 0.0.0.0 ultimosegundo.ig.com.br
@@ -6986,6 +7012,8 @@
 0.0.0.0 www.volunteercadetcorps.org
 0.0.0.0 votefraud.news
 0.0.0.0 www.votefraud.news
+0.0.0.0 voteleavetakecontrol.org
+0.0.0.0 www.voteleavetakecontrol.org
 0.0.0.0 voxxlife.com
 0.0.0.0 www.voxxlife.com
 0.0.0.0 voyagesoflight.blogspot.com
