@@ -240,6 +240,8 @@
 0.0.0.0 www.algora.com
 0.0.0.0 algorelied.com
 0.0.0.0 www.algorelied.com
+0.0.0.0 alice-weidel.de
+0.0.0.0 www.alice-weidel.de
 0.0.0.0 alivenhealthy.com
 0.0.0.0 www.alivenhealthy.com
 0.0.0.0 alivethrive.life
@@ -766,6 +768,8 @@
 0.0.0.0 www.bentoelgroup.com
 0.0.0.0 bernardgaynor.com.au
 0.0.0.0 www.bernardgaynor.com.au
+0.0.0.0 bernd-lucke.de
+0.0.0.0 www.bernd-lucke.de
 0.0.0.0 bestnewshere.com
 0.0.0.0 www.bestnewshere.com
 0.0.0.0 bestsante.co
@@ -858,6 +862,8 @@
 0.0.0.0 www.blackmetalcultrecords.com
 0.0.0.0 blackpigeonspeaks.com
 0.0.0.0 www.blackpigeonspeaks.com
+0.0.0.0 blauewende.de
+0.0.0.0 www.blauewende.de
 0.0.0.0 blessed2teach.com
 0.0.0.0 www.blessed2teach.com
 0.0.0.0 blissfulvisions.com
@@ -1816,6 +1822,8 @@
 0.0.0.0 www.die-heimat.de
 0.0.0.0 die-rechte.net
 0.0.0.0 www.die-rechte.net
+0.0.0.0 dieblauepartei.de
+0.0.0.0 www.dieblauepartei.de
 0.0.0.0 dieudosphere.com
 0.0.0.0 www.dieudosphere.com
 0.0.0.0 digitalwarriorproductions.com
@@ -2490,6 +2498,8 @@
 0.0.0.0 www.frankspeech.com
 0.0.0.0 fratelli-italia.it
 0.0.0.0 www.fratelli-italia.it
+0.0.0.0 fraukepetry.net
+0.0.0.0 www.fraukepetry.net
 0.0.0.0 frc.org
 0.0.0.0 www.frc.org
 0.0.0.0 frcaction.org
@@ -3458,6 +3468,8 @@
 0.0.0.0 www.juliusevola.net
 0.0.0.0 july5thmovement.com
 0.0.0.0 www.july5thmovement.com
+0.0.0.0 jungealternative.de
+0.0.0.0 www.jungealternative.de
 0.0.0.0 junkscience.com
 0.0.0.0 www.junkscience.com
 0.0.0.0 justboredandhungry.com
@@ -6536,6 +6548,8 @@
 0.0.0.0 www.timetoopen.com
 0.0.0.0 timothycharlesholmseth.com
 0.0.0.0 www.timothycharlesholmseth.com
+0.0.0.0 tinochrupalla.de
+0.0.0.0 www.tinochrupalla.de
 0.0.0.0 tkcommerce.com
 0.0.0.0 www.tkcommerce.com
 0.0.0.0 tlbtalk.com

@@ -126,6 +126,7 @@
 *://*.alexishaupt.fr/*
 *://*.algora.com/*
 *://*.algorelied.com/*
+*://*.alice-weidel.de/*
 *://*.alivenhealthy.com/*
 *://*.alivethrive.life/*
 *://*.alleanzacattolica.org/*
@@ -389,6 +390,7 @@
 *://*.bennywills.com/*
 *://*.bentoelgroup.com/*
 *://*.bernardgaynor.com.au/*
+*://*.bernd-lucke.de/*
 *://*.bestnewshere.com/*
 *://*.bestsante.co/*
 *://*.bestsante.com/*
@@ -435,6 +437,7 @@
 *://*.blacklistedradio.com/*
 *://*.blackmetalcultrecords.com/*
 *://*.blackpigeonspeaks.com/*
+*://*.blauewende.de/*
 *://*.blessed2teach.com/*
 *://*.blissfulvisions.com/*
 *://*.blog.heartland.org/*
@@ -914,6 +917,7 @@
 *://*.dicamba.news/*
 *://*.die-heimat.de/*
 *://*.die-rechte.net/*
+*://*.dieblauepartei.de/*
 *://*.dieudosphere.com/*
 *://*.digitalwarriorproductions.com/*
 *://*.dinarchronicles.com/*
@@ -1251,6 +1255,7 @@
 *://*.francoisasselineau.fr/*
 *://*.frankspeech.com/*
 *://*.fratelli-italia.it/*
+*://*.fraukepetry.net/*
 *://*.frc.org/*
 *://*.frcaction.org/*
 *://*.fredsforbundet.no/*
@@ -1735,6 +1740,7 @@
 *://*.juliusevola.it/*
 *://*.juliusevola.net/*
 *://*.july5thmovement.com/*
+*://*.jungealternative.de/*
 *://*.junkscience.com/*
 *://*.justboredandhungry.com/*
 *://*.justfactsdaily.com/*
@@ -3274,6 +3280,7 @@
 *://*.timetofreeamerica.com/*
 *://*.timetoopen.com/*
 *://*.timothycharlesholmseth.com/*
+*://*.tinochrupalla.de/*
 *://*.tkcommerce.com/*
 *://*.tlbtalk.com/*
 *://*.tmtgcorp.com/*
