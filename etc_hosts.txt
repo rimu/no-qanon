@@ -1094,6 +1094,8 @@
 0.0.0.0 www.cassiopaea.com
 0.0.0.0 cassiopaea.org
 0.0.0.0 www.cassiopaea.org
+0.0.0.0 catallaxia.org
+0.0.0.0 www.catallaxia.org
 0.0.0.0 catholiquedefrance.fr
 0.0.0.0 www.catholiquedefrance.fr
 0.0.0.0 cathyfox.wordpress.com
@@ -1454,6 +1456,8 @@
 0.0.0.0 www.conspiracywire.com
 0.0.0.0 consumerwellness.org
 0.0.0.0 www.consumerwellness.org
+0.0.0.0 contrepoints.org
+0.0.0.0 www.contrepoints.org
 0.0.0.0 contrepropagande.fr
 0.0.0.0 www.contrepropagande.fr
 0.0.0.0 conventionofstates.com
@@ -2404,6 +2408,8 @@
 0.0.0.0 www.fortressview.com
 0.0.0.0 forum.davidicke.com
 0.0.0.0 www.forum.davidicke.com
+0.0.0.0 forum.liberaux.org
+0.0.0.0 www.forum.liberaux.org
 0.0.0.0 forums.red
 0.0.0.0 www.forums.red
 0.0.0.0 forvictims.co.uk
@@ -3688,6 +3694,8 @@
 0.0.0.0 www.liberal.news.blog
 0.0.0.0 liberaldarkness.com
 0.0.0.0 www.liberaldarkness.com
+0.0.0.0 liberaux.org
+0.0.0.0 www.liberaux.org
 0.0.0.0 liberty.me
 0.0.0.0 www.liberty.me
 0.0.0.0 libertyblitzkrieg.com
@@ -3714,6 +3722,8 @@
 0.0.0.0 www.libertytalk.fm
 0.0.0.0 libertyvideos.org
 0.0.0.0 www.libertyvideos.org
+0.0.0.0 librairal.org
+0.0.0.0 www.librairal.org
 0.0.0.0 libre-info.org
 0.0.0.0 www.libre-info.org
 0.0.0.0 lifefacts.lifesitenews.com
@@ -4656,6 +4666,8 @@
 0.0.0.0 www.parti-renaissance.fr
 0.0.0.0 participatieve-democratie.be
 0.0.0.0 www.participatieve-democratie.be
+0.0.0.0 partilibertarien.fr
+0.0.0.0 www.partilibertarien.fr
 0.0.0.0 pastorlocke.com
 0.0.0.0 www.pastorlocke.com
 0.0.0.0 patdollar.com
@@ -7150,6 +7162,8 @@
 0.0.0.0 www.wideawakenews.com
 0.0.0.0 wiki.tfes.org
 0.0.0.0 www.wiki.tfes.org
+0.0.0.0 wikiberal.org
+0.0.0.0 www.wikiberal.org
 0.0.0.0 wikileaks.org
 0.0.0.0 www.wikileaks.org
 0.0.0.0 wikispooks.com

@@ -553,6 +553,7 @@
 ||carrefourdelhorloge.fr^
 ||cassiopaea.com^
 ||cassiopaea.org^
+||catallaxia.org^
 ||catholiquedefrance.fr^
 ||cathyfox.wordpress.com^
 ||causeur.fr^
@@ -733,6 +734,7 @@
 ||conspiracysynergy.com^
 ||conspiracywire.com^
 ||consumerwellness.org^
+||contrepoints.org^
 ||contrepropagande.fr^
 ||conventionofstates.com^
 ||cookinmemes.com^
@@ -1208,6 +1210,7 @@
 ||fortheclaimofthelife.com^
 ||fortressview.com^
 ||forum.davidicke.com^
+||forum.liberaux.org^
 ||forums.red^
 ||forvictims.co.uk^
 ||fos-sa.org^
@@ -1850,6 +1853,7 @@
 ||lewrockwell.com^
 ||liberal.news.blog^
 ||liberaldarkness.com^
+||liberaux.org^
 ||liberty.me^
 ||libertyblitzkrieg.com^
 ||libertycentric.com^
@@ -1863,6 +1867,7 @@
 ||libertyrush.com^
 ||libertytalk.fm^
 ||libertyvideos.org^
+||librairal.org^
 ||libre-info.org^
 ||lifefacts.lifesitenews.com^
 ||lifeissoamazing.com^
@@ -2334,6 +2339,7 @@
 ||parti-reconquete.fr^
 ||parti-renaissance.fr^
 ||participatieve-democratie.be^
+||partilibertarien.fr^
 ||pastorlocke.com^
 ||patdollar.com^
 ||patelpatriot.substack.com^
@@ -3581,6 +3587,7 @@
 ||whydontyoutrythis.com^
 ||wideawakenews.com^
 ||wiki.tfes.org^
+||wikiberal.org^
 ||wikileaks.org^
 ||wikispooks.com^
 ||wikistrike.com^
