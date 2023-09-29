@@ -129,6 +129,7 @@
 *://*.alivenhealthy.com/*
 *://*.alivethrive.life/*
 *://*.alleanzacattolica.org/*
+*://*.alleanzanazionale.it/*
 *://*.alleinklang.tv/*
 *://*.alliancepn.fr/*
 *://*.alliancevita.org/*
@@ -304,6 +305,8 @@
 *://*.ayema-official.com/*
 *://*.aynrand.org/*
 *://*.aynrandlexicon.com/*
+*://*.azionegiovani.org/*
+*://*.azionestudentescaofficial.com/*
 *://*.babylonbee.com/*
 *://*.bad-boys.us/*
 *://*.badblue.bitnamiapp.com/*
@@ -1204,6 +1207,7 @@
 *://*.folhadopovo.com/*
 *://*.folhapolitica.org/*
 *://*.fondationlejeune.org/*
+*://*.fondazionean.it/*
 *://*.food.news/*
 *://*.foodbabe.com/*
 *://*.foodforensics.com/*
@@ -1246,6 +1250,7 @@
 *://*.francevapotage.fr/*
 *://*.francoisasselineau.fr/*
 *://*.frankspeech.com/*
+*://*.fratelli-italia.it/*
 *://*.frc.org/*
 *://*.frcaction.org/*
 *://*.fredsforbundet.no/*
@@ -1366,6 +1371,8 @@
 *://*.ggwiki.deepfreeze.it/*
 *://*.gibraltar-messenger.net/*
 *://*.gibsonforfreedom.com/*
+*://*.giorgiameloni.it/*
+*://*.gioventunazionale.it/*
 *://*.givesendgo.com/*
 *://*.glaringhypocrisy.com/*
 *://*.glennbeck.com/*
@@ -1811,6 +1818,7 @@
 *://*.laurenforcolorado.com/*
 *://*.laurensouthern.net/*
 *://*.laveritesurnotremonde.fr/*
+*://*.lavocedelpatriota.it/*
 *://*.lavraiedemocratie.org/*
 *://*.lawenforcementtoday.com/*
 *://*.lbry.tv/*
@@ -2803,6 +2811,7 @@
 *://*.sdebeketch.com/*
 *://*.sea-cadets.org/*
 *://*.seanstone.info/*
+*://*.secoloditalia.it/*
 *://*.secretsofthefed.com/*
 *://*.secularheretic.substack.com/*
 *://*.secure.jaromebellforcongress.com/*

@@ -246,6 +246,8 @@
 0.0.0.0 www.alivethrive.life
 0.0.0.0 alleanzacattolica.org
 0.0.0.0 www.alleanzacattolica.org
+0.0.0.0 alleanzanazionale.it
+0.0.0.0 www.alleanzanazionale.it
 0.0.0.0 alleinklang.tv
 0.0.0.0 www.alleinklang.tv
 0.0.0.0 alliancepn.fr
@@ -596,6 +598,10 @@
 0.0.0.0 www.aynrand.org
 0.0.0.0 aynrandlexicon.com
 0.0.0.0 www.aynrandlexicon.com
+0.0.0.0 azionegiovani.org
+0.0.0.0 www.azionegiovani.org
+0.0.0.0 azionestudentescaofficial.com
+0.0.0.0 www.azionestudentescaofficial.com
 0.0.0.0 babylonbee.com
 0.0.0.0 www.babylonbee.com
 0.0.0.0 bad-boys.us
@@ -2396,6 +2402,8 @@
 0.0.0.0 www.folhapolitica.org
 0.0.0.0 fondationlejeune.org
 0.0.0.0 www.fondationlejeune.org
+0.0.0.0 fondazionean.it
+0.0.0.0 www.fondazionean.it
 0.0.0.0 food.news
 0.0.0.0 www.food.news
 0.0.0.0 foodbabe.com
@@ -2480,6 +2488,8 @@
 0.0.0.0 www.francoisasselineau.fr
 0.0.0.0 frankspeech.com
 0.0.0.0 www.frankspeech.com
+0.0.0.0 fratelli-italia.it
+0.0.0.0 www.fratelli-italia.it
 0.0.0.0 frc.org
 0.0.0.0 www.frc.org
 0.0.0.0 frcaction.org
@@ -2720,6 +2730,10 @@
 0.0.0.0 www.gibraltar-messenger.net
 0.0.0.0 gibsonforfreedom.com
 0.0.0.0 www.gibsonforfreedom.com
+0.0.0.0 giorgiameloni.it
+0.0.0.0 www.giorgiameloni.it
+0.0.0.0 gioventunazionale.it
+0.0.0.0 www.gioventunazionale.it
 0.0.0.0 givesendgo.com
 0.0.0.0 www.givesendgo.com
 0.0.0.0 glaringhypocrisy.com
@@ -3610,6 +3624,8 @@
 0.0.0.0 www.laurensouthern.net
 0.0.0.0 laveritesurnotremonde.fr
 0.0.0.0 www.laveritesurnotremonde.fr
+0.0.0.0 lavocedelpatriota.it
+0.0.0.0 www.lavocedelpatriota.it
 0.0.0.0 lavraiedemocratie.org
 0.0.0.0 www.lavraiedemocratie.org
 0.0.0.0 lawenforcementtoday.com
@@ -5594,6 +5610,8 @@
 0.0.0.0 www.sea-cadets.org
 0.0.0.0 seanstone.info
 0.0.0.0 www.seanstone.info
+0.0.0.0 secoloditalia.it
+0.0.0.0 www.secoloditalia.it
 0.0.0.0 secretsofthefed.com
 0.0.0.0 www.secretsofthefed.com
 0.0.0.0 secularheretic.substack.com
