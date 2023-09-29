@@ -55,6 +55,7 @@
 ||911freefall.com^
 ||911research.wtc7.net^
 ||911truth.org^
+||912candidates.org^
 ||9chan.tw^
 ||a4justice.org^
 ||aanirfan.blogspot.co.uk^
@@ -3006,6 +3007,8 @@
 ||th3inn3rlight.net^
 ||thaisdescufon.com^
 ||the-american-catholic.com^
+||the912project.com^
+||the912projectshow.com^
 ||theadvocates.org^
 ||theamericanfreedomparty.us^
 ||theamericanindependent.wordpress.com^
@@ -3114,6 +3117,7 @@
 ||themix.net^
 ||themoscowtimes.com^
 ||themuslimissue.wordpress.com^
+||thenational912project.org^
 ||thenationalpulse.com^
 ||thenewamerican.com^
 ||thenewatlas.org^

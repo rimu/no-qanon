@@ -98,6 +98,8 @@
 0.0.0.0 www.911research.wtc7.net
 0.0.0.0 911truth.org
 0.0.0.0 www.911truth.org
+0.0.0.0 912candidates.org
+0.0.0.0 www.912candidates.org
 0.0.0.0 9chan.tw
 0.0.0.0 www.9chan.tw
 0.0.0.0 a4justice.org
@@ -6000,6 +6002,10 @@
 0.0.0.0 www.thaisdescufon.com
 0.0.0.0 the-american-catholic.com
 0.0.0.0 www.the-american-catholic.com
+0.0.0.0 the912project.com
+0.0.0.0 www.the912project.com
+0.0.0.0 the912projectshow.com
+0.0.0.0 www.the912projectshow.com
 0.0.0.0 theadvocates.org
 0.0.0.0 www.theadvocates.org
 0.0.0.0 theamericanfreedomparty.us
@@ -6216,6 +6222,8 @@
 0.0.0.0 www.themoscowtimes.com
 0.0.0.0 themuslimissue.wordpress.com
 0.0.0.0 www.themuslimissue.wordpress.com
+0.0.0.0 thenational912project.org
+0.0.0.0 www.thenational912project.org
 0.0.0.0 thenationalpulse.com
 0.0.0.0 www.thenationalpulse.com
 0.0.0.0 thenewamerican.com
