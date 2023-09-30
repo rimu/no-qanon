@@ -454,6 +454,8 @@
 0.0.0.0 www.antimedianews.com
 0.0.0.0 antipodean-resistance.com
 0.0.0.0 www.antipodean-resistance.com
+0.0.0.0 antivaxxer.icu
+0.0.0.0 www.antivaxxer.icu
 0.0.0.0 antoinettejames.com
 0.0.0.0 www.antoinettejames.com
 0.0.0.0 antoniusaquinas.wp.com
@@ -552,6 +554,8 @@
 0.0.0.0 www.attackthesystem.com
 0.0.0.0 attn.com
 0.0.0.0 www.attn.com
+0.0.0.0 auf1.eu
+0.0.0.0 www.auf1.eu
 0.0.0.0 aulis.com
 0.0.0.0 www.aulis.com
 0.0.0.0 aum-internet.org
@@ -850,6 +854,8 @@
 0.0.0.0 www.bitterwinter.org
 0.0.0.0 bittube.tv
 0.0.0.0 www.bittube.tv
+0.0.0.0 bittube.video
+0.0.0.0 www.bittube.video
 0.0.0.0 blackagendareport.com
 0.0.0.0 www.blackagendareport.com
 0.0.0.0 blackboxvoting.org
@@ -878,6 +884,8 @@
 0.0.0.0 www.blog.libertasbella.com
 0.0.0.0 blog.nomorefakenews.com
 0.0.0.0 www.blog.nomorefakenews.com
+0.0.0.0 bloglaurel.com
+0.0.0.0 www.bloglaurel.com
 0.0.0.0 blogrioufol.com
 0.0.0.0 www.blogrioufol.com
 0.0.0.0 blogs.ne10.uol.com.br
@@ -1156,6 +1164,8 @@
 0.0.0.0 www.censored.today
 0.0.0.0 censored.tv
 0.0.0.0 www.censored.tv
+0.0.0.0 censorship.icu
+0.0.0.0 www.censorship.icu
 0.0.0.0 censortrack.org
 0.0.0.0 www.censortrack.org
 0.0.0.0 centerforsecuritypolicy.org
@@ -1390,6 +1400,8 @@
 0.0.0.0 www.comingdepression.com
 0.0.0.0 comitejeanne54.wordpress.com
 0.0.0.0 www.comitejeanne54.wordpress.com
+0.0.0.0 commeconvenu.com
+0.0.0.0 www.commeconvenu.com
 0.0.0.0 commentarymagazine.com
 0.0.0.0 www.commentarymagazine.com
 0.0.0.0 commissaires.fr
@@ -1496,6 +1508,8 @@
 0.0.0.0 www.contrepoints.org
 0.0.0.0 contrepropagande.fr
 0.0.0.0 www.contrepropagande.fr
+0.0.0.0 controverse.tube
+0.0.0.0 www.controverse.tube
 0.0.0.0 conventionofstates.com
 0.0.0.0 www.conventionofstates.com
 0.0.0.0 cookinmemes.com
@@ -2706,6 +2720,8 @@
 0.0.0.0 www.ge.news-front.info
 0.0.0.0 gear.news
 0.0.0.0 www.gear.news
+0.0.0.0 gegenstimme.tv
+0.0.0.0 www.gegenstimme.tv
 0.0.0.0 gellerreport.com
 0.0.0.0 www.gellerreport.com
 0.0.0.0 generation-nation.fr
@@ -3526,10 +3542,14 @@
 0.0.0.0 www.katehon.com
 0.0.0.0 katehon.org
 0.0.0.0 www.katehon.org
+0.0.0.0 katiehopkinspolitical.icu
+0.0.0.0 www.katiehopkinspolitical.icu
 0.0.0.0 kcorradio.com
 0.0.0.0 www.kcorradio.com
 0.0.0.0 kellybroganmd.com
 0.0.0.0 www.kellybroganmd.com
+0.0.0.0 kenfm.inter21.net
+0.0.0.0 www.kenfm.inter21.net
 0.0.0.0 kerririvera.com
 0.0.0.0 www.kerririvera.com
 0.0.0.0 kevinislaughter.com
@@ -3622,6 +3642,8 @@
 0.0.0.0 www.lamarinerecrute.fr
 0.0.0.0 laminedinfos.fr
 0.0.0.0 www.laminedinfos.fr
+0.0.0.0 lanceur-alerte.tv
+0.0.0.0 www.lanceur-alerte.tv
 0.0.0.0 landdestroyer.blogspot.com
 0.0.0.0 www.landdestroyer.blogspot.com
 0.0.0.0 lapressegalactique.com
@@ -3808,6 +3830,10 @@
 0.0.0.0 www.librairal.org
 0.0.0.0 libre-info.org
 0.0.0.0 www.libre-info.org
+0.0.0.0 libre.tube
+0.0.0.0 www.libre.tube
+0.0.0.0 libre.video
+0.0.0.0 www.libre.video
 0.0.0.0 lifefacts.lifesitenews.com
 0.0.0.0 www.lifefacts.lifesitenews.com
 0.0.0.0 lifeissoamazing.com
@@ -3922,6 +3948,8 @@
 0.0.0.0 www.magicawakened.com
 0.0.0.0 mailguild.com
 0.0.0.0 www.mailguild.com
+0.0.0.0 maindreieck-tv.de
+0.0.0.0 www.maindreieck-tv.de
 0.0.0.0 mainerepublicemailreport.com
 0.0.0.0 www.mainerepublicemailreport.com
 0.0.0.0 makeamericagreattoday.com
@@ -4174,6 +4202,8 @@
 0.0.0.0 www.motls.blogspot.com
 0.0.0.0 movcivitas.pt
 0.0.0.0 www.movcivitas.pt
+0.0.0.0 mp-tube.de
+0.0.0.0 www.mp-tube.de
 0.0.0.0 mpcdot.com
 0.0.0.0 www.mpcdot.com
 0.0.0.0 mpidailymagazine.com
@@ -4290,6 +4320,8 @@
 0.0.0.0 www.needtoknow.news
 0.0.0.0 neilhamiltonukip.com
 0.0.0.0 www.neilhamiltonukip.com
+0.0.0.0 neogenesis.tv
+0.0.0.0 www.neogenesis.tv
 0.0.0.0 neohate.com
 0.0.0.0 www.neohate.com
 0.0.0.0 neonnettle.com
@@ -4454,6 +4486,8 @@
 0.0.0.0 www.noblesoul.com
 0.0.0.0 nobstherapy.com
 0.0.0.0 www.nobstherapy.com
+0.0.0.0 nocensoring.net
+0.0.0.0 www.nocensoring.net
 0.0.0.0 noch.info
 0.0.0.0 www.noch.info
 0.0.0.0 nodisinfo.com
@@ -4474,6 +4508,8 @@
 0.0.0.0 www.non-intervention2.com
 0.0.0.0 noncounterproductive.blogspot.com
 0.0.0.0 www.noncounterproductive.blogspot.com
+0.0.0.0 norden.media
+0.0.0.0 www.norden.media
 0.0.0.0 nordfront.dk
 0.0.0.0 www.nordfront.dk
 0.0.0.0 nordfront.se
@@ -4648,6 +4684,8 @@
 0.0.0.0 www.oom2.com
 0.0.0.0 opednews.com
 0.0.0.0 www.opednews.com
+0.0.0.0 open.tube
+0.0.0.0 www.open.tube
 0.0.0.0 openborders.news
 0.0.0.0 www.openborders.news
 0.0.0.0 openheaven.com
@@ -4694,6 +4732,8 @@
 0.0.0.0 www.ouestmoncycle.com
 0.0.0.0 our.wikileaks.org
 0.0.0.0 www.our.wikileaks.org
+0.0.0.0 ourchristian.icu
+0.0.0.0 www.ourchristian.icu
 0.0.0.0 ourfreedombook.com
 0.0.0.0 www.ourfreedombook.com
 0.0.0.0 ourfreedomtube.com
@@ -4706,6 +4746,8 @@
 0.0.0.0 www.ourplanet.org
 0.0.0.0 oursay.co.nz
 0.0.0.0 www.oursay.co.nz
+0.0.0.0 oursocialism.today
+0.0.0.0 www.oursocialism.today
 0.0.0.0 ourtube.co.uk
 0.0.0.0 www.ourtube.co.uk
 0.0.0.0 ourtubesocial.com
@@ -4856,6 +4898,16 @@
 0.0.0.0 www.pedoempire.org
 0.0.0.0 pedogate.world
 0.0.0.0 www.pedogate.world
+0.0.0.0 peertube.devinstance.de
+0.0.0.0 www.peertube.devinstance.de
+0.0.0.0 peertube.it
+0.0.0.0 www.peertube.it
+0.0.0.0 peertube.narrativerry.xyz
+0.0.0.0 www.peertube.narrativerry.xyz
+0.0.0.0 peertube.rage.lol
+0.0.0.0 www.peertube.rage.lol
+0.0.0.0 peertube.se
+0.0.0.0 www.peertube.se
 0.0.0.0 pegida.de
 0.0.0.0 www.pegida.de
 0.0.0.0 pegidaoffiziell.wordpress.com
@@ -4914,6 +4966,8 @@
 0.0.0.0 www.pjwmerch.com
 0.0.0.0 pl.news-front.info
 0.0.0.0 www.pl.news-front.info
+0.0.0.0 plandemic.icu
+0.0.0.0 www.plandemic.icu
 0.0.0.0 plandemicseries.com
 0.0.0.0 www.plandemicseries.com
 0.0.0.0 plandemicvideo.com
@@ -4934,6 +4988,8 @@
 0.0.0.0 www.pnr.pt
 0.0.0.0 poal.co
 0.0.0.0 www.poal.co
+0.0.0.0 poast.tv
+0.0.0.0 www.poast.tv
 0.0.0.0 pointofagun.blogspot.com
 0.0.0.0 www.pointofagun.blogspot.com
 0.0.0.0 pointtalkers.com
@@ -4954,6 +5010,8 @@
 0.0.0.0 www.policestate.news
 0.0.0.0 policier.ch
 0.0.0.0 www.policier.ch
+0.0.0.0 political.icu
+0.0.0.0 www.political.icu
 0.0.0.0 politicalblindspot.com
 0.0.0.0 www.politicalblindspot.com
 0.0.0.0 politicalcult.com
@@ -5554,6 +5612,8 @@
 0.0.0.0 www.rumormillnews.com
 0.0.0.0 rumormillnews.jurak.com
 0.0.0.0 www.rumormillnews.jurak.com
+0.0.0.0 runtube.re
+0.0.0.0 www.runtube.re
 0.0.0.0 ruptly.tv
 0.0.0.0 www.ruptly.tv
 0.0.0.0 ruqqus.com
@@ -5678,6 +5738,12 @@
 0.0.0.0 www.sepp.org
 0.0.0.0 serenashimaward.org
 0.0.0.0 www.serenashimaward.org
+0.0.0.0 serv1.wiki-tube.de
+0.0.0.0 www.serv1.wiki-tube.de
+0.0.0.0 serv2.wiki-tube.de
+0.0.0.0 www.serv2.wiki-tube.de
+0.0.0.0 serv3.wiki-tube.de
+0.0.0.0 www.serv3.wiki-tube.de
 0.0.0.0 serviam-alvarium.fr
 0.0.0.0 www.serviam-alvarium.fr
 0.0.0.0 sgtreport.com
@@ -6084,6 +6150,8 @@
 0.0.0.0 www.taxpayers.org.nz
 0.0.0.0 tcmhijacked.blogspot.com
 0.0.0.0 www.tcmhijacked.blogspot.com
+0.0.0.0 tcode.kenfm.de
+0.0.0.0 www.tcode.kenfm.de
 0.0.0.0 teace.ca
 0.0.0.0 www.teace.ca
 0.0.0.0 tealswan.com
@@ -6182,6 +6250,8 @@
 0.0.0.0 www.thecharliekirkshow.com
 0.0.0.0 thechillingeffect.org
 0.0.0.0 www.thechillingeffect.org
+0.0.0.0 thecitizen.icu
+0.0.0.0 www.thecitizen.icu
 0.0.0.0 theclimatebet.com
 0.0.0.0 www.theclimatebet.com
 0.0.0.0 thecommonsenseshow.com
@@ -6226,6 +6296,8 @@
 0.0.0.0 www.thedonaldbackup.com
 0.0.0.0 theduran.com
 0.0.0.0 www.theduran.com
+0.0.0.0 theduran.icu
+0.0.0.0 www.theduran.icu
 0.0.0.0 theeaglekeeper.wordpress.com
 0.0.0.0 www.theeaglekeeper.wordpress.com
 0.0.0.0 theeconomiccollapseblog.com
@@ -6664,6 +6736,8 @@
 0.0.0.0 www.trends.gab.com
 0.0.0.0 trialsitenews.com
 0.0.0.0 www.trialsitenews.com
+0.0.0.0 troo.tube
+0.0.0.0 www.troo.tube
 0.0.0.0 trooth.globalfreedommovement.org
 0.0.0.0 www.trooth.globalfreedommovement.org
 0.0.0.0 trp.red
@@ -6762,6 +6836,16 @@
 0.0.0.0 www.truthwiki.org
 0.0.0.0 tsargrad.tv
 0.0.0.0 www.tsargrad.tv
+0.0.0.0 tube.apolut.net
+0.0.0.0 www.tube.apolut.net
+0.0.0.0 tube.kenfm.de
+0.0.0.0 www.tube.kenfm.de
+0.0.0.0 tube.querdenken-711.de
+0.0.0.0 www.tube.querdenken-711.de
+0.0.0.0 tube2.apolut.net
+0.0.0.0 www.tube2.apolut.net
+0.0.0.0 tube4.apolut.net
+0.0.0.0 www.tube4.apolut.net
 0.0.0.0 tuckercarlson.win
 0.0.0.0 www.tuckercarlson.win
 0.0.0.0 tupoc.ca
@@ -6772,6 +6856,10 @@
 0.0.0.0 www.tusaisjetaime.com
 0.0.0.0 tv-wild.com
 0.0.0.0 www.tv-wild.com
+0.0.0.0 tv.mattchristiansenmedia.com
+0.0.0.0 www.tv.mattchristiansenmedia.com
+0.0.0.0 tv.poa.st
+0.0.0.0 www.tv.poa.st
 0.0.0.0 tvlibertes.com
 0.0.0.0 www.tvlibertes.com
 0.0.0.0 twc.health
@@ -7018,6 +7106,14 @@
 0.0.0.0 www.victorhanson.com
 0.0.0.0 video.maga.host
 0.0.0.0 www.video.maga.host
+0.0.0.0 video.nobodyhasthe.biz
+0.0.0.0 www.video.nobodyhasthe.biz
+0.0.0.0 video.pure-isp.eu
+0.0.0.0 www.video.pure-isp.eu
+0.0.0.0 videos.lukesmith.xyz
+0.0.0.0 www.videos.lukesmith.xyz
+0.0.0.0 videos.martinezperspective.org
+0.0.0.0 www.videos.martinezperspective.org
 0.0.0.0 videos.utahgunexchange.com
 0.0.0.0 www.videos.utahgunexchange.com
 0.0.0.0 videos.whatfinger.com
@@ -7062,6 +7158,8 @@
 0.0.0.0 www.voiceforscienceandsolidarity.org
 0.0.0.0 voiceforscienceandsolidarity.substack.com
 0.0.0.0 www.voiceforscienceandsolidarity.substack.com
+0.0.0.0 voicenews.icu
+0.0.0.0 www.voicenews.icu
 0.0.0.0 voiceofeurope.com
 0.0.0.0 www.voiceofeurope.com
 0.0.0.0 voicesforfreedom.co.nz
@@ -7264,6 +7362,8 @@
 0.0.0.0 www.whitenationnetwork.com
 0.0.0.0 whitenations.com
 0.0.0.0 www.whitenations.com
+0.0.0.0 whitepositive.media
+0.0.0.0 www.whitepositive.media
 0.0.0.0 whitepower.com
 0.0.0.0 www.whitepower.com
 0.0.0.0 whitepowerforum.com
@@ -7286,6 +7386,8 @@
 0.0.0.0 www.whydontyoutrythis.com
 0.0.0.0 wideawakenews.com
 0.0.0.0 www.wideawakenews.com
+0.0.0.0 wiki-tube.de
+0.0.0.0 www.wiki-tube.de
 0.0.0.0 wiki.tfes.org
 0.0.0.0 www.wiki.tfes.org
 0.0.0.0 wikiberal.org
@@ -7380,6 +7482,8 @@
 0.0.0.0 www.wsbets.win
 0.0.0.0 wtoe5news.com
 0.0.0.0 www.wtoe5news.com
+0.0.0.0 wuwox.com
+0.0.0.0 www.wuwox.com
 0.0.0.0 wwg1wga.com
 0.0.0.0 www.wwg1wga.com
 0.0.0.0 wwg1wga.design.blog
