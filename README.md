@@ -4,7 +4,9 @@ An anti-fascist domains blocklist of QAnon, conspiracy, fake news, far-right and
 
 By blocking the websites linked to hate groups and bad actors, it aims to defuse recruitment, propaganda and slow the spread of disinformation via tactics such as psyops, astroturfing, trolls, false flags, sockpuppeting, stochastic terrorism, FUD.
 
-A domains blocklist only blocks entire websites: it's unfortunately unable to block anything on social media where radicalization often happens. It will still definitely reduce exposition to false and harmful informations. Fascists prey on the vulnerable so stay vigilant and consider also using a social media blocklist if needed.
+A domains blocklist only blocks entire websites: it's unfortunately unable to block anything on social media where radicalization often happens.
+It will still definitely reduce exposition to false and harmful informations.
+Fascists prey on the vulnerable so stay vigilant and consider also using a social media blocklist if needed.
 
 Distributed under the [anti-fascist licence](https://github.com/rimu/no-qanon/blob/master/LICENSE.txt).
 
@@ -52,7 +54,7 @@ Clone this repository and add new domains in the appropriate `.txt` files in the
 
 > For the `https://www.example.com` website, add `example.com` to the `sources/default.txt` file.
 
-Then, when you push your changes to the `sources` folder, GitHub actions should kick in and automatically generate new versions of the blocklists. Should you want to generate them yourself, you can run the `scripts/update.sh` script (prerequisites : bash, python, git).
+Then, when you push your changes to the `sources` folder, GitHub actions should kick in and automatically generate new versions of the blocklists. Should you want to generate them yourself, you can run the `scripts/update.sh` script (prerequisites : bash, python).
 
 Finally, make a pull request: we'll review and approve it within a few days.
 
