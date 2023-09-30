@@ -42,6 +42,8 @@
 0.0.0.0 www.2ndamendmentpatches.com
 0.0.0.0 2ndenforcers.org
 0.0.0.0 www.2ndenforcers.org
+0.0.0.0 2sucres.fandom.com
+0.0.0.0 www.2sucres.fandom.com
 0.0.0.0 365usanews.com
 0.0.0.0 www.365usanews.com
 0.0.0.0 3percenterreport.com
@@ -446,6 +448,8 @@
 0.0.0.0 www.anrnews.com
 0.0.0.0 ansharchives.blogspot.com
 0.0.0.0 www.ansharchives.blogspot.com
+0.0.0.0 antepithesi.gr
+0.0.0.0 www.antepithesi.gr
 0.0.0.0 anthonyblogan.com
 0.0.0.0 www.anthonyblogan.com
 0.0.0.0 antigreen.blogspot.com
@@ -586,6 +590,8 @@
 0.0.0.0 www.automaticearth.com
 0.0.0.0 autonom.pl
 0.0.0.0 www.autonom.pl
+0.0.0.0 avenoel.org
+0.0.0.0 www.avenoel.org
 0.0.0.0 avn.org.au
 0.0.0.0 www.avn.org.au
 0.0.0.0 avortement.net
@@ -1392,6 +1398,8 @@
 0.0.0.0 www.collectivelyconscious.net
 0.0.0.0 combat18.com
 0.0.0.0 www.combat18.com
+0.0.0.0 combien.online
+0.0.0.0 www.combien.online
 0.0.0.0 combinedcadetforce.org.uk
 0.0.0.0 www.combinedcadetforce.org.uk
 0.0.0.0 comicdavesmith.com
@@ -2026,6 +2034,8 @@
 0.0.0.0 www.eesystem.com
 0.0.0.0 egaliteetreconciliation.fr
 0.0.0.0 www.egaliteetreconciliation.fr
+0.0.0.0 elasyn.com
+0.0.0.0 www.elasyn.com
 0.0.0.0 electionnightgatekeepers.com
 0.0.0.0 www.electionnightgatekeepers.com
 0.0.0.0 electrosensei.com
@@ -2036,6 +2046,10 @@
 0.0.0.0 www.elieyshay.com
 0.0.0.0 elishean-aufeminin.com
 0.0.0.0 www.elishean-aufeminin.com
+0.0.0.0 elliniki-lisi.gr
+0.0.0.0 www.elliniki-lisi.gr
+0.0.0.0 ellinikipatriotikienosi.blogspot.com
+0.0.0.0 www.ellinikipatriotikienosi.blogspot.com
 0.0.0.0 embols.com
 0.0.0.0 www.embols.com
 0.0.0.0 emf-experts.news
@@ -2190,6 +2204,10 @@
 0.0.0.0 www.etarena.org
 0.0.0.0 eternity-matters.com
 0.0.0.0 www.eternity-matters.com
+0.0.0.0 ethnikielpida.gr
+0.0.0.0 www.ethnikielpida.gr
+0.0.0.0 ethnikometopo.gr
+0.0.0.0 www.ethnikometopo.gr
 0.0.0.0 eugenics.news
 0.0.0.0 www.eugenics.news
 0.0.0.0 eurasia.upf.org
@@ -2206,6 +2224,8 @@
 0.0.0.0 www.europe.infowars.com
 0.0.0.0 europe1.fr
 0.0.0.0 www.europe1.fr
+0.0.0.0 europeannationalfront.org
+0.0.0.0 www.europeannationalfront.org
 0.0.0.0 europereloaded.com
 0.0.0.0 www.europereloaded.com
 0.0.0.0 euthanasia.news
@@ -2872,6 +2892,8 @@
 0.0.0.0 www.govtslaves.info
 0.0.0.0 goyimtv.tv
 0.0.0.0 www.goyimtv.tv
+0.0.0.0 gpa.lu
+0.0.0.0 www.gpa.lu
 0.0.0.0 gracevanberkum.com
 0.0.0.0 www.gracevanberkum.com
 0.0.0.0 grahamlinehan.substack.com
@@ -3390,6 +3412,8 @@
 0.0.0.0 www.jesuisterreau.com
 0.0.0.0 jesus-is-savior.com
 0.0.0.0 www.jesus-is-savior.com
+0.0.0.0 jeuxvideo.com
+0.0.0.0 www.jeuxvideo.com
 0.0.0.0 jewsnews.co.il
 0.0.0.0 www.jewsnews.co.il
 0.0.0.0 jewwatch.com
@@ -3526,6 +3550,14 @@
 0.0.0.0 www.justjoeradio.com
 0.0.0.0 justthenews.com
 0.0.0.0 www.justthenews.com
+0.0.0.0 jvarchive.com
+0.0.0.0 www.jvarchive.com
+0.0.0.0 jvflux.fr
+0.0.0.0 www.jvflux.fr
+0.0.0.0 jvscript.fr
+0.0.0.0 www.jvscript.fr
+0.0.0.0 jvscript.io
+0.0.0.0 www.jvscript.io
 0.0.0.0 jw.org
 0.0.0.0 www.jw.org
 0.0.0.0 jylg.com
@@ -3546,6 +3578,8 @@
 0.0.0.0 www.katiehopkinspolitical.icu
 0.0.0.0 kcorradio.com
 0.0.0.0 www.kcorradio.com
+0.0.0.0 kek.com.gr
+0.0.0.0 www.kek.com.gr
 0.0.0.0 kellybroganmd.com
 0.0.0.0 www.kellybroganmd.com
 0.0.0.0 kenfm.inter21.net
@@ -4316,6 +4350,8 @@
 0.0.0.0 www.nbcpoll.com
 0.0.0.0 ncswic.blog
 0.0.0.0 www.ncswic.blog
+0.0.0.0 neadexia.gr
+0.0.0.0 www.neadexia.gr
 0.0.0.0 needtoknow.news
 0.0.0.0 www.needtoknow.news
 0.0.0.0 neilhamiltonukip.com
@@ -4464,6 +4500,8 @@
 0.0.0.0 www.nieuwstool.nl
 0.0.0.0 nigelfaragemep.co.uk
 0.0.0.0 www.nigelfaragemep.co.uk
+0.0.0.0 nikh.gr
+0.0.0.0 www.nikh.gr
 0.0.0.0 niooz.fr
 0.0.0.0 www.niooz.fr
 0.0.0.0 nissarebela.com
@@ -4492,6 +4530,10 @@
 0.0.0.0 www.noch.info
 0.0.0.0 nodisinfo.com
 0.0.0.0 www.nodisinfo.com
+0.0.0.0 noelfic.fr
+0.0.0.0 www.noelfic.fr
+0.0.0.0 noelshack.com
+0.0.0.0 www.noelshack.com
 0.0.0.0 nofacemask.blogspot.com
 0.0.0.0 www.nofacemask.blogspot.com
 0.0.0.0 nojabforme.info
@@ -5558,6 +5600,10 @@
 0.0.0.0 www.riseattireusa.com
 0.0.0.0 riseupdeplorables.com
 0.0.0.0 www.riseupdeplorables.com
+0.0.0.0 risibank.fr
+0.0.0.0 www.risibank.fr
+0.0.0.0 risific.fr
+0.0.0.0 www.risific.fr
 0.0.0.0 risk.news
 0.0.0.0 www.risk.news
 0.0.0.0 rivarol.com
@@ -5916,6 +5962,8 @@
 0.0.0.0 www.soyjak.wiki
 0.0.0.0 spacex.com
 0.0.0.0 www.spacex.com
+0.0.0.0 spartiates.gr
+0.0.0.0 www.spartiates.gr
 0.0.0.0 speakingaboutnews.com
 0.0.0.0 www.speakingaboutnews.com
 0.0.0.0 speakyourmindhere.com
@@ -7514,6 +7562,8 @@
 0.0.0.0 www.xephula.com
 0.0.0.0 xn--rzte-fr-aufklrung-pqbn68b.de
 0.0.0.0 www.xn--rzte-fr-aufklrung-pqbn68b.de
+0.0.0.0 xrisiavgi.com
+0.0.0.0 www.xrisiavgi.com
 0.0.0.0 xryshaygh.com
 0.0.0.0 www.xryshaygh.com
 0.0.0.0 xyz.net.au

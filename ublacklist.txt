@@ -27,6 +27,7 @@
 *://*.2ch.sh/*
 *://*.2ndamendmentpatches.com/*
 *://*.2ndenforcers.org/*
+*://*.2sucres.fandom.com/*
 *://*.365usanews.com/*
 *://*.3percenterreport.com/*
 *://*.3speak.co/*
@@ -229,6 +230,7 @@
 *://*.anpsympdiv.wixsite.com/*
 *://*.anrnews.com/*
 *://*.ansharchives.blogspot.com/*
+*://*.antepithesi.gr/*
 *://*.anthonyblogan.com/*
 *://*.antigreen.blogspot.com/*
 *://*.antimedianews.com/*
@@ -299,6 +301,7 @@
 *://*.authentication.win/*
 *://*.automaticearth.com/*
 *://*.autonom.pl/*
+*://*.avenoel.org/*
 *://*.avn.org.au/*
 *://*.avortement.net/*
 *://*.avortement.pro/*
@@ -702,6 +705,7 @@
 *://*.collective-evolution.com/*
 *://*.collectivelyconscious.net/*
 *://*.combat18.com/*
+*://*.combien.online/*
 *://*.combinedcadetforce.org.uk/*
 *://*.comicdavesmith.com/*
 *://*.comingdepression.com/*
@@ -1019,11 +1023,14 @@
 *://*.educationpourlebiendesenfants.fr/*
 *://*.eesystem.com/*
 *://*.egaliteetreconciliation.fr/*
+*://*.elasyn.com/*
 *://*.electionnightgatekeepers.com/*
 *://*.electrosensei.com/*
 *://*.elenafridmd.com/*
 *://*.elieyshay.com/*
 *://*.elishean-aufeminin.com/*
+*://*.elliniki-lisi.gr/*
+*://*.ellinikipatriotikienosi.blogspot.com/*
 *://*.embols.com/*
 *://*.emf-experts.news/*
 *://*.emfacts.com/*
@@ -1101,6 +1108,8 @@
 *://*.estcequejemevaccine.eu/*
 *://*.etarena.org/*
 *://*.eternity-matters.com/*
+*://*.ethnikielpida.gr/*
+*://*.ethnikometopo.gr/*
 *://*.eugenics.news/*
 *://*.eurasia.upf.org/*
 *://*.eurocalifat.wordpress.com/*
@@ -1109,6 +1118,7 @@
 *://*.europe-israel.org/*
 *://*.europe.infowars.com/*
 *://*.europe1.fr/*
+*://*.europeannationalfront.org/*
 *://*.europereloaded.com/*
 *://*.euthanasia.news/*
 *://*.eutimes.net/*
@@ -1442,6 +1452,7 @@
 *://*.government-scam.com/*
 *://*.govtslaves.info/*
 *://*.goyimtv.tv/*
+*://*.gpa.lu/*
 *://*.gracevanberkum.com/*
 *://*.grahamlinehan.substack.com/*
 *://*.grand-jury.net/*
@@ -1701,6 +1712,7 @@
 *://*.jesuisduf.wixsite.com/*
 *://*.jesuisterreau.com/*
 *://*.jesus-is-savior.com/*
+*://*.jeuxvideo.com/*
 *://*.jewsnews.co.il/*
 *://*.jewwatch.com/*
 *://*.jewworldorder.org/*
@@ -1769,6 +1781,10 @@
 *://*.justinformednews.com/*
 *://*.justjoeradio.com/*
 *://*.justthenews.com/*
+*://*.jvarchive.com/*
+*://*.jvflux.fr/*
+*://*.jvscript.fr/*
+*://*.jvscript.io/*
 *://*.jw.org/*
 *://*.jylg.com/*
 *://*.kahudes.net/*
@@ -1779,6 +1795,7 @@
 *://*.katehon.org/*
 *://*.katiehopkinspolitical.icu/*
 *://*.kcorradio.com/*
+*://*.kek.com.gr/*
 *://*.kellybroganmd.com/*
 *://*.kenfm.inter21.net/*
 *://*.kerririvera.com/*
@@ -2164,6 +2181,7 @@
 *://*.nbc.com.co/*
 *://*.nbcpoll.com/*
 *://*.ncswic.blog/*
+*://*.neadexia.gr/*
 *://*.needtoknow.news/*
 *://*.neilhamiltonukip.com/*
 *://*.neogenesis.tv/*
@@ -2238,6 +2256,7 @@
 *://*.nido-del-cuco.blogspot.com/*
 *://*.nieuwstool.nl/*
 *://*.nigelfaragemep.co.uk/*
+*://*.nikh.gr/*
 *://*.niooz.fr/*
 *://*.nissarebela.com/*
 *://*.nita.one/*
@@ -2252,6 +2271,8 @@
 *://*.nocensoring.net/*
 *://*.noch.info/*
 *://*.nodisinfo.com/*
+*://*.noelfic.fr/*
+*://*.noelshack.com/*
 *://*.nofacemask.blogspot.com/*
 *://*.nojabforme.info/*
 *://*.nojabjobs.co.nz/*
@@ -2785,6 +2806,8 @@
 *://*.ripostelaique.com/*
 *://*.riseattireusa.com/*
 *://*.riseupdeplorables.com/*
+*://*.risibank.fr/*
+*://*.risific.fr/*
 *://*.risk.news/*
 *://*.rivarol.com/*
 *://*.rizzaislam.com/*
@@ -2964,6 +2987,7 @@
 *://*.soyjak.party/*
 *://*.soyjak.wiki/*
 *://*.spacex.com/*
+*://*.spartiates.gr/*
 *://*.speakingaboutnews.com/*
 *://*.speakyourmindhere.com/*
 *://*.spearhead.co.uk/*
@@ -3763,6 +3787,7 @@
 *://*.xephtoken.com/*
 *://*.xephula.com/*
 *://*.xn--rzte-fr-aufklrung-pqbn68b.de/*
+*://*.xrisiavgi.com/*
 *://*.xryshaygh.com/*
 *://*.xyz.net.au/*
 *://*.yellowhammernews.com/*
