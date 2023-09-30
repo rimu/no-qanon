@@ -472,6 +472,8 @@
 0.0.0.0 www.apfeurope.eu
 0.0.0.0 apocalypsesoon.org
 0.0.0.0 www.apocalypsesoon.org
+0.0.0.0 app.clouthub.com
+0.0.0.0 www.app.clouthub.com
 0.0.0.0 appliedunificationism.com
 0.0.0.0 www.appliedunificationism.com
 0.0.0.0 aprendafalundafa.org

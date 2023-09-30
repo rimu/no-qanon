@@ -235,6 +235,7 @@ address=/apar.tv/
 address=/apecoin.com/
 address=/apfeurope.eu/
 address=/apocalypsesoon.org/
+address=/app.clouthub.com/
 address=/appliedunificationism.com/
 address=/aprendafalundafa.org/
 address=/ar15.com/
