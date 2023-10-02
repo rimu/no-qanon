@@ -42,7 +42,7 @@ Known issue: Firefox's DNS over HTTPS option bypasses the computer's hosts file 
 
 [Blocklist in uBlacklist format](https://raw.githubusercontent.com/rimu/no-qanon/master/ublacklist.txt) to use with [uBlacklist](https://github.com/iorate/ublacklist). It removes blocked sites from search engine results.
 
-[Click here to subscribe.](https://iorate.github.io/ublacklist/subscribe?name=No-QAnon&url=https://raw.githubusercontent.com/rimu/no-qanon/master/ublacklist.txt)
+[Click here to subscribe.](https://iorate.github.io/ublacklist/subscribe?name=No-QAnon&url=https://raw.githubusercontent.com/rimu/no-qanon/master/ublacklist.txt) (This automatic subscription link is only compatible with Chrome, you have to add it by yourself on other browsers!)
 
 ### Domains list
 
