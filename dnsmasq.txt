@@ -2674,6 +2674,7 @@ address=/radiopatriot.net/
 address=/radioquebec.tv/
 address=/radiovox.org/
 address=/radixjournal.com/
+address=/rael.org/
 address=/raf.mod.uk/
 address=/raheemkassam.substack.com/
 address=/raisingvibrations.com.au/
