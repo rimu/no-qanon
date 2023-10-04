@@ -2428,6 +2428,7 @@
 *://*.pandemicfacts.info/*
 *://*.paoathkeepers.com/*
 *://*.papasloups.com/*
+*://*.parents-vigilants.fr/*
 *://*.parentsstrike.com/*
 *://*.parismatch.com/*
 *://*.parisvox.info/*

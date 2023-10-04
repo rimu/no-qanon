@@ -4844,6 +4844,8 @@
 0.0.0.0 www.paoathkeepers.com
 0.0.0.0 papasloups.com
 0.0.0.0 www.papasloups.com
+0.0.0.0 parents-vigilants.fr
+0.0.0.0 www.parents-vigilants.fr
 0.0.0.0 parentsstrike.com
 0.0.0.0 www.parentsstrike.com
 0.0.0.0 parismatch.com

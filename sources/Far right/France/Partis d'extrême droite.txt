@@ -12,7 +12,7 @@ generation-nation.fr
 # Reconquête, Éric Zemmour
 parti-reconquete.fr
 ericzemmour.fr
-https://www.parents-vigilants.fr/ # Astroturfing/asso crée par Zemmour et site web hébergé par son parti
+parents-vigilants.fr # Astroturfing/asso crée par Zemmour et site web hébergé par son parti
 
 # Marion Maréchal Le Pen
 marionmarechal.info
