@@ -1,5 +1,5 @@
 grahamlinehan.substack.com # Graham Linehan, a.k.a. Glinner
 alexbloodfire.com
-https://lgballiance.org.uk
-https://womansplaceuk.org/
-https://forwomen.scot/
+lgballiance.org.uk
+womansplaceuk.org
+forwomen.scot

@@ -52,6 +52,8 @@
 0.0.0.0 www.3speak.co
 0.0.0.0 440.co.il
 0.0.0.0 www.440.co.il
+0.0.0.0 44vilainesfilles.weebly.com
+0.0.0.0 www.44vilainesfilles.weebly.com
 0.0.0.0 45office.com
 0.0.0.0 www.45office.com
 0.0.0.0 4ashli.com
@@ -66,6 +68,8 @@
 0.0.0.0 www.4pt.su
 0.0.0.0 4threvolutionarywar.wordpress.com
 0.0.0.0 www.4threvolutionarywar.wordpress.com
+0.0.0.0 50-50magazine.fr
+0.0.0.0 www.50-50magazine.fr
 0.0.0.0 5ch.net
 0.0.0.0 www.5ch.net
 0.0.0.0 5dandbeyond.nz
@@ -1270,6 +1274,8 @@
 0.0.0.0 www.christiantimesnewspaper.com
 0.0.0.0 christiantoday.com.au
 0.0.0.0 www.christiantoday.com.au
+0.0.0.0 christineld75.wordpress.com
+0.0.0.0 www.christineld75.wordpress.com
 0.0.0.0 christogenea.org
 0.0.0.0 www.christogenea.org
 0.0.0.0 christophercantwell.com
@@ -2442,6 +2448,8 @@
 0.0.0.0 www.flccc.net
 0.0.0.0 flemingmethod.com
 0.0.0.0 www.flemingmethod.com
+0.0.0.0 floraisons.blog
+0.0.0.0 www.floraisons.blog
 0.0.0.0 floridasunpost.com
 0.0.0.0 www.floridasunpost.com
 0.0.0.0 flote.app
@@ -2510,6 +2518,8 @@
 0.0.0.0 www.forums.red
 0.0.0.0 forvictims.co.uk
 0.0.0.0 www.forvictims.co.uk
+0.0.0.0 forwomen.scot
+0.0.0.0 www.forwomen.scot
 0.0.0.0 fos-sa.org
 0.0.0.0 www.fos-sa.org
 0.0.0.0 fourwinds10.net
@@ -2764,6 +2774,8 @@
 0.0.0.0 www.generationfrexit.fr
 0.0.0.0 generationidentitaire.org
 0.0.0.0 www.generationidentitaire.org
+0.0.0.0 genethique.org
+0.0.0.0 www.genethique.org
 0.0.0.0 geniusbiofeedback.com
 0.0.0.0 www.geniusbiofeedback.com
 0.0.0.0 genocide.news
@@ -3686,6 +3698,8 @@
 0.0.0.0 www.lafuria.fr
 0.0.0.0 lagauchematuer.fr
 0.0.0.0 www.lagauchematuer.fr
+0.0.0.0 lagrandehistoiredefrance.fr
+0.0.0.0 www.lagrandehistoiredefrance.fr
 0.0.0.0 lamanifpourtous.fr
 0.0.0.0 www.lamanifpourtous.fr
 0.0.0.0 lamarinerecrute.fr
@@ -3824,6 +3838,10 @@
 0.0.0.0 www.lesoir.info
 0.0.0.0 lesquen.fr
 0.0.0.0 www.lesquen.fr
+0.0.0.0 lesruminant-e-s.fr
+0.0.0.0 www.lesruminant-e-s.fr
+0.0.0.0 lesruminants.com
+0.0.0.0 www.lesruminants.com
 0.0.0.0 lessurvivants.com
 0.0.0.0 www.lessurvivants.com
 0.0.0.0 lessurvivantsroadshow.com
@@ -3840,6 +3858,8 @@
 0.0.0.0 www.leurenmoret.info
 0.0.0.0 lewrockwell.com
 0.0.0.0 www.lewrockwell.com
+0.0.0.0 lgballiance.org.uk
+0.0.0.0 www.lgballiance.org.uk
 0.0.0.0 liberal.news.blog
 0.0.0.0 www.liberal.news.blog
 0.0.0.0 liberaldarkness.com
@@ -4020,6 +4040,10 @@
 0.0.0.0 www.marcorespinti.org
 0.0.0.0 marcusviniciusmotta.com
 0.0.0.0 www.marcusviniciusmotta.com
+0.0.0.0 margueritestern.com
+0.0.0.0 www.margueritestern.com
+0.0.0.0 mariejobon.net
+0.0.0.0 www.mariejobon.net
 0.0.0.0 marilynjwilliams.com
 0.0.0.0 www.marilynjwilliams.com
 0.0.0.0 mariomurillo.org
@@ -4870,6 +4894,8 @@
 0.0.0.0 www.parisvox.info
 0.0.0.0 parler.com
 0.0.0.0 www.parler.com
+0.0.0.0 partage-le.com
+0.0.0.0 www.partage-le.com
 0.0.0.0 parti-reconquete.fr
 0.0.0.0 www.parti-reconquete.fr
 0.0.0.0 parti-renaissance.fr
@@ -5636,6 +5662,8 @@
 0.0.0.0 www.rnrenewal.org
 0.0.0.0 robertfaurisson.blogspot.com
 0.0.0.0 www.robertfaurisson.blogspot.com
+0.0.0.0 rochedy.com
+0.0.0.0 www.rochedy.com
 0.0.0.0 rodofironministries.org
 0.0.0.0 www.rodofironministries.org
 0.0.0.0 roguesgallery666.blogspot.com
@@ -6788,6 +6816,8 @@
 0.0.0.0 www.tpusa.com
 0.0.0.0 trad-news.blogspot.com
 0.0.0.0 www.trad-news.blogspot.com
+0.0.0.0 tradfem.wordpress.com
+0.0.0.0 www.tradfem.wordpress.com
 0.0.0.0 tradyouth.org
 0.0.0.0 www.tradyouth.org
 0.0.0.0 tragedyandhope.com
@@ -7510,6 +7540,12 @@
 0.0.0.0 www.wokesocieties.tv
 0.0.0.0 wolfstreet.com
 0.0.0.0 www.wolfstreet.com
+0.0.0.0 womansplaceuk.org
+0.0.0.0 www.womansplaceuk.org
+0.0.0.0 womensdeclaration.com
+0.0.0.0 www.womensdeclaration.com
+0.0.0.0 womensdeclaration.org
+0.0.0.0 www.womensdeclaration.org
 0.0.0.0 wonhwado.co.uk
 0.0.0.0 www.wonhwado.co.uk
 0.0.0.0 wonhwado.eu
@@ -7642,6 +7678,10 @@
 0.0.0.0 www.zentrum-der-gesundheit.de
 0.0.0.0 zerohedge.com
 0.0.0.0 www.zerohedge.com
+0.0.0.0 zeromacho.fr
+0.0.0.0 www.zeromacho.fr
+0.0.0.0 zeromacho.wordpress.com
+0.0.0.0 www.zeromacho.wordpress.com
 0.0.0.0 zimm3rmann.com
 0.0.0.0 www.zimm3rmann.com
 0.0.0.0 zionutdatit.org.il

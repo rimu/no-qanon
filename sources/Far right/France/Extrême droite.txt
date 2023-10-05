@@ -7,8 +7,8 @@ renaud-camus.net
 claudereichman.com
 marsault.net
 jesuisduf.wixsite.com
-https://www.rochedy.com/
-https://www.lagrandehistoiredefrance.fr/
+rochedy.com
+lagrandehistoiredefrance.fr
 
 # Medias
 ## Publishers
