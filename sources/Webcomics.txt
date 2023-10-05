@@ -4,3 +4,6 @@ sinfest.net
 # Ben Garrisson
 grrrgraphics.wordpress.com
 grrrgraphics.com
+# Scott Adams / Dilbert
+https://www.scottadamssays.com/
+https://dilbert.com
