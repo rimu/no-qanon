@@ -238,6 +238,8 @@
 0.0.0.0 www.alertatotal.net
 0.0.0.0 alethonews.com
 0.0.0.0 www.alethonews.com
+0.0.0.0 alexbloodfire.com
+0.0.0.0 www.alexbloodfire.com
 0.0.0.0 alexishaupt.fr
 0.0.0.0 www.alexishaupt.fr
 0.0.0.0 algora.com
@@ -588,6 +590,8 @@
 0.0.0.0 www.austriacc.org
 0.0.0.0 authentication.win
 0.0.0.0 www.authentication.win
+0.0.0.0 autismspeaks.org
+0.0.0.0 www.autismspeaks.org
 0.0.0.0 automaticearth.com
 0.0.0.0 www.automaticearth.com
 0.0.0.0 autonom.pl
@@ -820,6 +824,8 @@
 0.0.0.0 www.bigbluedimension.com
 0.0.0.0 bigbluevision.com
 0.0.0.0 www.bigbluevision.com
+0.0.0.0 bigfivepersonalitytraits.com
+0.0.0.0 www.bigfivepersonalitytraits.com
 0.0.0.0 biggovernment.news
 0.0.0.0 www.biggovernment.news
 0.0.0.0 bighairynews.com
@@ -1564,6 +1570,8 @@
 0.0.0.0 www.counterspinmedia.com
 0.0.0.0 counterthink.com
 0.0.0.0 www.counterthink.com
+0.0.0.0 courses.jordanbpeterson.com
+0.0.0.0 www.courses.jordanbpeterson.com
 0.0.0.0 covid-19-myths.com
 0.0.0.0 www.covid-19-myths.com
 0.0.0.0 covid19assembly.org
@@ -1856,6 +1864,8 @@
 0.0.0.0 www.dieudosphere.com
 0.0.0.0 digitalwarriorproductions.com
 0.0.0.0 www.digitalwarriorproductions.com
+0.0.0.0 dilbert.com
+0.0.0.0 www.dilbert.com
 0.0.0.0 dinarchronicles.com
 0.0.0.0 www.dinarchronicles.com
 0.0.0.0 dinardaily.net
@@ -2194,6 +2204,8 @@
 0.0.0.0 www.esprits-libres.fr
 0.0.0.0 espritsciencemetaphysiques.com
 0.0.0.0 www.espritsciencemetaphysiques.com
+0.0.0.0 essay.app
+0.0.0.0 www.essay.app
 0.0.0.0 essentialoils.network
 0.0.0.0 www.essentialoils.network
 0.0.0.0 essentialoils.news
@@ -3496,6 +3508,8 @@
 0.0.0.0 www.jonsnewplace.wordpress.com
 0.0.0.0 jordan-bardella.fr
 0.0.0.0 www.jordan-bardella.fr
+0.0.0.0 jordanbpeterson.com
+0.0.0.0 www.jordanbpeterson.com
 0.0.0.0 jordanrachel.com
 0.0.0.0 www.jordanrachel.com
 0.0.0.0 jordansather.com
@@ -3918,6 +3932,8 @@
 0.0.0.0 www.livingwhole.org
 0.0.0.0 lizcrokin.com
 0.0.0.0 www.lizcrokin.com
+0.0.0.0 locals.com
+0.0.0.0 www.locals.com
 0.0.0.0 lockdownsceptics.org
 0.0.0.0 www.lockdownsceptics.org
 0.0.0.0 lolihunter.su
@@ -5672,6 +5688,8 @@
 0.0.0.0 www.ruqqus.com
 0.0.0.0 rushlimbaugh.com
 0.0.0.0 www.rushlimbaugh.com
+0.0.0.0 russellbrand.com
+0.0.0.0 www.russellbrand.com
 0.0.0.0 russia-direct.org
 0.0.0.0 www.russia-direct.org
 0.0.0.0 russia-insider.com
@@ -5758,6 +5776,8 @@
 0.0.0.0 www.scientologie.fr
 0.0.0.0 scientology.org
 0.0.0.0 www.scientology.org
+0.0.0.0 scottadamssays.com
+0.0.0.0 www.scottadamssays.com
 0.0.0.0 scsi-pn.fr
 0.0.0.0 www.scsi-pn.fr
 0.0.0.0 sdebeketch.com
@@ -5776,6 +5796,8 @@
 0.0.0.0 www.secure.jaromebellforcongress.com
 0.0.0.0 seita.fr
 0.0.0.0 www.seita.fr
+0.0.0.0 selfauthoring.com
+0.0.0.0 www.selfauthoring.com
 0.0.0.0 selfhealbydesign.com
 0.0.0.0 www.selfhealbydesign.com
 0.0.0.0 semprefamilia.com.br
@@ -5852,6 +5874,8 @@
 0.0.0.0 www.shoebat.com
 0.0.0.0 shop.davidduke.com
 0.0.0.0 www.shop.davidduke.com
+0.0.0.0 shop.jordanbpeterson.com
+0.0.0.0 www.shop.jordanbpeterson.com
 0.0.0.0 shop.pottermore.com
 0.0.0.0 www.shop.pottermore.com
 0.0.0.0 shop.tealswan.com
@@ -6972,6 +6996,8 @@
 0.0.0.0 www.underground-music.org
 0.0.0.0 undergroundworldnews.com
 0.0.0.0 www.undergroundworldnews.com
+0.0.0.0 understandmyself.com
+0.0.0.0 www.understandmyself.com
 0.0.0.0 unificacion.org
 0.0.0.0 www.unificacion.org
 0.0.0.0 unificacionista.com

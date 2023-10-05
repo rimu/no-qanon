@@ -5,5 +5,5 @@ sinfest.net
 grrrgraphics.wordpress.com
 grrrgraphics.com
 # Scott Adams / Dilbert
-https://www.scottadamssays.com/
-https://dilbert.com
+scottadamssays.com
+dilbert.com

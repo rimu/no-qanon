@@ -1,4 +1,4 @@
 # Graham Linehan, a.k.a. Glinner
 grahamlinehan.substack.com
 # Others
-https://alexbloodfire.com/
+alexbloodfire.com
