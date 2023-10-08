@@ -1,2 +1,2 @@
-https://www.shell.com/
-https://www.shell.fr/
+shell.com
+shell.fr

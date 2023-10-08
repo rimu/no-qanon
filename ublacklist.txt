@@ -1451,6 +1451,7 @@
 *://*.goldenstatetimes.com/*
 *://*.goneleft.com/*
 *://*.gonzalolira.blogspot.com/*
+*://*.good-music.com/*
 *://*.goodgopher.com/*
 *://*.goodsauce.news/*
 *://*.goodsciencing.com/*
@@ -1805,6 +1806,7 @@
 *://*.kairospresse.be/*
 *://*.kandisstaylor.com/*
 *://*.kansallissosialismi.com/*
+*://*.kanyewest.com/*
 *://*.katehon.com/*
 *://*.katehon.org/*
 *://*.katiehopkinspolitical.icu/*
@@ -2941,6 +2943,8 @@
 *://*.shas.org.il/*
 *://*.sheepkillers.com/*
 *://*.sheilazilinsky.com/*
+*://*.shell.com/*
+*://*.shell.fr/*
 *://*.shemanenugent.rocks/*
 *://*.shenyun.com/*
 *://*.shenyuncollections.com/*
@@ -3824,6 +3828,7 @@
 *://*.xrisiavgi.com/*
 *://*.xryshaygh.com/*
 *://*.xyz.net.au/*
+*://*.yeezysupply.com/*
 *://*.yellowhammernews.com/*
 *://*.yesimright.com/*
 *://*.yonews.org/*

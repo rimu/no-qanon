@@ -2890,6 +2890,8 @@
 0.0.0.0 www.goneleft.com
 0.0.0.0 gonzalolira.blogspot.com
 0.0.0.0 www.gonzalolira.blogspot.com
+0.0.0.0 good-music.com
+0.0.0.0 www.good-music.com
 0.0.0.0 goodgopher.com
 0.0.0.0 www.goodgopher.com
 0.0.0.0 goodsauce.news
@@ -3598,6 +3600,8 @@
 0.0.0.0 www.kandisstaylor.com
 0.0.0.0 kansallissosialismi.com
 0.0.0.0 www.kansallissosialismi.com
+0.0.0.0 kanyewest.com
+0.0.0.0 www.kanyewest.com
 0.0.0.0 katehon.com
 0.0.0.0 www.katehon.com
 0.0.0.0 katehon.org
@@ -5870,6 +5874,10 @@
 0.0.0.0 www.sheepkillers.com
 0.0.0.0 sheilazilinsky.com
 0.0.0.0 www.sheilazilinsky.com
+0.0.0.0 shell.com
+0.0.0.0 www.shell.com
+0.0.0.0 shell.fr
+0.0.0.0 www.shell.fr
 0.0.0.0 shemanenugent.rocks
 0.0.0.0 www.shemanenugent.rocks
 0.0.0.0 shenyun.com
@@ -7636,6 +7644,8 @@
 0.0.0.0 www.xryshaygh.com
 0.0.0.0 xyz.net.au
 0.0.0.0 www.xyz.net.au
+0.0.0.0 yeezysupply.com
+0.0.0.0 www.yeezysupply.com
 0.0.0.0 yellowhammernews.com
 0.0.0.0 www.yellowhammernews.com
 0.0.0.0 yesimright.com
