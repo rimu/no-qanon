@@ -1098,6 +1098,8 @@
 0.0.0.0 www.canadafreepress.com
 0.0.0.0 canadianphysicians.org
 0.0.0.0 www.canadianphysicians.org
+0.0.0.0 canarymission.org
+0.0.0.0 www.canarymission.org
 0.0.0.0 cancelthiscompany.com
 0.0.0.0 www.cancelthiscompany.com
 0.0.0.0 cancer.news
@@ -2562,6 +2564,8 @@
 0.0.0.0 www.francesoir.fr
 0.0.0.0 francevapotage.fr
 0.0.0.0 www.francevapotage.fr
+0.0.0.0 francislalanne.com
+0.0.0.0 www.francislalanne.com
 0.0.0.0 francoisasselineau.fr
 0.0.0.0 www.francoisasselineau.fr
 0.0.0.0 frankspeech.com

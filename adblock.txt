@@ -555,6 +555,7 @@
 ||canadafirst.nfshost.com^
 ||canadafreepress.com^
 ||canadianphysicians.org^
+||canarymission.org^
 ||cancelthiscompany.com^
 ||cancer.news^
 ||cancercontrolsociety.org^
@@ -1287,6 +1288,7 @@
 ||francemediasnumerique.com^
 ||francesoir.fr^
 ||francevapotage.fr^
+||francislalanne.com^
 ||francoisasselineau.fr^
 ||frankspeech.com^
 ||fratelli-italia.it^
