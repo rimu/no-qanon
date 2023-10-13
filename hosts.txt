@@ -3606,6 +3606,10 @@
 0.0.0.0 www.kansallissosialismi.com
 0.0.0.0 kanyewest.com
 0.0.0.0 www.kanyewest.com
+0.0.0.0 karlzero.tv
+0.0.0.0 www.karlzero.tv
+0.0.0.0 karlzerobalance.com
+0.0.0.0 www.karlzerobalance.com
 0.0.0.0 katehon.com
 0.0.0.0 www.katehon.com
 0.0.0.0 katehon.org
@@ -3806,6 +3810,8 @@
 0.0.0.0 www.lemediaen442.fr
 0.0.0.0 lemonde.co.il
 0.0.0.0 www.lemonde.co.il
+0.0.0.0 lenversdesaffairesmagazine.fr
+0.0.0.0 www.lenversdesaffairesmagazine.fr
 0.0.0.0 leofrank.org
 0.0.0.0 www.leofrank.org
 0.0.0.0 leohohmann.com
@@ -4606,6 +4612,8 @@
 0.0.0.0 www.nordfront.dk
 0.0.0.0 nordfront.se
 0.0.0.0 www.nordfront.se
+0.0.0.0 nordpresse.be
+0.0.0.0 www.nordpresse.be
 0.0.0.0 northcrane.com
 0.0.0.0 www.northcrane.com
 0.0.0.0 nos-medias.fr
@@ -7250,6 +7258,8 @@
 0.0.0.0 www.vigilantcitizen.com
 0.0.0.0 vigile.quebec
 0.0.0.0 www.vigile.quebec
+0.0.0.0 vincentflibustier.com
+0.0.0.0 www.vincentflibustier.com
 0.0.0.0 vinlandianlore.wordpress.com
 0.0.0.0 www.vinlandianlore.wordpress.com
 0.0.0.0 vintologi.com

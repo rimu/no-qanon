@@ -1809,6 +1809,8 @@
 *://*.kandisstaylor.com/*
 *://*.kansallissosialismi.com/*
 *://*.kanyewest.com/*
+*://*.karlzero.tv/*
+*://*.karlzerobalance.com/*
 *://*.katehon.com/*
 *://*.katehon.org/*
 *://*.katiehopkinspolitical.icu/*
@@ -1909,6 +1911,7 @@
 *://*.lelibrepenseur.org/*
 *://*.lemediaen442.fr/*
 *://*.lemonde.co.il/*
+*://*.lenversdesaffairesmagazine.fr/*
 *://*.leofrank.org/*
 *://*.leohohmann.com/*
 *://*.lepcd.fr/*
@@ -2309,6 +2312,7 @@
 *://*.norden.media/*
 *://*.nordfront.dk/*
 *://*.nordfront.se/*
+*://*.nordpresse.be/*
 *://*.northcrane.com/*
 *://*.nos-medias.fr/*
 *://*.noscorpsnoschoix.com/*
@@ -3631,6 +3635,7 @@
 *://*.vigilant.news/*
 *://*.vigilantcitizen.com/*
 *://*.vigile.quebec/*
+*://*.vincentflibustier.com/*
 *://*.vinlandianlore.wordpress.com/*
 *://*.vintologi.com/*
 *://*.vintologi.eu/*
