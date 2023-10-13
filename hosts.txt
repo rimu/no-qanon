@@ -6284,6 +6284,8 @@
 0.0.0.0 www.tealswan.com
 0.0.0.0 tealswan.net
 0.0.0.0 www.tealswan.net
+0.0.0.0 tealswan1.wordpress.com
+0.0.0.0 www.tealswan1.wordpress.com
 0.0.0.0 teamtuckercarlson.com
 0.0.0.0 www.teamtuckercarlson.com
 0.0.0.0 teaparty.org

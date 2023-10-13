@@ -3141,6 +3141,7 @@
 "*://*.teace.ca/*",
 "*://*.tealswan.com/*",
 "*://*.tealswan.net/*",
+"*://*.tealswan1.wordpress.com/*",
 "*://*.teamtuckercarlson.com/*",
 "*://*.teaparty.org/*",
 "*://*.teapartycommunity.com/*",

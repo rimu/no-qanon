@@ -3141,6 +3141,7 @@ address=/tcode.kenfm.de/
 address=/teace.ca/
 address=/tealswan.com/
 address=/tealswan.net/
+address=/tealswan1.wordpress.com/
 address=/teamtuckercarlson.com/
 address=/teaparty.org/
 address=/teapartycommunity.com/
