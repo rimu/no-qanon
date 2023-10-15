@@ -41,3 +41,6 @@ thedonald.win
 news.thetrumptimes.com
 # Probably fake stores
 officialtrump2024store.com
+
+# Pro Trump media
+https://www.atomicfabrik.com/ # Publisher of "The Last Hope Trump vs Mafia" shovelware, their steam forums are nasty
