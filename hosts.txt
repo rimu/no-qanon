@@ -558,6 +558,8 @@
 0.0.0.0 www.atlassociety.org
 0.0.0.0 atomial.com
 0.0.0.0 www.atomial.com
+0.0.0.0 atomicfabrik.com
+0.0.0.0 www.atomicfabrik.com
 0.0.0.0 atomwaffendivision.org
 0.0.0.0 www.atomwaffendivision.org
 0.0.0.0 atrazine.news
@@ -2726,6 +2728,8 @@
 0.0.0.0 www.gab.ai
 0.0.0.0 gab.com
 0.0.0.0 www.gab.com
+0.0.0.0 gael-giraud.fr
+0.0.0.0 www.gael-giraud.fr
 0.0.0.0 gaia.com
 0.0.0.0 www.gaia.com
 0.0.0.0 galacticconnection.com
@@ -3614,6 +3618,8 @@
 0.0.0.0 www.katehon.com
 0.0.0.0 katehon.org
 0.0.0.0 www.katehon.org
+0.0.0.0 kathleenstock.com
+0.0.0.0 www.kathleenstock.com
 0.0.0.0 katiehopkinspolitical.icu
 0.0.0.0 www.katiehopkinspolitical.icu
 0.0.0.0 kcorradio.com
@@ -3828,6 +3834,8 @@
 0.0.0.0 www.les-identitaires.fr
 0.0.0.0 les-patriotes.fr
 0.0.0.0 www.les-patriotes.fr
+0.0.0.0 lesaffranchissflfrance.fr
+0.0.0.0 www.lesaffranchissflfrance.fr
 0.0.0.0 lesalonbeige.blogs.com
 0.0.0.0 www.lesalonbeige.blogs.com
 0.0.0.0 lesalonbeige.fr
@@ -3892,6 +3900,10 @@
 0.0.0.0 www.libertycentric.com
 0.0.0.0 libertycgc.com
 0.0.0.0 www.libertycgc.com
+0.0.0.0 libertycon.com
+0.0.0.0 www.libertycon.com
+0.0.0.0 libertycon.net
+0.0.0.0 www.libertycon.net
 0.0.0.0 libertyfederation.com
 0.0.0.0 www.libertyfederation.com
 0.0.0.0 libertyfellowshipmt.com
@@ -5826,6 +5838,8 @@
 0.0.0.0 www.scsi-pn.fr
 0.0.0.0 sdebeketch.com
 0.0.0.0 www.sdebeketch.com
+0.0.0.0 sdp.org.uk
+0.0.0.0 www.sdp.org.uk
 0.0.0.0 sea-cadets.org
 0.0.0.0 www.sea-cadets.org
 0.0.0.0 seanstone.info
@@ -5864,6 +5878,8 @@
 0.0.0.0 www.serv3.wiki-tube.de
 0.0.0.0 serviam-alvarium.fr
 0.0.0.0 www.serviam-alvarium.fr
+0.0.0.0 sex-matters.org
+0.0.0.0 www.sex-matters.org
 0.0.0.0 sgtreport.com
 0.0.0.0 www.sgtreport.com
 0.0.0.0 shadolsonshow.com
@@ -6184,6 +6200,8 @@
 0.0.0.0 www.strikeforceofprayer.com
 0.0.0.0 studentsagainsttyranny.com
 0.0.0.0 www.studentsagainsttyranny.com
+0.0.0.0 studentsforliberty.org
+0.0.0.0 www.studentsforliberty.org
 0.0.0.0 studiotour.warnerbros.fr
 0.0.0.0 www.studiotour.warnerbros.fr
 0.0.0.0 suavelos.eu
@@ -6502,6 +6520,8 @@
 0.0.0.0 www.thehealthforumnz.co.nz
 0.0.0.0 thehealthyamerican.org
 0.0.0.0 www.thehealthyamerican.org
+0.0.0.0 thehelenjoyce.com
+0.0.0.0 www.thehelenjoyce.com
 0.0.0.0 thehighwire.com
 0.0.0.0 www.thehighwire.com
 0.0.0.0 thehoodnz.com

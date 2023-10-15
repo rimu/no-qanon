@@ -285,6 +285,7 @@
 *://*.atlanteanconspiracy.com/*
 *://*.atlassociety.org/*
 *://*.atomial.com/*
+*://*.atomicfabrik.com/*
 *://*.atomwaffendivision.org/*
 *://*.atrazine.news/*
 *://*.attackthesystem.com/*
@@ -1369,6 +1370,7 @@
 *://*.g3.kolyma.org/*
 *://*.gab.ai/*
 *://*.gab.com/*
+*://*.gael-giraud.fr/*
 *://*.gaia.com/*
 *://*.galacticconnection.com/*
 *://*.galacticfederation-naplesfl.org/*
@@ -1813,6 +1815,7 @@
 *://*.karlzerobalance.com/*
 *://*.katehon.com/*
 *://*.katehon.org/*
+*://*.kathleenstock.com/*
 *://*.katiehopkinspolitical.icu/*
 *://*.kcorradio.com/*
 *://*.kek.com.gr/*
@@ -1920,6 +1923,7 @@
 *://*.les-identitaires.com/*
 *://*.les-identitaires.fr/*
 *://*.les-patriotes.fr/*
+*://*.lesaffranchissflfrance.fr/*
 *://*.lesalonbeige.blogs.com/*
 *://*.lesalonbeige.fr/*
 *://*.lesbrigandes.com/*
@@ -1952,6 +1956,8 @@
 *://*.libertyblitzkrieg.com/*
 *://*.libertycentric.com/*
 *://*.libertycgc.com/*
+*://*.libertycon.com/*
+*://*.libertycon.net/*
 *://*.libertyfederation.com/*
 *://*.libertyfellowshipmt.com/*
 *://*.libertyhangout.org/*
@@ -2919,6 +2925,7 @@
 *://*.scottadamssays.com/*
 *://*.scsi-pn.fr/*
 *://*.sdebeketch.com/*
+*://*.sdp.org.uk/*
 *://*.sea-cadets.org/*
 *://*.seanstone.info/*
 *://*.secoloditalia.it/*
@@ -2938,6 +2945,7 @@
 *://*.serv2.wiki-tube.de/*
 *://*.serv3.wiki-tube.de/*
 *://*.serviam-alvarium.fr/*
+*://*.sex-matters.org/*
 *://*.sgtreport.com/*
 *://*.shadolsonshow.com/*
 *://*.shadowban.eu/*
@@ -3098,6 +3106,7 @@
 *://*.strikebackforfreedom.com/*
 *://*.strikeforceofprayer.com/*
 *://*.studentsagainsttyranny.com/*
+*://*.studentsforliberty.org/*
 *://*.studiotour.warnerbros.fr/*
 *://*.suavelos.eu/*
 *://*.subjectpolitics.com/*
@@ -3257,6 +3266,7 @@
 *://*.thegwpf.com/*
 *://*.thehealthforumnz.co.nz/*
 *://*.thehealthyamerican.org/*
+*://*.thehelenjoyce.com/*
 *://*.thehighwire.com/*
 *://*.thehoodnz.com/*
 *://*.thehornnews.com/*
