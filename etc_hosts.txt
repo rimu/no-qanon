@@ -6582,6 +6582,8 @@
 0.0.0.0 www.themuslimissue.wordpress.com
 0.0.0.0 thenational912project.org
 0.0.0.0 www.thenational912project.org
+0.0.0.0 thenationalpatriot.com
+0.0.0.0 www.thenationalpatriot.com
 0.0.0.0 thenationalpulse.com
 0.0.0.0 www.thenationalpulse.com
 0.0.0.0 thenewamerican.com

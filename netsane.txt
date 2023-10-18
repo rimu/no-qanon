@@ -3290,6 +3290,7 @@
 "*://*.themoscowtimes.com/*",
 "*://*.themuslimissue.wordpress.com/*",
 "*://*.thenational912project.org/*",
+"*://*.thenationalpatriot.com/*",
 "*://*.thenationalpulse.com/*",
 "*://*.thenewamerican.com/*",
 "*://*.thenewatlas.org/*",

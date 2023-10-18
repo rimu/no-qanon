@@ -3290,6 +3290,7 @@ address=/themix.net/
 address=/themoscowtimes.com/
 address=/themuslimissue.wordpress.com/
 address=/thenational912project.org/
+address=/thenationalpatriot.com/
 address=/thenationalpulse.com/
 address=/thenewamerican.com/
 address=/thenewatlas.org/
