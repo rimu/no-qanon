@@ -4942,6 +4942,8 @@
 0.0.0.0 www.patriactionary.wordpress.com
 0.0.0.0 patrickdhampton.net
 0.0.0.0 www.patrickdhampton.net
+0.0.0.0 patriot-foundation.com
+0.0.0.0 www.patriot-foundation.com
 0.0.0.0 patriotchronicle.com
 0.0.0.0 www.patriotchronicle.com
 0.0.0.0 patriotcoalition.com

@@ -2470,6 +2470,7 @@ address=/patdollar.com/
 address=/patelpatriot.substack.com/
 address=/patriactionary.wordpress.com/
 address=/patrickdhampton.net/
+address=/patriot-foundation.com/
 address=/patriotchronicle.com/
 address=/patriotcoalition.com/
 address=/patriotcoalition.org/
