@@ -3460,6 +3460,7 @@ address=/trumphotels.com/
 address=/trumpinternationalrealty.com/
 address=/trumpknows.com/
 address=/trumplive.com.au/
+address=/trumpmedbed.com/
 address=/trumpq.uk/
 address=/trumpsminutemen.org/
 address=/trumpstore.com/

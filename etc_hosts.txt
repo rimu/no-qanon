@@ -6922,6 +6922,8 @@
 0.0.0.0 www.trumpknows.com
 0.0.0.0 trumplive.com.au
 0.0.0.0 www.trumplive.com.au
+0.0.0.0 trumpmedbed.com
+0.0.0.0 www.trumpmedbed.com
 0.0.0.0 trumpq.uk
 0.0.0.0 www.trumpq.uk
 0.0.0.0 trumpsminutemen.org
