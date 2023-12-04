@@ -1823,6 +1823,7 @@ address=/kindlywakethehellup.wordpress.com/
 address=/kingidentity.com/
 address=/kingof.uk/
 address=/kirksvilletoday.com/
+address=/kirschsubstack.com/
 address=/kisskissbebe.com/
 address=/kiwifar.ms/
 address=/kiwifarms.cc/

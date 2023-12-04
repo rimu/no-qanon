@@ -1830,6 +1830,7 @@
 *://*.kingidentity.com/*
 *://*.kingof.uk/*
 *://*.kirksvilletoday.com/*
+*://*.kirschsubstack.com/*
 *://*.kisskissbebe.com/*
 *://*.kiwifar.ms/*
 *://*.kiwifarms.cc/*
