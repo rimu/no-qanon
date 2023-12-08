@@ -659,6 +659,7 @@
 *://*.citizengo.org/*
 *://*.citizensforresponsiblesolar.org/*
 *://*.citizensireport.com/*
+*://*.citizenwatchreport.com/*
 *://*.citoyens-et-francais.fr/*
 *://*.citoyenveilleur.canalblog.com/*
 *://*.city-journal.org/*
@@ -1053,6 +1054,7 @@
 *://*.en.news-front.info/*
 *://*.en.shincheonji.kr/*
 *://*.enabon.com/*
+*://*.endchan.gg/*
 *://*.endchan.org/*
 *://*.endevil.life/*
 *://*.endgame.news/*
@@ -1061,6 +1063,7 @@
 *://*.endoftheamericandream.com/*
 *://*.endthechinesevirus.com/*
 *://*.endtime.com/*
+*://*.endtimeheadlines.org/*
 *://*.enduringvision.com/*
 *://*.energy-medicine.co.nz/*
 *://*.energyhealingroom.com/*
@@ -1361,6 +1364,7 @@
 *://*.frontpopulaire.fr/*
 *://*.fukushimawatch.com/*
 *://*.fulcrumnews.com/*
+*://*.fullchan.net/*
 *://*.fupaix.org/*
 *://*.furtherglory.wordpress.com/*
 *://*.futurenews.news/*
@@ -1753,6 +1757,7 @@
 *://*.joebiden.info/*
 *://*.joebiden.news/*
 *://*.joecheated.com/*
+*://*.joedubs.com/*
 *://*.joeplummer.com/*
 *://*.joeroganexposed.com/*
 *://*.joeycamp2020.tumblr.com/*
@@ -1989,6 +1994,7 @@
 *://*.limitlesstruth.com/*
 *://*.lincorrect.org/*
 *://*.linyoathkeepers.org/*
+*://*.lionessofjudah.substack.com/*
 *://*.lipstick-and-war-crimes.org/*
 *://*.lissahumanelife.wordpress.com/*
 *://*.live.kolyma.org/*
@@ -2663,8 +2669,10 @@
 *://*.q-themoreyouknow.ml/*
 *://*.qactus.fr/*
 *://*.qagg.news/*
+*://*.qaggregator.news/*
 *://*.qalerts.app/*
 *://*.qalerts.net/*
+*://*.qalerts.pub/*
 *://*.qalerts.top/*
 *://*.qanon-news.com/*
 *://*.qanon.fun/*
@@ -3009,6 +3017,7 @@
 *://*.skrewdriver.info/*
 *://*.skrewdrivercds.com/*
 *://*.slantedright2.blogspot.com/*
+*://*.slaynews.com/*
 *://*.slug.com/*
 *://*.smashleft.com/*
 *://*.smmquotes.com/*
@@ -3054,6 +3063,7 @@
 *://*.spirituallyraw.tv/*
 *://*.spiritualmecahnicsandteachings.blogspot.com/*
 *://*.spreely.com/*
+*://*.sputnikglobe.com/*
 *://*.sputniknews.com/*
 *://*.srb.news-front.info/*
 *://*.st-germain.se/*
@@ -3107,6 +3117,7 @@
 *://*.strategic-culture.org/*
 *://*.strikebackforfreedom.com/*
 *://*.strikeforceofprayer.com/*
+*://*.strongandfreecanada.org/*
 *://*.studentsagainsttyranny.com/*
 *://*.studentsforliberty.org/*
 *://*.studiotour.warnerbros.fr/*
@@ -3614,6 +3625,7 @@
 *://*.vaccinesafety.info/*
 *://*.vaccinewars.com/*
 *://*.vactruth.com/*
+*://*.vaersaware.com/*
 *://*.valcabal.nl/*
 *://*.valeursactuelles.com/*
 *://*.vallumholdings.com/*
@@ -3829,6 +3841,7 @@
 *://*.worldwidehealthy.com/*
 *://*.wpww.net/*
 *://*.wrapped.cryptopunks.app/*
+*://*.wrathofeden.com/*
 *://*.wsbets.win/*
 *://*.wtoe5news.com/*
 *://*.wuwox.com/*

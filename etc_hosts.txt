@@ -1306,6 +1306,8 @@
 0.0.0.0 www.citizensforresponsiblesolar.org
 0.0.0.0 citizensireport.com
 0.0.0.0 www.citizensireport.com
+0.0.0.0 citizenwatchreport.com
+0.0.0.0 www.citizenwatchreport.com
 0.0.0.0 citoyens-et-francais.fr
 0.0.0.0 www.citoyens-et-francais.fr
 0.0.0.0 citoyenveilleur.canalblog.com
@@ -2094,6 +2096,8 @@
 0.0.0.0 www.en.shincheonji.kr
 0.0.0.0 enabon.com
 0.0.0.0 www.enabon.com
+0.0.0.0 endchan.gg
+0.0.0.0 www.endchan.gg
 0.0.0.0 endchan.org
 0.0.0.0 www.endchan.org
 0.0.0.0 endevil.life
@@ -2110,6 +2114,8 @@
 0.0.0.0 www.endthechinesevirus.com
 0.0.0.0 endtime.com
 0.0.0.0 www.endtime.com
+0.0.0.0 endtimeheadlines.org
+0.0.0.0 www.endtimeheadlines.org
 0.0.0.0 enduringvision.com
 0.0.0.0 www.enduringvision.com
 0.0.0.0 energy-medicine.co.nz
@@ -2710,6 +2716,8 @@
 0.0.0.0 www.fukushimawatch.com
 0.0.0.0 fulcrumnews.com
 0.0.0.0 www.fulcrumnews.com
+0.0.0.0 fullchan.net
+0.0.0.0 www.fullchan.net
 0.0.0.0 fupaix.org
 0.0.0.0 www.fupaix.org
 0.0.0.0 furtherglory.wordpress.com
@@ -3494,6 +3502,8 @@
 0.0.0.0 www.joebiden.news
 0.0.0.0 joecheated.com
 0.0.0.0 www.joecheated.com
+0.0.0.0 joedubs.com
+0.0.0.0 www.joedubs.com
 0.0.0.0 joeplummer.com
 0.0.0.0 www.joeplummer.com
 0.0.0.0 joeroganexposed.com
@@ -3966,6 +3976,8 @@
 0.0.0.0 www.lincorrect.org
 0.0.0.0 linyoathkeepers.org
 0.0.0.0 www.linyoathkeepers.org
+0.0.0.0 lionessofjudah.substack.com
+0.0.0.0 www.lionessofjudah.substack.com
 0.0.0.0 lipstick-and-war-crimes.org
 0.0.0.0 www.lipstick-and-war-crimes.org
 0.0.0.0 lissahumanelife.wordpress.com
@@ -5314,10 +5326,14 @@
 0.0.0.0 www.qactus.fr
 0.0.0.0 qagg.news
 0.0.0.0 www.qagg.news
+0.0.0.0 qaggregator.news
+0.0.0.0 www.qaggregator.news
 0.0.0.0 qalerts.app
 0.0.0.0 www.qalerts.app
 0.0.0.0 qalerts.net
 0.0.0.0 www.qalerts.net
+0.0.0.0 qalerts.pub
+0.0.0.0 www.qalerts.pub
 0.0.0.0 qalerts.top
 0.0.0.0 www.qalerts.top
 0.0.0.0 qanon-news.com
@@ -6006,6 +6022,8 @@
 0.0.0.0 www.skrewdrivercds.com
 0.0.0.0 slantedright2.blogspot.com
 0.0.0.0 www.slantedright2.blogspot.com
+0.0.0.0 slaynews.com
+0.0.0.0 www.slaynews.com
 0.0.0.0 slug.com
 0.0.0.0 www.slug.com
 0.0.0.0 smashleft.com
@@ -6096,6 +6114,8 @@
 0.0.0.0 www.spiritualmecahnicsandteachings.blogspot.com
 0.0.0.0 spreely.com
 0.0.0.0 www.spreely.com
+0.0.0.0 sputnikglobe.com
+0.0.0.0 www.sputnikglobe.com
 0.0.0.0 sputniknews.com
 0.0.0.0 www.sputniknews.com
 0.0.0.0 srb.news-front.info
@@ -6202,6 +6222,8 @@
 0.0.0.0 www.strikebackforfreedom.com
 0.0.0.0 strikeforceofprayer.com
 0.0.0.0 www.strikeforceofprayer.com
+0.0.0.0 strongandfreecanada.org
+0.0.0.0 www.strongandfreecanada.org
 0.0.0.0 studentsagainsttyranny.com
 0.0.0.0 www.studentsagainsttyranny.com
 0.0.0.0 studentsforliberty.org
@@ -7216,6 +7238,8 @@
 0.0.0.0 www.vaccinewars.com
 0.0.0.0 vactruth.com
 0.0.0.0 www.vactruth.com
+0.0.0.0 vaersaware.com
+0.0.0.0 www.vaersaware.com
 0.0.0.0 valcabal.nl
 0.0.0.0 www.valcabal.nl
 0.0.0.0 valeursactuelles.com
@@ -7646,6 +7670,8 @@
 0.0.0.0 www.wpww.net
 0.0.0.0 wrapped.cryptopunks.app
 0.0.0.0 www.wrapped.cryptopunks.app
+0.0.0.0 wrathofeden.com
+0.0.0.0 www.wrathofeden.com
 0.0.0.0 wsbets.win
 0.0.0.0 www.wsbets.win
 0.0.0.0 wtoe5news.com
