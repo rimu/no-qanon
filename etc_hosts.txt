@@ -4748,6 +4748,8 @@
 0.0.0.0 www.odinist.com
 0.0.0.0 odinsreich.com
 0.0.0.0 www.odinsreich.com
+0.0.0.0 ody.sh
+0.0.0.0 www.ody.sh
 0.0.0.0 odysee.com
 0.0.0.0 www.odysee.com
 0.0.0.0 off-guardian.org

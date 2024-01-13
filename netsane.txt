@@ -2373,6 +2373,7 @@
 "*://*.odgossip.com/*",
 "*://*.odinist.com/*",
 "*://*.odinsreich.com/*",
+"*://*.ody.sh/*",
 "*://*.odysee.com/*",
 "*://*.off-guardian.org/*",
 "*://*.officeoftheworldteacher.wordpress.com/*",
