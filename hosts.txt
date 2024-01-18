@@ -3556,6 +3556,8 @@
 0.0.0.0 www.joshwhotv.com
 0.0.0.0 journal-neo.org
 0.0.0.0 www.journal-neo.org
+0.0.0.0 journal-neo.su
+0.0.0.0 www.journal-neo.su
 0.0.0.0 journalistenwatch.com
 0.0.0.0 www.journalistenwatch.com
 0.0.0.0 journalof911studies.com
@@ -5776,6 +5778,8 @@
 0.0.0.0 www.russiatruth.co
 0.0.0.0 rustyjames.canalblog.com
 0.0.0.0 www.rustyjames.canalblog.com
+0.0.0.0 rusvesna.su
+0.0.0.0 www.rusvesna.su
 0.0.0.0 sacaboulons.fr
 0.0.0.0 www.sacaboulons.fr
 0.0.0.0 sachastone.com
@@ -6220,6 +6224,8 @@
 0.0.0.0 www.straightlinelogic.com
 0.0.0.0 strategic-culture.org
 0.0.0.0 www.strategic-culture.org
+0.0.0.0 strategic-culture.su
+0.0.0.0 www.strategic-culture.su
 0.0.0.0 strikebackforfreedom.com
 0.0.0.0 www.strikebackforfreedom.com
 0.0.0.0 strikeforceofprayer.com

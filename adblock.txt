@@ -1784,6 +1784,7 @@
 ||joselitomuller.com^
 ||joshwhotv.com^
 ||journal-neo.org^
+||journal-neo.su^
 ||journalistenwatch.com^
 ||journalof911studies.com^
 ||journals.uts.edu^
@@ -2894,6 +2895,7 @@
 ||russia-insider.com^
 ||russiatruth.co^
 ||rustyjames.canalblog.com^
+||rusvesna.su^
 ||sacaboulons.fr^
 ||sachastone.com^
 ||sacred-texts.com^
@@ -3116,6 +3118,7 @@
 ||stovouno.org^
 ||straightlinelogic.com^
 ||strategic-culture.org^
+||strategic-culture.su^
 ||strikebackforfreedom.com^
 ||strikeforceofprayer.com^
 ||strongandfreecanada.org^
