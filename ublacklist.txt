@@ -124,6 +124,7 @@
 *://*.ajamubaraka.com/*
 *://*.alaindebenoist.com/*
 *://*.alalumieredunouveaumonde.blogspot.fr/*
+*://*.alchevsk-news.ru/*
 *://*.aleph.to/*
 *://*.alertatotal.net/*
 *://*.alethonews.com/*
@@ -402,6 +403,7 @@
 *://*.benklassenschurch.blogspot.com/*
 *://*.bennywills.com/*
 *://*.bentoelgroup.com/*
+*://*.berdyansk-news.ru/*
 *://*.bernardgaynor.com.au/*
 *://*.bernd-lucke.de/*
 *://*.bestnewshere.com/*
@@ -628,6 +630,8 @@
 *://*.chemtrails911.com/*
 *://*.chemtrailsnorthnz.wordpress.com/*
 *://*.chemtrailsplanet.net/*
+*://*.chernigov-news.ru/*
+*://*.chernovcy-news.ru/*
 *://*.cherylchumley.com/*
 *://*.chick.com/*
 *://*.chieuseatempcomplet.com/*
@@ -971,12 +975,15 @@
 *://*.divineprinciplestudy.org/*
 *://*.dlive.tv/*
 *://*.dmrpublications.com/*
+*://*.dnepr-news.ru/*
+*://*.dnr-news.ru/*
 *://*.docthesilence.com/*
 *://*.doctors4covidethics.org/*
 *://*.dollarvigilante.com/*
 *://*.donaldjtrump.com/*
 *://*.donaldtrumpnews.co/*
 *://*.dondevamos.canalblog.com/*
+*://*.donetsk-news.ru/*
 *://*.donjr.com/*
 *://*.donorbux.com/*
 *://*.dont-tread-on.me/*
@@ -1467,6 +1474,7 @@
 *://*.gop.gov/*
 *://*.gopthedailydose.com/*
 *://*.gorf.tube/*
+*://*.gorlovka-news.ru/*
 *://*.gorsuch.news/*
 *://*.gospelnewsnetwork.org/*
 *://*.gotnews.com/*
@@ -1604,6 +1612,7 @@
 *://*.identitydixie.com/*
 *://*.identityevropa.com/*
 *://*.idgroup.eu/*
+*://*.if-news.ru/*
 *://*.ifers.123.st/*
 *://*.ifwvideo.com/*
 *://*.ifyouonlynews.com/*
@@ -1830,12 +1839,14 @@
 *://*.kerririvera.com/*
 *://*.kevinislaughter.com/*
 *://*.kevinshipp.com/*
+*://*.khmelnitskiy-news.ru/*
 *://*.killstream.live/*
 *://*.kimiversen.com/*
 *://*.kindlywakethehellup.wordpress.com/*
 *://*.kingidentity.com/*
 *://*.kingof.uk/*
 *://*.kirksvilletoday.com/*
+*://*.kirovograd-news.ru/*
 *://*.kirschsubstack.com/*
 *://*.kisskissbebe.com/*
 *://*.kiwifar.ms/*
@@ -1856,8 +1867,11 @@
 *://*.kotakuinaction2.win/*
 *://*.kpblog.space/*
 *://*.kr.theepochtimes.com/*
+*://*.kramatorsk-news.ru/*
+*://*.kremenchug-news.ru/*
 *://*.kremlin.ru/*
 *://*.kreuz.net/*
+*://*.krivoy-rog-news.ru/*
 *://*.krystaltini.com/*
 *://*.kuklosknights.com/*
 *://*.kukuruyo.com/*
@@ -2019,7 +2033,9 @@
 *://*.lpac.co/*
 *://*.lronhubbard.fr/*
 *://*.lronhubbard.org/*
+*://*.lugansk-news.ru/*
 *://*.luluscope.co.uk/*
+*://*.lvov-news.ru/*
 *://*.m.vk.com/*
 *://*.macao.harrypotterexhibition.com/*
 *://*.maconsbr.com.br/*
@@ -2053,6 +2069,7 @@
 *://*.mariomurillo.org/*
 *://*.mariomurilloministries.wordpress.com/*
 *://*.marionmarechal.info/*
+*://*.mariupol-news.ru/*
 *://*.markcrispinmiller.com/*
 *://*.marketcrash.news/*
 *://*.marklevinshow.com/*
@@ -2091,6 +2108,7 @@
 *://*.megynkelly.us/*
 *://*.meitryx.com/*
 *://*.melaniatrump.com/*
+*://*.melitopol-news.ru/*
 *://*.melk.news/*
 *://*.memebrew.com/*
 *://*.memekitchin.com/*
@@ -2187,6 +2205,7 @@
 *://*.myth20c.wordpress.com/*
 *://*.mywillaustralia.com/*
 *://*.myzonetoday.com/*
+*://*.nabchelny-news.ru/*
 *://*.naebc.com/*
 *://*.namelyliberty.com/*
 *://*.natall.com/*
@@ -2254,11 +2273,18 @@
 *://*.newnation.org/*
 *://*.newnewzealand.org/*
 *://*.newrightnetwork.com/*
+*://*.news-balashiha.ru/*
 *://*.news-for-friends.com/*
 *://*.news-front.info/*
+*://*.news-kharkov.ru/*
+*://*.news-kiev.ru/*
+*://*.news-makeevka.ru/*
+*://*.news-odessa.ru/*
+*://*.news-surgut.ru/*
 *://*.news.edgeofwonder.tv/*
 *://*.news.gab.com/*
 *://*.news.infogalactic.com/*
+*://*.news.ru/*
 *://*.news.thetrumptimes.com/*
 *://*.news.yuga.com/*
 *://*.news4ktla.com/*
@@ -2299,10 +2325,13 @@
 *://*.nieuwstool.nl/*
 *://*.nigelfaragemep.co.uk/*
 *://*.nikh.gr/*
+*://*.nikolaev-news.ru/*
+*://*.nikopol-news.ru/*
 *://*.niooz.fr/*
 *://*.nissarebela.com/*
 *://*.nita.one/*
 *://*.njoathkeepers.org/*
+*://*.nk-news.ru/*
 *://*.nl.connectingconsciousness.org/*
 *://*.nnnforum.com/*
 *://*.noagendanewsnetwork.com/*
@@ -2327,6 +2356,7 @@
 *://*.nordfront.dk/*
 *://*.nordfront.se/*
 *://*.nordpresse.be/*
+*://*.norilsk-news.ru/*
 *://*.northcrane.com/*
 *://*.nos-medias.fr/*
 *://*.noscorpsnoschoix.com/*
@@ -2517,6 +2547,7 @@
 *://*.patriotvotingcoalition.weebly.com/*
 *://*.patriotx.com/*
 *://*.paulcraigroberts.org/*
+*://*.pavlograd-news.ru/*
 *://*.pcfpc.org/*
 *://*.pcrclaims.co.uk/*
 *://*.peacedata.net/*
@@ -2595,6 +2626,7 @@
 *://*.politicsinusa.com/*
 *://*.pollution.news/*
 *://*.polskawalczaca.com/*
+*://*.poltava-news.ru/*
 *://*.poppm.org/*
 *://*.populist.media/*
 *://*.populistunion.com/*
@@ -2612,6 +2644,11 @@
 *://*.ppjg.me/*
 *://*.prageru.com/*
 *://*.pratherdirect.com/*
+*://*.pravda-de.com/*
+*://*.pravda-en.com/*
+*://*.pravda-es.com/*
+*://*.pravda-fr.com/*
+*://*.pravda-pl.com/*
 *://*.pravda-tv.com/*
 *://*.pravda.ru/*
 *://*.pravdareport.com/*
@@ -2874,6 +2911,7 @@
 *://*.roserambles.org/*
 *://*.rossputin.com/*
 *://*.rothbardbrasil.com/*
+*://*.rovno-news.ru/*
 *://*.roxytube.com/*
 *://*.rr-bb.com/*
 *://*.rr-conspiracy-truth.blogspot.com/*
@@ -3020,6 +3058,7 @@
 *://*.skrewdriver.info/*
 *://*.skrewdrivercds.com/*
 *://*.slantedright2.blogspot.com/*
+*://*.slavyansk-news.ru/*
 *://*.slaynews.com/*
 *://*.slug.com/*
 *://*.smashleft.com/*
@@ -3133,6 +3172,7 @@
 *://*.sudradio.fr/*
 *://*.suegrey.nz/*
 *://*.summit.news/*
+*://*.sumy-news.ru/*
 *://*.sunhakup.ac.kr/*
 *://*.sunmoon.ac.kr/*
 *://*.sunnysjournal.com/*
@@ -3156,6 +3196,7 @@
 *://*.synergie-officiers.com/*
 *://*.syriana-analysis.com/*
 *://*.t.me/*
+*://*.tagil-news.ru/*
 *://*.takebackaustralia.org/*
 *://*.takebackour.world/*
 *://*.takecontrol.substack.com/*
@@ -3182,6 +3223,7 @@
 *://*.technocracy.news/*
 *://*.teleguiado.com/*
 *://*.tenthamendmentcenter.com/*
+*://*.ternopol-news.ru/*
 *://*.terreetpeuple.com/*
 *://*.terrorhousemag.com/*
 *://*.terrorhousepress.com/*
@@ -3426,6 +3468,7 @@
 *://*.timetoopen.com/*
 *://*.timothycharlesholmseth.com/*
 *://*.tinochrupalla.de/*
+*://*.tiraspol-news.ru/*
 *://*.tkcommerce.com/*
 *://*.tlbtalk.com/*
 *://*.tmtgcorp.com/*
@@ -3617,6 +3660,7 @@
 *://*.usviewer.com/*
 *://*.uts.edu/*
 *://*.utsava.net/*
+*://*.uzhgorod-news.ru/*
 *://*.vaccine-police.com/*
 *://*.vaccinechoicecanada.com/*
 *://*.vaccinedamage.news/*
@@ -3666,6 +3710,7 @@
 *://*.vigilant.news/*
 *://*.vigilantcitizen.com/*
 *://*.vigile.quebec/*
+*://*.vin-news.ru/*
 *://*.vincentflibustier.com/*
 *://*.vinlandianlore.wordpress.com/*
 *://*.vintologi.com/*
@@ -3690,6 +3735,8 @@
 *://*.volksfront.net/*
 *://*.voltairenet.org/*
 *://*.volunteercadetcorps.org/*
+*://*.volyn-news.ru/*
+*://*.volzhskiy-news.ru/*
 *://*.votefraud.news/*
 *://*.voteleavetakecontrol.org/*
 *://*.voxxlife.com/*
@@ -3891,6 +3938,8 @@
 *://*.zerohedge.com/*
 *://*.zeromacho.fr/*
 *://*.zeromacho.wordpress.com/*
+*://*.zhitomir-news.ru/*
 *://*.zimm3rmann.com/*
 *://*.zionutdatit.org.il/*
 *://*.zootfeed.com/*
+*://*.zp-news.ru/*
