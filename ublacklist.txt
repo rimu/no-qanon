@@ -268,6 +268,7 @@
 *://*.aryanmusic.net/*
 *://*.aryantiy.com/*
 *://*.asatru.de/*
+*://*.ascendyourlife.org/*
 *://*.ascension.news/*
 *://*.ascensionenergies.com/*
 *://*.ascensionwithearth.com/*
@@ -276,6 +277,7 @@
 *://*.asianinvasion2019.blogspot.com/*
 *://*.askdrbuttar.com/*
 *://*.askingangels.com/*
+*://*.asoneguidance.com/*
 *://*.assassinationscience.com/*
 *://*.associatedmediacoverage.com/*
 *://*.astuce-story.com/*
@@ -288,6 +290,7 @@
 *://*.atomial.com/*
 *://*.atomicfabrik.com/*
 *://*.atomwaffendivision.org/*
+*://*.atpeacewithincoaching.com/*
 *://*.atrazine.news/*
 *://*.attackthesystem.com/*
 *://*.attn.com/*
@@ -641,6 +644,7 @@
 *://*.childtraffickingorgans.blogspot.com/*
 *://*.chimpplanet.blogspot.com/*
 *://*.chinesemedicine.news/*
+*://*.choiceforlove.de/*
 *://*.choisirlavie.fr/*
 *://*.chrisjantzen.com/*
 *://*.chrisskyforchange.com/*
@@ -972,7 +976,10 @@
 *://*.dissidentmama.net/*
 *://*.dissidentvoice.org/*
 *://*.divinecosmos.com/*
+*://*.divinehealingslove.com/*
+*://*.divinelove.one/*
 *://*.divineprinciplestudy.org/*
+*://*.divingintothedivine.com/*
 *://*.dlive.tv/*
 *://*.dmrpublications.com/*
 *://*.dnepr-news.ru/*
@@ -1374,6 +1381,7 @@
 *://*.fullchan.net/*
 *://*.fupaix.org/*
 *://*.furtherglory.wordpress.com/*
+*://*.fusionliebe.com/*
 *://*.futurenews.news/*
 *://*.fwu.nl/*
 *://*.g01.upf.org/*
@@ -1546,6 +1554,7 @@
 *://*.healthy-holistic-living.com/*
 *://*.healthyandnaturalworld.com/*
 *://*.heartland.org/*
+*://*.heavenlystate.com/*
 *://*.heavy.com/*
 *://*.heliogenic.net/*
 *://*.help.wizardingworld.com/*
@@ -1581,6 +1590,7 @@
 *://*.hopkinsworld.com/*
 *://*.hoplitearmor.com/*
 *://*.horizonquebecactuel.com/*
+*://*.horizont.blog/*
 *://*.horsdevospenses0833.blogspot.fr/*
 *://*.hotair.com/*
 *://*.housesutphin.com/*
@@ -1719,6 +1729,7 @@
 *://*.iwanttoexplore.com/*
 *://*.jacksonlahmeyer.com/*
 *://*.jahealthadvocate.com/*
+*://*.jaijenny.com/*
 *://*.jakeducey.com/*
 *://*.james-school-3c92.thinkific.com/*
 *://*.jamesfetzer.org/*
@@ -1923,6 +1934,7 @@
 *://*.learntruehealth.com/*
 *://*.leaveeuofficial.com/*
 *://*.leavemeansleave.eu/*
+*://*.lebe-liebe.ch/*
 *://*.lecourrierdesstrateges.fr/*
 *://*.lecrayongroupe.fr/*
 *://*.lecrayonmedia.fr/*
@@ -2051,12 +2063,14 @@
 *://*.magapac.com/*
 *://*.magazine-du-net.com/*
 *://*.magentapixie.com/*
+*://*.magicalmysteriesoftwinflames.com/*
 *://*.magicawakened.com/*
 *://*.mailguild.com/*
 *://*.maindreieck-tv.de/*
 *://*.mainerepublicemailreport.com/*
 *://*.makeamericagreattoday.com/*
 *://*.maketexasgreat.com/*
+*://*.makeyourainbow.com/*
 *://*.mamanslouves.org/*
 *://*.mamm.org/*
 *://*.mammothnation.com/*
@@ -2203,6 +2217,7 @@
 *://*.mypillow.com/*
 *://*.mystore.com/*
 *://*.myth20c.wordpress.com/*
+*://*.mytwinflamejourney.com/*
 *://*.mywillaustralia.com/*
 *://*.myzonetoday.com/*
 *://*.nabchelny-news.ru/*
@@ -2430,6 +2445,7 @@
 *://*.omegansareliars.com/*
 *://*.omertamedia.fr/*
 *://*.omniclimate.wordpress.com/*
+*://*.oneconnectedlove.com/*
 *://*.onedaymd.com/*
 *://*.onegreatworknetwork.com/*
 *://*.onenation.org.au/*
@@ -2627,6 +2643,7 @@
 *://*.pollution.news/*
 *://*.polskawalczaca.com/*
 *://*.poltava-news.ru/*
+*://*.pop-paper-love.com/*
 *://*.poppm.org/*
 *://*.populist.media/*
 *://*.populistunion.com/*
@@ -2938,6 +2955,7 @@
 *://*.sachastone.com/*
 *://*.sacred-texts.com/*
 *://*.sacredsexualenergies.blogspot.com/*
+*://*.sacredtwinflameunion.com/*
 *://*.saf.org/*
 *://*.safechat.com/*
 *://*.saferemr.com/*
@@ -2956,6 +2974,7 @@
 *://*.sapaudia.org/*
 *://*.saraacarter.com/*
 *://*.sarahwestall.com/*
+*://*.saraswaessenceofself.com/*
 *://*.savecalifornia.com/*
 *://*.saveinfowars.com/*
 *://*.saveourstores.nz/*
@@ -3425,6 +3444,8 @@
 *://*.thetruthreview.com/*
 *://*.thetruthrevolution.net/*
 *://*.thetruthseeker.co.uk/*
+*://*.thetwinflamedance.com/*
+*://*.thetwinflamepsychic.com/*
 *://*.theunrealtimes.com/*
 *://*.theuspatriot.com/*
 *://*.thevaccinefreechild.com/*
@@ -3501,11 +3522,13 @@
 *://*.tragedyandhope.com/*
 *://*.traitors.news/*
 *://*.transagainstgroomers.com/*
+*://*.transascend.love/*
 *://*.transhumanism.news/*
 *://*.transients.info/*
 *://*.tratamientotemprano.org/*
 *://*.treason.news/*
 *://*.treeofliberty.me/*
+*://*.treeoflifetwinflamecoaching.com/*
 *://*.trendingpolitics.com/*
 *://*.trendingviews.co/*
 *://*.trends.gab.com/*
@@ -3515,6 +3538,7 @@
 *://*.trp.red/*
 *://*.trs-detox.com/*
 *://*.truehealthfacts.com/*
+*://*.trueloveuniverse.com/*
 *://*.truepundit.com/*
 *://*.truetube.media/*
 *://*.trufax.org/*
@@ -3575,8 +3599,28 @@
 *://*.tv.poa.st/*
 *://*.tvlibertes.com/*
 *://*.twc.health/*
+*://*.twinflamealchemyofunion.com/*
+*://*.twinflamehearthealing.com/*
+*://*.twinflameliberation.com/*
+*://*.twinflamelove.net/*
+*://*.twinflameperfectunion.com/*
+*://*.twinflamesacredreality.com/*
+*://*.twinflamesareforever.com/*
+*://*.twinflamesembrace.com/*
+*://*.twinflamesfireinyourheart.com/*
+*://*.twinflamesgameoflife.com/*
+*://*.twinflamesguidinglight.com/*
+*://*.twinflamesheartsdesire.com/*
+*://*.twinflamesinharmony.com/*
+*://*.twinflamesmastery.com/*
+*://*.twinflamesmiracles.com/*
+*://*.twinflamesreality.com/*
+*://*.twinflamestravelingwithin.com/*
 *://*.twinflamesuniverse.com/*
+*://*.twinflameunionwithin.com/*
+*://*.twinsoulsascension.com/*
 *://*.twitchy.com/*
+*://*.twoheartsinharmony.com/*
 *://*.tyranny.news/*
 *://*.tyuuta1.com/*
 *://*.ubitea.com/*
@@ -3616,6 +3660,7 @@
 *://*.unitedmediapublishing.com/*
 *://*.unitedpatriotsofamerica.com/*
 *://*.unitesgppolice.com/*
+*://*.unitewiththedivine.com/*
 *://*.unitynewsnetwork.co.uk/*
 *://*.universepolitics.com/*
 *://*.unrig.net/*
@@ -3742,6 +3787,7 @@
 *://*.votefraud.news/*
 *://*.voteleavetakecontrol.org/*
 *://*.voxxlife.com/*
+*://*.voyageindivinelove.com/*
 *://*.voyagesoflight.blogspot.com/*
 *://*.vsecretscc.com/*
 *://*.w-carp.cz/*
