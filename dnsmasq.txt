@@ -2136,6 +2136,7 @@ address=/mgtow.com/
 address=/mgtow.tv/
 address=/mhpublishing.org/
 address=/mhwindow.org/
+address=/miamichron.com/
 address=/michaelgleesonmedia.com/
 address=/michaeljpenney.com/
 address=/michaelsalla.com/
