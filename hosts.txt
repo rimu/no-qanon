@@ -232,6 +232,8 @@
 0.0.0.0 www.air-photo.com
 0.0.0.0 ajamubaraka.com
 0.0.0.0 www.ajamubaraka.com
+0.0.0.0 aktuelle-nachrichten.app
+0.0.0.0 www.aktuelle-nachrichten.app
 0.0.0.0 alaindebenoist.com
 0.0.0.0 www.alaindebenoist.com
 0.0.0.0 alalumieredunouveaumonde.blogspot.fr
@@ -460,6 +462,8 @@
 0.0.0.0 www.antepithesi.gr
 0.0.0.0 anthonyblogan.com
 0.0.0.0 www.anthonyblogan.com
+0.0.0.0 anti-spiegel.ru
+0.0.0.0 www.anti-spiegel.ru
 0.0.0.0 antigreen.blogspot.com
 0.0.0.0 www.antigreen.blogspot.com
 0.0.0.0 antimedianews.com
@@ -480,6 +484,8 @@
 0.0.0.0 www.apfeurope.eu
 0.0.0.0 apocalypsesoon.org
 0.0.0.0 www.apocalypsesoon.org
+0.0.0.0 apolut.net
+0.0.0.0 www.apolut.net
 0.0.0.0 app.clouthub.com
 0.0.0.0 www.app.clouthub.com
 0.0.0.0 appliedunificationism.com
@@ -1790,6 +1796,8 @@
 0.0.0.0 www.de.news-front.info
 0.0.0.0 de.rt.com
 0.0.0.0 www.de.rt.com
+0.0.0.0 de.sott.net
+0.0.0.0 www.de.sott.net
 0.0.0.0 deadlinelive.info
 0.0.0.0 www.deadlinelive.info
 0.0.0.0 deadlyclear.wordpress.com
@@ -2336,6 +2344,8 @@
 0.0.0.0 www.expresszeitung.com
 0.0.0.0 extraclubmagazine.com
 0.0.0.0 www.extraclubmagazine.com
+0.0.0.0 extremnews.com
+0.0.0.0 www.extremnews.com
 0.0.0.0 eyedropmedia.com
 0.0.0.0 www.eyedropmedia.com
 0.0.0.0 eyeopening.info
@@ -4060,6 +4070,8 @@
 0.0.0.0 www.loop.joshwho.net
 0.0.0.0 lorieladd.com
 0.0.0.0 www.lorieladd.com
+0.0.0.0 lostineu.eu
+0.0.0.0 www.lostineu.eu
 0.0.0.0 louderwithcrowder.com
 0.0.0.0 www.louderwithcrowder.com
 0.0.0.0 loveangels.be
@@ -5504,6 +5516,8 @@
 0.0.0.0 www.qposts.in
 0.0.0.0 qposts.online
 0.0.0.0 www.qposts.online
+0.0.0.0 qpress.de
+0.0.0.0 www.qpress.de
 0.0.0.0 qproofs.com
 0.0.0.0 www.qproofs.com
 0.0.0.0 qresear.ch
@@ -6472,6 +6486,8 @@
 0.0.0.0 www.technocracy.news
 0.0.0.0 teleguiado.com
 0.0.0.0 www.teleguiado.com
+0.0.0.0 telepolis.de
+0.0.0.0 www.telepolis.de
 0.0.0.0 tenthamendmentcenter.com
 0.0.0.0 www.tenthamendmentcenter.com
 0.0.0.0 ternopol-news.ru
@@ -7040,6 +7056,8 @@
 0.0.0.0 www.transhumanism.news
 0.0.0.0 transients.info
 0.0.0.0 www.transients.info
+0.0.0.0 transition-news.org
+0.0.0.0 www.transition-news.org
 0.0.0.0 tratamientotemprano.org
 0.0.0.0 www.tratamientotemprano.org
 0.0.0.0 treason.news
@@ -7684,6 +7702,8 @@
 0.0.0.0 www.welovetrump.com
 0.0.0.0 weltfriede.at
 0.0.0.0 www.weltfriede.at
+0.0.0.0 weltnetz.tv
+0.0.0.0 www.weltnetz.tv
 0.0.0.0 weshapelife.org
 0.0.0.0 www.weshapelife.org
 0.0.0.0 westernjournal.com
@@ -7950,6 +7970,8 @@
 0.0.0.0 www.z3news.com
 0.0.0.0 zaytung.com
 0.0.0.0 www.zaytung.com
+0.0.0.0 zeitpunkt.ch
+0.0.0.0 www.zeitpunkt.ch
 0.0.0.0 zejournal.mobi
 0.0.0.0 www.zejournal.mobi
 0.0.0.0 zengardner.com
@@ -7972,3 +7994,5 @@
 0.0.0.0 www.zootfeed.com
 0.0.0.0 zp-news.ru
 0.0.0.0 www.zp-news.ru
+0.0.0.0 zuerst.de
+0.0.0.0 www.zuerst.de

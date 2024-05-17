@@ -115,6 +115,7 @@ aimintegrativemedicine.com
 aimsib.org
 air-photo.com
 ajamubaraka.com
+aktuelle-nachrichten.app
 alaindebenoist.com
 alalumieredunouveaumonde.blogspot.fr
 alchevsk-news.ru
@@ -229,6 +230,7 @@ anrnews.com
 ansharchives.blogspot.com
 antepithesi.gr
 anthonyblogan.com
+anti-spiegel.ru
 antigreen.blogspot.com
 antimedianews.com
 antipodean-resistance.com
@@ -239,6 +241,7 @@ apar.tv
 apecoin.com
 apfeurope.eu
 apocalypsesoon.org
+apolut.net
 app.clouthub.com
 appliedunificationism.com
 aprendafalundafa.org
@@ -894,6 +897,7 @@ dcleaks.com
 dcpizzagate.wordpress.com
 de.news-front.info
 de.rt.com
+de.sott.net
 deadlinelive.info
 deadlyclear.wordpress.com
 deathondemand.com
@@ -1167,6 +1171,7 @@ exposingpedovore.wordpress.com
 express.co.uk
 expresszeitung.com
 extraclubmagazine.com
+extremnews.com
 eyedropmedia.com
 eyeopening.info
 eyeopeningtruth.com
@@ -2029,6 +2034,7 @@ londonreal.tv
 loomered.com
 loop.joshwho.net
 lorieladd.com
+lostineu.eu
 louderwithcrowder.com
 loveangels.be
 loveforhispeople.com
@@ -2751,6 +2757,7 @@ qntmpkts.keybase.pub
 qpolitical.com
 qposts.in
 qposts.online
+qpress.de
 qproofs.com
 qresear.ch
 qsat.ai
@@ -3235,6 +3242,7 @@ teapartycommunity.com
 teapartyorg.ning.com
 technocracy.news
 teleguiado.com
+telepolis.de
 tenthamendmentcenter.com
 ternopol-news.ru
 terreetpeuple.com
@@ -3519,6 +3527,7 @@ transagainstgroomers.com
 transascend.love
 transhumanism.news
 transients.info
+transition-news.org
 tratamientotemprano.org
 treason.news
 treeofliberty.me
@@ -3841,6 +3850,7 @@ weliveinamadworld.com
 welovecharlie.co.uk
 welovetrump.com
 weltfriede.at
+weltnetz.tv
 weshapelife.org
 westernjournal.com
 westernjournalism.com
@@ -3974,6 +3984,7 @@ yuga.com
 yummy.doctor
 z3news.com
 zaytung.com
+zeitpunkt.ch
 zejournal.mobi
 zengardner.com
 zentrum-der-gesundheit.de
@@ -3985,3 +3996,4 @@ zimm3rmann.com
 zionutdatit.org.il
 zootfeed.com
 zp-news.ru
+zuerst.de
