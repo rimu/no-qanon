@@ -87,7 +87,6 @@ address=/adsav.org/
 address=/advance-australia.com.au/
 address=/advancedliving.com/
 address=/advancedmedicine.com/
-address=/advocate.com/
 address=/ae911truth.org/
 address=/aerztefueraufklaerung.de/
 address=/af4abb8de2579b191fc3f18c1bdc444c.com/

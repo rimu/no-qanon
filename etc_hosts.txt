@@ -176,8 +176,6 @@
 0.0.0.0 www.advancedliving.com
 0.0.0.0 advancedmedicine.com
 0.0.0.0 www.advancedmedicine.com
-0.0.0.0 advocate.com
-0.0.0.0 www.advocate.com
 0.0.0.0 ae911truth.org
 0.0.0.0 www.ae911truth.org
 0.0.0.0 aerztefueraufklaerung.de
