@@ -2875,6 +2875,7 @@
 ||reopen.nz^
 ||report.globalreset.news^
 ||republicbroadcasting.org^
+||reseau-libre.org^
 ||reseauinternational.net^
 ||reseausherlockholmes.net^
 ||resetwars.com^

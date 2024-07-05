@@ -5738,6 +5738,8 @@
 0.0.0.0 www.report.globalreset.news
 0.0.0.0 republicbroadcasting.org
 0.0.0.0 www.republicbroadcasting.org
+0.0.0.0 reseau-libre.org
+0.0.0.0 www.reseau-libre.org
 0.0.0.0 reseauinternational.net
 0.0.0.0 www.reseauinternational.net
 0.0.0.0 reseausherlockholmes.net

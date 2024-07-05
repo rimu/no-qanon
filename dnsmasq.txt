@@ -2868,6 +2868,7 @@ address=/renz-law.com/
 address=/reopen.nz/
 address=/report.globalreset.news/
 address=/republicbroadcasting.org/
+address=/reseau-libre.org/
 address=/reseauinternational.net/
 address=/reseausherlockholmes.net/
 address=/resetwars.com/
