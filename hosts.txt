@@ -2602,6 +2602,8 @@
 0.0.0.0 www.france-police.org
 0.0.0.0 france.upf.org
 0.0.0.0 www.france.upf.org
+0.0.0.0 franceencolere.fr
+0.0.0.0 www.franceencolere.fr
 0.0.0.0 francemediasnumerique.com
 0.0.0.0 www.francemediasnumerique.com
 0.0.0.0 francesoir.fr
@@ -7478,6 +7480,8 @@
 0.0.0.0 www.vereinigungskirche.at
 0.0.0.0 verenigingsbeweging.nl
 0.0.0.0 www.verenigingsbeweging.nl
+0.0.0.0 veritecachee.fr
+0.0.0.0 www.veritecachee.fr
 0.0.0.0 veriteouconsequence.com
 0.0.0.0 www.veriteouconsequence.com
 0.0.0.0 verity-france.org
