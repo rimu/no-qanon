@@ -1088,6 +1088,7 @@ address=/eurasia.upf.org/
 address=/eurocalifat.wordpress.com/
 address=/eurofolkradio.com/
 address=/europaeische-aktion.org/
+address=/europathelastbattle.net/
 address=/europe-israel.org/
 address=/europe.infowars.com/
 address=/europe1.fr/

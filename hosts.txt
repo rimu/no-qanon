@@ -2178,6 +2178,8 @@
 0.0.0.0 www.eurofolkradio.com
 0.0.0.0 europaeische-aktion.org
 0.0.0.0 www.europaeische-aktion.org
+0.0.0.0 europathelastbattle.net
+0.0.0.0 www.europathelastbattle.net
 0.0.0.0 europe-israel.org
 0.0.0.0 www.europe-israel.org
 0.0.0.0 europe.infowars.com
