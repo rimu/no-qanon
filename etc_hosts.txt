@@ -130,10 +130,6 @@
 0.0.0.0 www.abidjantv.net
 0.0.0.0 abortions.news
 0.0.0.0 www.abortions.news
-0.0.0.0 about.twitter.com
-0.0.0.0 www.about.twitter.com
-0.0.0.0 about.x.com
-0.0.0.0 www.about.x.com
 0.0.0.0 aboutthesky.com
 0.0.0.0 www.aboutthesky.com
 0.0.0.0 abovetopsecret.com
@@ -216,10 +212,6 @@
 0.0.0.0 www.ahijackedlife.com
 0.0.0.0 ahtribune.com
 0.0.0.0 www.ahtribune.com
-0.0.0.0 ai.facebook.com
-0.0.0.0 www.ai.facebook.com
-0.0.0.0 ai.meta.com
-0.0.0.0 www.ai.meta.com
 0.0.0.0 aim4truth.org
 0.0.0.0 www.aim4truth.org
 0.0.0.0 aimintegrativemedicine.com
@@ -880,8 +872,6 @@
 0.0.0.0 www.boredapeyachtclub.com
 0.0.0.0 boredapeyachtclub.store
 0.0.0.0 www.boredapeyachtclub.store
-0.0.0.0 boringcompany.com
-0.0.0.0 www.boringcompany.com
 0.0.0.0 borislelay.com
 0.0.0.0 www.borislelay.com
 0.0.0.0 bostonleader.com
@@ -4304,8 +4294,6 @@
 0.0.0.0 www.murderbydecree.com
 0.0.0.0 musicians4freedom.com
 0.0.0.0 www.musicians4freedom.com
-0.0.0.0 muskfoundation.org
-0.0.0.0 www.muskfoundation.org
 0.0.0.0 mydailyrelaxation.com
 0.0.0.0 www.mydailyrelaxation.com
 0.0.0.0 myfreshnews.com
@@ -4428,8 +4416,6 @@
 0.0.0.0 www.netwrks.io
 0.0.0.0 netzfrauen.org
 0.0.0.0 www.netzfrauen.org
-0.0.0.0 neuralink.com
-0.0.0.0 www.neuralink.com
 0.0.0.0 nevadadesertpatriot.weebly.com
 0.0.0.0 www.nevadadesertpatriot.weebly.com
 0.0.0.0 nevo.news
@@ -6080,8 +6066,6 @@
 0.0.0.0 www.soyjak.party
 0.0.0.0 soyjak.wiki
 0.0.0.0 www.soyjak.wiki
-0.0.0.0 spacex.com
-0.0.0.0 www.spacex.com
 0.0.0.0 spartiates.gr
 0.0.0.0 www.spartiates.gr
 0.0.0.0 speakingaboutnews.com
@@ -6130,8 +6114,6 @@
 0.0.0.0 www.standforhealthfreedom.com
 0.0.0.0 staresattheworld.com
 0.0.0.0 www.staresattheworld.com
-0.0.0.0 starlink.com
-0.0.0.0 www.starlink.com
 0.0.0.0 starnationsnews.com
 0.0.0.0 www.starnationsnews.com
 0.0.0.0 starshipearththebigpicture.com
@@ -6364,8 +6346,6 @@
 0.0.0.0 www.terrorhousemag.com
 0.0.0.0 terrorhousepress.com
 0.0.0.0 www.terrorhousepress.com
-0.0.0.0 tesla.com
-0.0.0.0 www.tesla.com
 0.0.0.0 testpositif.com
 0.0.0.0 www.testpositif.com
 0.0.0.0 texasgop.org
@@ -6828,8 +6808,6 @@
 0.0.0.0 www.thrivetimeshow.com
 0.0.0.0 throughthelookingglassnews.wordpress.com
 0.0.0.0 www.throughthelookingglassnews.wordpress.com
-0.0.0.0 thud.com
-0.0.0.0 www.thud.com
 0.0.0.0 tiantibooks.org
 0.0.0.0 www.tiantibooks.org
 0.0.0.0 tigerdroppings.com
@@ -7782,8 +7760,6 @@
 0.0.0.0 www.wwg1wgaparty.org
 0.0.0.0 wwiii.news
 0.0.0.0 www.wwiii.news
-0.0.0.0 x.ai
-0.0.0.0 www.x.ai
 0.0.0.0 x22report.com
 0.0.0.0 www.x22report.com
 0.0.0.0 x22report.tv
