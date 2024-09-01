@@ -71,8 +71,6 @@
 *://*.abeldanger.net/*
 *://*.abidjantv.net/*
 *://*.abortions.news/*
-*://*.about.twitter.com/*
-*://*.about.x.com/*
 *://*.aboutthesky.com/*
 *://*.abovetopsecret.com/*
 *://*.abriluno.com/*
@@ -114,8 +112,6 @@
 *://*.aheadoftheherd.com/*
 *://*.ahijackedlife.com/*
 *://*.ahtribune.com/*
-*://*.ai.facebook.com/*
-*://*.ai.meta.com/*
 *://*.aim4truth.org/*
 *://*.aimintegrativemedicine.com/*
 *://*.aimsib.org/*
@@ -446,7 +442,6 @@
 *://*.bored-ape-yacht-club.myshopify.com/*
 *://*.boredapeyachtclub.com/*
 *://*.boredapeyachtclub.store/*
-*://*.boringcompany.com/*
 *://*.borislelay.com/*
 *://*.bostonleader.com/*
 *://*.bottomline.nz/*
@@ -2158,7 +2153,6 @@
 *://*.mstdn.foxfam.club/*
 *://*.murderbydecree.com/*
 *://*.musicians4freedom.com/*
-*://*.muskfoundation.org/*
 *://*.mydailyrelaxation.com/*
 *://*.myfreshnews.com/*
 *://*.myjournal.fr/*
@@ -2220,7 +2214,6 @@
 *://*.netanyahu.org.il/*
 *://*.netwrks.io/*
 *://*.netzfrauen.org/*
-*://*.neuralink.com/*
 *://*.nevadadesertpatriot.weebly.com/*
 *://*.nevo.news/*
 *://*.new-york.harrypotterexhibition.com/*
@@ -3046,7 +3039,6 @@
 *://*.soyjak.download/*
 *://*.soyjak.party/*
 *://*.soyjak.wiki/*
-*://*.spacex.com/*
 *://*.spartiates.gr/*
 *://*.speakingaboutnews.com/*
 *://*.speakyourmindhere.com/*
@@ -3071,7 +3063,6 @@
 *://*.st-germain.se/*
 *://*.standforhealthfreedom.com/*
 *://*.staresattheworld.com/*
-*://*.starlink.com/*
 *://*.starnationsnews.com/*
 *://*.starshipearththebigpicture.com/*
 *://*.startingharrypotter.com/*
@@ -3188,7 +3179,6 @@
 *://*.terreetpeuple.com/*
 *://*.terrorhousemag.com/*
 *://*.terrorhousepress.com/*
-*://*.tesla.com/*
 *://*.testpositif.com/*
 *://*.texasgop.org/*
 *://*.texasnationalistparty.com/*
@@ -3420,7 +3410,6 @@
 *://*.thriverightnow.com/*
 *://*.thrivetimeshow.com/*
 *://*.throughthelookingglassnews.wordpress.com/*
-*://*.thud.com/*
 *://*.tiantibooks.org/*
 *://*.tigerdroppings.com/*
 *://*.tightroperecords.com/*
@@ -3897,7 +3886,6 @@
 *://*.wwg1wga2020.com/*
 *://*.wwg1wgaparty.org/*
 *://*.wwiii.news/*
-*://*.x.ai/*
 *://*.x22report.com/*
 *://*.x22report.tv/*
 *://*.xephtoken.com/*
