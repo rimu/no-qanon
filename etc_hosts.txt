@@ -690,6 +690,8 @@
 0.0.0.0 www.benklassen.com
 0.0.0.0 benklassenschurch.blogspot.com
 0.0.0.0 www.benklassenschurch.blogspot.com
+0.0.0.0 bennyjohnson.com
+0.0.0.0 www.bennyjohnson.com
 0.0.0.0 bennywills.com
 0.0.0.0 www.bennywills.com
 0.0.0.0 berdyansk-news.ru
@@ -1636,6 +1638,8 @@
 0.0.0.0 www.davejanda.com
 0.0.0.0 daverubin.com
 0.0.0.0 www.daverubin.com
+0.0.0.0 daverubin.store
+0.0.0.0 www.daverubin.store
 0.0.0.0 daviddaniels.com
 0.0.0.0 www.daviddaniels.com
 0.0.0.0 davidduke.com
@@ -2870,6 +2874,8 @@
 0.0.0.0 www.greenmedinfo.com
 0.0.0.0 greenwald.substack.com
 0.0.0.0 www.greenwald.substack.com
+0.0.0.0 grftr.news
+0.0.0.0 www.grftr.news
 0.0.0.0 grrrgraphics.com
 0.0.0.0 www.grrrgraphics.com
 0.0.0.0 grrrgraphics.wordpress.com
@@ -4022,6 +4028,8 @@
 0.0.0.0 www.massawakening.org
 0.0.0.0 massimointrovigne.com
 0.0.0.0 www.massimointrovigne.com
+0.0.0.0 mattchristiansenmedia.com
+0.0.0.0 www.mattchristiansenmedia.com
 0.0.0.0 mattforney.com
 0.0.0.0 www.mattforney.com
 0.0.0.0 matthias331.wordpress.com
@@ -6230,6 +6238,8 @@
 0.0.0.0 www.tass.com
 0.0.0.0 taxpayers.org.nz
 0.0.0.0 www.taxpayers.org.nz
+0.0.0.0 taylerusa.com
+0.0.0.0 www.taylerusa.com
 0.0.0.0 tcmhijacked.blogspot.com
 0.0.0.0 www.tcmhijacked.blogspot.com
 0.0.0.0 tcode.kenfm.de
@@ -6256,6 +6266,8 @@
 0.0.0.0 www.teleguiado.com
 0.0.0.0 telepolis.de
 0.0.0.0 www.telepolis.de
+0.0.0.0 tenetmedia.com
+0.0.0.0 www.tenetmedia.com
 0.0.0.0 tenthamendmentcenter.com
 0.0.0.0 www.tenthamendmentcenter.com
 0.0.0.0 ternopol-news.ru

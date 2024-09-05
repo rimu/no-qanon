@@ -351,6 +351,7 @@
 *://*.benjaminfulford.net/*
 *://*.benklassen.com/*
 *://*.benklassenschurch.blogspot.com/*
+*://*.bennyjohnson.com/*
 *://*.bennywills.com/*
 *://*.berdyansk-news.ru/*
 *://*.bernardgaynor.com.au/*
@@ -824,6 +825,7 @@
 *://*.dataasylum.com/*
 *://*.davejanda.com/*
 *://*.daverubin.com/*
+*://*.daverubin.store/*
 *://*.daviddaniels.com/*
 *://*.davidduke.com/*
 *://*.davidsoner.com/*
@@ -1441,6 +1443,7 @@
 *://*.greenhellblog.wordpress.com/*
 *://*.greenmedinfo.com/*
 *://*.greenwald.substack.com/*
+*://*.grftr.news/*
 *://*.grrrgraphics.com/*
 *://*.grrrgraphics.wordpress.com/*
 *://*.guardianlv.com/*
@@ -2017,6 +2020,7 @@
 *://*.masksoffusa.com/*
 *://*.massawakening.org/*
 *://*.massimointrovigne.com/*
+*://*.mattchristiansenmedia.com/*
 *://*.mattforney.com/*
 *://*.matthias331.wordpress.com/*
 *://*.maxkeiser.com/*
@@ -3121,6 +3125,7 @@
 *://*.tarpley.net/*
 *://*.tass.com/*
 *://*.taxpayers.org.nz/*
+*://*.taylerusa.com/*
 *://*.tcmhijacked.blogspot.com/*
 *://*.tcode.kenfm.de/*
 *://*.teace.ca/*
@@ -3134,6 +3139,7 @@
 *://*.technocracy.news/*
 *://*.teleguiado.com/*
 *://*.telepolis.de/*
+*://*.tenetmedia.com/*
 *://*.tenthamendmentcenter.com/*
 *://*.ternopol-news.ru/*
 *://*.terreetpeuple.com/*
