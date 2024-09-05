@@ -116,8 +116,6 @@
 0.0.0.0 www.aanirfan.blogspot.co.uk
 0.0.0.0 aanirfan.blogspot.com
 0.0.0.0 www.aanirfan.blogspot.com
-0.0.0.0 aao25.com
-0.0.0.0 www.aao25.com
 0.0.0.0 aarondoughty.com
 0.0.0.0 www.aarondoughty.com
 0.0.0.0 abcnews.com.co
@@ -256,8 +254,6 @@
 0.0.0.0 www.alleanzanazionale.it
 0.0.0.0 alleinklang.tv
 0.0.0.0 www.alleinklang.tv
-0.0.0.0 alliancepn.fr
-0.0.0.0 www.alliancepn.fr
 0.0.0.0 alliancevita.org
 0.0.0.0 www.alliancevita.org
 0.0.0.0 allnewspipeline.com
@@ -380,8 +376,6 @@
 0.0.0.0 www.amgreatness.com
 0.0.0.0 aminutetomidnite.com
 0.0.0.0 www.aminutetomidnite.com
-0.0.0.0 amisdenicolassarkozy.fr
-0.0.0.0 www.amisdenicolassarkozy.fr
 0.0.0.0 amren.com
 0.0.0.0 www.amren.com
 0.0.0.0 amtvmedia.com
@@ -500,14 +494,10 @@
 0.0.0.0 www.arizonaoathkeepers.blogspot.com
 0.0.0.0 arktos.com
 0.0.0.0 www.arktos.com
-0.0.0.0 armee-de-terre.career-inspiration.com
-0.0.0.0 www.armee-de-terre.career-inspiration.com
 0.0.0.0 armstrongeconomics.com
 0.0.0.0 www.armstrongeconomics.com
 0.0.0.0 armswatch.com
 0.0.0.0 www.armswatch.com
-0.0.0.0 armycadets.com
-0.0.0.0 www.armycadets.com
 0.0.0.0 artdevivresain.over-blog.com
 0.0.0.0 www.artdevivresain.over-blog.com
 0.0.0.0 arthousecontemporary.com
@@ -1034,8 +1024,6 @@
 0.0.0.0 www.captainhindsight.space
 0.0.0.0 carbonfolly.com
 0.0.0.0 www.carbonfolly.com
-0.0.0.0 careers.cityoflondon.police.uk
-0.0.0.0 www.careers.cityoflondon.police.uk
 0.0.0.0 carlbherman.blogspot.com
 0.0.0.0 www.carlbherman.blogspot.com
 0.0.0.0 carmdelacreme.com
@@ -1326,8 +1314,6 @@
 0.0.0.0 www.combat18.com
 0.0.0.0 combien.online
 0.0.0.0 www.combien.online
-0.0.0.0 combinedcadetforce.org.uk
-0.0.0.0 www.combinedcadetforce.org.uk
 0.0.0.0 comicdavesmith.com
 0.0.0.0 www.comicdavesmith.com
 0.0.0.0 comingdepression.com
@@ -1338,8 +1324,6 @@
 0.0.0.0 www.commeconvenu.com
 0.0.0.0 commentarymagazine.com
 0.0.0.0 www.commentarymagazine.com
-0.0.0.0 commissaires.fr
-0.0.0.0 www.commissaires.fr
 0.0.0.0 committee.org
 0.0.0.0 www.committee.org
 0.0.0.0 commoncorediva.com
@@ -1758,10 +1742,6 @@
 0.0.0.0 www.deutsche-wirtschafts-nachrichten.de
 0.0.0.0 deutschland-kurier.org
 0.0.0.0 www.deutschland-kurier.org
-0.0.0.0 devenir-aviateur.fr
-0.0.0.0 www.devenir-aviateur.fr
-0.0.0.0 devenirpolicier.fr
-0.0.0.0 www.devenirpolicier.fr
 0.0.0.0 devolution.link
 0.0.0.0 www.devolution.link
 0.0.0.0 dianecanfield.com
@@ -1900,8 +1880,6 @@
 0.0.0.0 www.drmalcolmkendrick.org
 0.0.0.0 drnorthrup.com
 0.0.0.0 www.drnorthrup.com
-0.0.0.0 droitededemain.fr
-0.0.0.0 www.droitededemain.fr
 0.0.0.0 drop.space
 0.0.0.0 www.drop.space
 0.0.0.0 drrobertyoung.com
@@ -2004,8 +1982,6 @@
 0.0.0.0 www.empireherald.com
 0.0.0.0 empirenews.net
 0.0.0.0 www.empirenews.net
-0.0.0.0 en-marche.fr
-0.0.0.0 www.en-marche.fr
 0.0.0.0 en-volve.com
 0.0.0.0 www.en-volve.com
 0.0.0.0 en.kremlin.ru
@@ -2466,8 +2442,6 @@
 0.0.0.0 www.foxweather.com
 0.0.0.0 fp-prod.thriveon.com
 0.0.0.0 www.fp-prod.thriveon.com
-0.0.0.0 fpip-police.fr
-0.0.0.0 www.fpip-police.fr
 0.0.0.0 fpoe.at
 0.0.0.0 www.fpoe.at
 0.0.0.0 fpp.co.uk
@@ -2482,12 +2456,8 @@
 0.0.0.0 www.fracking.news
 0.0.0.0 framix.fr
 0.0.0.0 www.framix.fr
-0.0.0.0 franc-tireur.fr
-0.0.0.0 www.franc-tireur.fr
 0.0.0.0 francaisdefrance.wordpress.com
 0.0.0.0 www.francaisdefrance.wordpress.com
-0.0.0.0 france-police.org
-0.0.0.0 www.france-police.org
 0.0.0.0 france.upf.org
 0.0.0.0 www.france.upf.org
 0.0.0.0 franceencolere.fr
@@ -2796,8 +2766,6 @@
 0.0.0.0 www.gnosticwarrior.com
 0.0.0.0 go.thetruthaboutvaccines.com
 0.0.0.0 www.go.thetruthaboutvaccines.com
-0.0.0.0 goarmy.com
-0.0.0.0 www.goarmy.com
 0.0.0.0 gobeyondo.com
 0.0.0.0 www.gobeyondo.com
 0.0.0.0 goblinfire.com
@@ -3360,8 +3328,6 @@
 0.0.0.0 www.jasonshurka.com
 0.0.0.0 jbs.org
 0.0.0.0 www.jbs.org
-0.0.0.0 je-mengage.fr
-0.0.0.0 www.je-mengage.fr
 0.0.0.0 jeanmarielepen.com
 0.0.0.0 www.jeanmarielepen.com
 0.0.0.0 jeanrobinmedia.wordpress.com
@@ -3418,12 +3384,6 @@
 0.0.0.0 www.joannenova.com.au
 0.0.0.0 jobbik.com
 0.0.0.0 www.jobbik.com
-0.0.0.0 jobpol.be
-0.0.0.0 www.jobpol.be
-0.0.0.0 jobs.army.mod.uk
-0.0.0.0 www.jobs.army.mod.uk
-0.0.0.0 jobs.west-midlands.police.uk
-0.0.0.0 www.jobs.west-midlands.police.uk
 0.0.0.0 joebiden.info
 0.0.0.0 www.joebiden.info
 0.0.0.0 joebiden.news
@@ -3456,12 +3416,6 @@
 0.0.0.0 www.johnnyrebelrecords.com
 0.0.0.0 johnplatinumgoss.com
 0.0.0.0 www.johnplatinumgoss.com
-0.0.0.0 joiningthepolice.co.uk
-0.0.0.0 www.joiningthepolice.co.uk
-0.0.0.0 joinlapd.com
-0.0.0.0 www.joinlapd.com
-0.0.0.0 joinpsni.co.uk
-0.0.0.0 www.joinpsni.co.uk
 0.0.0.0 jonesreport.com
 0.0.0.0 www.jonesreport.com
 0.0.0.0 jonsnewplace.wordpress.com
@@ -3670,8 +3624,6 @@
 0.0.0.0 www.lagrandehistoiredefrance.fr
 0.0.0.0 lamanifpourtous.fr
 0.0.0.0 www.lamanifpourtous.fr
-0.0.0.0 lamarinerecrute.fr
-0.0.0.0 www.lamarinerecrute.fr
 0.0.0.0 laminedinfos.fr
 0.0.0.0 www.laminedinfos.fr
 0.0.0.0 lanceur-alerte.tv
@@ -3720,8 +3672,6 @@
 0.0.0.0 www.lawenforcementtoday.com
 0.0.0.0 lbry.tv
 0.0.0.0 www.lbry.tv
-0.0.0.0 le-scpn.fr
-0.0.0.0 www.le-scpn.fr
 0.0.0.0 leagueofthesouth.com
 0.0.0.0 www.leagueofthesouth.com
 0.0.0.0 learnfalungong.com
@@ -3754,8 +3704,6 @@
 0.0.0.0 www.leftlockdownsceptics.com
 0.0.0.0 legalinsurrection.com
 0.0.0.0 www.legalinsurrection.com
-0.0.0.0 legion-recrute.com
-0.0.0.0 www.legion-recrute.com
 0.0.0.0 legitgov.org
 0.0.0.0 www.legitgov.org
 0.0.0.0 lejdd.fr
@@ -4196,8 +4144,6 @@
 0.0.0.0 www.militarytech.news
 0.0.0.0 militianews.com
 0.0.0.0 www.militianews.com
-0.0.0.0 miljobs.ch
-0.0.0.0 www.miljobs.ch
 0.0.0.0 millionmarch4children.squarespace.com
 0.0.0.0 www.millionmarch4children.squarespace.com
 0.0.0.0 milo.net
@@ -4918,8 +4864,6 @@
 0.0.0.0 www.partage-le.com
 0.0.0.0 parti-reconquete.fr
 0.0.0.0 www.parti-reconquete.fr
-0.0.0.0 parti-renaissance.fr
-0.0.0.0 www.parti-renaissance.fr
 0.0.0.0 participatieve-democratie.be
 0.0.0.0 www.participatieve-democratie.be
 0.0.0.0 partilibertarien.fr
@@ -5108,16 +5052,8 @@
 0.0.0.0 www.polemia.com
 0.0.0.0 police-pour-la-verite.org
 0.0.0.0 www.police-pour-la-verite.org
-0.0.0.0 police-recruitment.co.uk
-0.0.0.0 www.police-recruitment.co.uk
-0.0.0.0 police.unsa.org
-0.0.0.0 www.police.unsa.org
-0.0.0.0 policenow.org.uk
-0.0.0.0 www.policenow.org.uk
 0.0.0.0 policestate.news
 0.0.0.0 www.policestate.news
-0.0.0.0 policier.ch
-0.0.0.0 www.policier.ch
 0.0.0.0 political.icu
 0.0.0.0 www.political.icu
 0.0.0.0 politicalblindspot.com
@@ -5434,8 +5370,6 @@
 0.0.0.0 www.radixjournal.com
 0.0.0.0 rael.org
 0.0.0.0 www.rael.org
-0.0.0.0 raf.mod.uk
-0.0.0.0 www.raf.mod.uk
 0.0.0.0 raheemkassam.substack.com
 0.0.0.0 www.raheemkassam.substack.com
 0.0.0.0 raisingvibrations.com.au
@@ -5510,10 +5444,6 @@
 0.0.0.0 www.reclaimdivinesovereignty.com
 0.0.0.0 reclaimthenet.org
 0.0.0.0 www.reclaimthenet.org
-0.0.0.0 recruiting.army.mil
-0.0.0.0 www.recruiting.army.mil
-0.0.0.0 recrutementarmee.com
-0.0.0.0 www.recrutementarmee.com
 0.0.0.0 redemption3301.blogspot.com
 0.0.0.0 www.redemption3301.blogspot.com
 0.0.0.0 redfish.media
@@ -5848,14 +5778,10 @@
 0.0.0.0 www.scientology.org
 0.0.0.0 scottadamssays.com
 0.0.0.0 www.scottadamssays.com
-0.0.0.0 scsi-pn.fr
-0.0.0.0 www.scsi-pn.fr
 0.0.0.0 sdebeketch.com
 0.0.0.0 www.sdebeketch.com
 0.0.0.0 sdp.org.uk
 0.0.0.0 www.sdp.org.uk
-0.0.0.0 sea-cadets.org
-0.0.0.0 www.sea-cadets.org
 0.0.0.0 seanstone.info
 0.0.0.0 www.seanstone.info
 0.0.0.0 secoloditalia.it
@@ -5872,8 +5798,6 @@
 0.0.0.0 www.selfhealbydesign.com
 0.0.0.0 semprefamilia.com.br
 0.0.0.0 www.semprefamilia.com.br
-0.0.0.0 sengager.fr
-0.0.0.0 www.sengager.fr
 0.0.0.0 sensoincomum.org
 0.0.0.0 www.sensoincomum.org
 0.0.0.0 sentinelblog.com
@@ -6022,8 +5946,6 @@
 0.0.0.0 www.smmquotes.com
 0.0.0.0 snappertrx.wordpress.com
 0.0.0.0 www.snappertrx.wordpress.com
-0.0.0.0 snu.gouv.fr
-0.0.0.0 www.snu.gouv.fr
 0.0.0.0 social1776.com
 0.0.0.0 www.social1776.com
 0.0.0.0 soignants-suspendus.fr
@@ -6276,8 +6198,6 @@
 0.0.0.0 www.swprs.org
 0.0.0.0 syndicat-liberte-sante.com
 0.0.0.0 www.syndicat-liberte-sante.com
-0.0.0.0 synergie-officiers.com
-0.0.0.0 www.synergie-officiers.com
 0.0.0.0 syriana-analysis.com
 0.0.0.0 www.syriana-analysis.com
 0.0.0.0 t.me
@@ -7168,8 +7088,6 @@
 0.0.0.0 www.unitedmediapublishing.com
 0.0.0.0 unitedpatriotsofamerica.com
 0.0.0.0 www.unitedpatriotsofamerica.com
-0.0.0.0 unitesgppolice.com
-0.0.0.0 www.unitesgppolice.com
 0.0.0.0 unitewiththedivine.com
 0.0.0.0 www.unitewiththedivine.com
 0.0.0.0 unitynewsnetwork.co.uk
@@ -7414,8 +7332,6 @@
 0.0.0.0 www.volksfront.net
 0.0.0.0 voltairenet.org
 0.0.0.0 www.voltairenet.org
-0.0.0.0 volunteercadetcorps.org
-0.0.0.0 www.volunteercadetcorps.org
 0.0.0.0 volyn-news.ru
 0.0.0.0 www.volyn-news.ru
 0.0.0.0 volzhskiy-news.ru

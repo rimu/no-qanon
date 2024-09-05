@@ -64,7 +64,6 @@
 *://*.a4justice.org/*
 *://*.aanirfan.blogspot.co.uk/*
 *://*.aanirfan.blogspot.com/*
-*://*.aao25.com/*
 *://*.aarondoughty.com/*
 *://*.abcnews.com.co/*
 *://*.abcnewsgo.co/*
@@ -134,7 +133,6 @@
 *://*.alleanzacattolica.org/*
 *://*.alleanzanazionale.it/*
 *://*.alleinklang.tv/*
-*://*.alliancepn.fr/*
 *://*.alliancevita.org/*
 *://*.allnewspipeline.com/*
 *://*.allosante.eu/*
@@ -196,7 +194,6 @@
 *://*.amg-news.com/*
 *://*.amgreatness.com/*
 *://*.aminutetomidnite.com/*
-*://*.amisdenicolassarkozy.fr/*
 *://*.amren.com/*
 *://*.amtvmedia.com/*
 *://*.anamericanwarning.com/*
@@ -256,10 +253,8 @@
 *://*.arizonabiteme.com/*
 *://*.arizonaoathkeepers.blogspot.com/*
 *://*.arktos.com/*
-*://*.armee-de-terre.career-inspiration.com/*
 *://*.armstrongeconomics.com/*
 *://*.armswatch.com/*
-*://*.armycadets.com/*
 *://*.artdevivresain.over-blog.com/*
 *://*.arthousecontemporary.com/*
 *://*.artsencollectief.nl/*
@@ -523,7 +518,6 @@
 *://*.captaincapitalism.blogspot.com/*
 *://*.captainhindsight.space/*
 *://*.carbonfolly.com/*
-*://*.careers.cityoflondon.police.uk/*
 *://*.carlbherman.blogspot.com/*
 *://*.carmdelacreme.com/*
 *://*.carnicominstitute.org/*
@@ -669,13 +663,11 @@
 *://*.collectivelyconscious.net/*
 *://*.combat18.com/*
 *://*.combien.online/*
-*://*.combinedcadetforce.org.uk/*
 *://*.comicdavesmith.com/*
 *://*.comingdepression.com/*
 *://*.comitejeanne54.wordpress.com/*
 *://*.commeconvenu.com/*
 *://*.commentarymagazine.com/*
-*://*.commissaires.fr/*
 *://*.committee.org/*
 *://*.commoncorediva.com/*
 *://*.commonlawcourtaus.org/*
@@ -885,8 +877,6 @@
 *://*.detox.news/*
 *://*.deutsche-wirtschafts-nachrichten.de/*
 *://*.deutschland-kurier.org/*
-*://*.devenir-aviateur.fr/*
-*://*.devenirpolicier.fr/*
 *://*.devolution.link/*
 *://*.dianecanfield.com/*
 *://*.diario-octubre.com/*
@@ -956,7 +946,6 @@
 *://*.drleonardcoldwell.com/*
 *://*.drmalcolmkendrick.org/*
 *://*.drnorthrup.com/*
-*://*.droitededemain.fr/*
 *://*.drop.space/*
 *://*.drrobertyoung.com/*
 *://*.drroyspencer.com/*
@@ -1008,7 +997,6 @@
 *://*.emfacts.com/*
 *://*.empireherald.com/*
 *://*.empirenews.net/*
-*://*.en-marche.fr/*
 *://*.en-volve.com/*
 *://*.en.kremlin.ru/*
 *://*.en.news-front.info/*
@@ -1239,7 +1227,6 @@
 *://*.foxnewsbrasil.com/*
 *://*.foxweather.com/*
 *://*.fp-prod.thriveon.com/*
-*://*.fpip-police.fr/*
 *://*.fpoe.at/*
 *://*.fpp.co.uk/*
 *://*.fprnradio.com/*
@@ -1247,9 +1234,7 @@
 *://*.fr.news-front.info/*
 *://*.fracking.news/*
 *://*.framix.fr/*
-*://*.franc-tireur.fr/*
 *://*.francaisdefrance.wordpress.com/*
-*://*.france-police.org/*
 *://*.france.upf.org/*
 *://*.franceencolere.fr/*
 *://*.francemediasnumerique.com/*
@@ -1404,7 +1389,6 @@
 *://*.gnews.org/*
 *://*.gnosticwarrior.com/*
 *://*.go.thetruthaboutvaccines.com/*
-*://*.goarmy.com/*
 *://*.gobeyondo.com/*
 *://*.goblinfire.com/*
 *://*.goblinlove.com/*
@@ -1686,7 +1670,6 @@
 *://*.jasonkessler.us/*
 *://*.jasonshurka.com/*
 *://*.jbs.org/*
-*://*.je-mengage.fr/*
 *://*.jeanmarielepen.com/*
 *://*.jeanrobinmedia.wordpress.com/*
 *://*.jeffreyprather.com/*
@@ -1715,9 +1698,6 @@
 *://*.jkrowling.com/*
 *://*.joannenova.com.au/*
 *://*.jobbik.com/*
-*://*.jobpol.be/*
-*://*.jobs.army.mod.uk/*
-*://*.jobs.west-midlands.police.uk/*
 *://*.joebiden.info/*
 *://*.joebiden.news/*
 *://*.joecheated.com/*
@@ -1734,9 +1714,6 @@
 *://*.johnnyrebel.org/*
 *://*.johnnyrebelrecords.com/*
 *://*.johnplatinumgoss.com/*
-*://*.joiningthepolice.co.uk/*
-*://*.joinlapd.com/*
-*://*.joinpsni.co.uk/*
 *://*.jonesreport.com/*
 *://*.jonsnewplace.wordpress.com/*
 *://*.jordan-bardella.fr/*
@@ -1841,7 +1818,6 @@
 *://*.lagauchematuer.fr/*
 *://*.lagrandehistoiredefrance.fr/*
 *://*.lamanifpourtous.fr/*
-*://*.lamarinerecrute.fr/*
 *://*.laminedinfos.fr/*
 *://*.lanceur-alerte.tv/*
 *://*.landdestroyer.blogspot.com/*
@@ -1866,7 +1842,6 @@
 *://*.lavraiedemocratie.org/*
 *://*.lawenforcementtoday.com/*
 *://*.lbry.tv/*
-*://*.le-scpn.fr/*
 *://*.leagueofthesouth.com/*
 *://*.learnfalungong.com/*
 *://*.learnfalungong.in/*
@@ -1883,7 +1858,6 @@
 *://*.lecrayonmedia.fr/*
 *://*.leftlockdownsceptics.com/*
 *://*.legalinsurrection.com/*
-*://*.legion-recrute.com/*
 *://*.legitgov.org/*
 *://*.lejdd.fr/*
 *://*.lejeune-academie.com/*
@@ -2104,7 +2078,6 @@
 *://*.mileswmathis.com/*
 *://*.militarytech.news/*
 *://*.militianews.com/*
-*://*.miljobs.ch/*
 *://*.millionmarch4children.squarespace.com/*
 *://*.milo.net/*
 *://*.milvetsandpatriots.com/*
@@ -2465,7 +2438,6 @@
 *://*.parler.com/*
 *://*.partage-le.com/*
 *://*.parti-reconquete.fr/*
-*://*.parti-renaissance.fr/*
 *://*.participatieve-democratie.be/*
 *://*.partilibertarien.fr/*
 *://*.pastorlocke.com/*
@@ -2560,11 +2532,7 @@
 *://*.polaraidhealth.com/*
 *://*.polemia.com/*
 *://*.police-pour-la-verite.org/*
-*://*.police-recruitment.co.uk/*
-*://*.police.unsa.org/*
-*://*.policenow.org.uk/*
 *://*.policestate.news/*
-*://*.policier.ch/*
 *://*.political.icu/*
 *://*.politicalblindspot.com/*
 *://*.politicalcult.com/*
@@ -2723,7 +2691,6 @@
 *://*.radiovox.org/*
 *://*.radixjournal.com/*
 *://*.rael.org/*
-*://*.raf.mod.uk/*
 *://*.raheemkassam.substack.com/*
 *://*.raisingvibrations.com.au/*
 *://*.rall.com/*
@@ -2761,8 +2728,6 @@
 *://*.reckonin.com/*
 *://*.reclaimdivinesovereignty.com/*
 *://*.reclaimthenet.org/*
-*://*.recruiting.army.mil/*
-*://*.recrutementarmee.com/*
 *://*.redemption3301.blogspot.com/*
 *://*.redfish.media/*
 *://*.redflagnews.com/*
@@ -2930,10 +2895,8 @@
 *://*.scientologie.fr/*
 *://*.scientology.org/*
 *://*.scottadamssays.com/*
-*://*.scsi-pn.fr/*
 *://*.sdebeketch.com/*
 *://*.sdp.org.uk/*
-*://*.sea-cadets.org/*
 *://*.seanstone.info/*
 *://*.secoloditalia.it/*
 *://*.secretsofthefed.com/*
@@ -2942,7 +2905,6 @@
 *://*.selfauthoring.com/*
 *://*.selfhealbydesign.com/*
 *://*.semprefamilia.com.br/*
-*://*.sengager.fr/*
 *://*.sensoincomum.org/*
 *://*.sentinelblog.com/*
 *://*.sepp.org/*
@@ -3017,7 +2979,6 @@
 *://*.smashleft.com/*
 *://*.smmquotes.com/*
 *://*.snappertrx.wordpress.com/*
-*://*.snu.gouv.fr/*
 *://*.social1776.com/*
 *://*.soignants-suspendus.fr/*
 *://*.solidarite-kosovo.org/*
@@ -3144,7 +3105,6 @@
 *://*.swissbbw.ning.com/*
 *://*.swprs.org/*
 *://*.syndicat-liberte-sante.com/*
-*://*.synergie-officiers.com/*
 *://*.syriana-analysis.com/*
 *://*.t.me/*
 *://*.tagil-news.ru/*
@@ -3590,7 +3550,6 @@
 *://*.unionism.org/*
 *://*.unitedmediapublishing.com/*
 *://*.unitedpatriotsofamerica.com/*
-*://*.unitesgppolice.com/*
 *://*.unitewiththedivine.com/*
 *://*.unitynewsnetwork.co.uk/*
 *://*.universepolitics.com/*
@@ -3713,7 +3672,6 @@
 *://*.volksbetrug.net/*
 *://*.volksfront.net/*
 *://*.voltairenet.org/*
-*://*.volunteercadetcorps.org/*
 *://*.volyn-news.ru/*
 *://*.volzhskiy-news.ru/*
 *://*.votefraud.news/*
