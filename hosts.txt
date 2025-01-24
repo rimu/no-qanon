@@ -2394,6 +2394,8 @@
 0.0.0.0 www.fondationlejeune.org
 0.0.0.0 fondazionean.it
 0.0.0.0 www.fondazionean.it
+0.0.0.0 fondfbr.ru
+0.0.0.0 www.fondfbr.ru
 0.0.0.0 food.news
 0.0.0.0 www.food.news
 0.0.0.0 foodbabe.com

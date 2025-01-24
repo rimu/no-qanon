@@ -1196,6 +1196,7 @@ address=/folhadopovo.com/
 address=/folhapolitica.org/
 address=/fondationlejeune.org/
 address=/fondazionean.it/
+address=/fondfbr.ru/
 address=/food.news/
 address=/foodbabe.com/
 address=/foodforensics.com/
