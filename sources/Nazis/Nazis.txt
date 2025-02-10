@@ -6,6 +6,16 @@ die-rechte.net
 
 # Europe
 apfeurope.eu
+esn-party.eu
+hnutie-republika.sk
+hnutie-republika.sk
+wolnosc.pl
+www.parti-reconquete.fr
+www.spd.cz
+fvd.nl
+mihazank.hu
+vazrazhdane.bg
+tautateisingumas.lt
 
 # USA "I Hate Illinois Nazis."
 americannaziparty.com
