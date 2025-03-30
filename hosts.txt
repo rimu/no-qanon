@@ -590,8 +590,6 @@
 0.0.0.0 www.austriacc.org
 0.0.0.0 authentication.win
 0.0.0.0 www.authentication.win
-0.0.0.0 autismspeaks.org
-0.0.0.0 www.autismspeaks.org
 0.0.0.0 automaticearth.com
 0.0.0.0 www.automaticearth.com
 0.0.0.0 autonom.pl
@@ -1008,8 +1006,6 @@
 0.0.0.0 www.cancercontrolsociety.org
 0.0.0.0 cancertutor.com
 0.0.0.0 www.cancertutor.com
-0.0.0.0 cantaloupekids.com
-0.0.0.0 www.cantaloupekids.com
 0.0.0.0 cantcloseamerica.com
 0.0.0.0 www.cantcloseamerica.com
 0.0.0.0 cap-news.com
@@ -1736,8 +1732,6 @@
 0.0.0.0 www.departed.co
 0.0.0.0 der-dritte-weg.info
 0.0.0.0 www.der-dritte-weg.info
-0.0.0.0 destructivecreations.com
-0.0.0.0 www.destructivecreations.com
 0.0.0.0 desuarchive.org
 0.0.0.0 www.desuarchive.org
 0.0.0.0 detox.news
@@ -3070,10 +3064,6 @@
 0.0.0.0 www.humansarefree.com
 0.0.0.0 humansbefree.com
 0.0.0.0 www.humansbefree.com
-0.0.0.0 huniepot.com
-0.0.0.0 www.huniepot.com
-0.0.0.0 huniepot.tumblr.com
-0.0.0.0 www.huniepot.tumblr.com
 0.0.0.0 hypnosetherapie-asmr.com
 0.0.0.0 www.hypnosetherapie-asmr.com
 0.0.0.0 iaysp-france.fr
@@ -3606,10 +3596,6 @@
 0.0.0.0 www.krystaltini.com
 0.0.0.0 kuklosknights.com
 0.0.0.0 www.kuklosknights.com
-0.0.0.0 kukuruyo.com
-0.0.0.0 www.kukuruyo.com
-0.0.0.0 kukuruyoart.deviantart.com
-0.0.0.0 www.kukuruyoart.deviantart.com
 0.0.0.0 kunstler.com
 0.0.0.0 www.kunstler.com
 0.0.0.0 kyle-chapman.blogspot.com
@@ -4492,8 +4478,6 @@
 0.0.0.0 www.nexusnewsfeed.com
 0.0.0.0 nfarage.com
 0.0.0.0 www.nfarage.com
-0.0.0.0 nichegamer.com
-0.0.0.0 www.nichegamer.com
 0.0.0.0 nicholasjfuentes.com
 0.0.0.0 www.nicholasjfuentes.com
 0.0.0.0 nickv.live
@@ -5044,8 +5028,6 @@
 0.0.0.0 www.planetlockdownfilm.com
 0.0.0.0 platosguns.com
 0.0.0.0 www.platosguns.com
-0.0.0.0 play-asia.com
-0.0.0.0 www.play-asia.com
 0.0.0.0 pnr.pt
 0.0.0.0 www.pnr.pt
 0.0.0.0 poal.co
@@ -6444,8 +6426,6 @@
 0.0.0.0 www.thegatewaypundit.com
 0.0.0.0 thegesaraclub.com
 0.0.0.0 www.thegesaraclub.com
-0.0.0.0 thegg.net
-0.0.0.0 www.thegg.net
 0.0.0.0 theglobalwarmingskeptics.com
 0.0.0.0 www.theglobalwarmingskeptics.com
 0.0.0.0 thegoldandoilguy.com
@@ -7394,8 +7374,6 @@
 0.0.0.0 www.wariscrime.com
 0.0.0.0 warmalglobing.com
 0.0.0.0 www.warmalglobing.com
-0.0.0.0 warmongrels.com
-0.0.0.0 www.warmongrels.com
 0.0.0.0 waronfakes.com
 0.0.0.0 www.waronfakes.com
 0.0.0.0 warriorcode.us
