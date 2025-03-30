@@ -1,1 +1,0 @@
-Disability discrimination, eugenics, etc.
