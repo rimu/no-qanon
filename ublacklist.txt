@@ -64,6 +64,7 @@
 *://*.a4justice.org/*
 *://*.aanirfan.blogspot.co.uk/*
 *://*.aanirfan.blogspot.com/*
+*://*.aargau-zuerich.ch/*
 *://*.aarondoughty.com/*
 *://*.abcnews.com.co/*
 *://*.abcnewsgo.co/*
@@ -73,6 +74,7 @@
 *://*.aboutthesky.com/*
 *://*.abovetopsecret.com/*
 *://*.abriluno.com/*
+*://*.abrogationloicovid.ch/*
 *://*.academyofideas.com/*
 *://*.acallforanuprising.com/*
 *://*.aceflashman.wordpress.com/*
@@ -80,6 +82,7 @@
 *://*.action-zealandia.com/*
 *://*.action.larouchepac.com/*
 *://*.actionfrancaise.net/*
+*://*.actions-suisse.ch/*
 *://*.activistpost.com/*
 *://*.adalightfoot.org/*
 *://*.adelaideinstitute.org/*
@@ -94,7 +97,41 @@
 *://*.ae911truth.org/*
 *://*.aerztefueraufklaerung.de/*
 *://*.af4abb8de2579b191fc3f18c1bdc444c.com/*
+*://*.afd-brandenburg.de/*
+*://*.afd-bremen.de/*
+*://*.afd-bw.de/*
+*://*.afd-fanshop.de/*
+*://*.afd-fraktion-brandenburg.de/*
+*://*.afd-fraktion-bw.de/*
+*://*.afd-fraktion-hamburg.de/*
+*://*.afd-fraktion-hessen.de/*
+*://*.afd-fraktion-mv.de/*
+*://*.afd-fraktion-sachsen.de/*
+*://*.afd-fraktion.berlin/*
+*://*.afd-fraktion.nrw/*
+*://*.afd-fraktion.saarland/*
+*://*.afd-gruppe-sh.de/*
+*://*.afd-hamburg.de/*
+*://*.afd-hessen.de/*
+*://*.afd-landtag.bayern/*
+*://*.afd-landtagsfraktion-niedersachsen.de/*
+*://*.afd-lsa.de/*
+*://*.afd-mv.de/*
+*://*.afd-niedersachsen.de/*
+*://*.afd-rlp-fraktion.de/*
+*://*.afd-sh.de/*
+*://*.afd-thl.de/*
+*://*.afd-thueringen.de/*
+*://*.afd.berlin/*
 *://*.afd.de/*
+*://*.afd.nrw/*
+*://*.afd.saarland/*
+*://*.afd.tv/*
+*://*.afdbayern.de/*
+*://*.afdbundestag.de/*
+*://*.afdfraktion-lsa.de/*
+*://*.afdkompakt.de/*
+*://*.afdsachsen.de/*
 *://*.affiliate.healthrangerstore.com/*
 *://*.affirmativeright.blogspot.com/*
 *://*.afinalwarning.com/*
@@ -116,12 +153,14 @@
 *://*.aimsib.org/*
 *://*.air-photo.com/*
 *://*.ajamubaraka.com/*
+*://*.aktionsbuendnis-ostschweiz.ch/*
 *://*.aktuelle-nachrichten.app/*
 *://*.alaindebenoist.com/*
 *://*.alalumieredunouveaumonde.blogspot.fr/*
 *://*.alchevsk-news.ru/*
 *://*.aleph.to/*
 *://*.alertatotal.net/*
+*://*.aletheia-scimed.ch/*
 *://*.alethonews.com/*
 *://*.alexbloodfire.com/*
 *://*.alexishaupt.fr/*
@@ -148,6 +187,7 @@
 *://*.altcensored.com/*
 *://*.alterinfo.net/*
 *://*.alternative-cancer-care.com/*
+*://*.alternative-rlp.de/*
 *://*.alternativemediasyndicate.com/*
 *://*.alternativenews.com/*
 *://*.alternativeright.com/*
@@ -288,6 +328,7 @@
 *://*.attackthesystem.com/*
 *://*.attn.com/*
 *://*.auf1.eu/*
+*://*.aufrecht-schweiz.ch/*
 *://*.aulis.com/*
 *://*.aum-internet.org/*
 *://*.auroraray.com/*
@@ -474,6 +515,7 @@
 *://*.bubble.news/*
 *://*.buchanan.org/*
 *://*.budesonideworks.com/*
+*://*.buergerforum-schweiz.com/*
 *://*.bullionbullscanada.com/*
 *://*.burningbright.substack.com/*
 *://*.businessbourse.com/*
@@ -726,6 +768,7 @@
 *://*.coreysdigs.com/*
 *://*.corona-aufklaerung.tv/*
 *://*.corona-ausschuss.de/*
+*://*.corona-transition.org/*
 *://*.coronanews123.wordpress.com/*
 *://*.correiodopoder.com/*
 *://*.corruption.news/*
@@ -979,6 +1022,18 @@
 *://*.edgeofwonder.tv/*
 *://*.editions-voxgallia.fr/*
 *://*.editionsmagnus.fr/*
+*://*.edu-ag.ch/*
+*://*.edu-ar.ch/*
+*://*.edu-baselland.ch/*
+*://*.edu-be.ch/*
+*://*.edu-bs.ch/*
+*://*.edu-fr.ch/*
+*://*.edu-gr.ch/*
+*://*.edu-schweiz.ch/*
+*://*.edu-sg.ch/*
+*://*.edu-sh.ch/*
+*://*.edu-tg.ch/*
+*://*.edu-zh.ch/*
 *://*.educate-yourself.org/*
 *://*.educationpourlebiendesenfants.fr/*
 *://*.eesystem.com/*
@@ -1061,6 +1116,7 @@
 *://*.es-learnfalungong.com/*
 *://*.es.news-front.info/*
 *://*.es.theepochtimes.com/*
+*://*.esn-party.eu/*
 *://*.esprits-libres.fr/*
 *://*.espritsciencemetaphysiques.com/*
 *://*.essay.app/*
@@ -1192,6 +1248,7 @@
 *://*.fluoridedangers.blogspot.com/*
 *://*.fluorideexposed.org/*
 *://*.fluoridefreeaustin.com/*
+*://*.flyer-ueberall.ch/*
 *://*.flyheight.com/*
 *://*.flyoverconservatives.com/*
 *://*.flywithpatriotism.com/*
@@ -1299,6 +1356,7 @@
 *://*.freewestmedia.com/*
 *://*.freeworldnews.tv/*
 *://*.freeyourmindaz.com/*
+*://*.freiekmu.ch/*
 *://*.freiewelt.net/*
 *://*.frenlyfrens.com/*
 *://*.freresdissidents.com/*
@@ -1310,6 +1368,8 @@
 *://*.frontnational.com/*
 *://*.frontpagemag.com/*
 *://*.frontpopulaire.fr/*
+*://*.fruehling2020.com/*
+*://*.fuer-gerechtigkeit.ch/*
 *://*.fukushimawatch.com/*
 *://*.fulcrumnews.com/*
 *://*.fullchan.net/*
@@ -1317,6 +1377,7 @@
 *://*.furtherglory.wordpress.com/*
 *://*.fusionliebe.com/*
 *://*.futurenews.news/*
+*://*.fvd.nl/*
 *://*.fwu.nl/*
 *://*.g01.upf.org/*
 *://*.g2church239.org/*
@@ -1430,6 +1491,7 @@
 *://*.grandmageri422.me/*
 *://*.grandtheftworld.com/*
 *://*.grassrootsliberty.com/*
+*://*.graswurzle.ch/*
 *://*.greanvillepost.com/*
 *://*.great-awakening.org/*
 *://*.greataustralianparty.com.au/*
@@ -1445,6 +1507,7 @@
 *://*.grftr.news/*
 *://*.grrrgraphics.com/*
 *://*.grrrgraphics.wordpress.com/*
+*://*.grundrechte-ja.ch/*
 *://*.guardianlv.com/*
 *://*.guccifer2.wordpress.com/*
 *://*.guidesblog.org/*
@@ -1491,6 +1554,7 @@
 *://*.heavy.com/*
 *://*.heliogenic.net/*
 *://*.help.wizardingworld.com/*
+*://*.helvethica-ticino.ch/*
 *://*.hempscience.news/*
 *://*.henrymakow.com/*
 *://*.herbreference.com/*
@@ -1508,6 +1572,7 @@
 *://*.historyreviewed.com/*
 *://*.hitler.rocks/*
 *://*.hive.blog/*
+*://*.hnutie-republika.sk/*
 *://*.ho1.us/*
 *://*.hobsonspledge.nz/*
 *://*.hocphapluancong.com/*
@@ -1575,6 +1640,7 @@
 *://*.immunitywars.com/*
 *://*.imoparty.com/*
 *://*.imperialklansofamerica.com/*
+*://*.impfentscheid.ch/*
 *://*.impiousdigest.com/*
 *://*.implicante.org/*
 *://*.in-storyletter.com/*
@@ -1672,6 +1738,7 @@
 *://*.jbs.org/*
 *://*.jeanmarielepen.com/*
 *://*.jeanrobinmedia.wordpress.com/*
+*://*.jedu.ch/*
 *://*.jeffreyprather.com/*
 *://*.jellyfish.news/*
 *://*.jennifermarohasy.com/*
@@ -1773,6 +1840,7 @@
 *://*.khmelnitskiy-news.ru/*
 *://*.killstream.live/*
 *://*.kimiversen.com/*
+*://*.kinderschutzinitiative.ch/*
 *://*.kindlywakethehellup.wordpress.com/*
 *://*.kingidentity.com/*
 *://*.kingof.uk/*
@@ -1793,6 +1861,7 @@
 *://*.kolozeg.org/*
 *://*.kolyma.net/*
 *://*.kolyma.org/*
+*://*.kontrafunk.radio/*
 *://*.kopp-verlag.de/*
 *://*.kotakuinaction.win/*
 *://*.kotakuinaction2.win/*
@@ -1854,9 +1923,11 @@
 *://*.lecourrierdesstrateges.fr/*
 *://*.lecrayongroupe.fr/*
 *://*.lecrayonmedia.fr/*
+*://*.lectronslibres.ch/*
 *://*.leftlockdownsceptics.com/*
 *://*.legalinsurrection.com/*
 *://*.legitgov.org/*
+*://*.lehrernetzwerk-schweiz.ch/*
 *://*.lejdd.fr/*
 *://*.lejeune-academie.com/*
 *://*.lelibrepenseur.org/*
@@ -2013,8 +2084,10 @@
 *://*.marypatriotnews.com/*
 *://*.maskoffmn.org/*
 *://*.masksoffusa.com/*
+*://*.mass-voll.ch/*
 *://*.massawakening.org/*
 *://*.massimointrovigne.com/*
+*://*.massnahmen-nein.ch/*
 *://*.mattchristiansenmedia.com/*
 *://*.mattforney.com/*
 *://*.matthias331.wordpress.com/*
@@ -2072,6 +2145,7 @@
 *://*.midiasemmascara.org/*
 *://*.midwestpatriotcoalition.com/*
 *://*.migrants.news/*
+*://*.mihazank.hu/*
 *://*.mikehulme.org/*
 *://*.mikhailapeterson.com/*
 *://*.mileswmathis.com/*
@@ -2114,6 +2188,7 @@
 *://*.morpheus.fr/*
 *://*.motherofpeace.com/*
 *://*.motls.blogspot.com/*
+*://*.mouvement-federatif-romand.ch/*
 *://*.movcivitas.pt/*
 *://*.mp-tube.de/*
 *://*.mpcdot.com/*
@@ -2124,6 +2199,7 @@
 *://*.msnbc.website/*
 *://*.mstdn.foxfam.club/*
 *://*.murderbydecree.com/*
+*://*.murielbagnoud.com/*
 *://*.musicians4freedom.com/*
 *://*.mydailyrelaxation.com/*
 *://*.myfreshnews.com/*
@@ -2711,6 +2787,7 @@
 *://*.readconservatives.news/*
 *://*.readynutrition.com/*
 *://*.reagancoalition.com/*
+*://*.reaktion.org/*
 *://*.realchrissky.com/*
 *://*.realclimatescience.com/*
 *://*.realfarmacy.com/*
@@ -2833,6 +2910,7 @@
 *://*.rothbardbrasil.com/*
 *://*.rovno-news.ru/*
 *://*.roxytube.com/*
+*://*.rphlr.ch/*
 *://*.rr-bb.com/*
 *://*.rr-conspiracy-truth.blogspot.com/*
 *://*.rsbnetwork.com/*
@@ -3000,6 +3078,7 @@
 *://*.soyjak.party/*
 *://*.soyjak.wiki/*
 *://*.spartiates.gr/*
+*://*.spd.cz/*
 *://*.speakingaboutnews.com/*
 *://*.speakyourmindhere.com/*
 *://*.spearhead.co.uk/*
@@ -3043,6 +3122,7 @@
 *://*.stewpeters.com/*
 *://*.stewpeters.tv/*
 *://*.stgeorgewest.blogspot.com/*
+*://*.stillerprotest.ch/*
 *://*.stillnessinthestorm.com/*
 *://*.stj911.org/*
 *://*.stonepetition.com/*
@@ -3119,6 +3199,7 @@
 *://*.tapnewswire.com/*
 *://*.tarpley.net/*
 *://*.tass.com/*
+*://*.tautateisingumas.lt/*
 *://*.taxpayers.org.nz/*
 *://*.taylerusa.com/*
 *://*.tcmhijacked.blogspot.com/*
@@ -3515,6 +3596,12 @@
 *://*.tyranny.news/*
 *://*.tyuuta1.com/*
 *://*.ubitea.com/*
+*://*.udf-be.ch/*
+*://*.udf-fr.ch/*
+*://*.udf-ge.ch/*
+*://*.udf-suisse.ch/*
+*://*.udf-ticino.ch/*
+*://*.udf-vd.ch/*
 *://*.ufoholic.com/*
 *://*.ufoshit.com/*
 *://*.ugetube.com/*
@@ -3564,6 +3651,7 @@
 *://*.upfrontintheprophetic.com/*
 *://*.upr.fr/*
 *://*.uprootedpalestinians.wordpress.com/*
+*://*.ur-kantone.ch/*
 *://*.usa.life/*
 *://*.usa2016elections.com/*
 *://*.usadailypolitics.com/*
@@ -3621,11 +3709,13 @@
 *://*.vaxxchoice.com/*
 *://*.vaxxed2.com/*
 *://*.vaxxedthemovie.com/*
+*://*.vazrazhdane.bg/*
 *://*.vdare.com/*
 *://*.veilofreality.com/*
 *://*.venezuelanalysis.com/*
 *://*.vereinigungskirche.at/*
 *://*.verenigingsbeweging.nl/*
+*://*.verfassungsfreunde.ch/*
 *://*.veritecachee.fr/*
 *://*.veriteouconsequence.com/*
 *://*.verity-france.org/*
@@ -3795,6 +3885,7 @@
 *://*.winteroak.org.uk/*
 *://*.winterwatch.net/*
 *://*.winteryknight.com/*
+*://*.wir-lieben-deutschland.de/*
 *://*.wisconsinoathkeepers.org/*
 *://*.wizardingworld.com/*
 *://*.wizardingworld.warnerbros.fr/*
@@ -3803,6 +3894,7 @@
 *://*.wokesocieties.com/*
 *://*.wokesocieties.tv/*
 *://*.wolfstreet.com/*
+*://*.wolnosc.pl/*
 *://*.womansplaceuk.org/*
 *://*.womensdeclaration.com/*
 *://*.womensdeclaration.org/*
@@ -3876,6 +3968,7 @@
 *://*.zerohedge.com/*
 *://*.zeromacho.fr/*
 *://*.zeromacho.wordpress.com/*
+*://*.zertifikatsfreie-bildung.ch/*
 *://*.zhitomir-news.ru/*
 *://*.zimm3rmann.com/*
 *://*.zionutdatit.org.il/*

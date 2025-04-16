@@ -14,7 +14,6 @@ edu-fr.ch
 udf-suisse.ch
 edu-be.ch
 udf-be.ch
-edu-schweiz.ch
 edu-baselland.ch
 edu-bs.ch
 edu-ag.ch
@@ -47,7 +46,7 @@ animap.ch
 reaktion.org
 zertifikatsfreie-bildung.ch
 aktionsbuendnis-ostschweiz.ch
-corona-transition.org/
+corona-transition.org
 aletheia-scimed.ch
 freiekmu.ch
 aargau-zuerich.ch
