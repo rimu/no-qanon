@@ -2168,6 +2168,8 @@
 0.0.0.0 www.everythingnewdaily.com
 0.0.0.0 eviemagazine.com
 0.0.0.0 www.eviemagazine.com
+0.0.0.0 evol.news
+0.0.0.0 www.evol.news
 0.0.0.0 evolutionaryleaps.com
 0.0.0.0 www.evolutionaryleaps.com
 0.0.0.0 evolveconsciousness.org
@@ -4422,6 +4424,8 @@
 0.0.0.0 www.news.yuga.com
 0.0.0.0 news4ktla.com
 0.0.0.0 www.news4ktla.com
+0.0.0.0 newsaddicts.com
+0.0.0.0 www.newsaddicts.com
 0.0.0.0 newsbbc.net
 0.0.0.0 www.newsbbc.net
 0.0.0.0 newsbusters.org
@@ -5376,6 +5380,8 @@
 0.0.0.0 www.randpaulreview.com
 0.0.0.0 rantingly.com
 0.0.0.0 www.rantingly.com
+0.0.0.0 raptornews.com
+0.0.0.0 www.raptornews.com
 0.0.0.0 raptureforums.com
 0.0.0.0 www.raptureforums.com
 0.0.0.0 raptureready.com

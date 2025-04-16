@@ -1090,6 +1090,7 @@
 ||everydayworldnews.com^
 ||everythingnewdaily.com^
 ||eviemagazine.com^
+||evol.news^
 ||evolutionaryleaps.com^
 ||evolveconsciousness.org^
 ||evovod.com^
@@ -2217,6 +2218,7 @@
 ||news.thetrumptimes.com^
 ||news.yuga.com^
 ||news4ktla.com^
+||newsaddicts.com^
 ||newsbbc.net^
 ||newsbusters.org^
 ||newsbuzzdaily.com^
@@ -2694,6 +2696,7 @@
 ||randpaul.news^
 ||randpaulreview.com^
 ||rantingly.com^
+||raptornews.com^
 ||raptureforums.com^
 ||raptureready.com^
 ||rassemblementnational.fr^
