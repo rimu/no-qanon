@@ -301,7 +301,6 @@
 *://*.australiaoneparty.com/*
 *://*.austriacc.org/*
 *://*.authentication.win/*
-*://*.autismspeaks.org/*
 *://*.automaticearth.com/*
 *://*.autonom.pl/*
 *://*.avenoel.org/*
@@ -510,7 +509,6 @@
 *://*.cancer.news/*
 *://*.cancercontrolsociety.org/*
 *://*.cancertutor.com/*
-*://*.cantaloupekids.com/*
 *://*.cantcloseamerica.com/*
 *://*.cap-news.com/*
 *://*.capitalcityproudboys.com/*
@@ -874,7 +872,6 @@
 *://*.denverguardian.com/*
 *://*.departed.co/*
 *://*.der-dritte-weg.info/*
-*://*.destructivecreations.com/*
 *://*.desuarchive.org/*
 *://*.detox.news/*
 *://*.deutsche-wirtschafts-nachrichten.de/*
@@ -1541,8 +1538,6 @@
 *://*.humanitad.org/*
 *://*.humansarefree.com/*
 *://*.humansbefree.com/*
-*://*.huniepot.com/*
-*://*.huniepot.tumblr.com/*
 *://*.hypnosetherapie-asmr.com/*
 *://*.iaysp-france.fr/*
 *://*.iaysp.org/*
@@ -1809,8 +1804,6 @@
 *://*.krivoy-rog-news.ru/*
 *://*.krystaltini.com/*
 *://*.kuklosknights.com/*
-*://*.kukuruyo.com/*
-*://*.kukuruyoart.deviantart.com/*
 *://*.kunstler.com/*
 *://*.kyle-chapman.blogspot.com/*
 *://*.l00kinglass.com/*
@@ -2252,7 +2245,6 @@
 *://*.nextnewsmedia.com/*
 *://*.nexusnewsfeed.com/*
 *://*.nfarage.com/*
-*://*.nichegamer.com/*
 *://*.nicholasjfuentes.com/*
 *://*.nickv.live/*
 *://*.nickv.tv/*
@@ -2528,7 +2520,6 @@
 *://*.planetes360.fr/*
 *://*.planetlockdownfilm.com/*
 *://*.platosguns.com/*
-*://*.play-asia.com/*
 *://*.pnr.pt/*
 *://*.poal.co/*
 *://*.poast.tv/*
@@ -3228,7 +3219,6 @@
 *://*.thefrognewsnetwork.com/*
 *://*.thegatewaypundit.com/*
 *://*.thegesaraclub.com/*
-*://*.thegg.net/*
 *://*.theglobalwarmingskeptics.com/*
 *://*.thegoldandoilguy.com/*
 *://*.thegoldwater.com/*
@@ -3703,7 +3693,6 @@
 *://*.warband.wordpress.com/*
 *://*.wariscrime.com/*
 *://*.warmalglobing.com/*
-*://*.warmongrels.com/*
 *://*.waronfakes.com/*
 *://*.warriorcode.us/*
 *://*.warriorswaycombatives.com/*
