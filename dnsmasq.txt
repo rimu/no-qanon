@@ -520,6 +520,7 @@ address=/bvanews.com/
 address=/bvoltaire.fr/
 address=/bytesrc.com/
 address=/c-vine.com/
+address=/c19early.com/
 address=/c19ivermectin.com/
 address=/c19vaxreactions.com/
 address=/c4id.org.uk/

@@ -1042,6 +1042,8 @@
 0.0.0.0 www.bytesrc.com
 0.0.0.0 c-vine.com
 0.0.0.0 www.c-vine.com
+0.0.0.0 c19early.com
+0.0.0.0 www.c19early.com
 0.0.0.0 c19ivermectin.com
 0.0.0.0 www.c19ivermectin.com
 0.0.0.0 c19vaxreactions.com

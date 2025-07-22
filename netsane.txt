@@ -520,6 +520,7 @@
 "*://*.bvoltaire.fr/*",
 "*://*.bytesrc.com/*",
 "*://*.c-vine.com/*",
+"*://*.c19early.com/*",
 "*://*.c19ivermectin.com/*",
 "*://*.c19vaxreactions.com/*",
 "*://*.c4id.org.uk/*",
