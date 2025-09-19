@@ -157,6 +157,7 @@
 ||aktuelle-nachrichten.app^
 ||alaindebenoist.com^
 ||alalumieredunouveaumonde.blogspot.fr^
+||albertaseparatist.com^
 ||alchevsk-news.ru^
 ||aleph.to^
 ||alertatotal.net^
@@ -175,6 +176,7 @@
 ||alliancevita.org^
 ||allnewspipeline.com^
 ||allosante.eu^
+||allstatesnews.us^
 ||allunreal.com^
 ||almightywind.com^
 ||alpenparlament.com^
@@ -554,6 +556,7 @@
 ||cancertutor.com^
 ||cantcloseamerica.com^
 ||cap-news.com^
+||capitalcitydaily.com^
 ||capitalcityproudboys.com^
 ||capitalism.org^
 ||capitalistexploits.at^
@@ -666,6 +669,7 @@
 ||claudereichman.com^
 ||cleanwater.news^
 ||clearnewswire.com^
+||clearstory.news^
 ||cleverjourneys.com^
 ||climate-resistance.org^
 ||climate-skeptic.com^
@@ -1241,6 +1245,7 @@
 ||flatearthfc.com^
 ||flatearthscience.org^
 ||flccc.net^
+||fldaily.news^
 ||flemingmethod.com^
 ||floraisons.blog^
 ||floridasunpost.com^
@@ -3036,6 +3041,7 @@
 ||silority.com^
 ||silver-coin-investor.com^
 ||silverbearcafe.com^
+||silvercity.news^
 ||silverdoctors.com^
 ||silverstealers.net^
 ||silview.media^
@@ -3481,6 +3487,7 @@
 ||toresaid.com^
 ||toresays.com^
 ||toronto99.com^
+||torontojournal.ca^
 ||totaldisclosure.net^
 ||totalrestitution.com^
 ||townhall.com^
@@ -3673,6 +3680,7 @@
 ||usareally.com^
 ||usascan.com^
 ||usasupreme.com^
+||usatimes.news^
 ||usatwentyfour.com^
 ||usawatchdog.com^
 ||uschronicle.com^
@@ -3927,6 +3935,7 @@
 ||wsbets.win^
 ||wtoe5news.com^
 ||wuwox.com^
+||wval.news.^
 ||wwg1wga.com^
 ||wwg1wga.design.blog^
 ||wwg1wga.martingeddes.com^

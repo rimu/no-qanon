@@ -302,6 +302,8 @@
 0.0.0.0 www.alaindebenoist.com
 0.0.0.0 alalumieredunouveaumonde.blogspot.fr
 0.0.0.0 www.alalumieredunouveaumonde.blogspot.fr
+0.0.0.0 albertaseparatist.com
+0.0.0.0 www.albertaseparatist.com
 0.0.0.0 alchevsk-news.ru
 0.0.0.0 www.alchevsk-news.ru
 0.0.0.0 aleph.to
@@ -338,6 +340,8 @@
 0.0.0.0 www.allnewspipeline.com
 0.0.0.0 allosante.eu
 0.0.0.0 www.allosante.eu
+0.0.0.0 allstatesnews.us
+0.0.0.0 www.allstatesnews.us
 0.0.0.0 allunreal.com
 0.0.0.0 www.allunreal.com
 0.0.0.0 almightywind.com
@@ -1096,6 +1100,8 @@
 0.0.0.0 www.cantcloseamerica.com
 0.0.0.0 cap-news.com
 0.0.0.0 www.cap-news.com
+0.0.0.0 capitalcitydaily.com
+0.0.0.0 www.capitalcitydaily.com
 0.0.0.0 capitalcityproudboys.com
 0.0.0.0 www.capitalcityproudboys.com
 0.0.0.0 capitalism.org
@@ -1320,6 +1326,8 @@
 0.0.0.0 www.cleanwater.news
 0.0.0.0 clearnewswire.com
 0.0.0.0 www.clearnewswire.com
+0.0.0.0 clearstory.news
+0.0.0.0 www.clearstory.news
 0.0.0.0 cleverjourneys.com
 0.0.0.0 www.cleverjourneys.com
 0.0.0.0 climate-resistance.org
@@ -2470,6 +2478,8 @@
 0.0.0.0 www.flatearthscience.org
 0.0.0.0 flccc.net
 0.0.0.0 www.flccc.net
+0.0.0.0 fldaily.news
+0.0.0.0 www.fldaily.news
 0.0.0.0 flemingmethod.com
 0.0.0.0 www.flemingmethod.com
 0.0.0.0 floraisons.blog
@@ -6060,6 +6070,8 @@
 0.0.0.0 www.silver-coin-investor.com
 0.0.0.0 silverbearcafe.com
 0.0.0.0 www.silverbearcafe.com
+0.0.0.0 silvercity.news
+0.0.0.0 www.silvercity.news
 0.0.0.0 silverdoctors.com
 0.0.0.0 www.silverdoctors.com
 0.0.0.0 silverstealers.net
@@ -6950,6 +6962,8 @@
 0.0.0.0 www.toresays.com
 0.0.0.0 toronto99.com
 0.0.0.0 www.toronto99.com
+0.0.0.0 torontojournal.ca
+0.0.0.0 www.torontojournal.ca
 0.0.0.0 totaldisclosure.net
 0.0.0.0 www.totaldisclosure.net
 0.0.0.0 totalrestitution.com
@@ -7334,6 +7348,8 @@
 0.0.0.0 www.usascan.com
 0.0.0.0 usasupreme.com
 0.0.0.0 www.usasupreme.com
+0.0.0.0 usatimes.news
+0.0.0.0 www.usatimes.news
 0.0.0.0 usatwentyfour.com
 0.0.0.0 www.usatwentyfour.com
 0.0.0.0 usawatchdog.com
@@ -7842,6 +7858,8 @@
 0.0.0.0 www.wtoe5news.com
 0.0.0.0 wuwox.com
 0.0.0.0 www.wuwox.com
+0.0.0.0 wval.news.
+0.0.0.0 www.wval.news.
 0.0.0.0 wwg1wga.com
 0.0.0.0 www.wwg1wga.com
 0.0.0.0 wwg1wga.design.blog
