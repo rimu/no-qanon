@@ -528,6 +528,7 @@
 "*://*.braintuner.com/*",
 "*://*.brandnewtube.com/*",
 "*://*.bransontimes.com/*",
+"*://*.brasilparalelo.com.br/*",
 "*://*.bravetruth.org/*",
 "*://*.breaking911.com/*",
 "*://*.breakingviewsnz.blogspot.com/*",

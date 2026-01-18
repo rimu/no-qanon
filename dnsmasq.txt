@@ -528,6 +528,7 @@ address=/brain.foodrevolution.org/
 address=/braintuner.com/
 address=/brandnewtube.com/
 address=/bransontimes.com/
+address=/brasilparalelo.com.br/
 address=/bravetruth.org/
 address=/breaking911.com/
 address=/breakingviewsnz.blogspot.com/

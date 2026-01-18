@@ -1058,6 +1058,8 @@
 0.0.0.0 www.brandnewtube.com
 0.0.0.0 bransontimes.com
 0.0.0.0 www.bransontimes.com
+0.0.0.0 brasilparalelo.com.br
+0.0.0.0 www.brasilparalelo.com.br
 0.0.0.0 bravetruth.org
 0.0.0.0 www.bravetruth.org
 0.0.0.0 breaking911.com
