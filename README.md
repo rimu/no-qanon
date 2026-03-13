@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=rimu&project=no-qanon&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=rimu&project=no-qanon&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=rimu&project=no-qanon&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=rimu&project=no-qanon&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=rimu&project=no-qanon&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=rimu&project=no-qanon&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=rimu&project=no-qanon&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=rimu&project=no-qanon&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=rimu&project=no-qanon&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=rimu&project=no-qanon&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=rimu&project=no-qanon&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=rimu&project=no-qanon&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=rimu&project=no-qanon&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=rimu&project=no-qanon&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=rimu&project=no-qanon&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=rimu&project=no-qanon&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=rimu&project=no-qanon&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=rimu&project=no-qanon&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=rimu&project=no-qanon&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=rimu&project=no-qanon&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=rimu&project=no-qanon&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 # No-QAnon
 
 An anti-fascist domains blocklist of QAnon, conspiracy, fake news, far-right and discriminatory websites.
