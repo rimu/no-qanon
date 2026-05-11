@@ -1337,7 +1337,6 @@
 ||europaeische-aktion.org^
 ||europathelastbattle.net^
 ||europe-israel.org^
-||europe.infowars.com^
 ||europe1.fr^
 ||europeannationalfront.org^
 ||europereloaded.com^
@@ -1940,7 +1939,6 @@
 ||infos-bordeaux.fr^
 ||infosmaintenant.net^
 ||infostormer.com^
-||infowars.com^
 ||infowarsads.com^
 ||infowarsdata.com^
 ||infowarsjobs.com^
@@ -3606,7 +3604,6 @@
 ||saratogastandard.com^
 ||savannahstandard.com^
 ||savecalifornia.com^
-||saveinfowars.com^
 ||saverealnews.co.uk^
 ||savethemales.ca^
 ||saveusnow.org.uk^

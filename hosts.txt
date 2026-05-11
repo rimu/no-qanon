@@ -2662,8 +2662,6 @@
 0.0.0.0 www.europathelastbattle.net
 0.0.0.0 europe-israel.org
 0.0.0.0 www.europe-israel.org
-0.0.0.0 europe.infowars.com
-0.0.0.0 www.europe.infowars.com
 0.0.0.0 europe1.fr
 0.0.0.0 www.europe1.fr
 0.0.0.0 europeannationalfront.org
@@ -3868,8 +3866,6 @@
 0.0.0.0 www.infosmaintenant.net
 0.0.0.0 infostormer.com
 0.0.0.0 www.infostormer.com
-0.0.0.0 infowars.com
-0.0.0.0 www.infowars.com
 0.0.0.0 infowarsads.com
 0.0.0.0 www.infowarsads.com
 0.0.0.0 infowarsdata.com
@@ -7200,8 +7196,6 @@
 0.0.0.0 www.savannahstandard.com
 0.0.0.0 savecalifornia.com
 0.0.0.0 www.savecalifornia.com
-0.0.0.0 saveinfowars.com
-0.0.0.0 www.saveinfowars.com
 0.0.0.0 saverealnews.co.uk
 0.0.0.0 www.saverealnews.co.uk
 0.0.0.0 savethemales.ca
